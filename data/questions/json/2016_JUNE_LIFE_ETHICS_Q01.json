@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 25,
+    "question_number": 1,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      145,
+      1154,
+      1743,
+      3148
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 에 들어갈 진 술 로 가장 적절한 것은?\n윤 리 학 은 사 회 과 학 과 는 달리 어떻게 사는 것이 선한 것 인\n가 ?', 혹은 생태계 위 기 를 극 복 하기 위한 옮 은 방 안 은 무엇\n인 가 ?' 와 같은 규 범 적 질 문 에 대한 해 답 을 제 시 해 야 한다.\n그런데 근대 이후 다양한 문 화 에 대한 사 회 과 학적 관 심 이\n증 가 함에 따라 도 덕 규 범 과 관련된 문화적 사 실 들을 명확히\n기 술 하고 그러한 사 실 들 간의 인과 관 계 를 객 관 적 으로 설명\n하고자 하는 윤리학 등 장 하였다. 나는 이러한 윤 리 학 이\n| 캐고 쟁 각 한다.\n(0) 도덕 현 상 에 대한 가 치 중 립 적 설 명 의 중 요 성 을 간 과 하고 있다\n(3) 도덕 언 어 의 개념 분 석 과 도덕 논 중의 타당성 입 중 을 중 시 하고 있다\n(8) 도덕 원 리 의 정 립 보다 타 문 화 에 대한 이 해 가 중 요 함 을 간 괴 하고 있다\n@) 도덕 관 행 에 대한 기 술 보다 삶 의 문제 해 결 이 중 요 함 을 간 과 하고 있다\n6) 도덕 법 칙 이 시 공 을 초월한 보 편 타 딩 성 을 지녀야 함 을 강 조 하고 있다",
+    "stem": "에 들어갈 진 술 로 가장 적절한 것은?",
+    "passage": "윤 리 학 은 사 회 과 학 과 는 달리 어떻게 사는 것이 선한 것 인\n가 ?', 혹은 생태계 위 기 를 극 복 하기 위한 옮 은 방 안 은 무엇\n인 가 ?' 와 같은 규 범 적 질 문 에 대한 해 답 을 제 시 해 야 한다.\n그런데 근대 이후 다양한 문 화 에 대한 사 회 과 학적 관 심 이\n증 가 함에 따라 도 덕 규 범 과 관련된 문화적 사 실 들을 명확히\n기 술 하고 그러한 사 실 들 간의 인과 관 계 를 객 관 적 으로 설명\n하고자 하는 윤리학 등 장 하였다. 나는 이러한 윤 리 학 이\n| 캐고 쟁 각 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "도덕 현 상 에 대한 가 치 중 립 적 설 명 의 중 요 성 을 간 과 하고 있다"
+      },
+      {
+        "number": 2,
+        "text": "도덕 언 어 의 개념 분 석 과 도덕 논 중의 타당성 입 중 을 중 시 하고 있다"
+      },
+      {
+        "number": 3,
+        "text": "도덕 원 리 의 정 립 보다 타 문 화 에 대한 이 해 가 중 요 함 을 간 괴 하고 있다"
+      },
+      {
+        "number": 4,
+        "text": "도덕 관 행 에 대한 기 술 보다 삶 의 문제 해 결 이 중 요 함 을 간 과 하고 있다"
+      },
+      {
+        "number": 5,
+        "text": "도덕 법 칙 이 시 공 을 초월한 보 편 타 딩 성 을 지녀야 함 을 강 조 하고 있다"
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.811,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T111523",
+    "extracted_at": "2026-09-24T11:20:19+00:00",
+    "qa_flags": []
+  }
+}

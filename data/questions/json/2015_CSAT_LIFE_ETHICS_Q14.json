@@ -1,0 +1,76 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 23,
+    "question_number": 14,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      506,
+      2999,
+      2742
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. ( 가 ) 의 갑 , 을, 병 사 상 가 들 의 환경 윤리적 입 장 을 (나) 그림\n으로 표현할 때, &~)1) 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서\n있는 대로 고른 것은? [3 점 ]\n갑 : 단지 호모 사 피 엔 스 인 지 의 여 부 를 기 준 으로 도덕적\n고려 대 상 을 결 정 하는 것은 종 차 별 주의적 발 상 이다.\n쾌 고 감수 능 력 은 우 리 가 어떤 존 재 를 도 덕 적 으로\n고 려 할 지 여 부 를 판 가 름 하는 유일한 경 계 이다.\n을: 인 간 만이 생 각 하고 반 성 할 수 있는 존 재 이다. 따라서\n( 가 )| 자연 전 체 를 조망할 수 있는 인 간 은 자 신 의 이억 관 심 을\n초월한 새로운 의무, 즉 지구의 모든 존 재 에 대한\n의 무 를 자 신 에게 부 과 한다.\n병 : 우 리 는 인간 외에는 의 무 를 질 능 력 이 있는 다른 존 재 를\n알지 못한다. 인 간 은 다른 존 재 와 관련한 자 기 의 의 무 를\n이들 존 재 에 대한 의 무 로 혼 동 해서는 안 된다.\n< 범 례 >\n스 : 갑 만의 입장\n0: 을 만의 입장\n(나)\n6: 병 만의 입장\n21 =\n(보기 >\nㄱ . &: 이 성 이 없지만 감 각 을 지닌 존 재 도 도덕적 지 위 를 갖는다.\nㄴ . 8: 인 간 만의 이억 관 심 을 넘어선 탈 인간 중 심 주 의 가 요 청 된다.\nㄷ . 6: 인 간 은 인간 자 신 에 대해서만 직접적인 의 무 를 지닌다.\n2. 1: 석 물 은 내재적 가 치 가 아닌 수 단 적 가 치 를 지닌 존 재 이다.\n0) ㄱ , ㄴ (2) ㄱ , (3) ㄷ , 르\n(0) ㄱ , ㄴ , ㄷ (66) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들 의 환경 윤리적 입 장 을 (나) 그림 으로 표현할 때, &~)1) 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 단지 호모 사 피 엔 스 인 지 의 여 부 를 기 준 으로 도덕적\n고려 대 상 을 결 정 하는 것은 종 차 별 주의적 발 상 이다.\n쾌 고 감수 능 력 은 우 리 가 어떤 존 재 를 도 덕 적 으로\n고 려 할 지 여 부 를 판 가 름 하는 유일한 경 계 이다.\n을: 인 간 만이 생 각 하고 반 성 할 수 있는 존 재 이다. 따라서\n( 가 )| 자연 전 체 를 조망할 수 있는 인 간 은 자 신 의 이억 관 심 을\n초월한 새로운 의무, 즉 지구의 모든 존 재 에 대한\n의 무 를 자 신 에게 부 과 한다.\n병 : 우 리 는 인간 외에는 의 무 를 질 능 력 이 있는 다른 존 재 를\n알지 못한다. 인 간 은 다른 존 재 와 관련한 자 기 의 의 무 를\n이들 존 재 에 대한 의 무 로 혼 동 해서는 안 된다.\n< 범 례 >\n스 : 갑 만의 입장\n0: 을 만의 입장\n(나)\n6: 병 만의 입장\n21 =\n(보기 >\nㄱ . &: 이 성 이 없지만 감 각 을 지닌 존 재 도 도덕적 지 위 를 갖는다.\nㄴ . 8: 인 간 만의 이억 관 심 을 넘어선 탈 인간 중 심 주 의 가 요 청 된다.\nㄷ . 6: 인 간 은 인간 자 신 에 대해서만 직접적인 의 무 를 지닌다.\n2. 1: 석 물 은 내재적 가 치 가 아닌 수 단 적 가 치 를 지닌 존 재 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ,"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄴ , ㄷ"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=133",
+      "vector_lines=294"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.893,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:20+00:00",
+    "qa_flags": []
+  }
+}

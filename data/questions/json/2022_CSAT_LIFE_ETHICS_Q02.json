@@ -1,0 +1,73 @@
+{
+  "id": "2022_CSAT_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 105,
+    "question_number": 2,
+    "exam_key": "2022_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      2347,
+      1742,
+      3558
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_CSAT_LIFE_ETHICS_Q02.png",
+    "raw_text": "ㆍ 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]\n갑 ： 이 름 을 바 로 잡는 것 1&]9| 정 치 의 시 작 이다. 이 름 이 제대로\n서지 않으니 예 악 이 흥 성 하지 않고, 예 악 이 흥 성 하지 않으\n형 벌 이 제멋대로 된다.\n을: 도 ( 폴 ) 는 자 연 스 러 움 을 본 받는다. 인위적인 것을 강제\n해서는 안 된다. 내 버 려 두면 백 성 들이 스스로 잘 살게 되고\n세 상 도 잘 돌 아 간 다.\n1 갑 : 인 간 이 제 정 한 규 범 에서 벗어나 무 위 (068@) 를 추 구 해 야 한다.\n2) 갑 : 내가 하기 싫은 일 을 남 에게 시키지 않는 서 (8) 를 행해야 한다.\n을 : 자 신 의 직 분 과 지 위 에 걸 맞 는 예 법 을 충실히 따라야 한다.\n9) 을 : 시 비 선 악 ( 롱 카 좀 플 ) 을 구 분 하여 질 서 를 바로 세워야 한다.\n6 갑 , 을: 인 (-: 의 시 작 은 모든 사 람 에 대한 차별 없는 사 랑 이다.",
+    "stem": "ㆍ 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 ： 이 름 을 바 로 잡는 것 1&]9| 정 치 의 시 작 이다. 이 름 이 제대로\n서지 않으니 예 악 이 흥 성 하지 않고, 예 악 이 흥 성 하지 않으\n형 벌 이 제멋대로 된다.\n을: 도 ( 폴 ) 는 자 연 스 러 움 을 본 받는다. 인위적인 것을 강제\n해서는 안 된다. 내 버 려 두면 백 성 들이 스스로 잘 살게 되고\n세 상 도 잘 돌 아 간 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 인 간 이 제 정 한 규 범 에서 벗어나 무 위 (068@) 를 추 구 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 내가 하기 싫은 일 을 남 에게 시키지 않는 서 (8) 를 행해야 한다."
+      },
+      {
+        "number": 3,
+        "text": ": 자 신 의 직 분 과 지 위 에 걸 맞 는 예 법 을 충실히 따라야 한다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 시 비 선 악 ( 롱 카 좀 플 ) 을 구 분 하여 질 서 를 바로 세워야 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 인 (-: 의 시 작 은 모든 사 람 에 대한 차별 없는 사 랑 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.868,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:39+00:00",
+    "qa_flags": []
+  }
+}

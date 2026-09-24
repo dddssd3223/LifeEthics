@@ -1,0 +1,73 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 2,
+    "question_number": 8,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      1831
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다음 가상 대담 속의 에 들어갈 말로 가장 적절한 것은? [3 점 ]\n사회자: 선 생 님 은 ' 인 간 을 단지 수 단 으 로 서 만 대 우 하지 말\n고, 항상 동시에 목 적 으로 대 우 하라고 주 장 하 셨 지\n요 . 이와 관 련 하여 정당한 형 사 적 처 빌 의 원 리 에 대\n해 말씀해 주 시 겠습니까?\n사상가: 형 사 적 처 빌 은 한 인 간 이 범 죄 를 저 질 렀 다 는 이 유 에\n의해서만 이루어져야 합니다. 그러고 처 벌 의 형 태 와\n정 도 는 평 등 의 원 리 에 따라야 하지요.\n사회자: 그렇다면 선 생 님 은 사형 제 도 의 존폐 문 제 에 대해\n어떻게 생 각 하십니까?\n사상가: 사형 제 도 는 모\n0 범죄 예 방 에 효 과 가 없으므로 폐 지 되어야 합니다.\n(3) 공 공 의 행 복 을 증 진 하기 위해 존 치 되어야 합니다.\n(3) 범 죄 로부터 사 회 를 보 호 하기 위해 존 치 되어야 합니다.\n@) 벌 죄 자도 교 화 될 가 능 성 이 있으므로 폐 지 되어야 합니다.\n6) 범 죄 의 심 각 성 에 상 응 하는 처 빌 을 위해 존 치 되어야 합니다.",
+    "stem": "다음 가상 대담 속의 에 들어갈 말로 가장 적절한 것은? [3 점 ]",
+    "passage": "사회자: 선 생 님 은 ' 인 간 을 단지 수 단 으 로 서 만 대 우 하지 말\n고, 항상 동시에 목 적 으로 대 우 하라고 주 장 하 셨 지\n요 . 이와 관 련 하여 정당한 형 사 적 처 빌 의 원 리 에 대\n해 말씀해 주 시 겠습니까?\n사상가: 형 사 적 처 빌 은 한 인 간 이 범 죄 를 저 질 렀 다 는 이 유 에\n의해서만 이루어져야 합니다. 그러고 처 벌 의 형 태 와\n정 도 는 평 등 의 원 리 에 따라야 하지요.\n사회자: 그렇다면 선 생 님 은 사형 제 도 의 존폐 문 제 에 대해\n어떻게 생 각 하십니까?\n사상가: 사형 제 도 는 모",
+    "choices": [
+      {
+        "number": 1,
+        "text": "범죄 예 방 에 효 과 가 없으므로 폐 지 되어야 합니다."
+      },
+      {
+        "number": 2,
+        "text": "공 공 의 행 복 을 증 진 하기 위해 존 치 되어야 합니다."
+      },
+      {
+        "number": 3,
+        "text": "범 죄 로부터 사 회 를 보 호 하기 위해 존 치 되어야 합니다."
+      },
+      {
+        "number": 4,
+        "text": "벌 죄 자도 교 화 될 가 능 성 이 있으므로 폐 지 되어야 합니다."
+      },
+      {
+        "number": 5,
+        "text": "범 죄 의 심 각 성 에 상 응 하는 처 빌 을 위해 존 치 되어야 합니다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.892,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:33+00:00",
+    "qa_flags": []
+  }
+}

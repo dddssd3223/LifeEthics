@@ -1,0 +1,73 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 69,
+    "question_number": 1,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1057,
+      1741,
+      2202
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. (가), ( 나 ) 의 입 장 으로 가장 적절한 것은?\n(가) 윤 러 학 은 “ 인 간 이 지 향 해야 할 삶 의 가 치 는 무 엇 인 가 ?” 를\n탐구 주 제 로 삼아 바람직한 삶 의 이 상 을 제 안 하고 올바른\n판 단 과 행 위 의 근 거 인 보편적 도덕 윈 러 를 정 립 해야 한다.\n(나) 윤 리 학 은 “ 실 생 활 의 도덕적 문 제 를 어떻게 해결할 것 인 기 ?\" 를\n탐구 주 제 로 삼아 환 경 오염, 연명 치료 중단, 사형 제도 등 고\n같은 현 안 에 대한 규 법적 해 결 책 을 제 시 해 야 한다,\n00 (가) : 윤 리 학 은 도덕 언 어 의 의미 분 석 을 핵심 과 제 로 삼는다.\n2) (가) : 유 리 학 은 도덕적 관 습 의 실태 조 사 를 핵심 과 제 로 삼는다.\n8) (나) : 은 리 학 은 윤 리 허 의 학문적 성립 기능성 검 증 을 핵심 과 제 로 삼는다.\n4) (나) : 윤 리 학 은 현실 문 제 에 대한 도 더 원 리 의 적 용 을 핵심 과 제 로 심는다.\n6 (가), (나): 유 리 략 은 기치 간 단 을 배제한 결론 도 출 을 핵심 괴 제로 심는다.",
+    "stem": "(가), ( 나 ) 의 입 장 으로 가장 적절한 것은?",
+    "passage": "(가) 윤 러 학 은 “ 인 간 이 지 향 해야 할 삶 의 가 치 는 무 엇 인 가 ?” 를\n탐구 주 제 로 삼아 바람직한 삶 의 이 상 을 제 안 하고 올바른\n판 단 과 행 위 의 근 거 인 보편적 도덕 윈 러 를 정 립 해야 한다.\n(나) 윤 리 학 은 “ 실 생 활 의 도덕적 문 제 를 어떻게 해결할 것 인 기 ?\" 를\n탐구 주 제 로 삼아 환 경 오염, 연명 치료 중단, 사형 제도 등 고\n같은 현 안 에 대한 규 법적 해 결 책 을 제 시 해 야 한다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가) : 윤 리 학 은 도덕 언 어 의 의미 분 석 을 핵심 과 제 로 삼는다."
+      },
+      {
+        "number": 2,
+        "text": "(가) : 유 리 학 은 도덕적 관 습 의 실태 조 사 를 핵심 과 제 로 삼는다."
+      },
+      {
+        "number": 3,
+        "text": "(나) : 은 리 학 은 윤 리 허 의 학문적 성립 기능성 검 증 을 핵심 과 제 로 삼는다."
+      },
+      {
+        "number": 4,
+        "text": "(나) : 윤 리 학 은 현실 문 제 에 대한 도 더 원 리 의 적 용 을 핵심 과 제 로 심는다."
+      },
+      {
+        "number": 5,
+        "text": "(가), (나): 유 리 략 은 기치 간 단 을 배제한 결론 도 출 을 핵심 괴 제로 심는다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.857,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:13+00:00",
+    "qa_flags": []
+  }
+}

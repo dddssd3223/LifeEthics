@@ -1,0 +1,73 @@
+{
+  "id": "2016_CSAT_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 35,
+    "question_number": 12,
+    "exam_key": "2016_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      1947,
+      1739,
+      3190
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_CSAT_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 서양 사상가 갑 , 을 의 입 장 에 대한 설 명 으로 옮 은 것은?\n감 : 자 연 은 인 듀 를 고 통 과 쾌 락 이라는 두 주 인 에게 지 배 받도록\n만들었다. 공 리 의 원 칙 은 이러한 복종 관 계 를 인 식 시켜\n주고, 이 성 과 법 률 의 손 길 로 행 복 의 틀 을 짜는 목 적 을 지닌\n체 계 의 기 초 이다.\n을: 자 연 의 질 서 에 속 하 면서도 이 성 의 지 배 를 받지 않는 요 수 를\n파 악 해 야 한다. 집 단 의 도 덕 은 자연적 충 동 에 버 금 갈 만한\n사회 세 력 을 형 성 하기 어 렵 기 때문에 개 인 의 도 덕 에 비해\n열 등 하다,\n0 갑 은 행 위 에 대한 도덕 판 단 은 행 위 의 결 과 와 무 관 하다고 본다.\n8) 을 은 개 인 의 도덕적 이 상 과 사 회 의 도덕적 이 상 이 같다고 본다.\n(9) 갑 은 을과 달리 사 희 보다 개 인 이 도덕성 측 면 에서 우 월 하다고 본다.\n@) 을 은 갑과 달리 사 회 의 이 억 을 개 인 들의 이 익 의 총 합 으로 본다.\n6) 갑 , 을 은 사회 문 제 를 해 결 하기 위해 강 제 력 이 필 요 하다고 본다.",
+    "stem": "서양 사상가 갑 , 을 의 입 장 에 대한 설 명 으로 옮 은 것은?",
+    "passage": "감 : 자 연 은 인 듀 를 고 통 과 쾌 락 이라는 두 주 인 에게 지 배 받도록\n만들었다. 공 리 의 원 칙 은 이러한 복종 관 계 를 인 식 시켜\n주고, 이 성 과 법 률 의 손 길 로 행 복 의 틀 을 짜는 목 적 을 지닌\n체 계 의 기 초 이다.\n을: 자 연 의 질 서 에 속 하 면서도 이 성 의 지 배 를 받지 않는 요 수 를\n파 악 해 야 한다. 집 단 의 도 덕 은 자연적 충 동 에 버 금 갈 만한\n사회 세 력 을 형 성 하기 어 렵 기 때문에 개 인 의 도 덕 에 비해\n열 등 하다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 행 위 에 대한 도덕 판 단 은 행 위 의 결 과 와 무 관 하다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 개 인 의 도덕적 이 상 과 사 회 의 도덕적 이 상 이 같다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "갑 은 을과 달리 사 희 보다 개 인 이 도덕성 측 면 에서 우 월 하다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "을 은 갑과 달리 사 회 의 이 억 을 개 인 들의 이 익 의 총 합 으로 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 사회 문 제 를 해 결 하기 위해 강 제 력 이 필 요 하다고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.91,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:52+00:00",
+    "qa_flags": []
+  }
+}

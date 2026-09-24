@@ -1,0 +1,73 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 7,
+    "question_number": 12,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2973,
+      1592,
+      4299
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. (가), (나) 사 상 에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?\n[3 점 ]\n(가) 인 드 라 망 은 끝없이 큰 그 물 로서 이 음 새 마다 보 석 처럼\n투 명 하게 빛나는 구 슬 이 자리 잡고 있다. 구 슬 들은 혼자\n빛날 수 없으며 반드시 다른 구 슬 의 빛 을 받아야만 세 상 을\n밝힐 수 있다.\n(나) 하 늘 과 땅 은 편 애 하지 않아 모든 것을 질 으 로 만든\n개 처럼 취 급 한다. 하 늘 과 땅 사 이 는 커다란 풀 무 * 의 바 람 통\n처럼 비어 있으나 다 함 이 없다,\n* 대 장 간 에 서 불 을 지 피 기 위해 바 람 을 일으키는 도구\n< 보 기 >〉\nㄱ . ( 가 ) 는 만 물 이 원 인 과 조 건 에 의해 생 멸 (4300 한 다구 주 장 한 다.\nㄴ . ( 나 ) 는 자 연 을 목 적 이 없는 무 위 (@) 의 체 계 로 파 악 한 다.\nㄷ . ( 가 ) 는 ( 나 ) 와 달리 자 연 의 순 리 에 따라야 한다고 강 조 한 다.\n2. ( 가 ) 는 인 간 과 자 연 의 엄격한 분 리 를, ( 나 ) 는 합 일 을 추 구 한다.\n060) ㄱ , ㄴㄴ (2) ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 그",
+    "stem": "(가), (나) 사 상 에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "(가) 인 드 라 망 은 끝없이 큰 그 물 로서 이 음 새 마다 보 석 처럼\n투 명 하게 빛나는 구 슬 이 자리 잡고 있다. 구 슬 들은 혼자\n빛날 수 없으며 반드시 다른 구 슬 의 빛 을 받아야만 세 상 을\n밝힐 수 있다.\n(나) 하 늘 과 땅 은 편 애 하지 않아 모든 것을 질 으 로 만든\n개 처럼 취 급 한다. 하 늘 과 땅 사 이 는 커다란 풀 무 * 의 바 람 통\n처럼 비어 있으나 다 함 이 없다,\n* 대 장 간 에 서 불 을 지 피 기 위해 바 람 을 일으키는 도구\n< 보 기 >〉\nㄱ . ( 가 ) 는 만 물 이 원 인 과 조 건 에 의해 생 멸 (4300 한 다구 주 장 한 다.\nㄴ . ( 나 ) 는 자 연 을 목 적 이 없는 무 위 (@) 의 체 계 로 파 악 한 다.\nㄷ . ( 가 ) 는 ( 나 ) 와 달리 자 연 의 순 리 에 따라야 한다고 강 조 한 다.\n2. ( 가 ) 는 인 간 과 자 연 의 엄격한 분 리 를, ( 나 ) 는 합 일 을 추 구 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "060) ㄱ , ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 그"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.887,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:35:27+00:00",
+    "qa_flags": []
+  }
+}

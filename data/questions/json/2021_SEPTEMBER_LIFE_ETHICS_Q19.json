@@ -1,0 +1,73 @@
+{
+  "id": "2021_SEPTEMBER_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 92,
+    "question_number": 19,
+    "exam_key": "2021_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2418
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_SEPTEMBER_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 다음 토 론 의 핵심 갱 점 으로 가장 적절한 것은:\n갑 : 인 권 은 누구나 누 려 야 할 보편적 가 치 입니다. 하지만 북 한 의\n경우, 주 민 들 의 인 권 이 제대로 보 장 되지 못하고 있다는 비 판 이\n있습니다. 북한 주 민 들 의 인권 상황 개 선 이 필 요 합니다.\n을: 동 의 합니다. 북 한 은 주 민 들 의 인 퀸 상황 개 선 을 위해 스스로\n노력해야 합니다. 인권 문 제 가 개 선 되지 않으면 국제 사 회 의\n여 론 이 악 화 되고, 이는 남북 관 계 에도 영 향 을 주게 됩니다.\n갑 : 같은 의 견 입니다. 그러나 인권 상황 개 선 을 위해 북한 스 스 로 의\n노 력 에만 의 존 할 수 없습니다. 북 한 의 싱 황 을 고 려 하면, 국제\n사 회 가 인도적 차 원 에서 적극 개 입 해야 합니다.\n을: 제 생 각 은 다릅니다. 국제 사 회 의 적극적 개 입 은 한 반 도 에\n긴장 상 태 를 불러올 수 있습니다. 또한 외 교 와 내 정 에서 다른\n나 라 로부터 간 섭 받지 않을 퀸 리 를 북 한 도 요구할 것 입니다.\n0) 인 간 은 누구나 인 간 다운 삶 을 살 권 리 를 지 니 는 가?\n(0) 북한 주 민 들 의 인권 상 황 이 개 선 될 필 요 가 있는가?\n3) 국제 사 회 가 북 한 의 인권 문 제 에 적극 개 입 해야 하는가?\n0) 북 한 의 인권 문 제 는 남북 관 계 에 영 향 을 미칠 수 있는가?\n(9) 북한 스스로 인권 상 황 을 개 선 하 기 위해 노력해야 하는가?",
+    "stem": "다음 토 론 의 핵심 갱 점 으로 가장 적절한 것은:",
+    "passage": "갑 : 인 권 은 누구나 누 려 야 할 보편적 가 치 입니다. 하지만 북 한 의\n경우, 주 민 들 의 인 권 이 제대로 보 장 되지 못하고 있다는 비 판 이\n있습니다. 북한 주 민 들 의 인권 상황 개 선 이 필 요 합니다.\n을: 동 의 합니다. 북 한 은 주 민 들 의 인 퀸 상황 개 선 을 위해 스스로\n노력해야 합니다. 인권 문 제 가 개 선 되지 않으면 국제 사 회 의\n여 론 이 악 화 되고, 이는 남북 관 계 에도 영 향 을 주게 됩니다.\n갑 : 같은 의 견 입니다. 그러나 인권 상황 개 선 을 위해 북한 스 스 로 의\n노 력 에만 의 존 할 수 없습니다. 북 한 의 싱 황 을 고 려 하면, 국제\n사 회 가 인도적 차 원 에서 적극 개 입 해야 합니다.\n을: 제 생 각 은 다릅니다. 국제 사 회 의 적극적 개 입 은 한 반 도 에\n긴장 상 태 를 불러올 수 있습니다. 또한 외 교 와 내 정 에서 다른\n나 라 로부터 간 섭 받지 않을 퀸 리 를 북 한 도 요구할 것 입니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인 간 은 누구나 인 간 다운 삶 을 살 권 리 를 지 니 는 가?"
+      },
+      {
+        "number": 2,
+        "text": "북한 주 민 들 의 인권 상 황 이 개 선 될 필 요 가 있는가?"
+      },
+      {
+        "number": 3,
+        "text": "국제 사 회 가 북 한 의 인권 문 제 에 적극 개 입 해야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "북 한 의 인권 문 제 는 남북 관 계 에 영 향 을 미칠 수 있는가?"
+      },
+      {
+        "number": 5,
+        "text": "북한 스스로 인권 상 황 을 개 선 하 기 위해 노력해야 하는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.913,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:45:15+00:00",
+    "qa_flags": []
+  }
+}

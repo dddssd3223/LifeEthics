@@ -1,0 +1,73 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 3,
+    "question_number": 15,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      3247,
+      2999,
+      4301
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q15.png",
+    "raw_text": "16. 감 , 을 의 입 장 으로 적절한 내 용 을 < 보 기 > 에 서 고른 것은?\n갑 : 세 계 화 로 우 리 의 정 체 성 이 흔들리고 있어. 따라서 단일\n혈통, 언어, 역사 등과 같은 요 소 를 공 유 하는 우리 민족\n의 이 익 을 최 우 선 으로 삼아야 해.\n을: 지구촌 시 대 에는 그러한 요 소 보 다는 새로운 민 족 의 식 을\n정 립 하여 다른 민 족 에 대해 개 방 적 인 태 도 를 길러야 해.\n< 보 기 >〉\nㄱ . 갑 은 민 족 의 객관적 요 수 를 바 탕 으로 모 긴 족 정 체 성 을 추 구 한다.\nㄴ . 갑 은 인 류 의 보편적 가 치 에 근거한 민족 공 동 체 를 추 구 한다.\nㄷ . 을 은 열린 공동체 의 식 에 근거한 민족 정 체 성 을 중 시 한다.\n2. 을 은 민족 구 성 원 이 아닌 세계 시 민 으로서의 삶 을 지 향 한다.\n0) ㄱ , ㄴ (0) ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 르",
+    "stem": "감 , 을 의 입 장 으로 적절한 내 용 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "갑 : 세 계 화 로 우 리 의 정 체 성 이 흔들리고 있어. 따라서 단일\n혈통, 언어, 역사 등과 같은 요 소 를 공 유 하는 우리 민족\n의 이 익 을 최 우 선 으로 삼아야 해.\n을: 지구촌 시 대 에는 그러한 요 소 보 다는 새로운 민 족 의 식 을\n정 립 하여 다른 민 족 에 대해 개 방 적 인 태 도 를 길러야 해.\n< 보 기 >〉\nㄱ . 갑 은 민 족 의 객관적 요 수 를 바 탕 으로 모 긴 족 정 체 성 을 추 구 한다.\nㄴ . 갑 은 인 류 의 보편적 가 치 에 근거한 민족 공 동 체 를 추 구 한다.\nㄷ . 을 은 열린 공동체 의 식 에 근거한 민족 정 체 성 을 중 시 한다.\n2. 을 은 민족 구 성 원 이 아닌 세계 시 민 으로서의 삶 을 지 향 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.895,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:36+00:00",
+    "qa_flags": []
+  }
+}

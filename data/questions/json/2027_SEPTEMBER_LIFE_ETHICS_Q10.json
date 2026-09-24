@@ -1,0 +1,73 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 150,
+    "question_number": 10,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3351,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은:\n장 인 은 실 재 를 모 방 하지만, 화 가 는 장 인 이 실 재 를 모 방 하여\n만든 산 물 을 모 방 하 기 때문에 본 질 로부터 세 번 째 인 산 물 을\n제 작 하는 사 람 이다. 화 가 의 모방 행 위 는 일종의 놀 이 이지 진지한\n것이 못 된다. 예술 작 품 은 진 리 에서 멀리 떨어진 산 물 이며,\n우리 안에서 지 혜 와는 멀리 떨어져 있는 부 분 과 사귀기 때문에\n건전한 것이 되지 끗 한다. 이것은 시 (\\) 의 경 우 에도 마 찬 가 지 이다.\n따라서 젊 은 이 들이 선 량 해 지 려면 감 정 에만 호 소 하는 시 는\n주 방 하고, 훌륭한 인 물 들을 노 래 하 는 시 만 을 받 아 들 여야 한다.\n0) 예술 작 품 은 장 인 이 모 방 하여 제 작 한 산 물 보다 본 질 에 더 가깝다.\n(0) 예술 작 품 을 통해서만 현 실 에서 참된 진 리 를 완 성 할 수 있\n3) 예 술 가 는 예술 작 품 을 통해서 어떠한 산 물 도 모 방 할 수 없다.\n0) 예 술 은 인 간 의 올바른 성 향 을 일깨우는 데 기 여 해 야 만 한다.\n(09) 예 술 은 실 재 를 인 식 하는 활 동 이므로 유 희 로 간 수 되 어 서 는 안 된다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은:",
+    "passage": "장 인 은 실 재 를 모 방 하지만, 화 가 는 장 인 이 실 재 를 모 방 하여\n만든 산 물 을 모 방 하 기 때문에 본 질 로부터 세 번 째 인 산 물 을\n제 작 하는 사 람 이다. 화 가 의 모방 행 위 는 일종의 놀 이 이지 진지한\n것이 못 된다. 예술 작 품 은 진 리 에서 멀리 떨어진 산 물 이며,\n우리 안에서 지 혜 와는 멀리 떨어져 있는 부 분 과 사귀기 때문에\n건전한 것이 되지 끗 한다. 이것은 시 (\\) 의 경 우 에도 마 찬 가 지 이다.\n따라서 젊 은 이 들이 선 량 해 지 려면 감 정 에만 호 소 하는 시 는\n주 방 하고, 훌륭한 인 물 들을 노 래 하 는 시 만 을 받 아 들 여야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "예술 작 품 은 장 인 이 모 방 하여 제 작 한 산 물 보다 본 질 에 더 가깝다."
+      },
+      {
+        "number": 2,
+        "text": "예술 작 품 을 통해서만 현 실 에서 참된 진 리 를 완 성 할 수 있"
+      },
+      {
+        "number": 3,
+        "text": "예 술 가 는 예술 작 품 을 통해서 어떠한 산 물 도 모 방 할 수 없다."
+      },
+      {
+        "number": 4,
+        "text": "예 술 은 인 간 의 올바른 성 향 을 일깨우는 데 기 여 해 야 만 한다."
+      },
+      {
+        "number": 5,
+        "text": "예 술 은 실 재 를 인 식 하는 활 동 이므로 유 희 로 간 수 되 어 서 는 안 된다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.905,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:46+00:00",
+    "qa_flags": []
+  }
+}

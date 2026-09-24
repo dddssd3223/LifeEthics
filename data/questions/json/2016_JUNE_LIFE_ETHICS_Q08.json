@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 26,
+    "question_number": 8,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1752,
+      716,
+      3339,
+      2373
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다음 사 상 가 가 지 지 할 입 장 만을 < 보 기 > 에 서 있는 대로 고른 ㆍ\n것은?\nㅇ 인 정 (《<_208) 은 토 지 의 경 계 를 바 로 잡 는 것에서 시 작 된 다.\n경 계 를 바 로 잡으면 토 지 를 바르게 분 배 하는 일은 쉽게 할\n수 있다. 백 성 들 에게도 토 지 를 바르게 지 급 하면 나 라 가\n기 름 지게 될 것이다.\n0 스스로 농 사 를 지어 자 급 자 족 하면서 천 하 를 다 스 릴 수\n있겠는가. 대 인 (※ ㅅ ) 이 하는 일 이 있고 소 인 (4*\\) 이 하는\n일 이 있는 것이다. 또 사 람 은 많은 사 람 들 이 만든 물 건 들을\n사 용 하기 마 련 이고, 모든 것을 스스로 만들어 자 용 하 면서\n살아갈 수 는 없는 것이다.\n< 보 기 >\n. 직업 선 택 은 능 력 보다 선 호 에 의해 이루어져야 한다.\n. 공 동 체 의 질서 유 지 를 위해 사회적 분 업 이 필 요 하 다.\n. 통 치 자 는 구 성 원 의 생계 유지 기 반 을 마련해 주어야 한다.\n. 개 인 의 노 동 은 사회 구 성 원 들의 윤 택 한 삶 에 이 바 지 할 수 있다.\n0) ㄱ , ㄴ _(0 ㄱ , ㄷ (3) ㄷ , 2\n(000 ㄱ , ㄴ 2 ㆍ (65) ㄴ , ㄷ , 크",
+    "stem": "다음 사 상 가 가 지 지 할 입 장 만을 < 보 기 > 에 서 있는 대로 고른 ㆍ 것은?",
+    "passage": "ㅇ 인 정 (《<_208) 은 토 지 의 경 계 를 바 로 잡 는 것에서 시 작 된 다.\n경 계 를 바 로 잡으면 토 지 를 바르게 분 배 하는 일은 쉽게 할\n수 있다. 백 성 들 에게도 토 지 를 바르게 지 급 하면 나 라 가\n기 름 지게 될 것이다.\n0 스스로 농 사 를 지어 자 급 자 족 하면서 천 하 를 다 스 릴 수\n있겠는가. 대 인 (※ ㅅ ) 이 하는 일 이 있고 소 인 (4*\\) 이 하는\n일 이 있는 것이다. 또 사 람 은 많은 사 람 들 이 만든 물 건 들을\n사 용 하기 마 련 이고, 모든 것을 스스로 만들어 자 용 하 면서\n살아갈 수 는 없는 것이다.\n< 보 기 >\n. 직업 선 택 은 능 력 보다 선 호 에 의해 이루어져야 한다.\n. 공 동 체 의 질서 유 지 를 위해 사회적 분 업 이 필 요 하 다.\n. 통 치 자 는 구 성 원 의 생계 유지 기 반 을 마련해 주어야 한다.\n. 개 인 의 노 동 은 사회 구 성 원 들의 윤 택 한 삶 에 이 바 지 할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "_(0 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 2"
+      },
+      {
+        "number": 4,
+        "text": "00 ㄱ , ㄴ 2 ㆍ"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 크"
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.804,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:31+00:00",
+    "qa_flags": []
+  }
+}

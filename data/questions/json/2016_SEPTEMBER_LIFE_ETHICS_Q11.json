@@ -1,0 +1,76 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 31,
+    "question_number": 11,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1592,
+      1723
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 다음 가상 편 지 에 제시된 전통 의 례 에 대한 설 명 으로 가장\n적절한 것은?\n에게\n자네 부 친 의 부 고 ( 하 솜 ) 를 접하고 눈 앞 이 캄 캄 했 다 네 . 자 네 는\n성 복 (5688) 하 기 전에 곡 읍 ( 못 ) 이 끊 어 지지 않게 하고, 기진\n( 화 좀 ) 하 면 아 랫 사 람 에게 대신 곡 을 하도록 하 게 나 . 장사 지내기\n전에는 정해진 때가 없이 곡 을 하고, 졸 곡 ( 주 못 ) 한 뒤에는 아 침 과\n저녁 두 번만 곡 을 해도 된 다 네 . …( 후 략 )…\n09 산 사 람 과 죽은 사 람 의 종 적 인 혈 연 관 계 가 소 멸 되는 의 례 이다,\n(3) 자기 존 재 의 근 원 인 시 조 (4500) 를 추 모 하고 보 은 하는 의 례 이다.\n8) 기성 사 회 로 통 합 되어 성 인 으 로서의 퀸 리 를 부 여 받는 의 례 이다.\n@) 자 신 에게 생 명 을 부여한 존 재 에게 효 ( 추 ) 를 표 현 하는 의 례 이다.\n6) 남 녀 가 서로 결 합 하 여 가 계 (※# 를 잇 겠다고 서 약 하는 의 례 이다.",
+    "stem": "다음 가상 편 지 에 제시된 전통 의 례 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "에게\n자네 부 친 의 부 고 ( 하 솜 ) 를 접하고 눈 앞 이 캄 캄 했 다 네 . 자 네 는\n성 복 (5688) 하 기 전에 곡 읍 ( 못 ) 이 끊 어 지지 않게 하고, 기진\n( 화 좀 ) 하 면 아 랫 사 람 에게 대신 곡 을 하도록 하 게 나 . 장사 지내기\n전에는 정해진 때가 없이 곡 을 하고, 졸 곡 ( 주 못 ) 한 뒤에는 아 침 과\n저녁 두 번만 곡 을 해도 된 다 네 . …( 후 략 )…",
+    "choices": [
+      {
+        "number": 1,
+        "text": "산 사 람 과 죽은 사 람 의 종 적 인 혈 연 관 계 가 소 멸 되는 의 례 이다,"
+      },
+      {
+        "number": 2,
+        "text": "자기 존 재 의 근 원 인 시 조 (4500) 를 추 모 하고 보 은 하는 의 례 이다."
+      },
+      {
+        "number": 3,
+        "text": "기성 사 회 로 통 합 되어 성 인 으 로서의 퀸 리 를 부 여 받는 의 례 이다."
+      },
+      {
+        "number": 4,
+        "text": "자 신 에게 생 명 을 부여한 존 재 에게 효 ( 추 ) 를 표 현 하는 의 례 이다."
+      },
+      {
+        "number": 5,
+        "text": "남 녀 가 서로 결 합 하 여 가 계 (※# 를 잇 겠다고 서 약 하는 의 례 이다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=44",
+      "vector_lines=50"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.867,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:43+00:00",
+    "qa_flags": []
+  }
+}

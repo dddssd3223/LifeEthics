@@ -1,0 +1,73 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 37,
+    "question_number": 1,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      881,
+      1594,
+      2920
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q01.png",
+    "raw_text": "에 들어갈 진 솔 로 가장 적절한 것은?\n유 리 학 은 삶 의 구체적인 상 황 에서 새롭게 대 두 되는 실천적\n문 제 에 대한 해 답 을 제 시 해 야 한다. 그런데 30 세 기 중 반 에\n논리 실 증 주 의 의 영 향 을 받아 도덕 언 어 의 논리적 명 료 화 에\n주 력 하는 새로운 윤 리 학 이 등 장 하였다. 당시 윤 리 학 은 도덕 판 단 이\n단지 감 정 의 표 현 이나 명 령 일 뿐 이 므로 무 의 미 하다는 결 론 에\n도 달 하기도 하였다. 나는 이러한 윤 리 학 이 | ㅁ | 고\n생 각 한 다.\n03 도덕 판 단 의 근 거 가 되는 규범 체 계 의 필 요 성 을 강 조 하였다\n@ 도덕적 추 론 에 대한 가 치 중립적 분 석 의 중 요 성 을 간 과 하였다\n(8) 도덕적 풍 습 을 있는 그대로 기 술 하는 것이 중 요 함 을 강 조 하였다\n@ 도덕 언 어 의 분 석 보다 도덕 문 제 의 해 결 이 중 요 함 을 간 과 하였다\n0) 도덕적 지 식 의 성립 가 능 성 에 대한 탐 구 의 필 요 성 을 간 과 하였다",
+    "stem": "에 들어갈 진 솔 로 가장 적절한 것은?",
+    "passage": "유 리 학 은 삶 의 구체적인 상 황 에서 새롭게 대 두 되는 실천적\n문 제 에 대한 해 답 을 제 시 해 야 한다. 그런데 30 세 기 중 반 에\n논리 실 증 주 의 의 영 향 을 받아 도덕 언 어 의 논리적 명 료 화 에\n주 력 하는 새로운 윤 리 학 이 등 장 하였다. 당시 윤 리 학 은 도덕 판 단 이\n단지 감 정 의 표 현 이나 명 령 일 뿐 이 므로 무 의 미 하다는 결 론 에\n도 달 하기도 하였다. 나는 이러한 윤 리 학 이 | ㅁ | 고\n생 각 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "도덕 판 단 의 근 거 가 되는 규범 체 계 의 필 요 성 을 강 조 하였다"
+      },
+      {
+        "number": 2,
+        "text": "도덕적 추 론 에 대한 가 치 중립적 분 석 의 중 요 성 을 간 과 하였다"
+      },
+      {
+        "number": 3,
+        "text": "도덕적 풍 습 을 있는 그대로 기 술 하는 것이 중 요 함 을 강 조 하였다"
+      },
+      {
+        "number": 4,
+        "text": "도덕 언 어 의 분 석 보다 도덕 문 제 의 해 결 이 중 요 함 을 간 과 하였다"
+      },
+      {
+        "number": 5,
+        "text": "도덕적 지 식 의 성립 가 능 성 에 대한 탐 구 의 필 요 성 을 간 과 하였다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.905,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:57+00:00",
+    "qa_flags": []
+  }
+}

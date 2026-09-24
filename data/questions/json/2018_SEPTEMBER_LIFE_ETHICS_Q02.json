@@ -1,0 +1,76 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 53,
+    "question_number": 2,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3071,
+      1594,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q02.png",
+    "raw_text": "9. 그 림 의 토론 주 제 에 관한 갑 , 을 의 입 장 으로 적 절 하지 않은 것은?\nㆍ 토 론 주제: 도 덕 의 최종 근 거 를 종 교 에서 찾아야 하는가?\n도 덕 의 최종 근 거 는 종교, 특히 만 물 을 아닙니다. 신의 명 령 과 상 관 없이 그\n참조한 신의 명 령 에서 찾아야 합니다. 자 체 로 을 은 보 편 타당한 도덕 원 리 가\n불완전한 인 간 의 판 단 은 오류 가능 있습니다. 인 간 은 타고난 이성 능 력 으로\n하지만 완전한 존 재 인 신의 명 령 은 그러한 원 리 를 인 식 하여 선 악 을 판단\n무조건 옮기 때 문 입니다. 할 수 있습니다.\n0 갑 : 도덕적 의 무 는 오류 가 능 성 이 없는 신의 명 령 에서 나온다.\n(3) 갑 : 인간 이성은 불 완 전 하므로 도덕 판 단 의 최종 근 거 가 될 수 없다.\n(3) 을: 윤리적 판 단 에서 종교적 권 위 보다 합리적 이 성 을 중 시 해야 한다.\n(4) 을: 인 간 은 누구나 선 천 적 으로 옮 고 그 름 을 판 단 할 수 있는 능 력 이 있다.\n(8) 갑 , 을: 명 확 하고 보 편 적 인 도덕적 판단 기 준 은 존 재 하지 않는다.",
+    "stem": "그 림 의 토론 주 제 에 관한 갑 , 을 의 입 장 으로 적 절 하지 않은 것은?",
+    "passage": "ㆍ 토 론 주제: 도 덕 의 최종 근 거 를 종 교 에서 찾아야 하는가?\n도 덕 의 최종 근 거 는 종교, 특히 만 물 을 아닙니다. 신의 명 령 과 상 관 없이 그\n참조한 신의 명 령 에서 찾아야 합니다. 자 체 로 을 은 보 편 타당한 도덕 원 리 가\n불완전한 인 간 의 판 단 은 오류 가능 있습니다. 인 간 은 타고난 이성 능 력 으로\n하지만 완전한 존 재 인 신의 명 령 은 그러한 원 리 를 인 식 하여 선 악 을 판단\n무조건 옮기 때 문 입니다. 할 수 있습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 도덕적 의 무 는 오류 가 능 성 이 없는 신의 명 령 에서 나온다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 인간 이성은 불 완 전 하므로 도덕 판 단 의 최종 근 거 가 될 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "을: 윤리적 판 단 에서 종교적 권 위 보다 합리적 이 성 을 중 시 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "을: 인 간 은 누구나 선 천 적 으로 옮 고 그 름 을 판 단 할 수 있는 능 력 이 있다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 명 확 하고 보 편 적 인 도덕적 판단 기 준 은 존 재 하지 않는다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=12"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.923,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:35+00:00",
+    "qa_flags": []
+  }
+}

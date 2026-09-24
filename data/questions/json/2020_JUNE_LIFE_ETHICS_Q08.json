@@ -1,0 +1,75 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 74,
+    "question_number": 8,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2032
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 갑 , 을 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n태 아 는 인간 생 명 체 이지만 완전한 인 격 체 는 ㅣ | 태 아 가 잠 재 적 인 인 간 이라는 사 실 은 부 정 될\n아니기에 부 분 적 인 도덕적 지 위 만을 가 집 니다. | ㅣ 수 없습니다. 잠 재 성 이 중요한 이 유 는 태 아 를\n따라서 태 아 를 함부로 죽이는 것은 안 되지만, ㅣ ㅣ 죽이는 것이 미 래 의 합 리 적 이 고 자 의 식 적인\n임 신 부 의 질병 등 으로 현재 상 황 이 좋지 않고 ㅣ | 존 재 를 죽이는 것이기 때 문 입니다. 따라서\n나중에 더 좋은 상 황 에서 임 신 하려는 경 우 라면 ㅣ | 인 간 으로서의 잠 재 성 을 지닌 태 아 를 해치는\n임신 중 절 은 허 용 됩니다. 것은 옮 지 않습니다.\n< 보 기 >\nㄱ . 갑 : 태 아 의 권 리 와 임 신 부 의 권 리 를 동 등 하게 대 우 해야 한다.\nㄴ . 을: 태 아 는 특별한 방 해 가 없는 한 히 나 의 인 격 체 로 자랄 것이다\nㄷ . 을 : 태 아 는 합리적 ㆍ 자 의 식 적인 존 재 이기에 해 쳐 서는 안 된다,\n르 . 갑 , 을 : 태 아 를 단순한 세포 조 직 처럼 함부로 대 우 해서는 안 된다.\n0) ㄱ 7, ㄷ (00) ㄱ , 크 (3) ㄴ , 큰\n04 ㄱㄴㄷ 06) ㄴ , ㄷ , 르",
+    "stem": "갑 , 을 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "태 아 는 인간 생 명 체 이지만 완전한 인 격 체 는 ㅣ | 태 아 가 잠 재 적 인 인 간 이라는 사 실 은 부 정 될\n아니기에 부 분 적 인 도덕적 지 위 만을 가 집 니다. | ㅣ 수 없습니다. 잠 재 성 이 중요한 이 유 는 태 아 를\n따라서 태 아 를 함부로 죽이는 것은 안 되지만, ㅣ ㅣ 죽이는 것이 미 래 의 합 리 적 이 고 자 의 식 적인\n임 신 부 의 질병 등 으로 현재 상 황 이 좋지 않고 ㅣ | 존 재 를 죽이는 것이기 때 문 입니다. 따라서\n나중에 더 좋은 상 황 에서 임 신 하려는 경 우 라면 ㅣ | 인 간 으로서의 잠 재 성 을 지닌 태 아 를 해치는\n임신 중 절 은 허 용 됩니다. 것은 옮 지 않습니다.\n< 보 기 >\nㄱ . 갑 : 태 아 의 권 리 와 임 신 부 의 권 리 를 동 등 하게 대 우 해야 한다.\nㄴ . 을: 태 아 는 특별한 방 해 가 없는 한 히 나 의 인 격 체 로 자랄 것이다\nㄷ . 을 : 태 아 는 합리적 ㆍ 자 의 식 적인 존 재 이기에 해 쳐 서는 안 된다,\n르 . 갑 , 을 : 태 아 를 단순한 세포 조 직 처럼 함부로 대 우 해서는 안 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ 7, ㄷ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , 크"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱㄴㄷ"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.897,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:26+00:00",
+    "qa_flags": []
+  }
+}

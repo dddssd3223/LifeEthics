@@ -1,0 +1,75 @@
+{
+  "id": "2020_CSAT_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 83,
+    "question_number": 14,
+    "exam_key": "2020_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      3066
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_CSAT_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. (가의 사상가 감 , 을 의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때,\n&~( 에 들어갈 옮 은 질 문 만 을 < 보 기 > 에 서 있는 대로 고른 것은?\n갑 : 인간 행 동 을 규 제 하는 것은 그가 알고 있는 고 통 의\n반복적 인 상 에서 비롯된다. 시 민 들 에게 범 죄 자 가 노역\n하는 고 통 스 러운 모 습 을 지 속 적 으로 보여 주는 것이\n사 형 보다 더 효과적인 형 별 어 다.\n| 호: 위 잔 은 내적 자 유 를 가진 존 재 이며 자 신 의 인 간 성 을\n훼 손 하지 말이야 할 의 무 가 있다. 네가 타 인 에게 해 악 을\n끼치는 것은 그것이 무 엇 이 든 그것을 네 자 신 에게\n가하는 것과 같다. 어 것이 형 벌 에 서 의 정 언 명 령 이다.\n< 범 례 >\n사상가 갑 , 을 의 개스 ^\n입 장 을 탐 구 한다. | 쁜 로 리얼\n<->> : 판단 내용\n- ㅡ > : 판단 방향\n아니요 9062\n: 사 상 가 의 입장\n가 녀\n(나) 예\n예\n예\n벼 더 =\n< 보 기 >\nㄱ . 쇼 : 형 벌 에는 시 민 에게 공 포 감 을 주려는 의 도 가 포 함 되어 있는가?\nㄴ . 8: 범죄 의 도 의 반 사 회 성 이 범 죄 의 경 중 을 판 단 하는 척 도 인가?\nㄷ . 2: 과도한 형 벌 은 효용 원 리 와 사회 계약 모 두 에 위 배 되는가?\n2. (:: 인도적 동 정 심 에서 사 형 의 부 당 성 을 주 장 하는 것은 그 른 가?\n00 ㄱ 7, ㄴ 00 ㄴ ㄷ 06) ㄷ , 크\n@7 ㄱ ㄴ 로 @7 ㄱ ㄷㄷ 르",
+    "stem": "(가의 사상가 감 , 을 의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, &~( 에 들어갈 옮 은 질 문 만 을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 인간 행 동 을 규 제 하는 것은 그가 알고 있는 고 통 의\n반복적 인 상 에서 비롯된다. 시 민 들 에게 범 죄 자 가 노역\n하는 고 통 스 러운 모 습 을 지 속 적 으로 보여 주는 것이\n사 형 보다 더 효과적인 형 별 어 다.\n| 호: 위 잔 은 내적 자 유 를 가진 존 재 이며 자 신 의 인 간 성 을\n훼 손 하지 말이야 할 의 무 가 있다. 네가 타 인 에게 해 악 을\n끼치는 것은 그것이 무 엇 이 든 그것을 네 자 신 에게\n가하는 것과 같다. 어 것이 형 벌 에 서 의 정 언 명 령 이다.\n< 범 례 >\n사상가 갑 , 을 의 개스 ^\n입 장 을 탐 구 한다. | 쁜 로 리얼\n<->> : 판단 내용\n- ㅡ > : 판단 방향\n아니요 9062\n: 사 상 가 의 입장\n가 녀\n(나) 예\n예\n예\n벼 더 =\n< 보 기 >\nㄱ . 쇼 : 형 벌 에는 시 민 에게 공 포 감 을 주려는 의 도 가 포 함 되어 있는가?\nㄴ . 8: 범죄 의 도 의 반 사 회 성 이 범 죄 의 경 중 을 판 단 하는 척 도 인가?\nㄷ . 2: 과도한 형 벌 은 효용 원 리 와 사회 계약 모 두 에 위 배 되는가?\n2. (:: 인도적 동 정 심 에서 사 형 의 부 당 성 을 주 장 하는 것은 그 른 가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ 7, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 크"
+      },
+      {
+        "number": 4,
+        "text": "7 ㄱ ㄴ 로"
+      },
+      {
+        "number": 5,
+        "text": "7 ㄱ ㄷㄷ 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.825,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:47+00:00",
+    "qa_flags": []
+  }
+}

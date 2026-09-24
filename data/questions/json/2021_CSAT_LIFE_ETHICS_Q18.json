@@ -1,0 +1,78 @@
+{
+  "id": "2021_CSAT_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 96,
+    "question_number": 18,
+    "exam_key": "2021_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3079,
+      1740,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_CSAT_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. ( 가 ) 의 입 장 에 비해 ( 나 ) 의 입 장 이 갖는 상대적 특 징 을 그 림 의\n009 중에서 고른 것은?\n(가) 국 가 는 이 주 민 이 자 신 의 문 화 를 포 기 하고 새로운 사 회 의\n지배적 가 치 관 과 문 회 에 동 화 될 수 있도록 하는 정 책 을 시 행 해 야\n한다. 그렇게 한다면 주류 문 화 를 중 심 으로 문화 정 체 성 이\n형 성 되고, 이 주 민 은 주류 문 화 의 일 원 으로 거듭날 수 있다.\n(나) 국 가 는 이 주 민 의 문 화 를 평 등 하게 인 정 하고 각기 다른 문 화 가\n조 화 를 이룰 수 있도록 하는 정 책 을 시 행 해 야 한다. 그렇게\n한다면 다양한 문 화 의 고 유 성 이 유 지 되면서 이 주 민 의 사회\n통 합 이 이루어질 수 있다.\nㆍ ※: 이주민 문 화 의 정체성 보 존 을 강 조 하는 정도\nㆍ: 문화 간 대 등 한 방 식 의 공 존 을 강 조 하는 정도\n* 2: 단 일 한 문화 중 심 의 사 희 통 합 을 강 조 하는 정도\n00 09) 045 0) 5 0 @ 09 9",
+    "stem": "( 가 ) 의 입 장 에 비해 ( 나 ) 의 입 장 이 갖는 상대적 특 징 을 그 림 의 009 중에서 고른 것은?",
+    "passage": "(가) 국 가 는 이 주 민 이 자 신 의 문 화 를 포 기 하고 새로운 사 회 의\n지배적 가 치 관 과 문 회 에 동 화 될 수 있도록 하는 정 책 을 시 행 해 야\n한다. 그렇게 한다면 주류 문 화 를 중 심 으로 문화 정 체 성 이\n형 성 되고, 이 주 민 은 주류 문 화 의 일 원 으로 거듭날 수 있다.\n(나) 국 가 는 이 주 민 의 문 화 를 평 등 하게 인 정 하고 각기 다른 문 화 가\n조 화 를 이룰 수 있도록 하는 정 책 을 시 행 해 야 한다. 그렇게\n한다면 다양한 문 화 의 고 유 성 이 유 지 되면서 이 주 민 의 사회\n통 합 이 이루어질 수 있다.\nㆍ ※: 이주민 문 화 의 정체성 보 존 을 강 조 하는 정도\nㆍ: 문화 간 대 등 한 방 식 의 공 존 을 강 조 하는 정도\n* 2: 단 일 한 문화 중 심 의 사 희 통 합 을 강 조 하는 정도",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(7)"
+      },
+      {
+        "number": 2,
+        "text": "045"
+      },
+      {
+        "number": 3,
+        "text": "5"
+      },
+      {
+        "number": 4,
+        "text": "@"
+      },
+      {
+        "number": 5,
+        "text": "9"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.908,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 3, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows_clustered",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:17+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 55,
+    "question_number": 11,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1592,
+      2781
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으 로 퓨 현할 때,\n&~) 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 정 의 는 본 성 상 정치적 동 물 인 사람들 사 이 에서 같은\n것은 같게, 다른 것은 다르게 분 배 할 것을 요 구 한다.\n(가) 을: 정 의 는 도 덕 과 입 법 의 원 리 인 최대 다 수 의 최대\n행 복 을 위해 유 용 성 을 극 대 화 할 것을 요 구 한다.\n병 : 정 의 는 최소 수 혜 자 를 포함한 모든 사 람 에게 이 익 이\n도록 절 차 적 공 정 성 을 보 장 할 것을 요 구 한다.\n| 0 < 범 례 >- -__- ㅡ ㅡ\n00\n쇼\n스 : 갑 만의 입장\n(나) < 『 8: 을 만의 입장\n6052 6: 병 만의 입장\n1” / ㅁ : 갑 , 을, 병 의 공통 입장\n으 벼\n< 보 기 >\nㄱ . &: 분배 정 의 는 기하학적 비 례 의 동 등 함 을 추 구 하는 것이다.\nㄴ . 8: 분 배 의 옮 고 그 름 은 쾌 락 과 고 통 의 총 합 에 의해 결 정 된 다.\nㄷ . (@: 누 구 에게도 이 익 이 되지 않는 분 배 는 정 의 롭 지 않\n2 . 1: 사 회 적 ㆍ 경제적 불 평 등 을 허 용 해도 분배 정 의 는 실현 가 능 하 다.\n0) ㄱ , ㄴ (0) ㄱ , ㄷ (3) ㄷ , 근\n(0) ㄱ , ㄴ , 2 (66) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으 로 퓨 현할 때, &~) 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 정 의 는 본 성 상 정치적 동 물 인 사람들 사 이 에서 같은\n것은 같게, 다른 것은 다르게 분 배 할 것을 요 구 한다.\n(가) 을: 정 의 는 도 덕 과 입 법 의 원 리 인 최대 다 수 의 최대\n행 복 을 위해 유 용 성 을 극 대 화 할 것을 요 구 한다.\n병 : 정 의 는 최소 수 혜 자 를 포함한 모든 사 람 에게 이 익 이\n도록 절 차 적 공 정 성 을 보 장 할 것을 요 구 한다.\n| 0 < 범 례 >- -__- ㅡ ㅡ\n00\n쇼\n스 : 갑 만의 입장\n(나) < 『 8: 을 만의 입장\n6052 6: 병 만의 입장\n1” / ㅁ : 갑 , 을, 병 의 공통 입장\n으 벼\n< 보 기 >\nㄱ . &: 분배 정 의 는 기하학적 비 례 의 동 등 함 을 추 구 하는 것이다.\nㄴ . 8: 분 배 의 옮 고 그 름 은 쾌 락 과 고 통 의 총 합 에 의해 결 정 된 다.\nㄷ . (@: 누 구 에게도 이 익 이 되지 않는 분 배 는 정 의 롭 지 않\n2 . 1: 사 회 적 ㆍ 경제적 불 평 등 을 허 용 해도 분배 정 의 는 실현 가 능 하 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 근"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=54",
+      "vector_lines=80"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.864,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:39+00:00",
+    "qa_flags": []
+  }
+}

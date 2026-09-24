@@ -1,0 +1,77 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 104,
+    "question_number": 20,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2711,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 다 음 은 신문 칼 럼 이다. (에 들어갈 제 목 으로 가장 적절한 것은?\n(20 신문 (2(2(2() 년 (>() 월 (>(〉 일\n캄 런\n언더\n배\n뉴 미 디 어 가 등장한 이후 유 통 되는 정 보 의 양은 기 하 급 수 적 으로 늘어나고 유 통 의\n구 조 도 다 양 화 되고 있다. 이에 따라 우 리 는 원하는 정 보 에 손쉽고 빠르게 접 근 할\n수 있게 되었고 보다 효율적인 의 사 소 통 이 가 능 해 졌다. 반면, 검 증 되지 않은 정 보 가\n광 범 위 하게 확 산 되거나, 다양한 정 보 가 임 의 적 으로 조 합 되어 실 체 가 없는 거짓\n정 보 가 양 산 되는 등 심각한 사회 문 제 가 생 겨 났다. 단순히 수 용 적인 태 도 로 미 디 어 가\n보여 주는 정 보 에 접 근 한다면 편 견 에 사 로 잡혀 세 싱 을 객 관 적 으로 보지 못할 수 있다.\n이것이 바로 뉴 미디어 시 대 의 새로운 시 민 성 으로서 미디어 리 터 러 시 67600 168800) 가\n요 청 되는 이 유 이다.\n시 져서\n00 ㅠㅠ 미디어 시대, 쌍방향 의 사 소 통 이 가 등 해진다.\n1) ㅠㅠ 미디어 시대, 빅 데이터 처리 기 술 이 요 청 된다.\n@8) 뉴 미디어 시대, 계층 간 정보 격 차 를 줄여야 한다.\n@) ㅠ 미디어 시대, 정 보 에 대한 접 근 이 더 용 이 해진다.\n06) ㅠ 미디어 시대, 정 보 에 대한 비판적 사 고 력 이 필 요 하다.",
+    "stem": "다 음 은 신문 칼 럼 이다. (에 들어갈 제 목 으로 가장 적절한 것은?",
+    "passage": "(20 신문 (2(2(2() 년 (>() 월 (>(〉 일\n캄 런\n언더\n배\n뉴 미 디 어 가 등장한 이후 유 통 되는 정 보 의 양은 기 하 급 수 적 으로 늘어나고 유 통 의\n구 조 도 다 양 화 되고 있다. 이에 따라 우 리 는 원하는 정 보 에 손쉽고 빠르게 접 근 할\n수 있게 되었고 보다 효율적인 의 사 소 통 이 가 능 해 졌다. 반면, 검 증 되지 않은 정 보 가\n광 범 위 하게 확 산 되거나, 다양한 정 보 가 임 의 적 으로 조 합 되어 실 체 가 없는 거짓\n정 보 가 양 산 되는 등 심각한 사회 문 제 가 생 겨 났다. 단순히 수 용 적인 태 도 로 미 디 어 가\n보여 주는 정 보 에 접 근 한다면 편 견 에 사 로 잡혀 세 싱 을 객 관 적 으로 보지 못할 수 있다.\n이것이 바로 뉴 미디어 시 대 의 새로운 시 민 성 으로서 미디어 리 터 러 시 67600 168800) 가\n요 청 되는 이 유 이다.\n시 져서",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㅠㅠ 미디어 시대, 쌍방향 의 사 소 통 이 가 등 해진다."
+      },
+      {
+        "number": 2,
+        "text": "ㅠㅠ 미디어 시대, 빅 데이터 처리 기 술 이 요 청 된다."
+      },
+      {
+        "number": 3,
+        "text": "뉴 미디어 시대, 계층 간 정보 격 차 를 줄여야 한다."
+      },
+      {
+        "number": 4,
+        "text": "ㅠ 미디어 시대, 정 보 에 대한 접 근 이 더 용 이 해진다."
+      },
+      {
+        "number": 5,
+        "text": "ㅠ 미디어 시대, 정 보 에 대한 비판적 사 고 력 이 필 요 하다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.871,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:38+00:00",
+    "qa_flags": []
+  }
+}

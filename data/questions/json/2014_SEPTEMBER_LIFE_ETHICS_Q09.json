@@ -1,0 +1,73 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 6,
+    "question_number": 9,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      1919,
+      2999,
+      3323
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 다음 글 에 나타난 문 제 점 에 대한 적절한 해결 방 안 만을 < 보 기 >\n에서 있는 대로 고른 것은? [3 점 ]\n현대 정보 사 회 는 효율적인 통 제 가 가능한 _ 판 옵 티 콘 과\n유 사 하다. 판 옵 티 콘 에서는 중 앙 에 감 시 탑 을 세우고, 감 시 탑\n돌 레 에 죄 수 들의 방 을 배 치 한 다. 여기서 감 시 자 는 피 감 시 자 를\n볼 수 있지만 피 감 시 자 는 감 시 자 를 볼 수 없다. 이러한 구 조 로\n인해 피 감 시 자는 항상 감 시 를 받고 있다는 느 낌 을 갖게 된다.\n< 보 기 >\nㄱ . 개 인 의 사생활 보 호 를 위한 법적 장 치 를 강 화 해야 한다.\nㄴ . 특정 집 단 이 정 보 를 독 점 적 으로 관 리 하지 못하게 한다.\nㄷ . 기존 사회 질서 유 지 를 위한 첨단 감시 체 계 를 도 입 한다.\n2. 정보 소 통 에서 쌍 방 향 성 이 아닌 일 방 향 성 을 추 구 해 야 한다.\n0) ㄱ , ㄴ (20) ㄷ , 2 (3) ㄱ 7, ㄴ , ㄷ\n(0) ㄱ , ㄴ , 2 (66) ㄴ , ㄷ , 2",
+    "stem": "다음 글 에 나타난 문 제 점 에 대한 적절한 해결 방 안 만을 < 보 기 > 에서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "현대 정보 사 회 는 효율적인 통 제 가 가능한 _ 판 옵 티 콘 과\n유 사 하다. 판 옵 티 콘 에서는 중 앙 에 감 시 탑 을 세우고, 감 시 탑\n돌 레 에 죄 수 들의 방 을 배 치 한 다. 여기서 감 시 자 는 피 감 시 자 를\n볼 수 있지만 피 감 시 자 는 감 시 자 를 볼 수 없다. 이러한 구 조 로\n인해 피 감 시 자는 항상 감 시 를 받고 있다는 느 낌 을 갖게 된다.\n< 보 기 >\nㄱ . 개 인 의 사생활 보 호 를 위한 법적 장 치 를 강 화 해야 한다.\nㄴ . 특정 집 단 이 정 보 를 독 점 적 으로 관 리 하지 못하게 한다.\nㄷ . 기존 사회 질서 유 지 를 위한 첨단 감시 체 계 를 도 입 한다.\n2. 정보 소 통 에서 쌍 방 향 성 이 아닌 일 방 향 성 을 추 구 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄷ , 2"
+      },
+      {
+        "number": 3,
+        "text": "ㄱ 7, ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.896,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:41+00:00",
+    "qa_flags": []
+  }
+}

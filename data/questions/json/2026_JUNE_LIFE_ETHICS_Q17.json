@@ -1,0 +1,73 @@
+{
+  "id": "2026_JUNE_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 148,
+    "question_number": 17,
+    "exam_key": "2026_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1957,
+      1740,
+      3265
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_JUNE_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]\n갑 : 평화 연 맹 은 이 연 맹 에 참가한 국 가 들의 자 유 를 보 호 하고\n지 속 시 키 고 자 한다. 이 연 맹 의 이 념 은 서서히 모든 국 가 로\n확 산 되어야 한다. 그 럼 으로써 영원한 평 화 로 인 도 해 갈\n이 념 의 실현 가 능 성 은 분 명 해 질 것이다.\n을: 국제 정 치 는 퀸 력 을 얻기 위한 두 쟁 이다. 국제 정 치 의\n궁극 목표가 무 엇 이 든 간에 권 력 이 항상 일차적 목 표 이다.\n정 치 가나 국 민 이 궁 극 적 으로 추 구 하는 것 으 로 는 자유, 안전\n보장, 번영, 혹은 퀸 력 그 자체 등 이 있다.\n(01) 갑 : 평화 연 맹 이 많 아 질 수 록 영원한 평 화 에 가 까 워 질 수 있\n(2) 갑 : 국 제 법 의 이 념 은 독 립 적 인 국 가 들 간의 분 립 을 전 제 로 한다.\n3) 을: 국가 간의 동맹 없이는 국제 평 화 의 실 현 은 가 능 하 지 않\n0) 을: 국제 정 치 와 국내 정 치 가 그 본 질 에 있어서 같을 수 는 없다.\n5 갑과 을 : 국가 주 권 의 제한 없이 국제 평 화 의 실 현 은 불 가 능 하다.",
+    "stem": "감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 평화 연 맹 은 이 연 맹 에 참가한 국 가 들의 자 유 를 보 호 하고\n지 속 시 키 고 자 한다. 이 연 맹 의 이 념 은 서서히 모든 국 가 로\n확 산 되어야 한다. 그 럼 으로써 영원한 평 화 로 인 도 해 갈\n이 념 의 실현 가 능 성 은 분 명 해 질 것이다.\n을: 국제 정 치 는 퀸 력 을 얻기 위한 두 쟁 이다. 국제 정 치 의\n궁극 목표가 무 엇 이 든 간에 권 력 이 항상 일차적 목 표 이다.\n정 치 가나 국 민 이 궁 극 적 으로 추 구 하는 것 으 로 는 자유, 안전\n보장, 번영, 혹은 퀸 력 그 자체 등 이 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 평화 연 맹 이 많 아 질 수 록 영원한 평 화 에 가 까 워 질 수 있"
+      },
+      {
+        "number": 2,
+        "text": "갑 : 국 제 법 의 이 념 은 독 립 적 인 국 가 들 간의 분 립 을 전 제 로 한다."
+      },
+      {
+        "number": 3,
+        "text": "을: 국가 간의 동맹 없이는 국제 평 화 의 실 현 은 가 능 하 지 않"
+      },
+      {
+        "number": 4,
+        "text": "을: 국제 정 치 와 국내 정 치 가 그 본 질 에 있어서 같을 수 는 없다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을 : 국가 주 권 의 제한 없이 국제 평 화 의 실 현 은 불 가 능 하다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.913,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:23+00:00",
+    "qa_flags": []
+  }
+}

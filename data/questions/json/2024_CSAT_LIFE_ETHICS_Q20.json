@@ -1,0 +1,77 @@
+{
+  "id": "2024_CSAT_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 132,
+    "question_number": 20,
+    "exam_key": "2024_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2589,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_CSAT_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 그 림 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은? [3 점 ]\n\"\n문 명 의 충 돌 을 막기 위해 우 리 는 무 엇 보다 종교 간의\n관 용 과 적극적인 대 화 에 힘써야 합니다. 종교 간의\n갈 등 은 수많은 사 람 을 고 통 스 럽게 하고 사 회 와 국 가 의\n발 전 을 가 로 막 습니다. 이러한 갈 등 은 무 엇 보 다 자 신 의\n종 교 만을 맹 신 하고 타 종 교 를 인 정 하지 않는 배 타 적 인\n태 도 에 기 인 합니다. 종교 간의 대화 없이는 국가 안의\n평 화 는 물 론 이 고 국가 간의 평 화 도 불 가 능 합 니다.\n지 구 에 존 재 하는 주요 종 교 들 에는 비 폭 력 과 생명 존중,\n관 용 과 진실성, 연 대 와 정 의 로운 경제 질서, 평 등 과\n남녀 동반 관계 등 의 가 치 가 들어 있습니다. 종교 간의\n대 화 를 통해 이러한 가 치 들을 기 본 으로 하는 세계 윤 리 를\n도 출 하 여 평 화 로운 세 계 를 만들어야 합니다.\n0 종교 간의 평화 실 현 에 타 인 과 의 대화 역 량 은 불 필 요 하다.\n2) 다른 종 교 를 관 용 의 눈 으로 바 라 보 는 것은 불필요한 노 력 이다.\n8 종 교 의 통 일 이 문 명 의 충 돌 을 막을 수 있는 유일한 해 법 이다.\n0 종교 간의 같 등 은 사 회 와 국 가 의 발 전 과 어떠한 관 련 도 없다.\n5 편견 없이 타 종 교 를 이 해 하는 일 이 평 화 로운 공 존 의 초 석 이다.",
+    "stem": "그 림 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "\"\n문 명 의 충 돌 을 막기 위해 우 리 는 무 엇 보다 종교 간의\n관 용 과 적극적인 대 화 에 힘써야 합니다. 종교 간의\n갈 등 은 수많은 사 람 을 고 통 스 럽게 하고 사 회 와 국 가 의\n발 전 을 가 로 막 습니다. 이러한 갈 등 은 무 엇 보 다 자 신 의\n종 교 만을 맹 신 하고 타 종 교 를 인 정 하지 않는 배 타 적 인\n태 도 에 기 인 합니다. 종교 간의 대화 없이는 국가 안의\n평 화 는 물 론 이 고 국가 간의 평 화 도 불 가 능 합 니다.\n지 구 에 존 재 하는 주요 종 교 들 에는 비 폭 력 과 생명 존중,\n관 용 과 진실성, 연 대 와 정 의 로운 경제 질서, 평 등 과\n남녀 동반 관계 등 의 가 치 가 들어 있습니다. 종교 간의\n대 화 를 통해 이러한 가 치 들을 기 본 으로 하는 세계 윤 리 를\n도 출 하 여 평 화 로운 세 계 를 만들어야 합니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "종교 간의 평화 실 현 에 타 인 과 의 대화 역 량 은 불 필 요 하다."
+      },
+      {
+        "number": 2,
+        "text": "다른 종 교 를 관 용 의 눈 으로 바 라 보 는 것은 불필요한 노 력 이다."
+      },
+      {
+        "number": 3,
+        "text": "종 교 의 통 일 이 문 명 의 충 돌 을 막을 수 있는 유일한 해 법 이다."
+      },
+      {
+        "number": 4,
+        "text": "종교 간의 같 등 은 사 회 와 국 가 의 발 전 과 어떠한 관 련 도 없다."
+      },
+      {
+        "number": 5,
+        "text": "편견 없이 타 종 교 를 이 해 하는 일 이 평 화 로운 공 존 의 초 석 이다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.92,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:44+00:00",
+    "qa_flags": []
+  }
+}

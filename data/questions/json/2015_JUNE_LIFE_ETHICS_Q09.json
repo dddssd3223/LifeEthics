@@ -1,0 +1,73 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 14,
+    "question_number": 9,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      1884,
+      2999,
+      2922
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. (가), ( 나 ) 의 입 장 에서 모두 부 정 의 대 답 을 할 질 문 으로 옮 은 것은?\n(가) 이질적 요 소 가 유 입 되어 구 실 력 이 약 화 되면 사 회 는 와해\n된다. 이 질 성 을 제 거 하고 통 합 성 을 강 화 해야 사 회 는\n발 전 한 다. 따라서 중심 문 화 가 소수 문 화 를 흡 수 해야 한다.\n(나) 야 채 나 과 일 이 본 연 의 맛 과 향 을 유 지 하면서 소 스 와 어우\n러 질 때 맛있는 음 식 이 된다. 따라서 여러 문 화 가 각 각 의\n정 체 성 을 대 등 하게 유 지 하면서 조 화 를 이루어야 한다.\n03 다양한 문 화 가 동 등 하게 어 울 러 면서 공 존 해야 하는가?\n3) 소수 문 화 의 정 체 성 과 문화적 다 양 성 을 존 중 해야 하는가?\n중심 문 화 의 관 점 에서 문 화 의 단 일 성 을 유 지 해 야 하는가?\n@ 소수 문 화 는 중심 문화 속에 편 입 되어 동 질 화 되어야 하는가?\n주류 문 화 의 우 위 를 전 제 로 비주류 문 화 를 보 호 해야 하는가?",
+    "stem": "(가), ( 나 ) 의 입 장 에서 모두 부 정 의 대 답 을 할 질 문 으로 옮 은 것은?",
+    "passage": "(가) 이질적 요 소 가 유 입 되어 구 실 력 이 약 화 되면 사 회 는 와해\n된다. 이 질 성 을 제 거 하고 통 합 성 을 강 화 해야 사 회 는\n발 전 한 다. 따라서 중심 문 화 가 소수 문 화 를 흡 수 해야 한다.\n(나) 야 채 나 과 일 이 본 연 의 맛 과 향 을 유 지 하면서 소 스 와 어우\n러 질 때 맛있는 음 식 이 된다. 따라서 여러 문 화 가 각 각 의\n정 체 성 을 대 등 하게 유 지 하면서 조 화 를 이루어야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "다양한 문 화 가 동 등 하게 어 울 러 면서 공 존 해야 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "소수 문 화 의 정 체 성 과 문화적 다 양 성 을 존 중 해야 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "중심 문 화 의 관 점 에서 문 화 의 단 일 성 을 유 지 해 야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "소수 문 화 는 중심 문화 속에 편 입 되어 동 질 화 되어야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "주류 문 화 의 우 위 를 전 제 로 비주류 문 화 를 보 호 해야 하는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.914,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:59+00:00",
+    "qa_flags": []
+  }
+}

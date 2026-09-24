@@ -1,0 +1,73 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 23,
+    "question_number": 11,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      506,
+      1593,
+      1708
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 갑 , 을 사 상 가 의 직 엽 관 에 대한 설 명 으로 옮 지 않은 것은?\n갑 : 누구나 본 성 적 으 로 이 익 만 좋 아 하 기에 쉬운 일 만 을 원 하 고 ,\n힘든 일 을 싫 어 한다. 그래서 도 (\\) 에 정통한 군 자 는 사람\n들 마다 갑 고 무 거 움 을 나 누 어 메 [|] 서로 어울리게 한다.\n을: 각 자 는 타고난 성 향 에 따라 한 가지 일 에 배 치 되어야 한다.\n이는 각 자 가 폴 리 스 에 서 자 신 의 한 가지 일 에 종 사 함\n으로써 여 아닌 하 나 가 되도록 하기 위한 것이다.\n(1) 갑 은 백 성 들의 직업 활 동 이 욕망 충 족 과 무 관 해야 함 을 강 조 한 다.\n(2) 을 은 각 자 의 덕 을 발 휘 하여 국가 공 동 체 에 헌 신 할 것을 강 조 한 다.\n(3) 감은 직업 분 담 에서 예 (\\8) 를 , 을 은 각 자 의 탁 월 성 을 중 시 한다.\n0) 갑 , 을 은 사회적 분 업 을 토대로 한 사회 질서 유 지 를 중 시 한 다.\n(5) 갑 , 을 은 구성원 각 자 가 직 분 을 충실히 이 행 할 것을 강 조 한 다.",
+    "stem": "갑 , 을 사 상 가 의 직 엽 관 에 대한 설 명 으로 옮 지 않은 것은?",
+    "passage": "갑 : 누구나 본 성 적 으 로 이 익 만 좋 아 하 기에 쉬운 일 만 을 원 하 고 ,\n힘든 일 을 싫 어 한다. 그래서 도 (\\) 에 정통한 군 자 는 사람\n들 마다 갑 고 무 거 움 을 나 누 어 메 [|] 서로 어울리게 한다.\n을: 각 자 는 타고난 성 향 에 따라 한 가지 일 에 배 치 되어야 한다.\n이는 각 자 가 폴 리 스 에 서 자 신 의 한 가지 일 에 종 사 함\n으로써 여 아닌 하 나 가 되도록 하기 위한 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 백 성 들의 직업 활 동 이 욕망 충 족 과 무 관 해야 함 을 강 조 한 다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 각 자 의 덕 을 발 휘 하여 국가 공 동 체 에 헌 신 할 것을 강 조 한 다."
+      },
+      {
+        "number": 3,
+        "text": "감은 직업 분 담 에서 예 (\\8) 를 , 을 은 각 자 의 탁 월 성 을 중 시 한다."
+      },
+      {
+        "number": 4,
+        "text": "갑 , 을 은 사회적 분 업 을 토대로 한 사회 질서 유 지 를 중 시 한 다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 구성원 각 자 가 직 분 을 충실히 이 행 할 것을 강 조 한 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.911,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:18+00:00",
+    "qa_flags": []
+  }
+}

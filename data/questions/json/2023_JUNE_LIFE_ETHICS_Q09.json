@@ -1,0 +1,73 @@
+{
+  "id": "2023_JUNE_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 110,
+    "question_number": 9,
+    "exam_key": "2023_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2475
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_JUNE_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 감 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로\n고른 것은?\n갑 : 사 람 이 천 부 적 으로 타고난 것이나 사 회 의 어떤 특정한\n지 위 에 태 어 나 는 것은 정 의 롭 다 거나 부 정 의 하 다고 할 수\n없다. 이것은 단지 자연적 사 실 에 불 과 하다. 정의 여 부 가\n문 제 되 는 것은 제 도 가 그러한 사 실 들을 처 리 하 는 방 식 이다.\n을 : 정 형 적 분배 원 리 는 생 산 과 분 배 를 독립된 주 제 로 취 급 한다.\n하지만 소유 권 리 론 에 따르면 이들은 분 리 된 것이 아니다.\n생 산 과 관련된 사 람 들 의 과거 행 위 는 사 물 들 에 대한 차 별 적 인\n소유 권 리 를 창 조 한다.\n< 보 기 >\nㄱ . 갑 : 차 등 의 원 칙 은 자연적 운 의 도덕적 임 의 성 을 처 리 하는\n공정한 분 배 의 원 칙 어 다.\nㄴ . 갑 : 최소 수 혜 자 에게 이 득 이 된다면 천부적 재 능 으로 인한\n소득 격 차 도 허 용 될 수 있다.\nㄷ . 을: 역사적 원 리 에 따른 부의 불 평 등 은 정 당 화 될 수 있\n2. 갑 , 을: 개 인 은 사회적 운 의 결 과 물 에 대해 정당한 자 격 을\n갖지 않는\n00 ㅋㅋ, ㄴ (000 ㄱ , 크 (03) ㄷ , 큰\n04 7, ㄴㄴ ㄷ 06) ㄴ , ㄷ , 르\n” ”",
+    "stem": "감 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 사 람 이 천 부 적 으로 타고난 것이나 사 회 의 어떤 특정한\n지 위 에 태 어 나 는 것은 정 의 롭 다 거나 부 정 의 하 다고 할 수\n없다. 이것은 단지 자연적 사 실 에 불 과 하다. 정의 여 부 가\n문 제 되 는 것은 제 도 가 그러한 사 실 들을 처 리 하 는 방 식 이다.\n을 : 정 형 적 분배 원 리 는 생 산 과 분 배 를 독립된 주 제 로 취 급 한다.\n하지만 소유 권 리 론 에 따르면 이들은 분 리 된 것이 아니다.\n생 산 과 관련된 사 람 들 의 과거 행 위 는 사 물 들 에 대한 차 별 적 인\n소유 권 리 를 창 조 한다.\n< 보 기 >\nㄱ . 갑 : 차 등 의 원 칙 은 자연적 운 의 도덕적 임 의 성 을 처 리 하는\n공정한 분 배 의 원 칙 어 다.\nㄴ . 갑 : 최소 수 혜 자 에게 이 득 이 된다면 천부적 재 능 으로 인한\n소득 격 차 도 허 용 될 수 있다.\nㄷ . 을: 역사적 원 리 에 따른 부의 불 평 등 은 정 당 화 될 수 있\n2. 갑 , 을: 개 인 은 사회적 운 의 결 과 물 에 대해 정당한 자 격 을\n갖지 않는",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㅋㅋ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , 크"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴㄴ ㄷ ” ”"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.895,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:52+00:00",
+    "qa_flags": []
+  }
+}

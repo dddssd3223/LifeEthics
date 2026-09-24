@@ -1,0 +1,73 @@
+{
+  "id": "2016_CSAT_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 35,
+    "question_number": 13,
+    "exam_key": "2016_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      3190,
+      1739,
+      4454
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_CSAT_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 갑 , 을 의 입 장 에 대한 옮 은 설 명 만을 < 보 기 > 에 서 있는 대로\n고른 것은?\n갑 : 음 악 은 즐 거 움 1%8] 으 로, 사 람 의 감 정 상 없을 수 없지만\n도 리 에 맞지 않으면 어 지 러 워 진다. 선 왕 은 천 하 를 크게\n바 로 잡아 조 화 시 키 고 자 예 (08) 와 함께 음 악 을 제 정 했다.\n을: 음 식 의 목 적 이 즐 거 움 이 아닌 것처럼 예 술 의 목 적 도\n즐 거 움 이 아니다. 인간 상 호 간 의 교류 수 단 인 예 술 의\n목 적 은 이 웃 에 대한 사 랑 을 볼 러 일으키는 데 에 있다.\n< 보 기 >\nㄱ . 갑 은 예 에 부 합 하는 미적 욕 망 이 인 정 되어야 한다고 본다.\nㄴ . 감은 예 술 이 예술 안에서만 완 벽 함 을 추 구 해 야 한다고 본다.\nㄷ . 을 은 예 술 의 사회적 기 등 이 심미적 가 치 보다 중 요 하다고 본다.\n르 . 갑 , 을 은 예술 체 험 을 통해 도 덕 감 이 고 양 되어야 한다고 본다.\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄴ , 큰\n(0) ㄱ , ㄷ , 2 (6) ㄴ , ㄷ , 2",
+    "stem": "갑 , 을 의 입 장 에 대한 옮 은 설 명 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 음 악 은 즐 거 움 1%8] 으 로, 사 람 의 감 정 상 없을 수 없지만\n도 리 에 맞지 않으면 어 지 러 워 진다. 선 왕 은 천 하 를 크게\n바 로 잡아 조 화 시 키 고 자 예 (08) 와 함께 음 악 을 제 정 했다.\n을: 음 식 의 목 적 이 즐 거 움 이 아닌 것처럼 예 술 의 목 적 도\n즐 거 움 이 아니다. 인간 상 호 간 의 교류 수 단 인 예 술 의\n목 적 은 이 웃 에 대한 사 랑 을 볼 러 일으키는 데 에 있다.\n< 보 기 >\nㄱ . 갑 은 예 에 부 합 하는 미적 욕 망 이 인 정 되어야 한다고 본다.\nㄴ . 감은 예 술 이 예술 안에서만 완 벽 함 을 추 구 해 야 한다고 본다.\nㄷ . 을 은 예 술 의 사회적 기 등 이 심미적 가 치 보다 중 요 하다고 본다.\n르 . 갑 , 을 은 예술 체 험 을 통해 도 덕 감 이 고 양 되어야 한다고 본다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.889,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:36:43+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2026_JUNE_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 147,
+    "question_number": 13,
+    "exam_key": "2026_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3309,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_JUNE_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 다음 사 상 가 의 관 점 에서 < 문 제 상 황 > 속 에게 제 시 할 조 언 으로\n가장 적절한 것은? [3 점 ]\n선 의 지는 행 위 의 결 과 를 고 려 하는 마 음 이나 자연스러운\n마 음 의 경 향 성 에 따라 옮 은 행 위 를 지 향 하는 의 지 가 아니라,\n어떤 행 위 가 옮 다는 이 유 만으로 그 행 위 를 선 택 하는 의 지 이다,\n< 문 제 상 황 >\n고등학생 ㅅ 는 수 업 에 필요한 교 재 를 구 입 하겠다고 부 모 님 께\n말 씀 드리고 돈 을 받았다. 평소 웹툰 구 독 권 을 사고 싶었던 ㅅ 는\n그 돈 으로 교 재 를 구 입 할 지 , 웹툰 구 독 권 을 살지 고민 중이다,\n01 지 식 을 추 구 하는 자연적 성 향 에 부 합 하도록 행 동 하세요.\n2) 부 모 님 과 자 신 의 이 익 을 최 대 화 할 수 있도록 행 동 하세요.\n@ 부 모 님 과 의 약 속 을 지켜야 한다는 의 무 로부터 행 동 하세요.\n0 공 동 체 의 전 통 에 따른 신 의 의 덕 목 을 고 려 하여 행 동 하세요.\n5 자 신 에게 주어질 캐 락 의 질적 차 이 를 비 교 하여 행 동 하세요.",
+    "stem": "다음 사 상 가 의 관 점 에서 < 문 제 상 황 > 속 에게 제 시 할 조 언 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "선 의 지는 행 위 의 결 과 를 고 려 하는 마 음 이나 자연스러운\n마 음 의 경 향 성 에 따라 옮 은 행 위 를 지 향 하는 의 지 가 아니라,\n어떤 행 위 가 옮 다는 이 유 만으로 그 행 위 를 선 택 하는 의 지 이다,\n< 문 제 상 황 >\n고등학생 ㅅ 는 수 업 에 필요한 교 재 를 구 입 하겠다고 부 모 님 께\n말 씀 드리고 돈 을 받았다. 평소 웹툰 구 독 권 을 사고 싶었던 ㅅ 는\n그 돈 으로 교 재 를 구 입 할 지 , 웹툰 구 독 권 을 살지 고민 중이다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "지 식 을 추 구 하는 자연적 성 향 에 부 합 하도록 행 동 하세요."
+      },
+      {
+        "number": 2,
+        "text": "부 모 님 과 자 신 의 이 익 을 최 대 화 할 수 있도록 행 동 하세요."
+      },
+      {
+        "number": 3,
+        "text": "부 모 님 과 의 약 속 을 지켜야 한다는 의 무 로부터 행 동 하세요."
+      },
+      {
+        "number": 4,
+        "text": "공 동 체 의 전 통 에 따른 신 의 의 덕 목 을 고 려 하여 행 동 하세요."
+      },
+      {
+        "number": 5,
+        "text": "자 신 에게 주어질 캐 락 의 질적 차 이 를 비 교 하여 행 동 하세요."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.911,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:36+00:00",
+    "qa_flags": []
+  }
+}

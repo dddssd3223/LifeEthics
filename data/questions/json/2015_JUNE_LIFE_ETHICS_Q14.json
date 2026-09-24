@@ -1,0 +1,75 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 15,
+    "question_number": 14,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      501,
+      2999,
+      2513
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. (가) 사 상 의 입 장 에서 볼 때, 퍼즐 ( 나 ) 의 세로 날 말 (&) 에\n대한 설 명 으로 가장 적절한 것은?\n자 기 의 사 사 로 운 욕 심 을 이겨 예 (&) 에 함 치 되면\n(가) | 그것이 곧 인 ({-) 이 니 , 하 루 라도 그렇게 한다면 온\n세 상 이 인 을 따르게 된다.\n(^)\n(08)\n(0)\n(나) | [가로 열쇠]\n(&): 마 르 크 스 가 추 구 한 이상 사 회 로 , 능 력 에 따라 일하고\n필 요 에 따라 분 배 받는 사회. ( )( )( )( ) 사회.\n(8): ' 조 화 [ 지 ] 를 이 루 지 만 같지 않음 을 가리키는\n사 자 성 어 .\n(0): 악 행 에 대 비 되는 착한 행실.\n[세로 열쇠]\n(6): 이이\n0 모 두 가 아닌 특정 계 층 의 이 익 을 위해 추 구 되는 것이다.\n3) 인위적인 것으로 개 인 의 자유로운 삶 을 억 압 하는 것이다.\n8) 사회적 혼 란 을 극 복 하기 위해 계 약 에 의해 마련된 것이다.\n@ 공 동 체 가 지 향 하는 가 치 로서 사 익 보다 우 선 시 되는 것이다.\n6) 개 인 의 자 유 와 권 리 를 위해 보편적 가 치 로 존 재 하는 것이다.",
+    "stem": "(가) 사 상 의 입 장 에서 볼 때, 퍼즐 ( 나 ) 의 세로 날 말 (&) 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "자 기 의 사 사 로 운 욕 심 을 이겨 예 (&) 에 함 치 되면\n(가) | 그것이 곧 인 ({-) 이 니 , 하 루 라도 그렇게 한다면 온\n세 상 이 인 을 따르게 된다.\n(^)\n(08)\n(0)\n(나) | [가로 열쇠]\n(&): 마 르 크 스 가 추 구 한 이상 사 회 로 , 능 력 에 따라 일하고\n필 요 에 따라 분 배 받는 사회. ( )( )( )( ) 사회.\n(8): ' 조 화 [ 지 ] 를 이 루 지 만 같지 않음 을 가리키는\n사 자 성 어 .\n(0): 악 행 에 대 비 되는 착한 행실.\n[세로 열쇠]\n(6): 이이",
+    "choices": [
+      {
+        "number": 1,
+        "text": "모 두 가 아닌 특정 계 층 의 이 익 을 위해 추 구 되는 것이다."
+      },
+      {
+        "number": 2,
+        "text": "인위적인 것으로 개 인 의 자유로운 삶 을 억 압 하는 것이다."
+      },
+      {
+        "number": 3,
+        "text": "사회적 혼 란 을 극 복 하기 위해 계 약 에 의해 마련된 것이다."
+      },
+      {
+        "number": 4,
+        "text": "공 동 체 가 지 향 하는 가 치 로서 사 익 보다 우 선 시 되는 것이다."
+      },
+      {
+        "number": 5,
+        "text": "개 인 의 자 유 와 권 리 를 위해 보편적 가 치 로 존 재 하는 것이다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_lines=14"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.885,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:01+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2022_CSAT_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 107,
+    "question_number": 12,
+    "exam_key": "2022_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2156,
+      1740,
+      3318
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_CSAT_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 다 음 을 주장한 사 상 가 가 부 정 의 대 답 을 할 질 문 으로 가장 적절한\n것은? [3 점 ]\n인 간 은 기술 문 명 의 힘 으로 자 신 을 포함한 모든 것을 위 험 에\n빠 뜨 리 게 되었다. 이 성 과 결 탁 한 권 력 은 그 자 체 로 책 임 을 동반\n한다. 이것은 예 전 부 터 인간 상호 간에는 자 명 한 일 이었다. 인 간 의\n책 임 이 종 전 의 범 위 를 넘어서서 생 물 계 의 상 태 와 인간 종 족 의\n미 래 의 생 존 까 지 포 괄 하게 된 것은 권 력 의 확 장 과 연 관 되 어 있\n01 인 간 이 져야 할 책 임 은 자 신 이 가진 퀸 력 에 비 례 하는가?\n2 과학 기 술 의 비 의도적 결 과 는 책 임 의 대 상 에서 제 외 되는가?\n3) 경 험 하지 못한 미 래 의 위 협 으로부터 책 임 을 도 출 해 야 하는가?\n4: 퀸 리 를 주 장 하는 존재 외에도 현 세 대가 책 임 져야 할 대 상 이 있는가?\n5: 책임질 수 있는 능 력 으로부터 책 임 을 져야 하는 딩 위 가 노 출 되는가?",
+    "stem": "다 음 을 주장한 사 상 가 가 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "인 간 은 기술 문 명 의 힘 으로 자 신 을 포함한 모든 것을 위 험 에\n빠 뜨 리 게 되었다. 이 성 과 결 탁 한 권 력 은 그 자 체 로 책 임 을 동반\n한다. 이것은 예 전 부 터 인간 상호 간에는 자 명 한 일 이었다. 인 간 의\n책 임 이 종 전 의 범 위 를 넘어서서 생 물 계 의 상 태 와 인간 종 족 의\n미 래 의 생 존 까 지 포 괄 하게 된 것은 권 력 의 확 장 과 연 관 되 어 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인 간 이 져야 할 책 임 은 자 신 이 가진 퀸 력 에 비 례 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "과학 기 술 의 비 의도적 결 과 는 책 임 의 대 상 에서 제 외 되는가?"
+      },
+      {
+        "number": 3,
+        "text": "경 험 하지 못한 미 래 의 위 협 으로부터 책 임 을 도 출 해 야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "퀸 리 를 주 장 하는 존재 외에도 현 세 대가 책 임 져야 할 대 상 이 있는가?"
+      },
+      {
+        "number": 5,
+        "text": "책임질 수 있는 능 력 으로부터 책 임 을 져야 하는 딩 위 가 노 출 되는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.913,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:44+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 144,
+    "question_number": 19,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1641,
+      3148,
+      2872
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은\n서 로 에게 영 향 을 끼치는 사 람 들 은 어떤 공 민 적 체 제 에 속 해 야\n한다. 그런 체 제 에 귀 속 될 사 람 들 에 관 계 되는 모든 법 률 상의\n체 제 는 다음 중 하나이다. 첫째, 한 국가 안에서는 시 민 법 에\n따르는 체 제 이며 둘째, 국가 간 관 계 에서 국 제 법 에 따르는 체제\n이고 셋째, 사 람 이나 국 가 가 서로 영 향 을 줄 수 있는 관 계 에\n있으면서 보편 상 태 의 시 민 으로 고 려 되 는 한, 세계 시 민 법 에\n르는 체 제 이다. 이러한 분 류 는 영원한 평화 이 념 에 걸맞은\n필 연 적 인 것이다.\n0 시 민 법 체 제 가 한 국 가 의 대내적 정치 제 도 를 지정할 수 는 없다.\n2) 세계 시 민 법 은 이 방 인 의 환 대 퀸 과 영속적 체 류 권 을 보 장 한다.\n8 전쟁 상태 극 복 을 위해서는 주 권 이 국제 국 가 로 귀 속 되어야 한다.\n9 영원한 평 화 를 위해 국 가 는 어떠한 국 채 도 발 행 해서는 안 된다.\n5 국가 간 적대 행 위 가 종 식 되어야 영 윈 한 평화 실 현 이 가 능 하 다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은",
+    "passage": "서 로 에게 영 향 을 끼치는 사 람 들 은 어떤 공 민 적 체 제 에 속 해 야\n한다. 그런 체 제 에 귀 속 될 사 람 들 에 관 계 되는 모든 법 률 상의\n체 제 는 다음 중 하나이다. 첫째, 한 국가 안에서는 시 민 법 에\n따르는 체 제 이며 둘째, 국가 간 관 계 에서 국 제 법 에 따르는 체제\n이고 셋째, 사 람 이나 국 가 가 서로 영 향 을 줄 수 있는 관 계 에\n있으면서 보편 상 태 의 시 민 으로 고 려 되 는 한, 세계 시 민 법 에\n르는 체 제 이다. 이러한 분 류 는 영원한 평화 이 념 에 걸맞은\n필 연 적 인 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "시 민 법 체 제 가 한 국 가 의 대내적 정치 제 도 를 지정할 수 는 없다."
+      },
+      {
+        "number": 2,
+        "text": "세계 시 민 법 은 이 방 인 의 환 대 퀸 과 영속적 체 류 권 을 보 장 한다."
+      },
+      {
+        "number": 3,
+        "text": "전쟁 상태 극 복 을 위해서는 주 권 이 국제 국 가 로 귀 속 되어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "영원한 평 화 를 위해 국 가 는 어떠한 국 채 도 발 행 해서는 안 된다."
+      },
+      {
+        "number": 5,
+        "text": "국가 간 적대 행 위 가 종 식 되어야 영 윈 한 평화 실 현 이 가 능 하 다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=12558",
+      "vector_lines=1928"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.817,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:47:26+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 122,
+    "question_number": 8,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3144,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 현대 사상가 갑 , 을 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른\n것은?\n갑 : 도덕적 관 점 에서 볼 때 자연적 자 산 이 자 의 적 이건 아 니 건\n상 관 없이, 개 인 은 이에 대한 소유 권 리 를 지 니 며 이 로 부터\n창 출 되는 결 과 물 에 대해서도 그 러 하 다.\n을: 도덕적 관 점 에서 볼 때 자연적 자 산 은 자 의 적 이기 때문에,\n개 인 은 자 신 의 더 큰 천부적 등 력 을 사 회 에 있어서 더 유리한\n출 발 점 으로 이용할 자 격 은 없다.\n< 보 기 >\nㄱ . 갑 : 지능 지 수 에 따른 분배 원 리 는 역 사 적 이고 정 형 적 이 다.\nㄴ . 을: 사유 재 산 을 소 유 할 권 리 는 제 1 원 칙 에 의해 평 등 해야 한다.\nㄷ . 을: 천부적 능 력 이 분배 몸 의 결 정 에 미치는 영 향 을 경 감 시킬\n필 요 는 없다.\n르 . 갑과 을: 자 연 적 ㆍ 사회적 우 연 성의 이 용 에 따른 경제적\n불 평 등 은 허 용 될 수 있다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "현대 사상가 갑 , 을 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "갑 : 도덕적 관 점 에서 볼 때 자연적 자 산 이 자 의 적 이건 아 니 건\n상 관 없이, 개 인 은 이에 대한 소유 권 리 를 지 니 며 이 로 부터\n창 출 되는 결 과 물 에 대해서도 그 러 하 다.\n을: 도덕적 관 점 에서 볼 때 자연적 자 산 은 자 의 적 이기 때문에,\n개 인 은 자 신 의 더 큰 천부적 등 력 을 사 회 에 있어서 더 유리한\n출 발 점 으로 이용할 자 격 은 없다.\n< 보 기 >\nㄱ . 갑 : 지능 지 수 에 따른 분배 원 리 는 역 사 적 이고 정 형 적 이 다.\nㄴ . 을: 사유 재 산 을 소 유 할 권 리 는 제 1 원 칙 에 의해 평 등 해야 한다.\nㄷ . 을: 천부적 능 력 이 분배 몸 의 결 정 에 미치는 영 향 을 경 감 시킬\n필 요 는 없다.\n르 . 갑과 을: 자 연 적 ㆍ 사회적 우 연 성의 이 용 에 따른 경제적\n불 평 등 은 허 용 될 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.905,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:31+00:00",
+    "qa_flags": []
+  }
+}

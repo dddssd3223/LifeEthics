@@ -1,0 +1,79 @@
+{
+  "id": "2026_CSAT_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 159,
+    "question_number": 13,
+    "exam_key": "2026_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2065
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_CSAT_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 다 음 은 갑 , 을 사 상 가 들의 가상 대 화 이다. 갑 , 을 의 입 장 으로\n적절한 것 만 을 < 보 기 > 에 서 고른 것은? [3 점 ]\n인 간 은 자 신 의 모든 권 리 를 공 동 체 에 || 인 간 은 자 신 의 생명, 자유, 재 산 에 대한\n로 =\n완전히 양 도 합니다. 이것은 아무것도 || 소 유 를 보 존 하기 위 해 서 가 아니라면\n남겨 두지 않는 양 도 여서, 각 자 는 모두 ㅣ | 자연 상 태 의 자 유 를 단 념 하지도 사회\n에게 자 신 을 주 기 에 아 무 에게도 주지 || 및 정 부 에 자 신 을 구 속 시 키 지 도 않을\n않는 것 입 니다. 것 입니다.\n< 보 기 >\nㄱ . 갑 : 개 인 은 디 수 의 전체 의 지 에 복 종 함으로써 자 유 를 보 장 받는다.\nㄴ . 을: 입 법 권 은 어떤 정부 형 태 든 모는 국 가 에서 최고 권 력 이다.\nㄷ . 을 : 사회 계 약 과 소유권 행 사 에는 인 민 의 동 의 가 필 수 적 이다.\n2. 갑과 을 : 시 민 들 은 정 부 를 교 체 할 수 있는 권 력 을 갖는다.\n0700 0976 6 9042 662",
+    "stem": "다 음 은 갑 , 을 사 상 가 들의 가상 대 화 이다. 갑 , 을 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "인 간 은 자 신 의 모든 권 리 를 공 동 체 에 || 인 간 은 자 신 의 생명, 자유, 재 산 에 대한\n로 =\n완전히 양 도 합니다. 이것은 아무것도 || 소 유 를 보 존 하기 위 해 서 가 아니라면\n남겨 두지 않는 양 도 여서, 각 자 는 모두 ㅣ | 자연 상 태 의 자 유 를 단 념 하지도 사회\n에게 자 신 을 주 기 에 아 무 에게도 주지 || 및 정 부 에 자 신 을 구 속 시 키 지 도 않을\n않는 것 입 니다. 것 입니다.\n< 보 기 >\nㄱ . 갑 : 개 인 은 디 수 의 전체 의 지 에 복 종 함으로써 자 유 를 보 장 받는다.\nㄴ . 을: 입 법 권 은 어떤 정부 형 태 든 모는 국 가 에서 최고 권 력 이다.\nㄷ . 을 : 사회 계 약 과 소유권 행 사 에는 인 민 의 동 의 가 필 수 적 이다.\n2. 갑과 을 : 시 민 들 은 정 부 를 교 체 할 수 있는 권 력 을 갖는다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.895,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:56:35+00:00",
+    "qa_flags": []
+  }
+}

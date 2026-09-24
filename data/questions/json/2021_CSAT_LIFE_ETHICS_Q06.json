@@ -1,0 +1,73 @@
+{
+  "id": "2021_CSAT_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 94,
+    "question_number": 6,
+    "exam_key": "2021_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2103
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_CSAT_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 감은 긍정, 을 은 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?\n갑 : 유 전 적 결 함 이 있는 환 자 는 유전자 교정 기 술 의 헤 텍 으\n자 신 과 타 인 의 부정적 평 가 에서 벗어나 잃어버린 존 엄 을\n되 찾 을 수 있다. 이 기 술 의 활 용 은 개 인 의 유전자 선 호 에 달려\n있다. 인 류 는 자 신 의 의 도 에 맞게 유전 정 보 를 활 용 하여\n과학적 유 토 피 아 를 실현할 수 있다.\n을 : 유전자 교정 기 술 은 인 간 성 을 변 화 시킬 수 있어서 바 람 직 하지\n않다. 이 기 술 이 발 전 하면 인 류 는 생 명 체 를 지 적 (%089) 으 로\n설 계 할 수 있는 힙 을 가질 수밖에 없다. 그러나 유 전 자 의 좋고\n나 붐 을 인 간 이 판 단 해서는 안 된다. 왜냐하면 교 정 은 좋은 것이\n있 음 을 전 제 하는데, 변 화 하는 환 경 에 유 전 자 가 어떻게\n적 응 할 지 모르기 때 문 이 다.\n07 유전자 교정 기 술 은 인 간 의 정 체 성 에 변 화 를 줄 수 있는가?\n2) 유전자 교정 기 술 에 의해 생 명 체 의 등 력 이 강 화 될 수 있는가?\n6) 유전자 교정 기 술 에서 개 인 의 유전자 선 택 을 금 지 해 야 하는가?\n@) 유전자 교정 기 술 을 활 용 하는 과 정 에서 윤리 꾼 제가 생길 수 있는가?\n9) 규 전자 교정 기 술 에서 인 간 이 유 전 자 의 가 치 를 판 단 하는 것은 정 당 한 기?",
+    "stem": "감은 긍정, 을 은 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?",
+    "passage": "갑 : 유 전 적 결 함 이 있는 환 자 는 유전자 교정 기 술 의 헤 텍 으\n자 신 과 타 인 의 부정적 평 가 에서 벗어나 잃어버린 존 엄 을\n되 찾 을 수 있다. 이 기 술 의 활 용 은 개 인 의 유전자 선 호 에 달려\n있다. 인 류 는 자 신 의 의 도 에 맞게 유전 정 보 를 활 용 하여\n과학적 유 토 피 아 를 실현할 수 있다.\n을 : 유전자 교정 기 술 은 인 간 성 을 변 화 시킬 수 있어서 바 람 직 하지\n않다. 이 기 술 이 발 전 하면 인 류 는 생 명 체 를 지 적 (%089) 으 로\n설 계 할 수 있는 힙 을 가질 수밖에 없다. 그러나 유 전 자 의 좋고\n나 붐 을 인 간 이 판 단 해서는 안 된다. 왜냐하면 교 정 은 좋은 것이\n있 음 을 전 제 하는데, 변 화 하는 환 경 에 유 전 자 가 어떻게\n적 응 할 지 모르기 때 문 이 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "유전자 교정 기 술 은 인 간 의 정 체 성 에 변 화 를 줄 수 있는가?"
+      },
+      {
+        "number": 2,
+        "text": "유전자 교정 기 술 에 의해 생 명 체 의 등 력 이 강 화 될 수 있는가?"
+      },
+      {
+        "number": 3,
+        "text": "유전자 교정 기 술 에서 개 인 의 유전자 선 택 을 금 지 해 야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "유전자 교정 기 술 을 활 용 하는 과 정 에서 윤리 꾼 제가 생길 수 있는가?"
+      },
+      {
+        "number": 5,
+        "text": "규 전자 교정 기 술 에서 인 간 이 유 전 자 의 가 치 를 판 단 하는 것은 정 당 한 기?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.897,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:12+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2023_JUNE_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 112,
+    "question_number": 19,
+    "exam_key": "2023_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2825
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_JUNE_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 갑 을, 병 사 상 가 들 의 입 장 을 (나) 그 림 으로 퓨 현 할 때,\nㅅ ~)1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n갑 : 어떤 존 재 가 고 통 과 즐 거 움 을 경험할 수 있는 능 력 이\n있는지 없 는 지 는 우 리 가 그 존 재 들의 이 익 에 관 심 을\n가 질 지 여 부 를 판 가 름 하는 유일한 경 계 가 된다.\n을 : 동 물 은 비록 이성은 없 을 지라도 살아 있는 피 조 물 임을\n( 가 !| 고려할 때, 동 물 을 폭 력 적 으로 잔 인 하게 다루는 것은\n인간 자 신 에 대한 의 무 를 거스르는 것이다.\n병 : 대지 윤 리 는 인 류 의 역 할 을 토지 공 동 체 의 정 복 자 에서\n평범한 구 성 원 으로 변 화 시키며, 동료 구 성 윈 에 대한\n존 중 을 필 연 적 으로 수 반 한다.\n< 범 례 >\n스 : 갑 만의 입장\n(나)\n0: 을 만의 입장\n6: 병 만의 입장\n1: 갑과 병 만의 공통 입장\n< 보 기 >\nㄱ . ㅅ : 동 물 에 대한 인 간 의 행 위 는 공 리 의 원 리 에 근 거 해 야 한다.\nㄴ . 8: 모든 동 물 에게 인 간 과 동등한 도덕적 지 위 를 부 여 하는 것은\n옮 지 않\nㄷ . (:: 어떤 존 재 가 생 명 을 지닌 개 체 가 아 니 어도 도덕적 지 위 를\n가질 수 있다.\n2. 1): 쾌 고 감수 능 력 의 보유 여 부 에 의해 개 체 의 도덕적 지 위 가\n결 정 된 다.\n0) ㄱ 7, ㄷ (0) ㄱ , 르 (3) ㄴ , 크\n040 ㄱㄴㄷ 06) ㄴ , ㄷ , 르",
+    "stem": "( 가 ) 의 갑 을, 병 사 상 가 들 의 입 장 을 (나) 그 림 으로 퓨 현 할 때, ㅅ ~)1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 어떤 존 재 가 고 통 과 즐 거 움 을 경험할 수 있는 능 력 이\n있는지 없 는 지 는 우 리 가 그 존 재 들의 이 익 에 관 심 을\n가 질 지 여 부 를 판 가 름 하는 유일한 경 계 가 된다.\n을 : 동 물 은 비록 이성은 없 을 지라도 살아 있는 피 조 물 임을\n( 가 !| 고려할 때, 동 물 을 폭 력 적 으로 잔 인 하게 다루는 것은\n인간 자 신 에 대한 의 무 를 거스르는 것이다.\n병 : 대지 윤 리 는 인 류 의 역 할 을 토지 공 동 체 의 정 복 자 에서\n평범한 구 성 원 으로 변 화 시키며, 동료 구 성 윈 에 대한\n존 중 을 필 연 적 으로 수 반 한다.\n< 범 례 >\n스 : 갑 만의 입장\n(나)\n0: 을 만의 입장\n6: 병 만의 입장\n1: 갑과 병 만의 공통 입장\n< 보 기 >\nㄱ . ㅅ : 동 물 에 대한 인 간 의 행 위 는 공 리 의 원 리 에 근 거 해 야 한다.\nㄴ . 8: 모든 동 물 에게 인 간 과 동등한 도덕적 지 위 를 부 여 하는 것은\n옮 지 않\nㄷ . (:: 어떤 존 재 가 생 명 을 지닌 개 체 가 아 니 어도 도덕적 지 위 를\n가질 수 있다.\n2. 1): 쾌 고 감수 능 력 의 보유 여 부 에 의해 개 체 의 도덕적 지 위 가\n결 정 된 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ 7, ㄷ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , 르"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 크"
+      },
+      {
+        "number": 4,
+        "text": "ㄱㄴㄷ"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.883,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:57+00:00",
+    "qa_flags": []
+  }
+}

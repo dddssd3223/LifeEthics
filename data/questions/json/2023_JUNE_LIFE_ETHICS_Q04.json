@@ -1,0 +1,75 @@
+{
+  "id": "2023_JUNE_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 109,
+    "question_number": 4,
+    "exam_key": "2023_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1057,
+      3149,
+      2931
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_JUNE_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 다 음 의 가상 대 화 에서 에 들어갈 주 장 으로 가장 적절한 것은?\n사 람 은 언 젠 가 는 죽 음 을 맞이할 수밖에\n없다는 것이 두 렵 습니다. 선 생 님 은 이에\n죽 음 이란 우 리 에 게 아무것도\n대해 어떻게 생 각 하십니까?\n아닙니다.\n우 리 가 두 려 워 해야 할 유일한 것은 고통\n입니다. 그런데 감 각 을 상 실 하면 고 통 을\n느낄 수 없습니다. 그리고 우 리 가 죽게\n| 그 이 유 는 무 엇 입니까? | 되면 모든 감각 능 력 을 상 실 합니다. 따라서\n배\n01) 죽은 후에 감각 능 력 이 없으므로 죽 음 을 두 려 워 해 야 합니다.\n(2) 죽은 후에 고 통 을 겪지 않도록 죽 음 을 두 려 워 하지 말아야 합니다.\n(3) 죽은 후에 고 통 을 겪을 수도 있으므로 음 죽 을 두 려 워 해야 합니다\n0) 죽은 후에 고 통 을 겪을 수 없으므로 죽 음 을 두 려 워 할 필 요 가\n없습니다.\n(6) 죽은 후에 쾌 락 을 얻을 수도 있으므로 죽 음 을 두 려 워 할 필 요 가\n없습니다.",
+    "stem": "다 음 의 가상 대 화 에서 에 들어갈 주 장 으로 가장 적절한 것은?",
+    "passage": "사 람 은 언 젠 가 는 죽 음 을 맞이할 수밖에\n없다는 것이 두 렵 습니다. 선 생 님 은 이에\n죽 음 이란 우 리 에 게 아무것도\n대해 어떻게 생 각 하십니까?\n아닙니다.\n우 리 가 두 려 워 해야 할 유일한 것은 고통\n입니다. 그런데 감 각 을 상 실 하면 고 통 을\n느낄 수 없습니다. 그리고 우 리 가 죽게\n| 그 이 유 는 무 엇 입니까? | 되면 모든 감각 능 력 을 상 실 합니다. 따라서\n배",
+    "choices": [
+      {
+        "number": 1,
+        "text": "죽은 후에 감각 능 력 이 없으므로 죽 음 을 두 려 워 해 야 합니다."
+      },
+      {
+        "number": 2,
+        "text": "죽은 후에 고 통 을 겪지 않도록 죽 음 을 두 려 워 하지 말아야 합니다."
+      },
+      {
+        "number": 3,
+        "text": "죽은 후에 고 통 을 겪을 수도 있으므로 음 죽 을 두 려 워 해야 합니다"
+      },
+      {
+        "number": 4,
+        "text": "죽은 후에 고 통 을 겪을 수 없으므로 죽 음 을 두 려 워 할 필 요 가 없습니다."
+      },
+      {
+        "number": 5,
+        "text": "죽은 후에 쾌 락 을 얻을 수도 있으므로 죽 음 을 두 려 워 할 필 요 가 없습니다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.918,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:50+00:00",
+    "qa_flags": []
+  }
+}

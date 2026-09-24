@@ -1,0 +1,73 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 14,
+    "question_number": 8,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      501,
+      2999,
+      1884
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다 음 은 서양 근대 사 상 가 와의 가상 대 담 이다. (에 들어갈 진 술 로\n가장 적절한 것은? [3 점 |]\n사회자: 선 생 님 은 인 간 의 모든 행 위 는 반드시 자 신 을 포함한\n모든 사 람 의 인 격 을 단지 수 단 이 아니라 목 적 으로\n대 우 해야 한다. 는 원 리 와 함께 자율성 을 존중할\n것을 강 조 하셨습니다. 이때 자 율 성 이란 무 엿 을 의미\n하나요?\n사상가: 자 율 성 이란 이 성 적 으로 판 단 하여 옮 다 는 이유 때문에\n어떤 행 위 를 스스로 선 택 하는 것 입니다.\n사회자: 그렇다면 선 생 님 은 돈 이 필요해 장기 이 식 을 스스로\n결정한 행 위 에 대해 어떻게 생 각 하십니까?\n사상가: 그 행 위 는 보\n09 사회적 공 감 대 를 연기 어 려 우 므로 금 지 해야 합니다.\n(3) 장기 제 공 자 의 자발적 동 의 가 있으므로 허 용 해야 합니다.\n(8) 장 기 가 필요한 환 자 를 살릴 수 있으므로 허 용 해야 합니다.\n@ 장기 제 공 자 의 인격적 가 치 를 훼 손 하므로 금 지 해야 합니다.\n9) 자 연 의 섭 리 에 위 배 되는 인위적 조 작 이므로 금 지 해야 합니다.",
+    "stem": "다 음 은 서양 근대 사 상 가 와의 가상 대 담 이다. (에 들어갈 진 술 로 가장 적절한 것은? [3 점 |]",
+    "passage": "사회자: 선 생 님 은 인 간 의 모든 행 위 는 반드시 자 신 을 포함한\n모든 사 람 의 인 격 을 단지 수 단 이 아니라 목 적 으로\n대 우 해야 한다. 는 원 리 와 함께 자율성 을 존중할\n것을 강 조 하셨습니다. 이때 자 율 성 이란 무 엿 을 의미\n하나요?\n사상가: 자 율 성 이란 이 성 적 으로 판 단 하여 옮 다 는 이유 때문에\n어떤 행 위 를 스스로 선 택 하는 것 입니다.\n사회자: 그렇다면 선 생 님 은 돈 이 필요해 장기 이 식 을 스스로\n결정한 행 위 에 대해 어떻게 생 각 하십니까?\n사상가: 그 행 위 는 보",
+    "choices": [
+      {
+        "number": 1,
+        "text": "사회적 공 감 대 를 연기 어 려 우 므로 금 지 해야 합니다."
+      },
+      {
+        "number": 2,
+        "text": "장기 제 공 자 의 자발적 동 의 가 있으므로 허 용 해야 합니다."
+      },
+      {
+        "number": 3,
+        "text": "장 기 가 필요한 환 자 를 살릴 수 있으므로 허 용 해야 합니다."
+      },
+      {
+        "number": 4,
+        "text": "장기 제 공 자 의 인격적 가 치 를 훼 손 하므로 금 지 해야 합니다."
+      },
+      {
+        "number": 5,
+        "text": "자 연 의 섭 리 에 위 배 되는 인위적 조 작 이므로 금 지 해야 합니다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.894,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:59+00:00",
+    "qa_flags": []
+  }
+}

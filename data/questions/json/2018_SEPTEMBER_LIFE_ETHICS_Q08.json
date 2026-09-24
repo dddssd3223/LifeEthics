@@ -1,0 +1,73 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 54,
+    "question_number": 8,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3328,
+      1592,
+      4297
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다음 서양 사 상 가 가 궁 정 의 대 답 을 할 질 문 으로 옮 은 것은? [3 점 ]\n시민 불 복 종 은 법 이나 정 부 의 정 책 에 변 혁 을 가 져 을 목적\n으로 행 해 지 는, 공 공 적이고 비 폭 력 적 이 며 양 심 적 이긴 하지만\n법 에 반하는 정치적 행 위 이다. 이러한 행 위 를 통해서 우 리 는\n공동 사 회 의 다 수 자가 갖고 있는 정 의 감 을 드러내고, 자유롭고\n평 등 한 개 인 들 사 이 에서 정 의 의 원 칙 이 존 중 되고 있지 않 음 을\n보여 준다.\n0) 시민 불 복 종 은 정치 체 제 를 변 혁 하기 위한 폭력 행 위 인가?\n(3) 시민 불 복 종 은 공 개 적 으로 주 목 받아야 할 위법 행 위 인가?\n(3) 시민 불 복 종 은 처 벌 을 피 하 고 자 하는 정치적 행 위 인가?\n(4) 시민 불 복 종 은 다 수 자의 정 의 감 을 거 부 하는 행 위 인가?\n(5) 시민 불 복 종 은 정 의 의 원 칙 을 위 반 하는 행 위 인가?",
+    "stem": "다음 서양 사 상 가 가 궁 정 의 대 답 을 할 질 문 으로 옮 은 것은? [3 점 ]",
+    "passage": "시민 불 복 종 은 법 이나 정 부 의 정 책 에 변 혁 을 가 져 을 목적\n으로 행 해 지 는, 공 공 적이고 비 폭 력 적 이 며 양 심 적 이긴 하지만\n법 에 반하는 정치적 행 위 이다. 이러한 행 위 를 통해서 우 리 는\n공동 사 회 의 다 수 자가 갖고 있는 정 의 감 을 드러내고, 자유롭고\n평 등 한 개 인 들 사 이 에서 정 의 의 원 칙 이 존 중 되고 있지 않 음 을\n보여 준다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "시민 불 복 종 은 정치 체 제 를 변 혁 하기 위한 폭력 행 위 인가?"
+      },
+      {
+        "number": 2,
+        "text": "시민 불 복 종 은 공 개 적 으로 주 목 받아야 할 위법 행 위 인가?"
+      },
+      {
+        "number": 3,
+        "text": "시민 불 복 종 은 처 벌 을 피 하 고 자 하는 정치적 행 위 인가?"
+      },
+      {
+        "number": 4,
+        "text": "시민 불 복 종 은 다 수 자의 정 의 감 을 거 부 하는 행 위 인가?"
+      },
+      {
+        "number": 5,
+        "text": "시민 불 복 종 은 정 의 의 원 칙 을 위 반 하는 행 위 인가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.917,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:38+00:00",
+    "qa_flags": []
+  }
+}

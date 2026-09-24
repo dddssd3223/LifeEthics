@@ -1,0 +1,73 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 103,
+    "question_number": 13,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3278,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n국 가 들 사 이 의 영원한 평 화 를 위한 확정 조 항 은 다 음 과 같다.\n첫째, 모든 국 가 의 시 민 적 정치 체 제 는 공화 정 체 여야 한다.\n모든 입 법 은 근원적 계 약 의 이 념 에서 나오는 공화 정 체 에 기초\n해야만 한다. 둘째, 국 제 법 은 자유로운 국 가 들의 연방 체 제 에\n기 초 해야 한다. 국 가 들은 국 제 법 의 이 념 에 따라 움 직 이 지 않 기 에\n전 쟁 을 방 지 하기 위하여 지속적인 연 맹 이 필 요 하다. 셋째, 세계\n시 민 법 은 보편적 우 호 의 조 건 들 에 국 한 되어야 한다. 여기서\n우 호 란 외 국 인 이 타 국 의 영 토 에 도 착 했다고 해서 적 대 적 으로\n취 급 받지 않을 권 리 를 의 미 한다.\n0) 국제 관 계 에서는 국 가 가 유일한 행 위 자 로 간 주 된다.\n(2) 국제 연 맹 은 국 가 와 같은 주 권 적 권 력 으로 기 능 해야 한다.\n(3) 평화 조 약 을 통해 모든 전 쟁 들을 영원히 종 식 시킬 수 있다.\n@) 국가 간 분 쟁 의 해 소 가 영원한 평화 실 현 의 충 분 조 건 은 아니다.\n5 정치 체 제 의 개 선 이 평 화 의 실 현 을 위한 전제 조 건 은 아니다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "국 가 들 사 이 의 영원한 평 화 를 위한 확정 조 항 은 다 음 과 같다.\n첫째, 모든 국 가 의 시 민 적 정치 체 제 는 공화 정 체 여야 한다.\n모든 입 법 은 근원적 계 약 의 이 념 에서 나오는 공화 정 체 에 기초\n해야만 한다. 둘째, 국 제 법 은 자유로운 국 가 들의 연방 체 제 에\n기 초 해야 한다. 국 가 들은 국 제 법 의 이 념 에 따라 움 직 이 지 않 기 에\n전 쟁 을 방 지 하기 위하여 지속적인 연 맹 이 필 요 하다. 셋째, 세계\n시 민 법 은 보편적 우 호 의 조 건 들 에 국 한 되어야 한다. 여기서\n우 호 란 외 국 인 이 타 국 의 영 토 에 도 착 했다고 해서 적 대 적 으로\n취 급 받지 않을 권 리 를 의 미 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "국제 관 계 에서는 국 가 가 유일한 행 위 자 로 간 주 된다."
+      },
+      {
+        "number": 2,
+        "text": "국제 연 맹 은 국 가 와 같은 주 권 적 권 력 으로 기 능 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "평화 조 약 을 통해 모든 전 쟁 들을 영원히 종 식 시킬 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "국가 간 분 쟁 의 해 소 가 영원한 평화 실 현 의 충 분 조 건 은 아니다."
+      },
+      {
+        "number": 5,
+        "text": "정치 체 제 의 개 선 이 평 화 의 실 현 을 위한 전제 조 건 은 아니다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.922,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:37+00:00",
+    "qa_flags": []
+  }
+}

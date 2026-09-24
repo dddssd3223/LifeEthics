@@ -1,0 +1,73 @@
+{
+  "id": "2016_CSAT_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 34,
+    "question_number": 10,
+    "exam_key": "2016_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1763,
+      3543,
+      3145,
+      4454
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_CSAT_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. (가), (나) 사 상 의 입 장 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]\n무 명 ( 뼈 ) 에 가려진 중 생 들이 이 세 상 에 서 저 세 상 으로\n(가) | 서로 오가는 것은 네 가지 성스러운 진 리 [04 뽀 \\] 를 모르기\n때 문 이 다 .\n삶 과 죽 음 은 마치 사 계 절 의 변 화 와 같다. 삶 을 좋 아 함 은\n(나) | 미 혹 (689 이 고, 죽 음 을 싫 어 함 은 타 향 에 안 주 하여 고 향 에\n돌아갈 줄 모르는 사 람 과 같다.\n0) ( 가 ) 는 죽 음 을 다른 존 재 로 윤 회 하는 고 리 가 단절된 상 태 라구 본다.\n(2) ( 나 ) 는 사 후 의 평 온 보다 현 세 에서 인 ({_) 의 실 천 이 중 요 하다고 본다.\n(3) ( 가 ) 는 ( 나 ) 와 달리 음 죽 을 삶 의 모는 번 뇌 가 소 멸 한 상 태 라 고 본다.\n(0) ( 나 ) 는 ( 가 ) 와 달리 죽 음 을 흘 어져 있던 기가 모인 상 태 라고 본다.\n(65) (가), ( 나 ) 는 생 사 를 차 별 해서는 안 되는 순 환 의 과 정 이라고 본다.",
+    "stem": "(가), (나) 사 상 의 입 장 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "무 명 ( 뼈 ) 에 가려진 중 생 들이 이 세 상 에 서 저 세 상 으로\n(가) | 서로 오가는 것은 네 가지 성스러운 진 리 [04 뽀 \\] 를 모르기\n때 문 이 다 .\n삶 과 죽 음 은 마치 사 계 절 의 변 화 와 같다. 삶 을 좋 아 함 은\n(나) | 미 혹 (689 이 고, 죽 음 을 싫 어 함 은 타 향 에 안 주 하여 고 향 에\n돌아갈 줄 모르는 사 람 과 같다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "( 가 ) 는 죽 음 을 다른 존 재 로 윤 회 하는 고 리 가 단절된 상 태 라구 본다."
+      },
+      {
+        "number": 2,
+        "text": "( 나 ) 는 사 후 의 평 온 보다 현 세 에서 인 ({_) 의 실 천 이 중 요 하다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "( 가 ) 는 ( 나 ) 와 달리 음 죽 을 삶 의 모는 번 뇌 가 소 멸 한 상 태 라 고 본다."
+      },
+      {
+        "number": 4,
+        "text": "( 나 ) 는 ( 가 ) 와 달리 죽 음 을 흘 어져 있던 기가 모인 상 태 라고 본다."
+      },
+      {
+        "number": 5,
+        "text": "(가), ( 나 ) 는 생 사 를 차 별 해서는 안 되는 순 환 의 과 정 이라고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.898,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:36:43+00:00",
+    "qa_flags": []
+  }
+}

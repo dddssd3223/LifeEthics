@@ -1,0 +1,73 @@
+{
+  "id": "2026_JUNE_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 146,
+    "question_number": 6,
+    "exam_key": "2026_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1862
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_JUNE_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n시민 불 복 종 은 민주 사 회 를 특 징 짓는 공 공 적인 정 의 관 으로부터\n생 겨 난 다. 시민 불 복 종 의 이 론 은 입헌 민 주 주 의 에 대한 법적인\n관 점 을 보 충 하고 있다. 그것은 법 에 반하는 것 이 긴 하지만 법 에\n대한 충 실 성과 민주 체 제 의 정치적 원 리 들 에 호 수 하 는 방 식 으로\n합 법 적 인 민주적 권 위 에 반 대 할 수 있는 근 거 를 정 식 화 하는\n것이다.\n00 사회 기본 구 주 의 규제 윈 칙 에 대한 시민 불 복 좋 이 허 용 될 수 는 없다\n2) 시민 불 복 종 이 성 립 하지 않는 사 회 는 부 정 의 하 다고 볼 수밖에 없다\n8 시민 불 복 종 이 정 의 로운 체 제 의 안 정 성 을 이유로 제 한 될 수 는 없다\n9 기본적 자 유 를 제 한 하는 법 은 시민 불 복 종 의 대 상 일 수밖에 없다.\n5 헌 법 에 근거한 법 을 위 반 하는 시민 불 복 종 이 정 딩 화 될 수 는 없다",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "시민 불 복 종 은 민주 사 회 를 특 징 짓는 공 공 적인 정 의 관 으로부터\n생 겨 난 다. 시민 불 복 종 의 이 론 은 입헌 민 주 주 의 에 대한 법적인\n관 점 을 보 충 하고 있다. 그것은 법 에 반하는 것 이 긴 하지만 법 에\n대한 충 실 성과 민주 체 제 의 정치적 원 리 들 에 호 수 하 는 방 식 으로\n합 법 적 인 민주적 권 위 에 반 대 할 수 있는 근 거 를 정 식 화 하는\n것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "사회 기본 구 주 의 규제 윈 칙 에 대한 시민 불 복 좋 이 허 용 될 수 는 없다"
+      },
+      {
+        "number": 2,
+        "text": "시민 불 복 종 이 성 립 하지 않는 사 회 는 부 정 의 하 다고 볼 수밖에 없다"
+      },
+      {
+        "number": 3,
+        "text": "시민 불 복 종 이 정 의 로운 체 제 의 안 정 성 을 이유로 제 한 될 수 는 없다"
+      },
+      {
+        "number": 4,
+        "text": "기본적 자 유 를 제 한 하는 법 은 시민 불 복 종 의 대 상 일 수밖에 없다."
+      },
+      {
+        "number": 5,
+        "text": "헌 법 에 근거한 법 을 위 반 하는 시민 불 복 종 이 정 딩 화 될 수 는 없다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.894,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:18+00:00",
+    "qa_flags": []
+  }
+}

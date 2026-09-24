@@ -1,0 +1,73 @@
+{
+  "id": "2021_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 86,
+    "question_number": 8,
+    "exam_key": "2021_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3315,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n인 간 이 자기 집 에서 사는 것을 거 주 라고 한다. 그러나 거 주 는\n우 리 가 단순히 어떤 낮 선 공 간 에 존 재 하거나 머무르는 것 이상의\n의 미 를 지닌다. 거 주 는 특정 장 소 를 집 으로 심 아 그 앞에서 뿌 러 를\n내리고 거 기 에 속해 있는 것이다. 또한 거 주 는 마음 내키는 대로\n저지르는 행 위 가 아니라 자기 삶 의 의 미 를 찾고 인 간 과 세 계 의\n관계 전 체 를 규 정 하는 행 위 이다. 이런 거 주 는 본 래 부터 타고난\n능 력 으로 주어지는 것이 아니라 자 신 의 존 재 를 쏟아 봇 는 각별한\n노 력 을 통해 획 득 된 다.\n(01) 거 주 는 행 위 나 능 력 이 아니라 장 소 에 속해 있는 방 식 이다.\n(0) 삶 의 의 미 가 담겨 있는 거 주 는 인 간 에게 선 천 적 으로 주어져 있다.\n(3) 거 주 는 인 간 이 집 에 머무르는 것 이외에 어떤 의 미 도 지니지 않는다.\n@) 거 주 는 친숙한 공 간 에서 편 안 함 을 얻고 삶 의 기 초 를 빌 견 하는 것이다.\n(5) 거 주 는 인 간 이 세 계 로부터 영원히 격 리 되어 삶 의 의 미 를 찾는 것이다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "인 간 이 자기 집 에서 사는 것을 거 주 라고 한다. 그러나 거 주 는\n우 리 가 단순히 어떤 낮 선 공 간 에 존 재 하거나 머무르는 것 이상의\n의 미 를 지닌다. 거 주 는 특정 장 소 를 집 으로 심 아 그 앞에서 뿌 러 를\n내리고 거 기 에 속해 있는 것이다. 또한 거 주 는 마음 내키는 대로\n저지르는 행 위 가 아니라 자기 삶 의 의 미 를 찾고 인 간 과 세 계 의\n관계 전 체 를 규 정 하는 행 위 이다. 이런 거 주 는 본 래 부터 타고난\n능 력 으로 주어지는 것이 아니라 자 신 의 존 재 를 쏟아 봇 는 각별한\n노 력 을 통해 획 득 된 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "거 주 는 행 위 나 능 력 이 아니라 장 소 에 속해 있는 방 식 이다."
+      },
+      {
+        "number": 2,
+        "text": "삶 의 의 미 가 담겨 있는 거 주 는 인 간 에게 선 천 적 으로 주어져 있다."
+      },
+      {
+        "number": 3,
+        "text": "거 주 는 인 간 이 집 에 머무르는 것 이외에 어떤 의 미 도 지니지 않는다."
+      },
+      {
+        "number": 4,
+        "text": "거 주 는 친숙한 공 간 에서 편 안 함 을 얻고 삶 의 기 초 를 빌 견 하는 것이다."
+      },
+      {
+        "number": 5,
+        "text": "거 주 는 인 간 이 세 계 로부터 영원히 격 리 되어 삶 의 의 미 를 찾는 것이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:54+00:00",
+    "qa_flags": []
+  }
+}

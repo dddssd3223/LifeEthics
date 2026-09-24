@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 28,
+    "question_number": 16,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      130,
+      757,
+      1783,
+      2702
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q16.png",
+    "raw_text": ".16. (가) 사 상 의 관 점 에서 볼 때, 퍼즐 ( 나 ) 의 세로 날 말 (8) 에\n대한 설 명 으로 옮 은 것은? [3 점 ]\n덕이 있는 사 람 [\\/] 은 가만히 있을 때에는 아무\n생 각 이 없으며, 움직일 떼 에는 아무런 근 심 이 없다. 옮 고\n그 름 [ 봇 38], 예 과 미 움 [ 촛 똥 ] 을 분 별 하여 가 슴 에 담아\n두지 않는다. 세상 사 람 들 이 함께 기 뻐 하 는 것을 즐거움\n으로 여기고, 모 두 가 흡 족 헤 하는 것을 편 안 하게 여긴다.\n(가로 열쇠]\n(4): 다른 사 람 의 행 복 과 이 익 을 증 진 시 키 고 자 하는 마음\n(0): 몸 과 마 음 을 깨끗이 하고 부정한 일 을 멀 리 함 .\n예 ) \"제사 드리기 전에 목 욕 (>(〉 하 렴 .\"\n[세로 열쇠)\n개념\n0 어 절 과 의 로 움 을 쌓아 자 연 의 순 리 를 따 르 려는 노 력 이다.\n@9 사 욕 (@0 을 극 복 하고 예 0) 를 희 복 하기 위한 노 력 이다.\n@) 선 008 을 수 행 하여 아 름 다 움 의 가 치 를 확고히 하려는 노 력 이다.\n@ 자 연 과 하 나 가 되 거 위해 마 음 을 깨끗이 비 우 려는 노 력 이다.\n(5) 지속적인 경전 공 부 를 통해 성 인 의 도 68) 를 이루기 위한 노 력 이다.",
+    "stem": ".16. (가) 사 상 의 관 점 에서 볼 때, 퍼즐 ( 나 ) 의 세로 날 말 (8) 에 대한 설 명 으로 옮 은 것은? [3 점 ]",
+    "passage": "덕이 있는 사 람 [\\/] 은 가만히 있을 때에는 아무\n생 각 이 없으며, 움직일 떼 에는 아무런 근 심 이 없다. 옮 고\n그 름 [ 봇 38], 예 과 미 움 [ 촛 똥 ] 을 분 별 하여 가 슴 에 담아\n두지 않는다. 세상 사 람 들 이 함께 기 뻐 하 는 것을 즐거움\n으로 여기고, 모 두 가 흡 족 헤 하는 것을 편 안 하게 여긴다.\n(가로 열쇠]\n(4): 다른 사 람 의 행 복 과 이 익 을 증 진 시 키 고 자 하는 마음\n(0): 몸 과 마 음 을 깨끗이 하고 부정한 일 을 멀 리 함 .\n예 ) \"제사 드리기 전에 목 욕 (>(〉 하 렴 .\"\n[세로 열쇠)\n개념",
+    "choices": [
+      {
+        "number": 1,
+        "text": "어 절 과 의 로 움 을 쌓아 자 연 의 순 리 를 따 르 려는 노 력 이다."
+      },
+      {
+        "number": 2,
+        "text": "9 사 욕 (@0 을 극 복 하고 예 0) 를 희 복 하기 위한 노 력 이다."
+      },
+      {
+        "number": 3,
+        "text": "선 008 을 수 행 하여 아 름 다 움 의 가 치 를 확고히 하려는 노 력 이다."
+      },
+      {
+        "number": 4,
+        "text": "자 연 과 하 나 가 되 거 위해 마 음 을 깨끗이 비 우 려는 노 력 이다."
+      },
+      {
+        "number": 5,
+        "text": "지속적인 경전 공 부 를 통해 성 인 의 도 68) 를 이루기 위한 노 력 이다."
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.775,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T111523",
+    "extracted_at": "2026-09-24T11:20:22+00:00",
+    "qa_flags": []
+  }
+}

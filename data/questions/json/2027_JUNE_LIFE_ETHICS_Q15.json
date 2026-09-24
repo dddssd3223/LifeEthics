@@ -1,0 +1,73 @@
+{
+  "id": "2027_JUNE_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 155,
+    "question_number": 15,
+    "exam_key": "2027_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3239,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_JUNE_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. 다음 사 상 가 의 입 장 에서 < 문 제 상 황 > 속 에게 제 시 할 주 언 으로\n가장 적절한 것은? [3 점 ]\n근교 ^\n행 복 을 증 진 하는 경 향 에 따라 행 위 의 옮 고 그 름 을 평 가 해야\n한다. 여기서 행 복 은 쾌 락 의 향 유 와 고 통 의 부 재 를 의 미 한다.\n쾌 락 을 평가할 때에는 양 뿐만 아니라 질 도 고려해야 한다. 어떤\n쾌 락 은 다른 쾌 락 보다 더 바 람 직 하고 가치 있기 때 문 이 다.\n< 문 제 상 황 >\n반장 ㅅ 는 체육 대 회 에 서 학 급 이 받은 상 금 을 어디에 사용해야\n할지 고민 중이다. 어떤 친 구 들 은 간 식 을 사서 먹 기 를 원하는\n반면 다른 친 구 들 은 봉사 단 체 에 기 부 하 기 를 원 하 고 있다.\n0 개 인 의 쾌 락 을 포 기 해야만 전 체 의 공 리 가 극 대 화 됨을 명 심 하세요.\n3) 인 간 의 고 유 한 능 력 으로 얻을 수 있는 고상한 퀴 락 을 추 구 하세요.\n3 쾌 락 의 질적 차 이 는 오직 자 신 만이 판 별 할 수 있 음 을 명 심 하세요,\n4: 쾌 락 의 질적 차 이 는 양적 차 이 로 환 원 될 수밖에 없 음 을 명 심 하세요.\n5 쾌 락 과 는 독 립 적 으로 존 재 하는 도덕적 가 치 의 실 현 을 추 구 하세요.",
+    "stem": "다음 사 상 가 의 입 장 에서 < 문 제 상 황 > 속 에게 제 시 할 주 언 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "근교 ^\n행 복 을 증 진 하는 경 향 에 따라 행 위 의 옮 고 그 름 을 평 가 해야\n한다. 여기서 행 복 은 쾌 락 의 향 유 와 고 통 의 부 재 를 의 미 한다.\n쾌 락 을 평가할 때에는 양 뿐만 아니라 질 도 고려해야 한다. 어떤\n쾌 락 은 다른 쾌 락 보다 더 바 람 직 하고 가치 있기 때 문 이 다.\n< 문 제 상 황 >\n반장 ㅅ 는 체육 대 회 에 서 학 급 이 받은 상 금 을 어디에 사용해야\n할지 고민 중이다. 어떤 친 구 들 은 간 식 을 사서 먹 기 를 원하는\n반면 다른 친 구 들 은 봉사 단 체 에 기 부 하 기 를 원 하 고 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "개 인 의 쾌 락 을 포 기 해야만 전 체 의 공 리 가 극 대 화 됨을 명 심 하세요."
+      },
+      {
+        "number": 2,
+        "text": "인 간 의 고 유 한 능 력 으로 얻을 수 있는 고상한 퀴 락 을 추 구 하세요."
+      },
+      {
+        "number": 3,
+        "text": "쾌 락 의 질적 차 이 는 오직 자 신 만이 판 별 할 수 있 음 을 명 심 하세요,"
+      },
+      {
+        "number": 4,
+        "text": "쾌 락 의 질적 차 이 는 양적 차 이 로 환 원 될 수밖에 없 음 을 명 심 하세요."
+      },
+      {
+        "number": 5,
+        "text": "쾌 락 과 는 독 립 적 으로 존 재 하는 도덕적 가 치 의 실 현 을 추 구 하세요."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.896,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:57+00:00",
+    "qa_flags": []
+  }
+}

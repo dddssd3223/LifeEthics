@@ -1,0 +1,73 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 67,
+    "question_number": 14,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      1888,
+      3148,
+      3057
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 동양 사상 (가), ( 나 ) 의 입 장 으로 가장 적절한 것은? [3 점 ]\n(가) 이 세상에 태어난 것은 태어날 때 를 만 났 기 때 문 이 고, 죽 음 은\n떠나야 할 때가 되었기 때 문 이 다. 삶 과 죽 음 은 운 명 이다.\n사 계 절 이 변 하 듯 이 기 (%/ 의 변화 과 정 에서 삶 과 죽 음 이\n바뀌는 것일 뿐이니 죽 음 을 슬 퍼 할 필 요 가 없다.\n(나) 오 온 ( ㅠ @) 의 새로운 구 성 이 태 어 남 이고 그 해 체 가 죽음\n이다. 죽 음 은 현 세 의 엽 보 에 마라 다음 세 상 에 서 의 태어남\n으로 이어진다. 삶 과 죽 음 은 생 멸 (459800/ 의 과 정 에서 계속\n반 복 되는 것이니 생 사 (#^) 에 집 착 할 필 요 가 없다.\n0) (가): 인 (2: 의 구 현 을 위 해 서 라면 나의 생 명 을 희 생 할 수 있\n2 (가): 내 세 의 행 복 을 위해 현 세 의 욕 망 을 최대한 절 제 해야 한다.\n@ (나): 죽 음 은 고 통 이 없는 생 (#5) 으 로 이어지는 윤 회 의 과 정 이다.\n0) (나): 중 생 은 그의 오 온 이 해 체 되어도 생 멸 을 반 복 하게 된다.\n6 (가), (나) : 참된 지 혜 는 욱 체 의 구 속 에서 벗어난 사 후 에만 얻 어 진 다.",
+    "stem": "동양 사상 (가), ( 나 ) 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "(가) 이 세상에 태어난 것은 태어날 때 를 만 났 기 때 문 이 고, 죽 음 은\n떠나야 할 때가 되었기 때 문 이 다. 삶 과 죽 음 은 운 명 이다.\n사 계 절 이 변 하 듯 이 기 (%/ 의 변화 과 정 에서 삶 과 죽 음 이\n바뀌는 것일 뿐이니 죽 음 을 슬 퍼 할 필 요 가 없다.\n(나) 오 온 ( ㅠ @) 의 새로운 구 성 이 태 어 남 이고 그 해 체 가 죽음\n이다. 죽 음 은 현 세 의 엽 보 에 마라 다음 세 상 에 서 의 태어남\n으로 이어진다. 삶 과 죽 음 은 생 멸 (459800/ 의 과 정 에서 계속\n반 복 되는 것이니 생 사 (#^) 에 집 착 할 필 요 가 없다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 인 (2: 의 구 현 을 위 해 서 라면 나의 생 명 을 희 생 할 수 있"
+      },
+      {
+        "number": 2,
+        "text": "(가): 내 세 의 행 복 을 위해 현 세 의 욕 망 을 최대한 절 제 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 죽 음 은 고 통 이 없는 생 (#5) 으 로 이어지는 윤 회 의 과 정 이다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 중 생 은 그의 오 온 이 해 체 되어도 생 멸 을 반 복 하게 된다."
+      },
+      {
+        "number": 5,
+        "text": "(가), (나) : 참된 지 혜 는 욱 체 의 구 속 에서 벗어난 사 후 에만 얻 어 진 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.889,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:09+00:00",
+    "qa_flags": []
+  }
+}

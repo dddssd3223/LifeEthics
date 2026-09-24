@@ -1,0 +1,73 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 12,
+    "question_number": 16,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1592,
+      1729
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. (가) 사 상 의 입 장 에서 볼 때, ( 나 ) 의 (67, 에 들어갈 진 술 로\n가장 적절한 것은? [3 점 |\n도 ( 펴 ) 는 늘 아무 일도 하지 않으나 하지 못하는 일 이\n( 가 )| 없다. 제 후 나 국 왕 이 이 도 를 지킬 수 있다면 천지 만 물 이\n장차 저절로 변 화 될 것이다.\n_ 으 _. 그러면 아 이 처럼 순 진 무구한 삶 을 살 것이다.\n(나)\n_ =. 그러면 물 처럼 서로 다 투 지 않는 삶 을 살 것이다.\n3 ㅁ\n06) | 인 위 (/.8) 적 인 가 치 를 버려라 | 자 연의 흐 름 과 하 나 가 되어라\n(2) | 오 로지 예 (8) 만 듣고 보아라 | 옮 고 그 름 을 엄격히 구 분 해라\n(8) | 연 기 (898) 의 법 칙 을 깨 달 아 라 | 일 체 의 탐 옥과 집 착 을 버려라\n@ | 사 사 로 운 마 음 [#01 을 비 워 라 | 타 고난 사 단 (1948) 을 확 충 해라\n6) | 거 경 ( 봄 ) 으 로 덕 을 합 양 해 라 | 자 타 (8{0) 를 한 몸 으로 여 겨 라",
+    "stem": "(가) 사 상 의 입 장 에서 볼 때, ( 나 ) 의 (67, 에 들어갈 진 술 로 가장 적절한 것은? [3 점 |",
+    "passage": "도 ( 펴 ) 는 늘 아무 일도 하지 않으나 하지 못하는 일 이\n( 가 )| 없다. 제 후 나 국 왕 이 이 도 를 지킬 수 있다면 천지 만 물 이\n장차 저절로 변 화 될 것이다.\n_ 으 _. 그러면 아 이 처럼 순 진 무구한 삶 을 살 것이다.\n(나)\n_ =. 그러면 물 처럼 서로 다 투 지 않는 삶 을 살 것이다.\n3 ㅁ",
+    "choices": [
+      {
+        "number": 1,
+        "text": "| 인 위 (/.8) 적 인 가 치 를 버려라 | 자 연의 흐 름 과 하 나 가 되어라"
+      },
+      {
+        "number": 2,
+        "text": "| 오 로지 예 (8) 만 듣고 보아라 | 옮 고 그 름 을 엄격히 구 분 해라"
+      },
+      {
+        "number": 3,
+        "text": "| 연 기 (898) 의 법 칙 을 깨 달 아 라 | 일 체 의 탐 옥과 집 착 을 버려라"
+      },
+      {
+        "number": 4,
+        "text": "| 사 사 로 운 마 음 [#01 을 비 워 라 | 타 고난 사 단 (1948) 을 확 충 해라"
+      },
+      {
+        "number": 5,
+        "text": "| 거 경 ( 봄 ) 으 로 덕 을 합 양 해 라 | 자 타 (8{0) 를 한 몸 으로 여 겨 라"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.849,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:53+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2022_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 99,
+    "question_number": 14,
+    "exam_key": "2022_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1950,
+      3148,
+      3273
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. ( 가 ) 의 입 장 에서 ( 나 ) 의 입 장 에 대해 제 기 할 수 있는 비 판 으로\n가장 적절한 것은? [3 점 ]\n(가) 심장 박 동 과 호 흡 이 비 가 역 적 으로 정 지 된 심 폐 사 만 을 죽음\n으로 인 정 해 야 한다. 심 폐 사는 죽 음 에 대한 전통적인 판정\n기 준 으로, 죽 음 의 시 점 을 확 실 하게 적 시 할 수 있어서 누가\n보더라도 죽 음 을 판 정 할 수 있다는 장 점 이 있\n(나) 뇌 의 모든 기 등 을 상실한 사 람 은 결국 수일 내에 심 폐 사 에\n이르게 된다. 뇌 사 자 에게 불필요한 치 료 를 억지로 지 속 하는\n것은 뇌 사 자를 비 인 간 적 으로 대 우 하는 것일 뿐만 아니라,\n한정된 의료 자 원 을 소 모 하면서 장 기 를 기 증 할 기 회 도\n잃게 하므로 뇌 사 를 죽 음 으로 인 정 해 야 한다.\n0 의료 자 원 의 효율적 이 용 이 필 요 하다는 것을 간 과 한다.\n2) 뇌 사 가 죽 음 에 이르는 과도기적 상 태 라는 것을 간 과 한다.\n@ 뇌사 인 정 은 뇌 사 자의 생 명 권 을 존 중 하는 것임을 간 과 한다.\n9 장기 이 석 을 위해 뇌 사 를 죽 음 의 기 준 으로 심 이 야 함 을 간 과 한다.\n6 무의미한 연명 치 료 는 인간 존 엄 성 을 훼 손 한 다는 것을 간 과 한다.",
+    "stem": "( 가 ) 의 입 장 에서 ( 나 ) 의 입 장 에 대해 제 기 할 수 있는 비 판 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "(가) 심장 박 동 과 호 흡 이 비 가 역 적 으로 정 지 된 심 폐 사 만 을 죽음\n으로 인 정 해 야 한다. 심 폐 사는 죽 음 에 대한 전통적인 판정\n기 준 으로, 죽 음 의 시 점 을 확 실 하게 적 시 할 수 있어서 누가\n보더라도 죽 음 을 판 정 할 수 있다는 장 점 이 있\n(나) 뇌 의 모든 기 등 을 상실한 사 람 은 결국 수일 내에 심 폐 사 에\n이르게 된다. 뇌 사 자 에게 불필요한 치 료 를 억지로 지 속 하는\n것은 뇌 사 자를 비 인 간 적 으로 대 우 하는 것일 뿐만 아니라,\n한정된 의료 자 원 을 소 모 하면서 장 기 를 기 증 할 기 회 도\n잃게 하므로 뇌 사 를 죽 음 으로 인 정 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "의료 자 원 의 효율적 이 용 이 필 요 하다는 것을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "뇌 사 가 죽 음 에 이르는 과도기적 상 태 라는 것을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "뇌사 인 정 은 뇌 사 자의 생 명 권 을 존 중 하는 것임을 간 과 한다."
+      },
+      {
+        "number": 4,
+        "text": "장기 이 석 을 위해 뇌 사 를 죽 음 의 기 준 으로 심 이 야 함 을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": "무의미한 연명 치 료 는 인간 존 엄 성 을 훼 손 한 다는 것을 간 과 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.896,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:26+00:00",
+    "qa_flags": []
+  }
+}

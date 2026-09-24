@@ -1,0 +1,81 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 48,
+    "question_number": 20,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      2124,
+      2999,
+      4056
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 그 림 은 서술형 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 ㅠ ~6 ㅁ\n중 옮 지 않은 것은? [3 점 ]\n-… 서술형 평가\n@ 문제: 갑 , 을 의 해외 원 조 에 대한 입 장 을 비 교 하 여 서 술 하시오.\n갑 : 정치 문 화 는 한 사 회 의 부 와 복지 수 준 을 결 정 하는 주된 요인\n이기 때문에 자 원 과 부가 빈 약 한 사 회 라 할 지 라 도 그 사 회 는\n질서 정연한 사 회 가 될 수 있다. 이를 유 념 하여 만 민 은 고 통 을\n겪는 사 회 들을 원 조 해야 한다.\n을: 타 인 은 굽 주 리고 있는데 우 리 가 사 치 품 에 돈 을 쓰고 있다면,\n확실히 우 리 는 더 많이 기 부 할 수 있다. 모든 사 람 의 이 익 을\n동 등 하게 고 려 하여, 도 덕 적 으로 상 응 하는 중요한 것의 희 생 이\n없다면 우 리 는 마땅히 그들을 도와야 한다.\n02000 00000 00000 00000 00000 0002 」\n[2220 22222 - 그\n@ 학생 답안\n갑 , 을 의 해외 원 조 에 대한 입 장 을 비교해 보면, 갑 은 6 원 조 의 목 적 을\n고 통 을 겪는 사 회 가 질서 정연한 만 민 의 사 회 의 구 성 원 이 되도록 하는 것\n이라고 본다, 그는 0 상 대 적 으 로 빈 끈 하지만 질서 정연한 사 회 에 대해서는\n더 이상 원 조 할 필 요 가 없다고 수 장 한다, 이에 비해 을 은 6 원 조 의 목 적 을\n인류 전 체 의 행 복 을 증 진 시키는 것이라고 본다, 그는 @ 개 인 이 아니라\n국 가 만 이 원 조 의 주 체 가 되어야 한다고 주 장 한 다, 요컨대 해외 원 조 예 서\n@ 잡은 사 회 의 정 의 를 , 을 은 개 인 들 의 복 지 를 중 시 한 다,\n00 (00 8 0) ㅁ 00 8) 69) 2",
+    "stem": "그 림 은 서술형 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 ㅠ ~6 ㅁ 중 옮 지 않은 것은? [3 점 ]",
+    "passage": "-… 서술형 평가\n@ 문제: 갑 , 을 의 해외 원 조 에 대한 입 장 을 비 교 하 여 서 술 하시오.\n갑 : 정치 문 화 는 한 사 회 의 부 와 복지 수 준 을 결 정 하는 주된 요인\n이기 때문에 자 원 과 부가 빈 약 한 사 회 라 할 지 라 도 그 사 회 는\n질서 정연한 사 회 가 될 수 있다. 이를 유 념 하여 만 민 은 고 통 을\n겪는 사 회 들을 원 조 해야 한다.\n을: 타 인 은 굽 주 리고 있는데 우 리 가 사 치 품 에 돈 을 쓰고 있다면,\n확실히 우 리 는 더 많이 기 부 할 수 있다. 모든 사 람 의 이 익 을\n동 등 하게 고 려 하여, 도 덕 적 으로 상 응 하는 중요한 것의 희 생 이\n없다면 우 리 는 마땅히 그들을 도와야 한다.\n02000 00000 00000 00000 00000 0002 」\n[2220 22222 - 그\n@ 학생 답안\n갑 , 을 의 해외 원 조 에 대한 입 장 을 비교해 보면, 갑 은 6 원 조 의 목 적 을\n고 통 을 겪는 사 회 가 질서 정연한 만 민 의 사 회 의 구 성 원 이 되도록 하는 것\n이라고 본다, 그는 0 상 대 적 으 로 빈 끈 하지만 질서 정연한 사 회 에 대해서는\n더 이상 원 조 할 필 요 가 없다고 수 장 한다, 이에 비해 을 은 6 원 조 의 목 적 을\n인류 전 체 의 행 복 을 증 진 시키는 것이라고 본다, 그는 @ 개 인 이 아니라\n국 가 만 이 원 조 의 주 체 가 되어야 한다고 주 장 한 다, 요컨대 해외 원 조 예 서\n@ 잡은 사 회 의 정 의 를 , 을 은 개 인 들 의 복 지 를 중 시 한 다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": ""
+      },
+      {
+        "number": 2,
+        "text": "0 8"
+      },
+      {
+        "number": 3,
+        "text": "ㅁ"
+      },
+      {
+        "number": 4,
+        "text": "8)"
+      },
+      {
+        "number": 5,
+        "text": "2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=1725",
+      "vector_lines=3532"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.859,
+    "review_required": true,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:52:04+00:00",
+    "qa_flags": [
+      "QA_CHOICE_TEXT_EMPTY"
+    ]
+  }
+}

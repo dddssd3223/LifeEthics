@@ -1,0 +1,73 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 74,
+    "question_number": 9,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2032,
+      3148,
+      3240
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 다음 글 을 바 탕 으로 이끌어 낼 수 있는 내 용 으로 적 절 하지 않은 것은?\n우 리 나 라 의 통일 방 앞 은 ' 민 족 공동체 통일 방 안 이다. 분 단 에서\n통 일 에 이르는 과 정 에서는 여러 비 용 이 발 생 하지만, 통 일 이 된다면\n점차 이를 상 쇄 하 고 남을 정 도 의 편 익 도 생긴다. 분단 비 용 은\n분 단 에 따른 대 립 과 갈 등 으로 인해 지 불 하는 유 무 형 의 비 용 으로\n편 익 을 기 대 하기 어렵다. 평화 비 용 은 인도적 지원, 사회 문화\n교류 사업 등과 같이 통일 이 전 에 한 반 도 의 평 화 를 정 착 시키기\n위해 지 불 하는 투자 성 격 의 비 용 이다. 통일 비 용 은 통일 이 후 에\n제 도 의 통합, 화 폐 의 통합 등 을 위해 통일 한 국 이 지 불 하는 비 용 으로\n통 일 의 시 기 와 방 법 에 따라 달라진다.\n0 이 산 가 족 의 고 통 과 외국인 투자 감 소 는 분단 비 용 에 포 함 된다.\n2 남한 정 부 가 추 진 하 는 스포츠 교류 사 업 은 통일 비 용 에 포 함 된다.\n8) 분단 비 용 은 소모적 비 용 으로 민족 경쟁력 약 화 를 초래할 수 있다\n평화 비 용 은 군사적 긴 장 을 완 화 시켜 분단 비 용 을 감 소 시킬 수 있다\n5: 경제 협 력 의 확 대 를 통해 동 일 이 되면 동일 비 용 은 절 감 될 수 있다\nㅇ ㄴ ㅁ ㅠ ㅁ 큰",
+    "stem": "다음 글 을 바 탕 으로 이끌어 낼 수 있는 내 용 으로 적 절 하지 않은 것은?",
+    "passage": "우 리 나 라 의 통일 방 앞 은 ' 민 족 공동체 통일 방 안 이다. 분 단 에서\n통 일 에 이르는 과 정 에서는 여러 비 용 이 발 생 하지만, 통 일 이 된다면\n점차 이를 상 쇄 하 고 남을 정 도 의 편 익 도 생긴다. 분단 비 용 은\n분 단 에 따른 대 립 과 갈 등 으로 인해 지 불 하는 유 무 형 의 비 용 으로\n편 익 을 기 대 하기 어렵다. 평화 비 용 은 인도적 지원, 사회 문화\n교류 사업 등과 같이 통일 이 전 에 한 반 도 의 평 화 를 정 착 시키기\n위해 지 불 하는 투자 성 격 의 비 용 이다. 통일 비 용 은 통일 이 후 에\n제 도 의 통합, 화 폐 의 통합 등 을 위해 통일 한 국 이 지 불 하는 비 용 으로\n통 일 의 시 기 와 방 법 에 따라 달라진다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "이 산 가 족 의 고 통 과 외국인 투자 감 소 는 분단 비 용 에 포 함 된다."
+      },
+      {
+        "number": 2,
+        "text": "남한 정 부 가 추 진 하 는 스포츠 교류 사 업 은 통일 비 용 에 포 함 된다."
+      },
+      {
+        "number": 3,
+        "text": "분단 비 용 은 소모적 비 용 으로 민족 경쟁력 약 화 를 초래할 수 있다"
+      },
+      {
+        "number": 4,
+        "text": "비 용 은 군사적 긴 장 을 완 화 시켜 분단 비 용 을 감 소 시킬 수 있다"
+      },
+      {
+        "number": 5,
+        "text": "경제 협 력 의 확 대 를 통해 동 일 이 되면 동일 비 용 은 절 감 될 수 있다 ㅇ ㄴ ㅁ ㅠ ㅁ 큰"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:26+00:00",
+    "qa_flags": []
+  }
+}

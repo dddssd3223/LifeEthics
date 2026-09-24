@@ -1,0 +1,73 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 46,
+    "question_number": 6,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1593,
+      1724
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 동양 사상 (가), ( 나 ) 의 입 장 으로 적 절 하지 않은 것은?\n(가) 삶 을 모르는데 어찌 죽 음 을 알 겠 는가? 새 가 죽을 때는\n울 음 소 리 가 애 처 롭고, 사 람 이 죽을 때는 하는 말이 착한\n법 이라네. 지 사 (&:) 는 삶 을 영 위 하되 인 ({_) 을 해 침 이\n없고, 자 신 을 희 생 함으로써 인 을 이 문 다네.\n(나) 삶 과 죽 음 은 인 간 의 운 명 [6] 이 니 , 진 인 ( 쁘 ㅅ ) 은 삶 을\n기 뻐 하 지도 죽 음 을 미 워 하지도 않네. 본래 생 명 도 형 체 도\n기 ( 오 ) 도 없었고, 혼돈 속 에 서 기가 생겨 그것이 변하여\n형 체 가 되고 생 명 이 되고 죽 음 이 된 것 이 라 네 .\n0 (가): 도 덕 적 인 가 치 를 위해서는 자 신 의 생 명 을 희 생 할 수도 있다.\n(3) (가): 사 람 이 죽 음 에 임 해 서는 자기 삶 을 성 찰 하게 되는 법 이다.\n(3) (나): 진 인 이라 해도 그의 삶 과 죽 음 은 기 의 변 화 에 의한 것이다.\n(0) (나): 죽 음 은 인 간 의 자연스러운 운 명 이므로 슬 퍼 할 이 유 가 없다.\n(8) (가), (나): 해 탈 하 여 세 속 의 삶 과 죽 음 의 고 통 에서 벗어나야 한다.",
+    "stem": "동양 사상 (가), ( 나 ) 의 입 장 으로 적 절 하지 않은 것은?",
+    "passage": "(가) 삶 을 모르는데 어찌 죽 음 을 알 겠 는가? 새 가 죽을 때는\n울 음 소 리 가 애 처 롭고, 사 람 이 죽을 때는 하는 말이 착한\n법 이라네. 지 사 (&:) 는 삶 을 영 위 하되 인 ({_) 을 해 침 이\n없고, 자 신 을 희 생 함으로써 인 을 이 문 다네.\n(나) 삶 과 죽 음 은 인 간 의 운 명 [6] 이 니 , 진 인 ( 쁘 ㅅ ) 은 삶 을\n기 뻐 하 지도 죽 음 을 미 워 하지도 않네. 본래 생 명 도 형 체 도\n기 ( 오 ) 도 없었고, 혼돈 속 에 서 기가 생겨 그것이 변하여\n형 체 가 되고 생 명 이 되고 죽 음 이 된 것 이 라 네 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 도 덕 적 인 가 치 를 위해서는 자 신 의 생 명 을 희 생 할 수도 있다."
+      },
+      {
+        "number": 2,
+        "text": "(가): 사 람 이 죽 음 에 임 해 서는 자기 삶 을 성 찰 하게 되는 법 이다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 진 인 이라 해도 그의 삶 과 죽 음 은 기 의 변 화 에 의한 것이다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 죽 음 은 인 간 의 자연스러운 운 명 이므로 슬 퍼 할 이 유 가 없다."
+      },
+      {
+        "number": 5,
+        "text": "(가), (나): 해 탈 하 여 세 속 의 삶 과 죽 음 의 고 통 에서 벗어나야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.913,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:17+00:00",
+    "qa_flags": []
+  }
+}

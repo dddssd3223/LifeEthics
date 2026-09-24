@@ -1,0 +1,75 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 74,
+    "question_number": 6,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      3005
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 판 을 (나) 그 림 으로 표현할 때, 4~ ㅠ 에 해 당 하는 내 용 으로 가장\n적절한 것은? [3 점 ]\n갑 : 우 리 는 인 간 에 대해서만 직접적인 의 무 를 지 니 며 ,\n다른 존 재 들 에 대해서는 그러한 의 무 를 지니지 않는다.\n인 간 만이 실천 이 성 을 지닌 자율적 존 재 이기 때 문 이 다.\n을 : 목 적 론적 삶 의 중 심 인 생 명 체 는 내재적 가 치 를 지닌다.\n( 가 )| 그러한 생 명 체 는 자 신 의 고 유 한 선 을 추 구 하며 일 관 성 과\n통 일 성 을 지 향 하는 존 재 이다.\n병 : 홈, 몰, 식물, 동물, 인 간 을 포 합 하 는 생명 공 동 체 는\n생 명 적 성 질 을 지닌다. 인 간 은 생명 공 동 체 의 지 배 자 가\n아니며, 대지 위 의 모든 존 재 는 평 등 한 구 성 원 이다.\n< 범 례 >\n- ㅡ > : 비 판 의 방향\n스 ~ : 비 판 의 내용\n(나) % 아니 < 예 시 >\n년\n. 00\n< 스는 갑 이 을 에게 제 기 할\nㅜㅜ 수 있는 비 판 임\n0 0: 쾌 고 감수 능 력 을 지닌 존 재 는 도덕적 지 위 가 없 음 을 간 과 한다.\n2) (:: 생태계 인 정 을 위해 생 명 체 를 해치는 행위 모 두 는 질 못 임을 긴 과 힌다\n1 4. : 도 덕 적 인 행 위 의 주 체 는 오직 인 간 뿐 이 라 는 점 을 잔 과 한 다.\n4) 8,6: 인 간 은 다른 생 명 체 보다 우월한 지 위 를 지니지 않 음 을 긴 과 한 다.\n6) 1, 7: 모든 쟁 명 체 가 내재적 가 치 를 지니는 것은 아 님 을 간 과 한다.",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 판 을 (나) 그 림 으로 표현할 때, 4~ ㅠ 에 해 당 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 우 리 는 인 간 에 대해서만 직접적인 의 무 를 지 니 며 ,\n다른 존 재 들 에 대해서는 그러한 의 무 를 지니지 않는다.\n인 간 만이 실천 이 성 을 지닌 자율적 존 재 이기 때 문 이 다.\n을 : 목 적 론적 삶 의 중 심 인 생 명 체 는 내재적 가 치 를 지닌다.\n( 가 )| 그러한 생 명 체 는 자 신 의 고 유 한 선 을 추 구 하며 일 관 성 과\n통 일 성 을 지 향 하는 존 재 이다.\n병 : 홈, 몰, 식물, 동물, 인 간 을 포 합 하 는 생명 공 동 체 는\n생 명 적 성 질 을 지닌다. 인 간 은 생명 공 동 체 의 지 배 자 가\n아니며, 대지 위 의 모든 존 재 는 평 등 한 구 성 원 이다.\n< 범 례 >\n- ㅡ > : 비 판 의 방향\n스 ~ : 비 판 의 내용\n(나) % 아니 < 예 시 >\n년\n. 00\n< 스는 갑 이 을 에게 제 기 할\nㅜㅜ 수 있는 비 판 임",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0: 쾌 고 감수 능 력 을 지닌 존 재 는 도덕적 지 위 가 없 음 을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "(:: 생태계 인 정 을 위해 생 명 체 를 해치는 행위 모 두 는 질 못 임을 긴 과 힌다"
+      },
+      {
+        "number": 3,
+        "text": "4. : 도 덕 적 인 행 위 의 주 체 는 오직 인 간 뿐 이 라 는 점 을 잔 과 한 다."
+      },
+      {
+        "number": 4,
+        "text": "8,6: 인 간 은 다른 생 명 체 보다 우월한 지 위 를 지니지 않 음 을 긴 과 한 다."
+      },
+      {
+        "number": 5,
+        "text": "1, 7: 모든 쟁 명 체 가 내재적 가 치 를 지니는 것은 아 님 을 간 과 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.877,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:25+00:00",
+    "qa_flags": []
+  }
+}

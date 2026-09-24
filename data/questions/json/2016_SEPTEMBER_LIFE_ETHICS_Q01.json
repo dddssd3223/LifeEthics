@@ -1,0 +1,73 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 29,
+    "question_number": 1,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      881,
+      1594,
+      2918
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 감 , 을, 병 의 입 장 에 대한 옮 은 설 명 만을 < 보 기 > 에 서 있는 대로\n고른 것은?\n갑 : ' 낙 태 는 나쁘다. 라는 진 술 은 낙 태 에 대한 부정적 감 정 을\n표 현 하는 것에 불과해. 왜냐하면 그러한 진 술 은 논리적\n으 로 도 경 험 적 로도 으 검 증 이 불 가 등 하기 때문이야.\n을: 너는 윤 리 학 이 당 위 에 관한 학 문 이라는 것을 간 과 하고\n있어. 우 리 는 객관적 도덕 원 리 를 정 립 함으로써 무엇이\n옮 은지 그 른 지를 판 단 할 수 있어.\n병 : 나도 을 의 입 장 에 동 의 해. 하지만 낙 태 와 같은 도덕 문 제 를\n해 결 하기 위해서는 새로운 의학 정 보 를 고 려 하면서 도덕\n규 범 을 구체적인 문제 상 황 에 적 용 하는 것이 중요해.\n< 보 기 >\nㄱ . 갑 은 각 사 회 의 도덕 현 상 에 대한 객관적 기 술 을 강 조 한 다.\nㄴ . 을 은 도덕 판 단 의 준 거 와 행 위 의 정당성 확 보 를 강 조 한 다.\nㄷ . 병 은 윤 리 학 과 인접 학 문 들의 학 제 적인 연 계 를 중 시 한다.\n2. 을, 병 은 도덕 관 단 을 위한 도 덕 규 법 의 필 요 성 을 중 시 한다.\n0) ㄱ , ㄴ (0) ㄱ ㅋ , ㄷ (3) ㄷ , 2\n(00 ) ㄱ , ㄴ , 2 (6) ㄴ , ㄷ , 2",
+    "stem": "감 , 을, 병 의 입 장 에 대한 옮 은 설 명 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : ' 낙 태 는 나쁘다. 라는 진 술 은 낙 태 에 대한 부정적 감 정 을\n표 현 하는 것에 불과해. 왜냐하면 그러한 진 술 은 논리적\n으 로 도 경 험 적 로도 으 검 증 이 불 가 등 하기 때문이야.\n을: 너는 윤 리 학 이 당 위 에 관한 학 문 이라는 것을 간 과 하고\n있어. 우 리 는 객관적 도덕 원 리 를 정 립 함으로써 무엇이\n옮 은지 그 른 지를 판 단 할 수 있어.\n병 : 나도 을 의 입 장 에 동 의 해. 하지만 낙 태 와 같은 도덕 문 제 를\n해 결 하기 위해서는 새로운 의학 정 보 를 고 려 하면서 도덕\n규 범 을 구체적인 문제 상 황 에 적 용 하는 것이 중요해.\n< 보 기 >\nㄱ . 갑 은 각 사 회 의 도덕 현 상 에 대한 객관적 기 술 을 강 조 한 다.\nㄴ . 을 은 도덕 판 단 의 준 거 와 행 위 의 정당성 확 보 를 강 조 한 다.\nㄷ . 병 은 윤 리 학 과 인접 학 문 들의 학 제 적인 연 계 를 중 시 한다.\n2. 을, 병 은 도덕 관 단 을 위한 도 덕 규 법 의 필 요 성 을 중 시 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ㅋ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 2"
+      },
+      {
+        "number": 4,
+        "text": "0 ) ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.888,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:38+00:00",
+    "qa_flags": []
+  }
+}

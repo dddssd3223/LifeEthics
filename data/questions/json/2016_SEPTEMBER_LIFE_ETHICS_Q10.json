@@ -1,0 +1,76 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 30,
+    "question_number": 10,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2459,
+      2999,
+      4297
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으 로 표현할\n때, 4~) 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 어떤 개 체 가 쾌 락 과 고 통 의 감 정 을 갖고, 자 기 의 욕 구 와\n목 표 를 위해 행 위 하며, 자 신 의 정 체 성 을 느낄 수 있는\n능력 등 을 갖 는 다 면 , 그 개 체 는 삶 의 주 체 이다.\n을: 서 양 의 도 덕 은 타 인 에게 해 를 가 해 서 는 안 된다고\n( 가 )| ㆍ 가르쳐 왔다. 따라서 생태계 파 괴 는 현 재 와 미 래 의\n인 간 에게 손 해 를 입 히 므로 금 지 되어야 한다.\n병 : 윤 리 의 확 장 은 생 태 학 적 진 화 의 과 정 이며 생태계 모든\n구 성 원 들의 공 생 을 추 구 하는 것이므로, 이 망 의 모든\n존 재 들의 윤 리 인 대 지 의 윤 리 에 이르게 된다.\n< 범 례 >\nㅅ &: 갑 만 의 입장\n2: 을 만의 입장\n@: 갑 , 을, 병 의 공통 입장\n: 갑과 병 만의 공통 입장\nㆍ 고\n< 보 기 >\nㄱ . &: 쾌 고 감수 능 력 은 동 물 의 이익 고 려 를 위한 충 분 조 건 이다.\nㄴ . 8: 인 간 은 이 익 관 심 을 갖고 있는 도덕적 행 위 의 주 체 이다.\nㄷ . (:: 똥물 보 호 는 인 간 의 도덕적 실천 과 제 로 성립 가 능 하 다.\n르 . 1): 인간 간의 의 무 를 넘어선 새로운 도덕 원 리 가 요 청 된 다.\n0) ㄱ , ㄴ (0) ㄴ , ㄷ (3) ㄷ , 르\n(0 ) ㄱ , ㄴ , 2 (66) ㄱ 7, ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으 로 표현할 때, 4~) 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 어떤 개 체 가 쾌 락 과 고 통 의 감 정 을 갖고, 자 기 의 욕 구 와\n목 표 를 위해 행 위 하며, 자 신 의 정 체 성 을 느낄 수 있는\n능력 등 을 갖 는 다 면 , 그 개 체 는 삶 의 주 체 이다.\n을: 서 양 의 도 덕 은 타 인 에게 해 를 가 해 서 는 안 된다고\n( 가 )| ㆍ 가르쳐 왔다. 따라서 생태계 파 괴 는 현 재 와 미 래 의\n인 간 에게 손 해 를 입 히 므로 금 지 되어야 한다.\n병 : 윤 리 의 확 장 은 생 태 학 적 진 화 의 과 정 이며 생태계 모든\n구 성 원 들의 공 생 을 추 구 하는 것이므로, 이 망 의 모든\n존 재 들의 윤 리 인 대 지 의 윤 리 에 이르게 된다.\n< 범 례 >\nㅅ &: 갑 만 의 입장\n2: 을 만의 입장\n@: 갑 , 을, 병 의 공통 입장\n: 갑과 병 만의 공통 입장\nㆍ 고\n< 보 기 >\nㄱ . &: 쾌 고 감수 능 력 은 동 물 의 이익 고 려 를 위한 충 분 조 건 이다.\nㄴ . 8: 인 간 은 이 익 관 심 을 갖고 있는 도덕적 행 위 의 주 체 이다.\nㄷ . (:: 똥물 보 호 는 인 간 의 도덕적 실천 과 제 로 성립 가 능 하 다.\n르 . 1): 인간 간의 의 무 를 넘어선 새로운 도덕 원 리 가 요 청 된 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": ") ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄱ 7, ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=34",
+      "vector_lines=162"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.889,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:42+00:00",
+    "qa_flags": []
+  }
+}

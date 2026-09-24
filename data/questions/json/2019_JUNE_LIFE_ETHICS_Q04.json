@@ -1,0 +1,73 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 61,
+    "question_number": 4,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1775,
+      2239,
+      3148,
+      3422
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 다음 사 상 의 입 장 으로 적 절 하지 않은 것은?\nㅇ 군 자 는 벗을 사 에 나 이 도, 신 분 도, 재 물 도 내 세 우 지 않는다.\n벗을 사 근 그 덕 을 벗 하는 것이어서 무 엇 을 내 세 워 서는\n안 된다. 덕 으로 벗을 사귀는 것은 어진 이를 존 경 하 는 것과\n같고, 또한 귀한 이를 귀 하 게 대하는 것과 같다.\nㅇ 균 자는 글 로 써 벗 들을 모아 사귀고, 그 벗 들을 통해 사 람 의\n도 리 가 더 밝 아 지 며 , 선 ( 콤 ) 으 로 인 ({-) 을 보 완 하게 되어 덕이\n점차 더 높아질 것이다. 벗은 서로 진 심 을 다해 충 고 하 고\n선 으로 이 끌 어 야 한다.\n0) 참된 벗은 자 신 뿐만 아니라 상 대 의 인 격 도 수 양 하게 한다.\n(0) 참된 우 정 은 사 람 들 로 하여금 이상적 인 간 상 을 지 향 하도록 한다.\n(3) 벗 의 덕이 높으면 그의 조 건 과 처 지 를 불 문 하고 존 경 할 수 있다.\n0) 참된 우 정 은 사 람 을 덕과 도 리 로도 구 별 하지 않고 사귀는 것이다.\n69) 참된 벗을 사귀는 것 또한 학 문 을 답 는 하 나 의 공부 방 식 이다.",
+    "stem": "다음 사 상 의 입 장 으로 적 절 하지 않은 것은?",
+    "passage": "ㅇ 군 자 는 벗을 사 에 나 이 도, 신 분 도, 재 물 도 내 세 우 지 않는다.\n벗을 사 근 그 덕 을 벗 하는 것이어서 무 엇 을 내 세 워 서는\n안 된다. 덕 으로 벗을 사귀는 것은 어진 이를 존 경 하 는 것과\n같고, 또한 귀한 이를 귀 하 게 대하는 것과 같다.\nㅇ 균 자는 글 로 써 벗 들을 모아 사귀고, 그 벗 들을 통해 사 람 의\n도 리 가 더 밝 아 지 며 , 선 ( 콤 ) 으 로 인 ({-) 을 보 완 하게 되어 덕이\n점차 더 높아질 것이다. 벗은 서로 진 심 을 다해 충 고 하 고\n선 으로 이 끌 어 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "참된 벗은 자 신 뿐만 아니라 상 대 의 인 격 도 수 양 하게 한다."
+      },
+      {
+        "number": 2,
+        "text": "참된 우 정 은 사 람 들 로 하여금 이상적 인 간 상 을 지 향 하도록 한다."
+      },
+      {
+        "number": 3,
+        "text": "벗 의 덕이 높으면 그의 조 건 과 처 지 를 불 문 하고 존 경 할 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "참된 우 정 은 사 람 을 덕과 도 리 로도 구 별 하지 않고 사귀는 것이다."
+      },
+      {
+        "number": 5,
+        "text": "참된 벗을 사귀는 것 또한 학 문 을 답 는 하 나 의 공부 방 식 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:55+00:00",
+    "qa_flags": []
+  }
+}

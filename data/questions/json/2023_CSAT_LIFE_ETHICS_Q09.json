@@ -1,0 +1,73 @@
+{
+  "id": "2023_CSAT_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 118,
+    "question_number": 9,
+    "exam_key": "2023_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2442
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_CSAT_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로\n고른 것은?\n갑 : 기본적 자 유 의 체 제 는 모든 사 람 에게 평 등 하게 보 장 되어야\n하고, 사회적 ㆍ 경제적 이 익 의 분 배 는 공정한 기 회 균 등 의\n원 칙 과 차 등 의 원 칙 에 의해 규 제 되어야 한다.\n을: 분배 정 의 에 있어서 소유 퀸 리 론 은 역 사 적 이다. 과 거 의\n상 황 이나 사 람 의 과거 행 위 는 사 물 에 대한 차 별 적 인 소유\n권 리 나 응 분 의 자 격 을 낳는다.\n< 보 기 >\nㄱ . 갑 : 최소 수 혜 자 에게 이 익 이 되지 않는 한 소 득 은 평 등 하게\n분 배 되어야 한다.\nㄴ . 감 : 기본적 자 유 들이 상 충 하더라도 그 기본적 자 유 들은 서로\n균 등 하게 보 장 되어야 한다.\nㄷ . 을: 자 신 의 노 동 을 투 여 하지 않고 취득한 소 유 물 에 대한\n정당한 소유 권 리 는 성 립 할 수 있다.\n르 . 갑과 을 : 능 력 에 따른 분 배 는 정의 원 칙 에 어 긋 날 수 있다.\n0) ㄱㄱ, ㄴ (000 ㄴ ㄷ (3) ㄷ , 르\n04) 7, ㄴ , 크 06) 7, ㄷ , 르",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 기본적 자 유 의 체 제 는 모든 사 람 에게 평 등 하게 보 장 되어야\n하고, 사회적 ㆍ 경제적 이 익 의 분 배 는 공정한 기 회 균 등 의\n원 칙 과 차 등 의 원 칙 에 의해 규 제 되어야 한다.\n을: 분배 정 의 에 있어서 소유 퀸 리 론 은 역 사 적 이다. 과 거 의\n상 황 이나 사 람 의 과거 행 위 는 사 물 에 대한 차 별 적 인 소유\n권 리 나 응 분 의 자 격 을 낳는다.\n< 보 기 >\nㄱ . 갑 : 최소 수 혜 자 에게 이 익 이 되지 않는 한 소 득 은 평 등 하게\n분 배 되어야 한다.\nㄴ . 감 : 기본적 자 유 들이 상 충 하더라도 그 기본적 자 유 들은 서로\n균 등 하게 보 장 되어야 한다.\nㄷ . 을: 자 신 의 노 동 을 투 여 하지 않고 취득한 소 유 물 에 대한\n정당한 소유 권 리 는 성 립 할 수 있다.\n르 . 갑과 을 : 능 력 에 따른 분 배 는 정의 원 칙 에 어 긋 날 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄴ ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 크"
+      },
+      {
+        "number": 5,
+        "text": "7, ㄷ , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.896,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:12+00:00",
+    "qa_flags": []
+  }
+}

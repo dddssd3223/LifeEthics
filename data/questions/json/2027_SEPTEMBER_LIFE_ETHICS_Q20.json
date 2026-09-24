@@ -1,0 +1,75 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 152,
+    "question_number": 20,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2383,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은?\n종 교 의 역 사 에서 볼 때, 오직 자기 종 교 만 참 되고 다른 모든\n종 교 는 참 되지 않다는 입장, 모는 종 교 는 참 되 기 에 무 차 별 적 으 로\n용 인 해야 한다는 입장, 모든 종 교 가 진 리 의 일 부 만 을 지 니 므로\n모든 종 교 를 통 합 해 야 한다는 입 장 은 참된 평 화 에 기 여 하지\n못했다. 참된 평 화 를 위해 종 교 는 진 리 와 진 리 가 아닌 것의\n경 계 가 자기 종 교 와 다른 종교 사 이 의 경 계 와 일 치 하는 것이\n아니라, 자기 종 교 에 도 존 재 한다는 사 실 을 인 정 해 야 한다. 즉 ,\n각 각 의 종교 안에서도 모든 것이 항상 참인 것은 아니다. 이러한\n자 세 를 바 탕 으로 할 때, 종 교 는 참된 평 화 에 기여할 수 있다.\n0) 참된 평 화 는 자기 종 교 만이 참 되 다 고 주 장 함으로써 보 장 된다.\n0) 종교적 가 르 침 의 일 부 가 참 이 아닐 수도 있 음 을 고려해야 한다.\n3) 종교적 진 리 는 어떤 종 교 에도 존 재 하지 않 음 을 이해해야 한다.\n@) 종교적 가 르 침 을 비판 없이 수 용 할 때 참된 평 화 가 실 현 된다.\n(9) 참된 평 화 를 위해 서로 다른 종 교 들을 하 나 의 종 교 로 합 쳐 야 한다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은?",
+    "passage": "종 교 의 역 사 에서 볼 때, 오직 자기 종 교 만 참 되고 다른 모든\n종 교 는 참 되지 않다는 입장, 모는 종 교 는 참 되 기 에 무 차 별 적 으 로\n용 인 해야 한다는 입장, 모든 종 교 가 진 리 의 일 부 만 을 지 니 므로\n모든 종 교 를 통 합 해 야 한다는 입 장 은 참된 평 화 에 기 여 하지\n못했다. 참된 평 화 를 위해 종 교 는 진 리 와 진 리 가 아닌 것의\n경 계 가 자기 종 교 와 다른 종교 사 이 의 경 계 와 일 치 하는 것이\n아니라, 자기 종 교 에 도 존 재 한다는 사 실 을 인 정 해 야 한다. 즉 ,\n각 각 의 종교 안에서도 모든 것이 항상 참인 것은 아니다. 이러한\n자 세 를 바 탕 으로 할 때, 종 교 는 참된 평 화 에 기여할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "참된 평 화 는 자기 종 교 만이 참 되 다 고 주 장 함으로써 보 장 된다."
+      },
+      {
+        "number": 2,
+        "text": "종교적 가 르 침 의 일 부 가 참 이 아닐 수도 있 음 을 고려해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "종교적 진 리 는 어떤 종 교 에도 존 재 하지 않 음 을 이해해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "종교적 가 르 침 을 비판 없이 수 용 할 때 참된 평 화 가 실 현 된다."
+      },
+      {
+        "number": 5,
+        "text": "참된 평 화 를 위해 서로 다른 종 교 들을 하 나 의 종 교 로 합 쳐 야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.923,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:33+00:00",
+    "qa_flags": []
+  }
+}

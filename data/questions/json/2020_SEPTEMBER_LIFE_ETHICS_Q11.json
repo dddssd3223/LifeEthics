@@ -1,0 +1,78 @@
+{
+  "id": "2020_SEPTEMBER_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 79,
+    "question_number": 11,
+    "exam_key": "2020_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2551
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_SEPTEMBER_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. ( 가 ) 의 업 장 에 비해 ( 나 ) 의 입 장 이 갖는 상대적 특 징 을 그 림 의\n~09 중에서 고른 것은?\n(가) 통 일 에 따른 경제적 효 과 를 고 려 하는 것 보다 남북한\n언 어 와 문 화 의 이 질 화 문 제 를 해 소 하는 것이 더 중 요 하다.\n또한 이 산 가 족 의 만남, 북한 주 민 의 보편적 삶 의 권리 실 현 을\n위해 통 일 이 되어야 한다.\n(나) 통일 문 제 를 문화적 동질성 회 복 과 인권 신 장 의 관 점 에서\n고 찰 할 필 요 도 있다. 그러나 분 단 에 따른 각종 불안\n요 인 을 극 복 하여 경제 발 전 의 안정적 토 대 를 구 축 하는\n것이 더 중 요 하기 때문에 통 일 이 되어야 한다.\nㆍ ※: 문화적 통합 측 면 을 강 조 하는 정도\nㆍ: 경제적 실리 측 면 을 강 조 하는 정도\nㆍ 2: 인 도 주 의 적 측 면 을 강 조 하는 정도\n00 09) 045 0) 5 0 @ 09 9",
+    "stem": "( 가 ) 의 업 장 에 비해 ( 나 ) 의 입 장 이 갖는 상대적 특 징 을 그 림 의 ~09 중에서 고른 것은?",
+    "passage": "(가) 통 일 에 따른 경제적 효 과 를 고 려 하는 것 보다 남북한\n언 어 와 문 화 의 이 질 화 문 제 를 해 소 하는 것이 더 중 요 하다.\n또한 이 산 가 족 의 만남, 북한 주 민 의 보편적 삶 의 권리 실 현 을\n위해 통 일 이 되어야 한다.\n(나) 통일 문 제 를 문화적 동질성 회 복 과 인권 신 장 의 관 점 에서\n고 찰 할 필 요 도 있다. 그러나 분 단 에 따른 각종 불안\n요 인 을 극 복 하여 경제 발 전 의 안정적 토 대 를 구 축 하는\n것이 더 중 요 하기 때문에 통 일 이 되어야 한다.\nㆍ ※: 문화적 통합 측 면 을 강 조 하는 정도\nㆍ: 경제적 실리 측 면 을 강 조 하는 정도\nㆍ 2: 인 도 주 의 적 측 면 을 강 조 하는 정도",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(7)"
+      },
+      {
+        "number": 2,
+        "text": "045"
+      },
+      {
+        "number": 3,
+        "text": "5"
+      },
+      {
+        "number": 4,
+        "text": "@"
+      },
+      {
+        "number": 5,
+        "text": "9"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.891,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 3, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows_clustered",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:53:17+00:00",
+    "qa_flags": []
+  }
+}

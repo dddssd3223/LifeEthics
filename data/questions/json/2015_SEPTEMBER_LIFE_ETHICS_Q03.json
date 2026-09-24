@@ -1,0 +1,73 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 17,
+    "question_number": 3,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      883,
+      2999,
+      2083
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. (가), (나) 사 상 의 올바른 삶 의 태 도 에 대한 설 명 으로 옮 지 않은\n것은?\n(가) 새 벽 에 잠 을 깨면 마 음 을 고요히 하여 논한다. 마 음 이\n세 워 졌 으면 일어나 세 수 하고 단 정 히 않아 몸 을 단 속 한다.\n이와 같은 수 양 으로 덕 을 낚아 인 의 ((_ 36) 를 지켜 나가야 한다.\n(나) 여러 인 ( 띠 ) 과 연 (@) 에 의해 생 겨 나 는 것이 법 ( 푼 ) 이\n다. 단 하 나 의 법도 인과 연 을 따라 생 겨 나 지 않은 것이\n없다. 이것을 공 ( 쑤 ) 이 라고 말한다.\n0) ( 가 ) 는 홀로 있을 때 삼가는 태 도 [[8”^] 를 강 조 한 다.\n(3) ( 나 ) 는 해 탈 에 이르기 위한 바 라 밀 의 실 천 을 중 시 한다.\n(03) ( 가 ) 는 (나) 태 달리 친 소 ( 채 베 ) 를 구 별 하는 시 랑 을 중 시 한다.\n@) ( 가 ) 는 삼 독 (= 츄 ) 의 제 거 를, ( 나 ) 는 욕 망 의 절 제 를 강 조 한 다.\n9) (가), ( 나 ) 는 사 랑 의 실 천 이 모든 시 안 이 게 지 이를 것을 강 조 한 다.",
+    "stem": "(가), (나) 사 상 의 올바른 삶 의 태 도 에 대한 설 명 으로 옮 지 않은 것은?",
+    "passage": "(가) 새 벽 에 잠 을 깨면 마 음 을 고요히 하여 논한다. 마 음 이\n세 워 졌 으면 일어나 세 수 하고 단 정 히 않아 몸 을 단 속 한다.\n이와 같은 수 양 으로 덕 을 낚아 인 의 ((_ 36) 를 지켜 나가야 한다.\n(나) 여러 인 ( 띠 ) 과 연 (@) 에 의해 생 겨 나 는 것이 법 ( 푼 ) 이\n다. 단 하 나 의 법도 인과 연 을 따라 생 겨 나 지 않은 것이\n없다. 이것을 공 ( 쑤 ) 이 라고 말한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "( 가 ) 는 홀로 있을 때 삼가는 태 도 [[8”^] 를 강 조 한 다."
+      },
+      {
+        "number": 2,
+        "text": "( 나 ) 는 해 탈 에 이르기 위한 바 라 밀 의 실 천 을 중 시 한다."
+      },
+      {
+        "number": 3,
+        "text": "( 가 ) 는 (나) 태 달리 친 소 ( 채 베 ) 를 구 별 하는 시 랑 을 중 시 한다."
+      },
+      {
+        "number": 4,
+        "text": "( 가 ) 는 삼 독 (= 츄 ) 의 제 거 를, ( 나 ) 는 욕 망 의 절 제 를 강 조 한 다. 안"
+      },
+      {
+        "number": 5,
+        "text": "(가), ( 나 ) 는 사 랑 의 실 천 이 모든 시 이 게 지 이를 것을 강 조 한 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.849,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:06+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "2022_CSAT_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 107,
+    "question_number": 11,
+    "exam_key": "2022_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2156
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_CSAT_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 다 음 을 주장한 사 상 가 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서\n고른 것은?\n배 아 에 대한 적극적인 유 전 적 간 섭 을 추 구 하는 자 유 주 의 적\n우 생 학 은 배 아 의 사 물 화 를 초 래 한다. 이러한 유 전 적 간 섭 으로\n프로그램 되어 태어난 사 람 은 스 스 로 를 자기 삶 의 유일한 저자\n이자 다른 사 람 들 과 평 등 한 주 체 로서 인 식 하지 못할 것이다.\n특히 인간 몸 의 자연 발 생 성은 개 개 인 이 자유롭고 평 등 한 도덕\n주 체 가 되기 위한 근본적인 조 건 이지만 우 생 학적 접 근 은 바로\n그런 조 건 을 뒤 흔 들 고 말 것이다. 다만, 유 전 적 간 섭 은 치 료 라는\n규제 이 념 에 인 도 될 때 에 만 허 용 될 수 있을 것이다.\n< 보 기 >\nㄱ . 유 전 적 간 섭 이 도 덕 적 으로 정 당 화 되는 경 우 가 존 재 한 다.\nㄴ . 자 유 주 의 적 우 생 학 은 인 간 의 미 래 를 위해 권 장 되어야 한다.\nㄷ . 인 간 의 유 전 적 자 연 성 은 평 등 한 도덕 주 체 가 되기 위한 전 제 이다.\n르 . 부 모 는 적극적인 유 전 적 간 섭 으로 자 녀 의 삶 에 참 여 해 야 한다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "배 아 에 대한 적극적인 유 전 적 간 섭 을 추 구 하는 자 유 주 의 적\n우 생 학 은 배 아 의 사 물 화 를 초 래 한다. 이러한 유 전 적 간 섭 으로\n프로그램 되어 태어난 사 람 은 스 스 로 를 자기 삶 의 유일한 저자\n이자 다른 사 람 들 과 평 등 한 주 체 로서 인 식 하지 못할 것이다.\n특히 인간 몸 의 자연 발 생 성은 개 개 인 이 자유롭고 평 등 한 도덕\n주 체 가 되기 위한 근본적인 조 건 이지만 우 생 학적 접 근 은 바로\n그런 조 건 을 뒤 흔 들 고 말 것이다. 다만, 유 전 적 간 섭 은 치 료 라는\n규제 이 념 에 인 도 될 때 에 만 허 용 될 수 있을 것이다.\n< 보 기 >\nㄱ . 유 전 적 간 섭 이 도 덕 적 으로 정 당 화 되는 경 우 가 존 재 한 다.\nㄴ . 자 유 주 의 적 우 생 학 은 인 간 의 미 래 를 위해 권 장 되어야 한다.\nㄷ . 인 간 의 유 전 적 자 연 성 은 평 등 한 도덕 주 체 가 되기 위한 전 제 이다.\n르 . 부 모 는 적극적인 유 전 적 간 섭 으로 자 녀 의 삶 에 참 여 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.911,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:54:26+00:00",
+    "qa_flags": []
+  }
+}

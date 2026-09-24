@@ -1,0 +1,75 @@
+{
+  "id": "2024_SEPTEMBER_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 126,
+    "question_number": 10,
+    "exam_key": "2024_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2488,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_SEPTEMBER_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. ( 가 ) 의 갑 , 을, 병 사 상 가 들 의 입 장 을 (나) 그 림 으로 표현할 때,\n쇼 ~12 에 해 당 하 는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 살아 있는 동 물 이나 식 물 은 목 적 론적 삶 의 중 심 으로서,\n인 간 이 고 유 한 선 을 지닌 것과 동일한 의 미 로 각 자 의\n고 유 한 선 을 지니고 있다.\n을 : 대지 윤 리 는 인 류 의 역 할 을 대지 공 동 체 의 정 복 자 에서\n(가) | . 그 것 의 평범한 구 성 원 으로 변 화 시키며, 공동체 자 체 에\n대한 존 중 을 필 연 적 으로 수 반 한다.\n병 ： 동물 학 대 가 인간 학 대 로 이어질 수 있다는 이유로,\n우 리 가 동 물 에게 친 절 해야 한다는 주 장 은 전적으로\n종 차 별 주의적 입 장 을 표 명 한 것이다.\n< 범 례 >\n비베 22;\n쇼 : 갑 만의 입장\n22222;\n아바 4241)\n(나)\n8: 을 만의 입장\n짝 7 22247\n〉\n이나 2\n~\n6: 갑과 을 만 의 공통 입장\n. %\n1: 갑과 병 만의 공통 입장\n< 보 기 >\nㄱ . ㅅ : 생 명 을 지닌 존 재 가 이 니 리면 도덕적 지 위 를 지닐 수 없다.\nㄴ . 8: 개 체 에게 생명 공 동 체 와 동등한 가 치 를 부 여 할 수 는 없다.\nㄷ . 0: 인 간 은 본 질 적 으로 식 물 보다 우월한 존 재 라고 할 수 없다.\n르 . 1): 자연 자 체 의 선 은 개 체 의 희 생 을 정 딩 회 하는 근 거 가 아니다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄷ , 큰\n040 ㄱ 7, ㄴ , 르 06) ㄴ , ㄷ , 큰",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들 의 입 장 을 (나) 그 림 으로 표현할 때, 쇼 ~12 에 해 당 하 는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 살아 있는 동 물 이나 식 물 은 목 적 론적 삶 의 중 심 으로서,\n인 간 이 고 유 한 선 을 지닌 것과 동일한 의 미 로 각 자 의\n고 유 한 선 을 지니고 있다.\n을 : 대지 윤 리 는 인 류 의 역 할 을 대지 공 동 체 의 정 복 자 에서\n(가) | . 그 것 의 평범한 구 성 원 으로 변 화 시키며, 공동체 자 체 에\n대한 존 중 을 필 연 적 으로 수 반 한다.\n병 ： 동물 학 대 가 인간 학 대 로 이어질 수 있다는 이유로,\n우 리 가 동 물 에게 친 절 해야 한다는 주 장 은 전적으로\n종 차 별 주의적 입 장 을 표 명 한 것이다.\n< 범 례 >\n비베 22;\n쇼 : 갑 만의 입장\n22222;\n아바 4241)\n(나)\n8: 을 만의 입장\n짝 7 22247\n〉\n이나 2\n~\n6: 갑과 을 만 의 공통 입장\n. %\n1: 갑과 병 만의 공통 입장\n< 보 기 >\nㄱ . ㅅ : 생 명 을 지닌 존 재 가 이 니 리면 도덕적 지 위 를 지닐 수 없다.\nㄴ . 8: 개 체 에게 생명 공 동 체 와 동등한 가 치 를 부 여 할 수 는 없다.\nㄷ . 0: 인 간 은 본 질 적 으로 식 물 보다 우월한 존 재 라고 할 수 없다.\n르 . 1): 자연 자 체 의 선 은 개 체 의 희 생 을 정 딩 회 하는 근 거 가 아니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ 7, ㄴ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.853,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:41+00:00",
+    "qa_flags": []
+  }
+}

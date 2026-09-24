@@ -1,0 +1,76 @@
+{
+  "id": "2016_CSAT_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 36,
+    "question_number": 18,
+    "exam_key": "2016_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      3401,
+      1739,
+      4453
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_CSAT_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 갑 , 을 사 상 가 들 의 입 장 으로 옮 은 것은?\n문명 간의 갈 등 은 상이한 문 명 에 속한 | | 문명 간의 갈 등 은 소통 단 절 에서 기 인 합니다.\n인 접 국 들이나 집 단 들 사 이 의 단 층 선 | | 세 계 의 역 동 성은 낮 선 것 과 의 대 결 을\n분 쟁 에서 발 생 합니다. 각 문 명 의 || 다 층 화 하여 거부 본 능 을 자 극 하기도 하지만,\n핵 심 국 들이 분쟁 당 사 자 들을 지 원 하는 | | 정 치 와 무 관 하게 대 화 를 추 진 하 는 사회적,\n과 정 에서 문명 간의 전 면 적 인 분 쟁 이 | | 경제적 힘 들 로 인하여 문명 간 가 치 들의\n야 기 될 가 능 성 이 있습니다. 교 집 함 을 확 대 시킬 것 입니다.\n(0) 갑 : 핵 심 국 들 이 단 층 선 분쟁 억 제 를 위해 타 협 해서는 안 된다.\n(3) 갑 : 문 명 과 문 화 의 다 양 성 을 배 제 하고 동 질 성 을 모 색 해야 한다.\n(3) 을: 국제 교 류 의 확 대 를 통해 문명 간의 갈 등 을 완 화 해야 한다.\n(4) 을: 세 계 는 개별 문 명 을 넘어 단일 문 명 의 실 현 을 추 구 해 야 한다.\n(5) 갑 , 을: 국제 분 쟁 의 근본 원 인 을 정치 이 념 의 차 이 에서 찾아야 한다.",
+    "stem": "갑 , 을 사 상 가 들 의 입 장 으로 옮 은 것은?",
+    "passage": "문명 간의 갈 등 은 상이한 문 명 에 속한 | | 문명 간의 갈 등 은 소통 단 절 에서 기 인 합니다.\n인 접 국 들이나 집 단 들 사 이 의 단 층 선 | | 세 계 의 역 동 성은 낮 선 것 과 의 대 결 을\n분 쟁 에서 발 생 합니다. 각 문 명 의 || 다 층 화 하여 거부 본 능 을 자 극 하기도 하지만,\n핵 심 국 들이 분쟁 당 사 자 들을 지 원 하는 | | 정 치 와 무 관 하게 대 화 를 추 진 하 는 사회적,\n과 정 에서 문명 간의 전 면 적 인 분 쟁 이 | | 경제적 힘 들 로 인하여 문명 간 가 치 들의\n야 기 될 가 능 성 이 있습니다. 교 집 함 을 확 대 시킬 것 입니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 핵 심 국 들 이 단 층 선 분쟁 억 제 를 위해 타 협 해서는 안 된다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 문 명 과 문 화 의 다 양 성 을 배 제 하고 동 질 성 을 모 색 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을: 국제 교 류 의 확 대 를 통해 문명 간의 갈 등 을 완 화 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "을: 세 계 는 개별 문 명 을 넘어 단일 문 명 의 실 현 을 추 구 해 야 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 국제 분 쟁 의 근본 원 인 을 정치 이 념 의 차 이 에서 찾아야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=12"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.921,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:36:44+00:00",
+    "qa_flags": []
+  }
+}

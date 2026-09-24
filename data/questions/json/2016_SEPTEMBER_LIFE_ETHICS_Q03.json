@@ -1,0 +1,73 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 29,
+    "question_number": 3,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      881,
+      2999,
+      2248
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q03.png",
+    "raw_text": "8. 다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n삶이 일종의 기술인 것처럼 사 랑 도 기 술 이라는 것을 깨 달\n아야 한다. 사 랑 은 상 대 에게 응 답 할 수 있고 응 답 할 준 비 가\n갖추어져 있다는 뜻 이다. 사 랑 은 인간 존 재 를 타 인 과 결 합 시\n키 는 능 동 적 인 능 력 으로, 인 간 의 고 립 감을 극 복 하게 하면서도\n각자 자 신 의 통 합 성 을 유 지 시킨다. 따라서 사 랑 에 있어서\n두 존 재 는 하나로 되면서도 돌로 남아 있다.\n< 보 기 >\nㄱ . 사 랑 은 사랑하는 사 람 의 성 장 에 관 심 을 갖는 것이다.\nㄴ . 사 랑 은 상 대 빵 이 지닌 고 유 한 개 성 을 존 중 하는 것이다.\nㄷ . 사 랑 은 서 로 가 서 로 를 소유 대 상 으로 인 정 하는 것이다.\n2. 사 랑 은 상 대 의 요 구 에 자 발 적 으로 책 임 을 느끼는 것이다,\n0) ㄱ , ㄴ (0) ㄴ , ㄷ (3) ㄷ , 르\n(00 )0 ㄱ , ㄴ , 2 (6) ㄱ 7, ㄷ , 2",
+    "stem": "다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "삶이 일종의 기술인 것처럼 사 랑 도 기 술 이라는 것을 깨 달\n아야 한다. 사 랑 은 상 대 에게 응 답 할 수 있고 응 답 할 준 비 가\n갖추어져 있다는 뜻 이다. 사 랑 은 인간 존 재 를 타 인 과 결 합 시\n키 는 능 동 적 인 능 력 으로, 인 간 의 고 립 감을 극 복 하게 하면서도\n각자 자 신 의 통 합 성 을 유 지 시킨다. 따라서 사 랑 에 있어서\n두 존 재 는 하나로 되면서도 돌로 남아 있다.\n< 보 기 >\nㄱ . 사 랑 은 사랑하는 사 람 의 성 장 에 관 심 을 갖는 것이다.\nㄴ . 사 랑 은 상 대 빵 이 지닌 고 유 한 개 성 을 존 중 하는 것이다.\nㄷ . 사 랑 은 서 로 가 서 로 를 소유 대 상 으로 인 정 하는 것이다.\n2. 사 랑 은 상 대 의 요 구 에 자 발 적 으로 책 임 을 느끼는 것이다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "0 )0 ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄱ 7, ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.897,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:39+00:00",
+    "qa_flags": []
+  }
+}

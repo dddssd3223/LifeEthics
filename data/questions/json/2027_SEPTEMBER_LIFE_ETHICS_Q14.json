@@ -1,0 +1,77 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 151,
+    "question_number": 14,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1876,
+      3148,
+      3239
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다 음 을 주장한 사 상 가 의 업 장 으로 적절한 것 만 을 < 보 기 > 에 서\n고른 것은?\n자연 상 태 에서는 어떤 것도 부당한 것이 될 수 없다. 인 간 은\n자연 상 태 를 벗어나기 위해 자 신 의 모든 권 러 와 힘 을 한 사람\n또는 하 나 의 합 의 체 에 양 도 하는 계 약 을 맺는다. 신 민 이 주권자\n에게 복 종 할 의 무 는 주 권 자 가 신 민 의 생 명 을 보 호 할 수 있는\n동 안 에 만 지 속 된다.\n< 보 기 >\nㄱ . 개 인 의 소 유 권 을 정하는 규 칙 은 주 권 자 에 의해서만 확 정 된다.\nㄴ . 신 민 은 주 권 자 의 행 위 를 부 정 의 하 다고 비 난 해 서는 안 된다.\nㄷ . 자연 상 태 에는 좋 음 과 나 봄 을 구분할 기 준 도 주 체 도 없다.\n르 . 권 리 의 양 도 는 주 권 자 와 신민 간 계약 없이는 불 가 능 하다.\n0700 0976 6 9042 662",
+    "stem": "다 음 을 주장한 사 상 가 의 업 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "자연 상 태 에서는 어떤 것도 부당한 것이 될 수 없다. 인 간 은\n자연 상 태 를 벗어나기 위해 자 신 의 모든 권 러 와 힘 을 한 사람\n또는 하 나 의 합 의 체 에 양 도 하는 계 약 을 맺는다. 신 민 이 주권자\n에게 복 종 할 의 무 는 주 권 자 가 신 민 의 생 명 을 보 호 할 수 있는\n동 안 에 만 지 속 된다.\n< 보 기 >\nㄱ . 개 인 의 소 유 권 을 정하는 규 칙 은 주 권 자 에 의해서만 확 정 된다.\nㄴ . 신 민 은 주 권 자 의 행 위 를 부 정 의 하 다고 비 난 해 서는 안 된다.\nㄷ . 자연 상 태 에는 좋 음 과 나 봄 을 구분할 기 준 도 주 체 도 없다.\n르 . 권 리 의 양 도 는 주 권 자 와 신민 간 계약 없이는 불 가 능 하다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.902,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:56:17+00:00",
+    "qa_flags": []
+  }
+}

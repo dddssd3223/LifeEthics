@@ -1,0 +1,75 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 60,
+    "question_number": 20,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2408,
+      2999,
+      4056
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 갑 , 을 중 적어도 한 사 람 이 부 정 의 대 답 을 할 질 문 만 을 < 보 기 >\n에서 있는 대로 고른 것은?\n갑 : 인 권 은 개 인 이 국 가 나 타 인 으로부터 간 섭 이나 침 해 를 받지\n않을 권 리 와 정 치 에 참여할 평 등 한 기 회 를 가질 권 리 로\n국 한 되어야 한다. 국 가 가 사 회 적 ㆍ 경 제적 평 등 을 실 현 하 기\n위해 개 인 의 자 유 와 권 리 를 침 해 하 는 것은 부 당 하다.\n을: 인 권 은 인 간 이 최 소 한 의 인 간 다운 삶 을 누리며 살 권 리 이다.\n인 권 을 소극적 권 리 로 한 정 해서는 사회적 약 자 들의 인 간 다운\n삶 을 보 장 할 수 없다. 국 가 는 구성원 모 두 의 인권 보 장 을\n위해 사 회 적 ㆍ 경제적 평 등 을 실 현 해야 한다.\n< 보 기 >\nㄱ . 인 퀸 은 자 유 권 과 참 정 권 으로 국 한 되어야 하는가?\nㄴ . 인 퀸 은 인 간 으로서 마땅히 누 려 야 할 권 리 인가?\nㄷ . 인 퀸 은 자 유 권 과 함께 복 지 퀸 을 포 함 하는 퀸 리 인가?\n2 . 인 권 은 사 회 적 - 경 제적 평 등 의 실 현 을 통해 보 장 되어야 하는가?\n0) ㄱ , ㄴ (2) ㄱ , (3) ㄴ , ㄷ\n(0 ) ㄱ , ㄷ , 2 (66) ㄴ , ㄷ , 2",
+    "stem": "갑 , 을 중 적어도 한 사 람 이 부 정 의 대 답 을 할 질 문 만 을 < 보 기 > 에서 있는 대로 고른 것은?",
+    "passage": "갑 : 인 권 은 개 인 이 국 가 나 타 인 으로부터 간 섭 이나 침 해 를 받지\n않을 권 리 와 정 치 에 참여할 평 등 한 기 회 를 가질 권 리 로\n국 한 되어야 한다. 국 가 가 사 회 적 ㆍ 경 제적 평 등 을 실 현 하 기\n위해 개 인 의 자 유 와 권 리 를 침 해 하 는 것은 부 당 하다.\n을: 인 권 은 인 간 이 최 소 한 의 인 간 다운 삶 을 누리며 살 권 리 이다.\n인 권 을 소극적 권 리 로 한 정 해서는 사회적 약 자 들의 인 간 다운\n삶 을 보 장 할 수 없다. 국 가 는 구성원 모 두 의 인권 보 장 을\n위해 사 회 적 ㆍ 경제적 평 등 을 실 현 해야 한다.\n< 보 기 >\nㄱ . 인 퀸 은 자 유 권 과 참 정 권 으로 국 한 되어야 하는가?\nㄴ . 인 퀸 은 인 간 으로서 마땅히 누 려 야 할 권 리 인가?\nㄷ . 인 퀸 은 자 유 권 과 함께 복 지 퀸 을 포 함 하는 퀸 리 인가?\n2 . 인 권 은 사 회 적 - 경 제적 평 등 의 실 현 을 통해 보 장 되어야 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ,"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": ") ㄱ , ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.88,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:53+00:00",
+    "qa_flags": []
+  }
+}

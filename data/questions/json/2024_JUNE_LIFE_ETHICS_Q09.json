@@ -1,0 +1,75 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 122,
+    "question_number": 9,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      3199
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장\n적절한 것은? [3 점 ]\n갑 : 자연 상 태 로부터 법적 상 태 로 의 이 행 은 형 법 을 요 청 한 다.\n살 인 과 달리 사 형 은 고 통 받는 인격 안에 있는 인 간 성 을\n추 악 하게 만드는 것 으 로 부터 벗어나 있어야 한다.\n을: 살 인 자 는 사 회 의 법 을 위 반 했으므로 그 행 위 로 인해\n(가) 조 국 에 대한 반 역 자 가 되어 버린다. 그는 국 가 의\n구 성 원 이 아 니 므 로 국 가 로부터 분 리 되어야 한다.\n병 : 인 간 은 자 신 을 죽일 권 리 가 없으므로 그 권 리 를\n양 도 하는 것은 불 가 능 하다. 사 형 은 권 리 의 문 제 가\n아니며, 한 사 람 의 시 민 에 대한 국 가 의 전 쟁 이다.\n범 례\nㅡ > : 비 판 의 방향\n스 ~ : 비 판 의 내용\n(나) 2 나 예시\n스\n. @-…@\n< 쇼 는 갑 이 을 에게 제 기 할\n> 수 있는 비 판 임 .\n0) ㅅ : 범죄 사실 자 체 를 근 거 로 형 벌 을 부 과 해서는 안 됨을 간 과 한다.\n(2) 8 : 살 인 자 에 대한 사 형 은 그의 인 격 성 을 존 중 하는 것임을 간 과 한다.\n(3) (와 : 살 인 자 에게 사형 이 외 의 형 벌 이 부 과 될 수 있 음 을 간 과 한다.\n0) 10: 사회 전 체 를 대 표 하는 입 법 자 에게만 형 벌 권 이 있 음 을 간 과 한다.\n(5) 『 : 살 인 자 에 대한 사 형 이 사회 계 약 에 포함될 수 있 음 을 간 과 한다.",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 자연 상 태 로부터 법적 상 태 로 의 이 행 은 형 법 을 요 청 한 다.\n살 인 과 달리 사 형 은 고 통 받는 인격 안에 있는 인 간 성 을\n추 악 하게 만드는 것 으 로 부터 벗어나 있어야 한다.\n을: 살 인 자 는 사 회 의 법 을 위 반 했으므로 그 행 위 로 인해\n(가) 조 국 에 대한 반 역 자 가 되어 버린다. 그는 국 가 의\n구 성 원 이 아 니 므 로 국 가 로부터 분 리 되어야 한다.\n병 : 인 간 은 자 신 을 죽일 권 리 가 없으므로 그 권 리 를\n양 도 하는 것은 불 가 능 하다. 사 형 은 권 리 의 문 제 가\n아니며, 한 사 람 의 시 민 에 대한 국 가 의 전 쟁 이다.\n범 례\nㅡ > : 비 판 의 방향\n스 ~ : 비 판 의 내용\n(나) 2 나 예시\n스\n. @-…@\n< 쇼 는 갑 이 을 에게 제 기 할\n> 수 있는 비 판 임 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㅅ : 범죄 사실 자 체 를 근 거 로 형 벌 을 부 과 해서는 안 됨을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "8 : 살 인 자 에 대한 사 형 은 그의 인 격 성 을 존 중 하는 것임을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "(와 : 살 인 자 에게 사형 이 외 의 형 벌 이 부 과 될 수 있 음 을 간 과 한다."
+      },
+      {
+        "number": 4,
+        "text": "10: 사회 전 체 를 대 표 하는 입 법 자 에게만 형 벌 권 이 있 음 을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": "『 : 살 인 자 에 대한 사 형 이 사회 계 약 에 포함될 수 있 음 을 간 과 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.898,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:21+00:00",
+    "qa_flags": []
+  }
+}

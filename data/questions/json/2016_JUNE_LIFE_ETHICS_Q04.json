@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 25,
+    "question_number": 4,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1767,
+      2411,
+      3292,
+      3594
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q04.png",
+    "raw_text": "4。 다음 사 상 의 자 연 관 으로 가장 적절한 것은? [3 점 ]\nㅇ 고 정 된 자 성 ( 탬 ) 이 있다면, 세 상 의 모든 현 상 들은 생겨\n나 지 도 않고 없 어 지 지 도 않을 것이다. 공 ( 쪼 ) 하 지 않다고\n하면, 아직 얻지 못한 것은 결코 얻을 수 없을 것이며\n번 뇌 도 끊을 수 없을 것이다.\n털 끝 하 나 에도 끝없는 대 지 와 큰 바 다 가 들어 있으며,\n끝없는 대 지 와 큰 바 다 가 티 끌 과 다르지 않다는 것을\n깨 달 아 야 고 통 이 없는 해 탈 을 이루게 될 것이다.\n(1) 원 인 과 조 건 에 의해 생 멸 ( 쏘 #) 하 는 관 계 의 그 물 [10#] 이 다.\n(3) 모든 사 람 들 이 마땅히 지켜야 할 예법 ( 볼 푼 ) 의 근 거 이다.\n(8) 인 간 의 이 성 으로 질 서 가 바 로 잡 혀 야 할 미 성 숙 한 존 재 이다.\n(4 인 간 과 무 관 하게 움직이는 유 기 적 인 무 위 (@&) 의 체 계 이다.\n(8) 인 간 의 삶이 풍 요 로 울 수 있도록 해 주는 도 구 적 가 치 의 총 체 이다.",
+    "stem": "4。 다음 사 상 의 자 연 관 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "ㅇ 고 정 된 자 성 ( 탬 ) 이 있다면, 세 상 의 모든 현 상 들은 생겨\n나 지 도 않고 없 어 지 지 도 않을 것이다. 공 ( 쪼 ) 하 지 않다고\n하면, 아직 얻지 못한 것은 결코 얻을 수 없을 것이며\n번 뇌 도 끊을 수 없을 것이다.\n털 끝 하 나 에도 끝없는 대 지 와 큰 바 다 가 들어 있으며,\n끝없는 대 지 와 큰 바 다 가 티 끌 과 다르지 않다는 것을\n깨 달 아 야 고 통 이 없는 해 탈 을 이루게 될 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "원 인 과 조 건 에 의해 생 멸 ( 쏘 #) 하 는 관 계 의 그 물 [10#] 이 다."
+      },
+      {
+        "number": 2,
+        "text": "모든 사 람 들 이 마땅히 지켜야 할 예법 ( 볼 푼 ) 의 근 거 이다."
+      },
+      {
+        "number": 3,
+        "text": "인 간 의 이 성 으로 질 서 가 바 로 잡 혀 야 할 미 성 숙 한 존 재 이다."
+      },
+      {
+        "number": 4,
+        "text": "인 간 과 무 관 하게 움직이는 유 기 적 인 무 위 (@&) 의 체 계 이다."
+      },
+      {
+        "number": 5,
+        "text": "인 간 의 삶이 풍 요 로 울 수 있도록 해 주는 도 구 적 가 치 의 총 체 이다."
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.809,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T111523",
+    "extracted_at": "2026-09-24T11:20:20+00:00",
+    "qa_flags": []
+  }
+}

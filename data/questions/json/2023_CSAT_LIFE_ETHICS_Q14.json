@@ -1,0 +1,79 @@
+{
+  "id": "2023_CSAT_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 119,
+    "question_number": 14,
+    "exam_key": "2023_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2897
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_CSAT_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하 고자 할 때,\n&~(` 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 고른 것은? [3 점 ]\n갑 : 시민 불 복 종 은 거의 정 의 로 운 사회 내 에 서 그 체 제 의\n합 법 성 을 인 정 하는 시 민 들 에 게 서 만 일어난다. 따라서\n(가 시민 불 복 종 은 공 유 된 정 의 관 에 의해 정 당 화 된다.\n을: 시민 불 복 종 은 공리주의 원 리 에 의해 정 당 화 되어야 한다.\n따라서 우 리 는 시민 불 복 종 이 사 회 에 미칠 전체적인\n이 익 과 손 해 를 저 울 질 해 봐야 한다.\n사상가 갑 , 을 의 슬레\n번 2\n입 장 을 탐 구 한다. : 판단 나을\n< > : 판단 내용\n-- : 판단 방향\n< & -90 록 1: 사 상 가 의 입장\n(나) 예\n예\n예\n< 보 기 >\nㄱ . ㅅ &: 시민 불 복 종 은 법 에 대한 존 중 심을 감 소 시킬 수 있는가?\nㄴ . 1 : 시민 불복종 정당한 법 에 대한 위 반 을 수 빈 할 수 있는가?\nㄷ . 1 : 심각한 부 정 의가 존 재 하는 민주 체 제 에서는 시민 불 복 종 이\n가능한가?\n큰 . (@` : 다 수 의 견 해 를 진 정 으로 반영한 법 에 대한 시민 복 불 종 은\n불 가 능 한 가 ?\n0700 0976 6 9042 662",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하 고자 할 때, &~(` 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 시민 불 복 종 은 거의 정 의 로 운 사회 내 에 서 그 체 제 의\n합 법 성 을 인 정 하는 시 민 들 에 게 서 만 일어난다. 따라서\n(가 시민 불 복 종 은 공 유 된 정 의 관 에 의해 정 당 화 된다.\n을: 시민 불 복 종 은 공리주의 원 리 에 의해 정 당 화 되어야 한다.\n따라서 우 리 는 시민 불 복 종 이 사 회 에 미칠 전체적인\n이 익 과 손 해 를 저 울 질 해 봐야 한다.\n사상가 갑 , 을 의 슬레\n번 2\n입 장 을 탐 구 한다. : 판단 나을\n< > : 판단 내용\n-- : 판단 방향\n< & -90 록 1: 사 상 가 의 입장\n(나) 예\n예\n예\n< 보 기 >\nㄱ . ㅅ &: 시민 불 복 종 은 법 에 대한 존 중 심을 감 소 시킬 수 있는가?\nㄴ . 1 : 시민 불복종 정당한 법 에 대한 위 반 을 수 빈 할 수 있는가?\nㄷ . 1 : 심각한 부 정 의가 존 재 하는 민주 체 제 에서는 시민 불 복 종 이\n가능한가?\n큰 . (@` : 다 수 의 견 해 를 진 정 으로 반영한 법 에 대한 시민 복 불 종 은\n불 가 능 한 가 ?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.858,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:54:57+00:00",
+    "qa_flags": []
+  }
+}

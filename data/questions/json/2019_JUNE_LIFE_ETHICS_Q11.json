@@ -1,0 +1,73 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 63,
+    "question_number": 11,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1742,
+      2069
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 동양 사상 (가), ( 나 ) 의 입 장 으로 가장 적절한 것은? [3 점 ]\n(가) 삶 도 내가 원 하 고 의 로 움 또한 내가 원한다. 이 둘 을 함께\n얻을 수 없다면, 의 로 움 을 취하지 어찌 구 차 하게 살 겠 는가.\n죽 음 도 내가 싫어하는 것이지만 죽 음 보다 더 싫어하는\n것이 있다. 그래서 죽 음 조차 피 하 지 않는 경 우 가 있\n(나) 사랑하는 이의 죽 음 이 슬픈 일인가? 생 명 이란 본래 자연\n에서 빌린 것이니 마치 터 끌 과 같고, 삶 과 죽 음 의 이 치 는\n밥 낮 의 변 화 와 같다. 이제 우 러 는 그 자연스런 변 화 를\n바 라 보 노니, 그것이 내게 왔다고 해서 어찌 싫 어 하 겠는가.\n0) (가): 생 ( 쏘 ) 그 자 체 가 어떤 가 치 보다도 더 소 중 하 다.\n2) (가): 도덕적 가 치 가 삶 과 죽 음 의 선택 기 준 이 될 수 있다.\n6) (나): 삶 과 죽 음 은 자 연 의 과 정 이 아니라 응 보 의 과 정 이다.\n0) (나): 삶 과 죽 음 의 악 순 환 을 끊는 것이 이상적 인 간 의 경 지 이다.\n6) (가), (나): 죽음 이 후 를 대 비 하여 도덕적 이 치 를 탐 구 해야 한다.",
+    "stem": "동양 사상 (가), ( 나 ) 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "(가) 삶 도 내가 원 하 고 의 로 움 또한 내가 원한다. 이 둘 을 함께\n얻을 수 없다면, 의 로 움 을 취하지 어찌 구 차 하게 살 겠 는가.\n죽 음 도 내가 싫어하는 것이지만 죽 음 보다 더 싫어하는\n것이 있다. 그래서 죽 음 조차 피 하 지 않는 경 우 가 있\n(나) 사랑하는 이의 죽 음 이 슬픈 일인가? 생 명 이란 본래 자연\n에서 빌린 것이니 마치 터 끌 과 같고, 삶 과 죽 음 의 이 치 는\n밥 낮 의 변 화 와 같다. 이제 우 러 는 그 자연스런 변 화 를\n바 라 보 노니, 그것이 내게 왔다고 해서 어찌 싫 어 하 겠는가.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 생 ( 쏘 ) 그 자 체 가 어떤 가 치 보다도 더 소 중 하 다."
+      },
+      {
+        "number": 2,
+        "text": "(가): 도덕적 가 치 가 삶 과 죽 음 의 선택 기 준 이 될 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 삶 과 죽 음 은 자 연 의 과 정 이 아니라 응 보 의 과 정 이다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 삶 과 죽 음 의 악 순 환 을 끊는 것이 이상적 인 간 의 경 지 이다."
+      },
+      {
+        "number": 5,
+        "text": "(가), (나): 죽음 이 후 를 대 비 하여 도덕적 이 치 를 탐 구 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.915,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:58+00:00",
+    "qa_flags": []
+  }
+}

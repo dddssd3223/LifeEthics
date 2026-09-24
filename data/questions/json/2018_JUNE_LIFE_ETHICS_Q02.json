@@ -1,0 +1,73 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 49,
+    "question_number": 2,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2271,
+      1740,
+      3355
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. 다음 서양 사 상 가 의 입 장 으로 옮 은 것은?\n인 간 은 행 위 하는 존 재 이므로 유 리 는 반드시 있어야 한다.\n행 위 는 인 과 적 파급 효 과 를 산 출 하기 때문에 행 위 의 협 이\n커 질 수록 윤리적 책 임 은 더욱 강 조 되어야 한다. 따라서 과학\n기 술 로 인해 인 간 이 갖게 되는 새로운 행위 능 력 을 규 제 할\n새로운 유 리 가 요 청 되는 것이다. 이러한 새로운 윤리 없이는\n기술 능 력 을 실 현 시 키 고 자 하는 압 력 으로 인해 심각한 유 리 적\n문 제 가 발 생 하게 될 것이다.\n(0 기 솔 의 발 달 은 인 간 을 윤리적 책 임 에서 면 제 시켜 준다.\n(3) 새로운 윤 리 는 행 위 의 결 과 가 아니라 동 기 를 고려해야 한다.\n(3) 기술 발 전 으로 생기는 문 제 를 기 존 의 윤 리 로 해 결 해 야 한다.\n(4) 새로운 윤 리 는 기 술 에 대하여 가 치 중립적 태 도 를 지녀야 한다.\n(5) 기 술 에 대한 윤리적 성 찰 이 결 여 될 때 윤리적 공 백 이 발 생 한 다.",
+    "stem": "다음 서양 사 상 가 의 입 장 으로 옮 은 것은?",
+    "passage": "인 간 은 행 위 하는 존 재 이므로 유 리 는 반드시 있어야 한다.\n행 위 는 인 과 적 파급 효 과 를 산 출 하기 때문에 행 위 의 협 이\n커 질 수록 윤리적 책 임 은 더욱 강 조 되어야 한다. 따라서 과학\n기 술 로 인해 인 간 이 갖게 되는 새로운 행위 능 력 을 규 제 할\n새로운 유 리 가 요 청 되는 것이다. 이러한 새로운 윤리 없이는\n기술 능 력 을 실 현 시 키 고 자 하는 압 력 으로 인해 심각한 유 리 적\n문 제 가 발 생 하게 될 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "기 솔 의 발 달 은 인 간 을 윤리적 책 임 에서 면 제 시켜 준다."
+      },
+      {
+        "number": 2,
+        "text": "새로운 윤 리 는 행 위 의 결 과 가 아니라 동 기 를 고려해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "기술 발 전 으로 생기는 문 제 를 기 존 의 윤 리 로 해 결 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "새로운 윤 리 는 기 술 에 대하여 가 치 중립적 태 도 를 지녀야 한다."
+      },
+      {
+        "number": 5,
+        "text": "기 술 에 대한 윤리적 성 찰 이 결 여 될 때 윤리적 공 백 이 발 생 한 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.914,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:25+00:00",
+    "qa_flags": []
+  }
+}

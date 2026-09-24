@@ -1,0 +1,73 @@
+{
+  "id": "2025_SEPTEMBER_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 140,
+    "question_number": 17,
+    "exam_key": "2025_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2104,
+      1740,
+      3490
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_SEPTEMBER_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n추 함 , 나쁜 리듬, 부 조 화 는 나쁜 말 씨 와 나쁜 성 품 을 닮은\n반면, 우 아 함 과 고 상 함 은 절제 있고 좋은 성 품 을 닮은 것이다.\n우 리 는 시 인 들 로 하여금 좋은 성 품 의 상 (을 시 에 새겨 넣 도 록\n해야 하며, 이를 따르지 않는 시 인 이 시 를 쓰는 것은 허 용 하지\n않아야 한다. 그리고 아름다운 것의 성 질 을 추 적 할 수 있는\n시 인 들 을 찾아 그들의 작 품 을 통해 젊 은 이 들이 자 신 도 모르는\n사 이 에 아름다운 밀 과 의 닮 음 과 친 근 함 그리고 조 화 로 이 끌 리도록\n해야 한다.\n1 예 술 은 도 덕 의 영역 밖에 있는 예 술 가 들의 독자적 활 동 이어야 한다.\n3) 예술 작 품 에 도덕적 가 치 가 반 영 되 었 는 지 는 대 중 이 결 정 해야 한다.\n8) 예 술 은 보편적 진 리 의 기 준 과 무 관 한 순수한 창작 활 동 이어야 한다.\n4 예 술 에 대한 검 열 은 예 술 의 우 이 함 을 회 손 하므로 지 양 되어야 한다.\n5 예 술 은 젊 은 이 들 로 하여금 참된 아 름 옴에 다 동 화 되도록 해야 한다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "추 함 , 나쁜 리듬, 부 조 화 는 나쁜 말 씨 와 나쁜 성 품 을 닮은\n반면, 우 아 함 과 고 상 함 은 절제 있고 좋은 성 품 을 닮은 것이다.\n우 리 는 시 인 들 로 하여금 좋은 성 품 의 상 (을 시 에 새겨 넣 도 록\n해야 하며, 이를 따르지 않는 시 인 이 시 를 쓰는 것은 허 용 하지\n않아야 한다. 그리고 아름다운 것의 성 질 을 추 적 할 수 있는\n시 인 들 을 찾아 그들의 작 품 을 통해 젊 은 이 들이 자 신 도 모르는\n사 이 에 아름다운 밀 과 의 닮 음 과 친 근 함 그리고 조 화 로 이 끌 리도록\n해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "예 술 은 도 덕 의 영역 밖에 있는 예 술 가 들의 독자적 활 동 이어야 한다."
+      },
+      {
+        "number": 2,
+        "text": "예술 작 품 에 도덕적 가 치 가 반 영 되 었 는 지 는 대 중 이 결 정 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "예 술 은 보편적 진 리 의 기 준 과 무 관 한 순수한 창작 활 동 이어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "예 술 에 대한 검 열 은 예 술 의 우 이 함 을 회 손 하므로 지 양 되어야 한다."
+      },
+      {
+        "number": 5,
+        "text": "예 술 은 젊 은 이 들 로 하여금 참된 아 름 옴에 다 동 화 되도록 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:01+00:00",
+    "qa_flags": []
+  }
+}

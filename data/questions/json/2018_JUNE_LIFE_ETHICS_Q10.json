@@ -1,0 +1,76 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 50,
+    "question_number": 10,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2565,
+      3147,
+      4456
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. ( 가 ) 의 사상가 갑 , 을 의 입 장 을 (나) 그 림 으로 탐 구 할 때, 4~( 에\n들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n갑 : 공 리 주 의 는 개 인 의 선택 원 칙 을 사 회 로 확 대 하지만, 나의\n정 의 론 은 정 의 의 원 칙 을 원초적 합의 대 상 으로 본다.\n사 회 는 상호 이 익 을 위한 협 동 체 이 므로 정 의 는 다 수 의\n| - 이 익 을 위 해 소 수 의 권 리 가 침 해 되 는 것 을 용 남 하지 않는다\n을: 공 리 주 의 는 개 인 의 권 리 를 부차적 위 치 에 두 지 만, 나의\n정 의 론 은 개 인 의 권 리 를 절대적 존 중 의 대 상 으로 본다.\n최소 국 가 는 개 인 의 권 리 를 존 중 하므로 타 인 의 이 익 을\n위해 개 인 의 권 리 가 침 해 되는 것을 용 남 하지 않는\n감을 사 상 가 의 벌레\n입 장 을 탐 구 한다. ' 버 조 거\n아니요 으으 치리 바라\n< >: 판단 내용\n| : 사 상 가 의 입장\n(나) 에 2 시가\n예\n| 감 의 입장 | 을 의 입장\n버 - 버 = 그 번 =\n< 보 기 >\nㄱ . &: 공 리 의 극 대 화 를 위해 기본적 자 유 를 제 한 하는 것은 정 당 한 가?\nㄴ . 8: 원 초 적 합 의 는 심 리 학 적 사 실 에 대 한 지 식 을 배 제 할 필 요 가 없는가?\nㄷ . 8: 기본 제 도 가 공 정 해야 사회 구 성 원 의 자발적 협 동 이 가능한가?\n르 . (:: 최 소 국 가는 개인 간의 계 약 이 행 에 절대로 개 입 해서는 안 되는가?\n(0) ㄱ , ㄷ (2) ㄱ , 그 (3) ㄴ , ㄷ\n(00 ) ㄱ , ㄴ , 2 (66) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 사상가 갑 , 을 의 입 장 을 (나) 그 림 으로 탐 구 할 때, 4~( 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 공 리 주 의 는 개 인 의 선택 원 칙 을 사 회 로 확 대 하지만, 나의\n정 의 론 은 정 의 의 원 칙 을 원초적 합의 대 상 으로 본다.\n사 회 는 상호 이 익 을 위한 협 동 체 이 므로 정 의 는 다 수 의\n| - 이 익 을 위 해 소 수 의 권 리 가 침 해 되 는 것 을 용 남 하지 않는다\n을: 공 리 주 의 는 개 인 의 권 리 를 부차적 위 치 에 두 지 만, 나의\n정 의 론 은 개 인 의 권 리 를 절대적 존 중 의 대 상 으로 본다.\n최소 국 가 는 개 인 의 권 리 를 존 중 하므로 타 인 의 이 익 을\n위해 개 인 의 권 리 가 침 해 되는 것을 용 남 하지 않는\n감을 사 상 가 의 벌레\n입 장 을 탐 구 한다. ' 버 조 거\n아니요 으으 치리 바라\n< >: 판단 내용\n| : 사 상 가 의 입장\n(나) 에 2 시가\n예\n| 감 의 입장 | 을 의 입장\n버 - 버 = 그 번 =\n< 보 기 >\nㄱ . &: 공 리 의 극 대 화 를 위해 기본적 자 유 를 제 한 하는 것은 정 당 한 가?\nㄴ . 8: 원 초 적 합 의 는 심 리 학 적 사 실 에 대 한 지 식 을 배 제 할 필 요 가 없는가?\nㄷ . 8: 기본 제 도 가 공 정 해야 사회 구 성 원 의 자발적 협 동 이 가능한가?\n르 . (:: 최 소 국 가는 개인 간의 계 약 이 행 에 절대로 개 입 해서는 안 되는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , 그"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "0 ) ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=765",
+      "vector_lines=953"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.84,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:37:22+00:00",
+    "qa_flags": []
+  }
+}

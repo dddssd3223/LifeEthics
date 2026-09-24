@@ -1,0 +1,75 @@
+{
+  "id": "2022_CSAT_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 107,
+    "question_number": 14,
+    "exam_key": "2022_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2785
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_CSAT_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으 로 표현할 때,\nㅅ ~1 에 해 당 하 는 적절한 진 술 만 을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n감 : 목 적 론적 삶 의 중 심 으로서 유 기 체 는 외적 활 똥 뿐 아니라\n내적 기 등도 모두 목표 지 향 적 이고, 생 물 의 기 등 을 성공적\n으로 수 행 하는 지속적인 경 향 을 지닌다.\n을 : 인 간 의 도덕적 소 질 을 약 화 시키지 않도록 동 물 에 대한\n(가) 잔인한 폭 력 은 삼가야 하며, 동 물 이 감당할 수 있는\n한도 내 에 서 무 리 하지 않도록 동 물 을 부 려 야 한다.\n병 : 삶 의 주 체 는 결코 마치 다른 것들을 위한 자 원 인 것처럼\n대 우 받 아 서 는 안 된다. 특히 다른 존 재 의 이 익 을 위해서\n의 도 적 으로 해 를 입 어 서 는 안 된다.\n< 범 례 >\n스 : 갑 만의 입장\n222\n(나)\n8: 을 만의 입장\n~\n0: 갑과 을 만 의 공통 입장\n6\n1: 갑과 병 만의 공통 입장\n< 보 기 >\nㄱ . 쇼 : 어떤 개 체 가 생 명 을 지 녀 야 만 도덕적 지 위 를 지닐 수 있다.\nㄴ . 8: 동 묻은 인 간 의 가치 평 가 에서 독 립 적 인 가 치 를 지닐 수 없다.\nㄷ . (:: 쾌 고 감수 능 력 은 어떤 개 체 가 도덕적 지 위 를 갖 는 지 판 단 할\n때 고려해야 할 조 건 이 아니다.\n2. 1: 잇 간에 대한 인 간 의 의 무 로 환 원 되지 않는 의 무 가 있\n00 7, ㄴ 0 7, ㄴ 8) ㄷ , 르\n0400 ㄱ 7, ㄴ , 르 06 ㄴ , ㄷ , 큰",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으 로 표현할 때, ㅅ ~1 에 해 당 하 는 적절한 진 술 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "감 : 목 적 론적 삶 의 중 심 으로서 유 기 체 는 외적 활 똥 뿐 아니라\n내적 기 등도 모두 목표 지 향 적 이고, 생 물 의 기 등 을 성공적\n으로 수 행 하는 지속적인 경 향 을 지닌다.\n을 : 인 간 의 도덕적 소 질 을 약 화 시키지 않도록 동 물 에 대한\n(가) 잔인한 폭 력 은 삼가야 하며, 동 물 이 감당할 수 있는\n한도 내 에 서 무 리 하지 않도록 동 물 을 부 려 야 한다.\n병 : 삶 의 주 체 는 결코 마치 다른 것들을 위한 자 원 인 것처럼\n대 우 받 아 서 는 안 된다. 특히 다른 존 재 의 이 익 을 위해서\n의 도 적 으로 해 를 입 어 서 는 안 된다.\n< 범 례 >\n스 : 갑 만의 입장\n222\n(나)\n8: 을 만의 입장\n~\n0: 갑과 을 만 의 공통 입장\n6\n1: 갑과 병 만의 공통 입장\n< 보 기 >\nㄱ . 쇼 : 어떤 개 체 가 생 명 을 지 녀 야 만 도덕적 지 위 를 지닐 수 있다.\nㄴ . 8: 동 묻은 인 간 의 가치 평 가 에서 독 립 적 인 가 치 를 지닐 수 없다.\nㄷ . (:: 쾌 고 감수 능 력 은 어떤 개 체 가 도덕적 지 위 를 갖 는 지 판 단 할\n때 고려해야 할 조 건 이 아니다.\n2. 1: 잇 간에 대한 인 간 의 의 무 로 환 원 되지 않는 의 무 가 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "7, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "7, ㄴ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "0400 ㄱ 7, ㄴ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.88,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:45+00:00",
+    "qa_flags": []
+  }
+}

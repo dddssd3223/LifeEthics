@@ -1,0 +1,80 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 142,
+    "question_number": 6,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      651,
+      1740,
+      1957
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 다 음 을 주장한 사 상 가 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서\n고른 것은?\n현대 기 술 이 지구 전 역 을 뒤덮고 있으며 그 누 적 된 결 과 가\n미래 세 대 의 인 류 에게도 영 향 을 미 치 리라는 사 실 은 분 명 하다.\n특히 주목할 것은 미래 지 구 와 관련된 문 제 가 우 리 의 일 상 적 이고\n실 천 적 인 결 단 을 촉 구 한다는 사실, 그리고 새로운 윤 리 를 요청\n한다는 사 실 이다. 책 임 은 바로 이러한 새로운 사 태 를 준 비 하기\n위해 마련된 윤리적 법 주 를 의 미 한다\n< 보 기 >\nㄱ . 일상적 인 간 관 계 에서는 호 혜 적 책 임 이 성 립 되지 않는다.\nㄴ . 인 간 의 책임 범 위 는 지구 생태계 전 체 를 포 함 해 야 한다.\nㄷ . 자 연 에 대한 인 간 의 의 무 는 인 간 에 대한 책 임 을 함 축 한 다.\n르 . 선한 결 과 가 예 견 되는 기 술 만이 도덕적 검토 대 상 에서 제 외 된다.\n076 0976 6494 6 ㄷ 2",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "현대 기 술 이 지구 전 역 을 뒤덮고 있으며 그 누 적 된 결 과 가\n미래 세 대 의 인 류 에게도 영 향 을 미 치 리라는 사 실 은 분 명 하다.\n특히 주목할 것은 미래 지 구 와 관련된 문 제 가 우 리 의 일 상 적 이고\n실 천 적 인 결 단 을 촉 구 한다는 사실, 그리고 새로운 윤 리 를 요청\n한다는 사 실 이다. 책 임 은 바로 이러한 새로운 사 태 를 준 비 하기\n위해 마련된 윤리적 법 주 를 의 미 한다\n< 보 기 >\nㄱ . 일상적 인 간 관 계 에서는 호 혜 적 책 임 이 성 립 되지 않는다.\nㄴ . 인 간 의 책임 범 위 는 지구 생태계 전 체 를 포 함 해 야 한다.\nㄷ . 자 연 에 대한 인 간 의 의 무 는 인 간 에 대한 책 임 을 함 축 한 다.\n르 . 선한 결 과 가 예 견 되는 기 술 만이 도덕적 검토 대 상 에서 제 외 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "6494"
+      },
+      {
+        "number": 4,
+        "text": "ㄴㄴ, 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=10410",
+      "vector_lines=1656"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.819,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE4_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 3] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:55:54+00:00",
+    "qa_flags": []
+  }
+}

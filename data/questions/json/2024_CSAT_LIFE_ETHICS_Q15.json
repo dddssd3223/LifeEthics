@@ -1,0 +1,79 @@
+{
+  "id": "2024_CSAT_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 131,
+    "question_number": 15,
+    "exam_key": "2024_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2607,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_CSAT_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 퓨 현할 때,\nㅅ ~)11 에 해 당 하 는 적절한 진 술 만을 < 보 기 > 에 서 고른 것은? [3 점 ]\n갑 : 동 물 을 폭 력 적 으로 다 루 면 고 통 에 대한 공 감 이 무 더 져\n결국 타 인 과 의 관 계 에서 인 간 의 도 덕 성 에 매우 유익한\n천 성 적 소 질 이 고 갈 될 수 있다.\n을 : 어떤 존 재 가 느끼는 고 통 을 고 려 하지 않는 것은 옮 지\n(가) 않다. 이익 평등 고 려 의 원 리 는 그 존 재 의 고 통 을 다른\n존 재 의 고 통 과 평 등 하 게 계 산 하도록 한다.\n병 : 경제적 이익 계 산 의 문 제 로만 바람직한 대 지 의 이 용 을\n생 각 하지 말라. 생명 공 동 체 의 통 합 성과 안정성 그리고\n아 름 다 움 의 보 전 에 이 바 지 한 다면 그것은 옮 다.\n< 범 례 >\n쇼 : 갑 만의 입장\n(나)\n8: 을 만의 입장\n6: 병 만의 입장\n10: 을과 병 만의 공통 입장\n< 보 기 >\nㄱ . ㅅ : 동 몰 을 학 대 하지 않는 것은 인 간 의 자 신 에 대한 의 무 에 부 힙 한다.\n느 . 3: 쾌 고 감수 능 력 은 도덕적 행 위 자 임을 핀 별 하 는 결정적 기 준 이다.\nㄷㄷ. (@: 쟁 태 계 뿐만 이니라 개 별 생 명 체 도 도덕적 고 려 의 대 상 일 수 있다.\n르 . 1): 인 간 은 다른 모든 생 명 체 보다 본 질 적 으로 우 월 하지 않다.\n0700 0976 6 9042 662",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 퓨 현할 때, ㅅ ~)11 에 해 당 하 는 적절한 진 술 만을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 동 물 을 폭 력 적 으로 다 루 면 고 통 에 대한 공 감 이 무 더 져\n결국 타 인 과 의 관 계 에서 인 간 의 도 덕 성 에 매우 유익한\n천 성 적 소 질 이 고 갈 될 수 있다.\n을 : 어떤 존 재 가 느끼는 고 통 을 고 려 하지 않는 것은 옮 지\n(가) 않다. 이익 평등 고 려 의 원 리 는 그 존 재 의 고 통 을 다른\n존 재 의 고 통 과 평 등 하 게 계 산 하도록 한다.\n병 : 경제적 이익 계 산 의 문 제 로만 바람직한 대 지 의 이 용 을\n생 각 하지 말라. 생명 공 동 체 의 통 합 성과 안정성 그리고\n아 름 다 움 의 보 전 에 이 바 지 한 다면 그것은 옮 다.\n< 범 례 >\n쇼 : 갑 만의 입장\n(나)\n8: 을 만의 입장\n6: 병 만의 입장\n10: 을과 병 만의 공통 입장\n< 보 기 >\nㄱ . ㅅ : 동 몰 을 학 대 하지 않는 것은 인 간 의 자 신 에 대한 의 무 에 부 힙 한다.\n느 . 3: 쾌 고 감수 능 력 은 도덕적 행 위 자 임을 핀 별 하 는 결정적 기 준 이다.\nㄷㄷ. (@: 쟁 태 계 뿐만 이니라 개 별 생 명 체 도 도덕적 고 려 의 대 상 일 수 있다.\n르 . 1): 인 간 은 다른 모든 생 명 체 보다 본 질 적 으로 우 월 하지 않다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.879,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:52+00:00",
+    "qa_flags": []
+  }
+}

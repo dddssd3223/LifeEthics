@@ -1,0 +1,75 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 152,
+    "question_number": 19,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2383
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 다 음 은 갑 , 을 사 상 가 들의 가상 대 화 이다. 갑 , 을 의 입 장 으로\n가장 적절한 것은? [3 점 ]\n분배 정 의 의 원 칙 은 원초적 합 의 로부터 || 분배 정 의 의 처음 두 원 칙 들, 즉 취 득 과\n도 출 됩니다. 모든 사회적 가 치 들의 전부 || 이 전 의 원 칙 에 따르면 최소 국 가 보다\n또는 일 부 의 불 평 등 한 분 배 가 모든 사람 || 포 괄 적 인 국 가 는 정 당 화 되지 않습니다.\n에게 이 익 이 되지 않는 한 평 등 하게 분배 || 최소 국 가 보다 포 괄 적 인 국 가 는 개 인 의\n되어야 합니다. 소유 권 리 를 침 하 합니다.\n가\n： |\n0) 갑 : 사회 전 체 의 복지 중 대 를 위한 분배 정 책 도 부 정 의 할 수 있다.\n(0) 갑 : 각 자 가 최소 수 혜 자 가 될 확률 계 산 에서 원초적 합 의 가 도 출 된다.\n(3) 을: 개 인 은 오직 최소 국 가 에서만 정당한 소유 권 리 를 가질 수 있\n0) 을 : 취득 원 칙 과 이전 원 칙 을 중 족 하는 분 배 도 부 정 의 할 수 있다.\n(65) 갑과 을 : 경제적 불 평 등 이 심 화 되는 분배 결 과 는 정 의 로울 수 없다.",
+    "stem": "다 음 은 갑 , 을 사 상 가 들의 가상 대 화 이다. 갑 , 을 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "분배 정 의 의 원 칙 은 원초적 합 의 로부터 || 분배 정 의 의 처음 두 원 칙 들, 즉 취 득 과\n도 출 됩니다. 모든 사회적 가 치 들의 전부 || 이 전 의 원 칙 에 따르면 최소 국 가 보다\n또는 일 부 의 불 평 등 한 분 배 가 모든 사람 || 포 괄 적 인 국 가 는 정 당 화 되지 않습니다.\n에게 이 익 이 되지 않는 한 평 등 하게 분배 || 최소 국 가 보다 포 괄 적 인 국 가 는 개 인 의\n되어야 합니다. 소유 권 리 를 침 하 합니다.\n가\n： |",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 사회 전 체 의 복지 중 대 를 위한 분배 정 책 도 부 정 의 할 수 있다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 각 자 가 최소 수 혜 자 가 될 확률 계 산 에서 원초적 합 의 가 도 출 된다."
+      },
+      {
+        "number": 3,
+        "text": "을: 개 인 은 오직 최소 국 가 에서만 정당한 소유 권 리 를 가질 수 있"
+      },
+      {
+        "number": 4,
+        "text": "을 : 취득 원 칙 과 이전 원 칙 을 중 족 하는 분 배 도 부 정 의 할 수 있다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을 : 경제적 불 평 등 이 심 화 되는 분배 결 과 는 정 의 로울 수 없다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.899,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:33+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 37,
+    "question_number": 3,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      881,
+      2999,
+      2000
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q03.png",
+    "raw_text": "8. 다음 사 상 가 가 부 정 의 대 답 을 할 질 문 으 로 옮 은 것은? [3 점 ]\n인 류 는 지구 상 에 계속 존 재 해야 한다. 이를 위해서는 사 고 의\n전 환 이 요 청 된다. 전통적 윤 리 는 인간적 삶 의 전 지 구 적 조 건 과\n종 ( 채 ) 의 먼 미 래 와 실 존 을 고려할 필 요 가 없었다. 그러나\n이제 우 리 는 자 연 에 대한 책임, 미래 지향적 책임, 미래 세 대 의\n삶 의 조 건 에 대한 책 임 까지 숙 고 해야 한다. 이러한 책 임 은 단순히\n상 호 적 권 리 와 의 무 로만 설 명 될 수 없다. 우 리 에게 요 청 되는 책 임 은\n자 녀 에 대한 부 모 의 책 임 처럼 일 방 적 이고 절대적인 책 임 이다.\n6) 인 간 과 자 연 은 공 존 을 위해 서 로 를 책 임 져야 하는가?\n6) 책 임 의 대 상 과 범 위 에 미래 세 대 도 포 함 시켜야 하는가?\n9) 인 류 의 존속 가 능 성 을 파 괴 하지 않도록 행 동 해야 하는가?\n@) 인 간 은 예 견 할 수 있는 모든 결 과 에 대해서 책 임 져야 하는가?\n6) 책임질 수 있는 능 력 은 책 임 져 야 하는 당 위 로 연 결 되어야 하는가?",
+    "stem": "다음 사 상 가 가 부 정 의 대 답 을 할 질 문 으 로 옮 은 것은? [3 점 ]",
+    "passage": "인 류 는 지구 상 에 계속 존 재 해야 한다. 이를 위해서는 사 고 의\n전 환 이 요 청 된다. 전통적 윤 리 는 인간적 삶 의 전 지 구 적 조 건 과\n종 ( 채 ) 의 먼 미 래 와 실 존 을 고려할 필 요 가 없었다. 그러나\n이제 우 리 는 자 연 에 대한 책임, 미래 지향적 책임, 미래 세 대 의\n삶 의 조 건 에 대한 책 임 까지 숙 고 해야 한다. 이러한 책 임 은 단순히\n상 호 적 권 리 와 의 무 로만 설 명 될 수 없다. 우 리 에게 요 청 되는 책 임 은\n자 녀 에 대한 부 모 의 책 임 처럼 일 방 적 이고 절대적인 책 임 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인 간 과 자 연 은 공 존 을 위해 서 로 를 책 임 져야 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "책 임 의 대 상 과 범 위 에 미래 세 대 도 포 함 시켜야 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "인 류 의 존속 가 능 성 을 파 괴 하지 않도록 행 동 해야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "인 간 은 예 견 할 수 있는 모든 결 과 에 대해서 책 임 져야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "책임질 수 있는 능 력 은 책 임 져 야 하는 당 위 로 연 결 되어야 하는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.909,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:58+00:00",
+    "qa_flags": []
+  }
+}

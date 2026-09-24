@@ -1,0 +1,76 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 59,
+    "question_number": 11,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      502,
+      1592,
+      2688
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. ( 가 ) 의 갑 , 을, 병 사 상 가 들 의 입 장 을 (나) 그 림 으로 표현할\n때, &~1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로\n고른 것은? [3 점 ]\n갑 : 어떤 존 재 의 고 통 을 고 려 하지 않는 도덕적 논 증 은\n있을 수 없다. 이억 평등 고 려 의 원 리 는 존 재 들 간의\n동일한 고 통 을 동 일 하게 고려할 것을 요 구 한다.\n을 : 생 명 체 가 목 적 론적 삶 의 중 심 이라는 것은 그 활 동 이\n(가) | 목표 지 향 적 이라는 뜻 으로, 생명 활 동 을 성 공 적 으로\n수 행 하는 항 상 적인 경 향 성 이 있다는 말이다.\n명: 인 류 는 대지 공 동 체 의 평범한 구 성 원 이 되어야\n한다. 이러한 인 류 의 역 할 은 동료 구 성 원 과 대지\n공동체 자 체 에 대한 존 중 을 필 연 적 으로 수 반 한다.\n~ 섬 리 >\n스 : 갑 만의 입장\n8: 을 만 의 입장\n6: 병 만의 입장\n0: 감과 병 만의 공통 입장\n(보기 >\nㄱ . ㅅ : 평 등 의 원 리 에 떠 라 인 간 과 모든 동 물 을 동 일 하게 대 우 하 야 헌 다.\nㄴ . 0: 인 간 은 생 명 체 에 끼친 해 익 에 대한 보 상 적 정 의 의 의 무 를 지닌다.\nㄷ . @: 개 체 주의적 관 점 을 지 양 하고 인간 중 십 주 의 에서 벗 어 니야 한다.\n2. 10: 쾌 고 감수 능 력 을 지닌 동 물 은 도덕적 고려 대 상 에 속한다.\n(1) ㄱ , 르 (0) ㄴ , ㄷ (3) ㄴ , 큰\n(0) ㄱ , ㄴ , ㄷ (6) ㄱ , ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들 의 입 장 을 (나) 그 림 으로 표현할 때, &~1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 어떤 존 재 의 고 통 을 고 려 하지 않는 도덕적 논 증 은\n있을 수 없다. 이억 평등 고 려 의 원 리 는 존 재 들 간의\n동일한 고 통 을 동 일 하게 고려할 것을 요 구 한다.\n을 : 생 명 체 가 목 적 론적 삶 의 중 심 이라는 것은 그 활 동 이\n(가) | 목표 지 향 적 이라는 뜻 으로, 생명 활 동 을 성 공 적 으로\n수 행 하는 항 상 적인 경 향 성 이 있다는 말이다.\n명: 인 류 는 대지 공 동 체 의 평범한 구 성 원 이 되어야\n한다. 이러한 인 류 의 역 할 은 동료 구 성 원 과 대지\n공동체 자 체 에 대한 존 중 을 필 연 적 으로 수 반 한다.\n~ 섬 리 >\n스 : 갑 만의 입장\n8: 을 만 의 입장\n6: 병 만의 입장\n0: 감과 병 만의 공통 입장\n(보기 >\nㄱ . ㅅ : 평 등 의 원 리 에 떠 라 인 간 과 모든 동 물 을 동 일 하게 대 우 하 야 헌 다.\nㄴ . 0: 인 간 은 생 명 체 에 끼친 해 익 에 대한 보 상 적 정 의 의 의 무 를 지닌다.\nㄷ . @: 개 체 주의적 관 점 을 지 양 하고 인간 중 십 주 의 에서 벗 어 니야 한다.\n2. 10: 쾌 고 감수 능 력 을 지닌 동 물 은 도덕적 고려 대 상 에 속한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , 르"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄴ , ㄷ"
+      },
+      {
+        "number": 5,
+        "text": "ㄱ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=549",
+      "vector_lines=740"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.862,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:48+00:00",
+    "qa_flags": []
+  }
+}

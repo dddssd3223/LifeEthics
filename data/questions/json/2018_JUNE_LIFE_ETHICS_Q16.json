@@ -1,0 +1,73 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 52,
+    "question_number": 16,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      658,
+      1740,
+      1989
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다음 글 의 입 장 으로 가장 적절한 것은?\n군 자 는 밥 을 먹을 때 다섯 가 지 를 살펴야 한다. 우선 밥 이\n완 성 될 때 까 지 얼마나 많은 노 력 이 필 요 한 가 와 밥 이 어디서\n나 왔 는 가를 헤 아 려 야 한다. 그리고 자 신 의 덕 행 이 완 성 되 었 는 지 를\n레 아 려서 공 양 (0536) 을 받아야 한다. 마 음 을 절 제 하여 탐 욕 을\n없애야 한다. 바른 처 사 와 좋은 약 으로 건 강 을 보 살 펴 야 한다.\n끝 으로 도 덕 을 이루어야 먹을 자 격 이 있다. 즉 군 자 는 먹을\n때에도 인 (《_) 을 떠나지 않아야 한다.\n(0) 먹 는 다 는 것은 자 신 과 타 인 을 살피는 덕의 실 천 이다.\n(3) 먹 는 다 는 것은 자 연 에서 영 양 분 을 섭 취 하는 행 위 이다.\n(3) 먹 는 다 는 것은 좋은 음 식 으로 건 강 을 돌보는 과 정 이다.\n(4) 먹 는 다 는 것은 윤리적 행 위 가 아니라 문화적 행 위 이다.\n(5) 먹 는 다 는 것은 자 연 을 인 간 의 소 유 로 만드는 과 정 이다.",
+    "stem": "다음 글 의 입 장 으로 가장 적절한 것은?",
+    "passage": "군 자 는 밥 을 먹을 때 다섯 가 지 를 살펴야 한다. 우선 밥 이\n완 성 될 때 까 지 얼마나 많은 노 력 이 필 요 한 가 와 밥 이 어디서\n나 왔 는 가를 헤 아 려 야 한다. 그리고 자 신 의 덕 행 이 완 성 되 었 는 지 를\n레 아 려서 공 양 (0536) 을 받아야 한다. 마 음 을 절 제 하여 탐 욕 을\n없애야 한다. 바른 처 사 와 좋은 약 으로 건 강 을 보 살 펴 야 한다.\n끝 으로 도 덕 을 이루어야 먹을 자 격 이 있다. 즉 군 자 는 먹을\n때에도 인 (《_) 을 떠나지 않아야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "먹 는 다 는 것은 자 신 과 타 인 을 살피는 덕의 실 천 이다."
+      },
+      {
+        "number": 2,
+        "text": "먹 는 다 는 것은 자 연 에서 영 양 분 을 섭 취 하는 행 위 이다."
+      },
+      {
+        "number": 3,
+        "text": "먹 는 다 는 것은 좋은 음 식 으로 건 강 을 돌보는 과 정 이다."
+      },
+      {
+        "number": 4,
+        "text": "먹 는 다 는 것은 윤리적 행 위 가 아니라 문화적 행 위 이다."
+      },
+      {
+        "number": 5,
+        "text": "먹 는 다 는 것은 자 연 을 인 간 의 소 유 로 만드는 과 정 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.915,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:32+00:00",
+    "qa_flags": []
+  }
+}

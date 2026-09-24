@@ -1,0 +1,75 @@
+{
+  "id": "2026_JUNE_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 148,
+    "question_number": 18,
+    "exam_key": "2026_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3265,
+      1740,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_JUNE_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. ( 가 ) 의 주 장 을 (나) 그 림 으로 나 타 별 때, 에 대한 반 론 의 근 거 로\n가장 적절한 것은? [3 점 ]\n근 그 시\n부 모 가 자 신 의 미래 자 녀 에게 행하는 유 전 적 강 화 는 이해\n(가) | 당 사 자 의 자 율 성 을 침 해 하지 않는 행 위 이므로 허 용 되어야\n한다.\n( 대 전 제 ] ( 소 전 제 」\n「 이해 당 사 자 의 자 율 성 을 침 해 하지 1 6 ]\n않는 행 위 는 허 용 되어야 한다.\n(나)\n결론 )\n부 모 가 자 신 의 미래 자 녀 에게 행하는 유 전 적 강 화 는 허 용 되어야 한다. )\n0 미래 자 녀 는 자 신 에게 행해진 유 전 적 강 화 에 동 의 할 것이다.\n@ 미래 자 녀 의 자 율 성 은 유 전 적 강 화 에 의해 침 해 되지 않는다.\n3) 유 전 적 강 화 는 미래 자 녀 의 자유 의지 행 사 를 제 약 하지 않는다.\n0) 미래 자 녀 에게 유 전 적 강 화 를 거 부 할 기 회 가 보 장 되어 있지 않다.\n(5) 유 전 적 깅 화 를 받은 미래 자 녀 는 삶 의 방 향 을 스스로 설 계 할 수 있다.",
+    "stem": "( 가 ) 의 주 장 을 (나) 그 림 으로 나 타 별 때, 에 대한 반 론 의 근 거 로 가장 적절한 것은? [3 점 ]",
+    "passage": "근 그 시\n부 모 가 자 신 의 미래 자 녀 에게 행하는 유 전 적 강 화 는 이해\n(가) | 당 사 자 의 자 율 성 을 침 해 하지 않는 행 위 이므로 허 용 되어야\n한다.\n( 대 전 제 ] ( 소 전 제 」\n「 이해 당 사 자 의 자 율 성 을 침 해 하지 1 6 ]\n않는 행 위 는 허 용 되어야 한다.\n(나)\n결론 )\n부 모 가 자 신 의 미래 자 녀 에게 행하는 유 전 적 강 화 는 허 용 되어야 한다. )",
+    "choices": [
+      {
+        "number": 1,
+        "text": "미래 자 녀 는 자 신 에게 행해진 유 전 적 강 화 에 동 의 할 것이다."
+      },
+      {
+        "number": 2,
+        "text": "미래 자 녀 의 자 율 성 은 유 전 적 강 화 에 의해 침 해 되지 않는다."
+      },
+      {
+        "number": 3,
+        "text": "유 전 적 강 화 는 미래 자 녀 의 자유 의지 행 사 를 제 약 하지 않는다."
+      },
+      {
+        "number": 4,
+        "text": "미래 자 녀 에게 유 전 적 강 화 를 거 부 할 기 회 가 보 장 되어 있지 않다."
+      },
+      {
+        "number": 5,
+        "text": "유 전 적 깅 화 를 받은 미래 자 녀 는 삶 의 방 향 을 스스로 설 계 할 수 있다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.892,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:37+00:00",
+    "qa_flags": []
+  }
+}

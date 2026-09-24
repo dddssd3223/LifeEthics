@@ -1,0 +1,73 @@
+{
+  "id": "2024_CSAT_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 130,
+    "question_number": 6,
+    "exam_key": "2024_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2420
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_CSAT_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]\n갑 : 사 람 의 본 성 에 어찌 인 의 ({386 의 마 음 이 없 겠 는가? 그런데도\n그 양 심 을 잃 어 버 리 는 이 유 는 마치 도 끼 로 산 의 나 무 를\n아 침 마다 베는 것처럼 스스로 양 심 의 짝 을 자르기 때 문 이 다.\n양 심 을 보 존 하지 못하면 금 수 (@04 와 같 아 진다.\n을 : 괴 로 움 이 생 겨 나 는 것은 마치 사 람 이 나 무 를 심어 물 을\n때 맞춰 주고 온 도 를 유지해 주면, 이 인 연 (080 으 로 니 무가\n자라나는 것과 같다, 이러한 매 임 에 집 착 하면 애 욕 (848 과\n함께 생 로 병 사 ( 쓰 콩 \\6: 의 기 로 움 이 일어난다.\n01) 갑 : 나쁜 환 경 에 처한 사 람 은 반드시 자 신 의 본 성 을 잃게 된다.\n(2) 갑 : 다른 사 람 을 편 안 하게 한 후에야 비로소 자기 수 양 이 가 능 하 다.\n6 을: 탐 욕 으로 생긴 번 뇌 는 깨 달 음 을 얻 더 라도 소 멸 될 수 없다.\n4 을 : 나와 남이 돌이 이 니 라 는 자 각 에서 만 물 에 대한 사 링 이 생긴다.\n9: 감과 을: 인 륜 의 규 범 에서 벗어나야 이상적 인 간 이 될 수 있다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 사 람 의 본 성 에 어찌 인 의 ({386 의 마 음 이 없 겠 는가? 그런데도\n그 양 심 을 잃 어 버 리 는 이 유 는 마치 도 끼 로 산 의 나 무 를\n아 침 마다 베는 것처럼 스스로 양 심 의 짝 을 자르기 때 문 이 다.\n양 심 을 보 존 하지 못하면 금 수 (@04 와 같 아 진다.\n을 : 괴 로 움 이 생 겨 나 는 것은 마치 사 람 이 나 무 를 심어 물 을\n때 맞춰 주고 온 도 를 유지해 주면, 이 인 연 (080 으 로 니 무가\n자라나는 것과 같다, 이러한 매 임 에 집 착 하면 애 욕 (848 과\n함께 생 로 병 사 ( 쓰 콩 \\6: 의 기 로 움 이 일어난다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 나쁜 환 경 에 처한 사 람 은 반드시 자 신 의 본 성 을 잃게 된다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 다른 사 람 을 편 안 하게 한 후에야 비로소 자기 수 양 이 가 능 하 다."
+      },
+      {
+        "number": 3,
+        "text": "을: 탐 욕 으로 생긴 번 뇌 는 깨 달 음 을 얻 더 라도 소 멸 될 수 없다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 나와 남이 돌이 이 니 라 는 자 각 에서 만 물 에 대한 사 링 이 생긴다."
+      },
+      {
+        "number": 5,
+        "text": "감과 을: 인 륜 의 규 범 에서 벗어나야 이상적 인 간 이 될 수 있다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.861,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:38+00:00",
+    "qa_flags": []
+  }
+}

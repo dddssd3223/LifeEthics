@@ -1,0 +1,75 @@
+{
+  "id": "2026_JUNE_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 148,
+    "question_number": 20,
+    "exam_key": "2026_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2814,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_JUNE_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은?\n종 교 의 역 사 에는 돌 어나 나 무 와 같은 일상적 대상 속에\n성스러운 것이 나타나는 원시적 성 현 ( 뿌 80 에 서부터 예수 안에\n신의 신 성 이 부 여 되는 높은 수 준 의 성 현 에 이 르 기 까 지 일관된\n연 속 성 이 흐르고 있다. 하지만 비 종교적 인 간 은 성스러운 것이\n돌 이 나 나무 가운데 현 현 0808) 할 수 있다는 것을 이 해 하기\n어렵다. 이와 달리 종교적 인 간 은 곧 그것이 돌 자 체 나 나무\n자 체 의 숭 배 를 의 미 하는 것이 아니라는 점 을 알 수 있다. 그것을\n숭 배 하는 것은 그것이 돌 이 나 나 무 가 아니라 성스러운 것을\n나 타 내 기 때 문 이 다.\n0 성스러운 것과 속된 것은 대 조 를 이 루 기 에 공 존 할 수 는 없다.\n(2) 종 교 의 역 사 는 성스러운 여러 실 재 의 현 현 들 로 이루어져 있다.\n(3) 돌 이 나 나 무 는 현 실 의 삶 속에 존 재 하는 성 () 그 자 체 이 다.\n0) 성스러운 것은 현실 세 계 를 초월한 공 간 에 서만 드러날 수 있\n5 종교적 인 간 은 체 협 이 아니라 상 상 을 통해 성 현 을 이해할 수 있",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은?",
+    "passage": "종 교 의 역 사 에는 돌 어나 나 무 와 같은 일상적 대상 속에\n성스러운 것이 나타나는 원시적 성 현 ( 뿌 80 에 서부터 예수 안에\n신의 신 성 이 부 여 되는 높은 수 준 의 성 현 에 이 르 기 까 지 일관된\n연 속 성 이 흐르고 있다. 하지만 비 종교적 인 간 은 성스러운 것이\n돌 이 나 나무 가운데 현 현 0808) 할 수 있다는 것을 이 해 하기\n어렵다. 이와 달리 종교적 인 간 은 곧 그것이 돌 자 체 나 나무\n자 체 의 숭 배 를 의 미 하는 것이 아니라는 점 을 알 수 있다. 그것을\n숭 배 하는 것은 그것이 돌 이 나 나 무 가 아니라 성스러운 것을\n나 타 내 기 때 문 이 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "성스러운 것과 속된 것은 대 조 를 이 루 기 에 공 존 할 수 는 없다."
+      },
+      {
+        "number": 2,
+        "text": "종 교 의 역 사 는 성스러운 여러 실 재 의 현 현 들 로 이루어져 있다."
+      },
+      {
+        "number": 3,
+        "text": "돌 이 나 나 무 는 현 실 의 삶 속에 존 재 하는 성 () 그 자 체 이 다."
+      },
+      {
+        "number": 4,
+        "text": "성스러운 것은 현실 세 계 를 초월한 공 간 에 서만 드러날 수 있"
+      },
+      {
+        "number": 5,
+        "text": "종교적 인 간 은 체 협 이 아니라 상 상 을 통해 성 현 을 이해할 수 있"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.908,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:24+00:00",
+    "qa_flags": []
+  }
+}

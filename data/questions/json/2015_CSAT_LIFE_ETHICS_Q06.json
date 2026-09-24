@@ -1,0 +1,76 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 22,
+    "question_number": 6,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      506,
+      1593,
+      3047
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때,\n&~) 에 해 당 하는 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n갑 : 타 인 의 희 생 으로 자 기 의 생 명 을 보 존 하려고 하는 사 람 은\n타 인 을 위해 자 신 도 희 생 해야 한다는 데 동 의 해야 한다.\n그는 일 반 의 지 로부터 규 정 된 법 을 따라야 한다.\n을: 형 벌 의 법 칙 은 하 나 의 정언 명 령 이다. 그래서 형 벌 은\n범 죄 자 가 뱅 죄 를 저 질 렀 다 는 이유 때문에 가 해 져야\n( 가 )| 한다. 형 벌 의 종 류 와 정 도 는 어느 한 쪽 으로 기 울 어 지지\n않는 평 등 의 원 리 에 따라 결 정 되어야 한다.\n명: 형 벌 과 위법 행위 간에는 비 례 의 규 칙 이 성 립 해야 한다.\n형 별 의 정 도 는 위법 행 위 에서 얻는 이 득 의 가 치 를 능가\n하 기 에 충분한 것 이 어 야 한다. 이러한 비 례 의 규 칙 은\n공 리 의 윈 리에 근 거 해야 한다.\n터 래 < 범 례 >\n사형 제 도 에 대한 0\n갑 , 을, 병 의 입 장 을 탐 구 한 다. 수 > : 판단 내용\n그 : 판단 방향\n< ~ 아니요 | [ ㄴ . ]: 사 상 가 의 입장\n(나)\n예\n예 예\n갑의 입장\n< 보 기 >\nㄱ . 4: 국 가 는 살 인 법 의 생 명 을 박 탈 할 수 있는 권 한 을 갖 는 가?\nㄴ . 8: 사형 제 도 는 범 죄 의 경 중 에 비 례 하는 보 복 의 수 단 인가?\nㄷ . (: 살 인 범 에 대한 사 형 은 인간 존 엄 성 의 이 념 에 부 합 하는가?\n2. 2: 사형 제 도 의 정 당 성 은 공 익 에 따라 판 단 되어야 하는가?\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄷ , 르\n(0 ) ㄱ , ㄴ , 2 (6) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때, &~) 에 해 당 하는 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 타 인 의 희 생 으로 자 기 의 생 명 을 보 존 하려고 하는 사 람 은\n타 인 을 위해 자 신 도 희 생 해야 한다는 데 동 의 해야 한다.\n그는 일 반 의 지 로부터 규 정 된 법 을 따라야 한다.\n을: 형 벌 의 법 칙 은 하 나 의 정언 명 령 이다. 그래서 형 벌 은\n범 죄 자 가 뱅 죄 를 저 질 렀 다 는 이유 때문에 가 해 져야\n( 가 )| 한다. 형 벌 의 종 류 와 정 도 는 어느 한 쪽 으로 기 울 어 지지\n않는 평 등 의 원 리 에 따라 결 정 되어야 한다.\n명: 형 벌 과 위법 행위 간에는 비 례 의 규 칙 이 성 립 해야 한다.\n형 별 의 정 도 는 위법 행 위 에서 얻는 이 득 의 가 치 를 능가\n하 기 에 충분한 것 이 어 야 한다. 이러한 비 례 의 규 칙 은\n공 리 의 윈 리에 근 거 해야 한다.\n터 래 < 범 례 >\n사형 제 도 에 대한 0\n갑 , 을, 병 의 입 장 을 탐 구 한 다. 수 > : 판단 내용\n그 : 판단 방향\n< ~ 아니요 | [ ㄴ . ]: 사 상 가 의 입장\n(나)\n예\n예 예\n갑의 입장\n< 보 기 >\nㄱ . 4: 국 가 는 살 인 법 의 생 명 을 박 탈 할 수 있는 권 한 을 갖 는 가?\nㄴ . 8: 사형 제 도 는 범 죄 의 경 중 에 비 례 하는 보 복 의 수 단 인가?\nㄷ . (: 살 인 범 에 대한 사 형 은 인간 존 엄 성 의 이 념 에 부 합 하는가?\n2. 2: 사형 제 도 의 정 당 성 은 공 익 에 따라 판 단 되어야 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": ") ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=12",
+      "vector_lines=77"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.881,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:16+00:00",
+    "qa_flags": []
+  }
+}

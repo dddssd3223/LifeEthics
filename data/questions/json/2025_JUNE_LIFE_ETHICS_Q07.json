@@ -1,0 +1,77 @@
+{
+  "id": "2025_JUNE_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 134,
+    "question_number": 7,
+    "exam_key": "2025_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1804,
+      1740,
+      3209
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_JUNE_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?\n갑 : 지금 천 하 의 군 자 들이 진 심 으로 천 하 가 부 유 해 지 기를\n바라고 가 난 해 지는 것을 싫 어 하 며 , 천 하 가 다 스 려 지 기 를\n바라고 어 지 러 워 지는 것을 싫 어 한다면 마땅히 아울러 서로\n사 랑 하 고 [$%※| 서로 이롭게 해 야 만 [ 체 ] 한다.\n을: 백 성 의 삶 에 있어서 일정한 생 업 [81 있는 사 람 은\n일정한 마 음 [18/.| 을 지 니 지 만, 일정한 생 업 이 없는 사 람 은\n일정한 마 음 을 지니지 끗 한다. 일정한 마 음 이 없으면 방탕,\n편 벽 , 사악, 사치 등 못하는 짓 이 없게 된다.\n< 보 기 >\nㄱ . 갑 : 주 군 는 친 분 에 엄 매 이 지 않는 시 랑 의 질 서 를 확 립 해야 한다.\nㄴ . 갑 : 군 주 는 전 쟁 을 일 으 켜 서 라도 천 하 의 평 화 를 이루어야 한다.\nㄷ . 을 : 궁 찜 한 백 성 의 도덕적 일 탈 은 군 주 의 책 임 으로 귀 속 될 수 있다\n르 . 감과 을: 군 주 는 의 로 움 보다 백 성 의 이 로 움 을 중 시 해야 한다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "갑 : 지금 천 하 의 군 자 들이 진 심 으로 천 하 가 부 유 해 지 기를\n바라고 가 난 해 지는 것을 싫 어 하 며 , 천 하 가 다 스 려 지 기 를\n바라고 어 지 러 워 지는 것을 싫 어 한다면 마땅히 아울러 서로\n사 랑 하 고 [$%※| 서로 이롭게 해 야 만 [ 체 ] 한다.\n을: 백 성 의 삶 에 있어서 일정한 생 업 [81 있는 사 람 은\n일정한 마 음 [18/.| 을 지 니 지 만, 일정한 생 업 이 없는 사 람 은\n일정한 마 음 을 지니지 끗 한다. 일정한 마 음 이 없으면 방탕,\n편 벽 , 사악, 사치 등 못하는 짓 이 없게 된다.\n< 보 기 >\nㄱ . 갑 : 주 군 는 친 분 에 엄 매 이 지 않는 시 랑 의 질 서 를 확 립 해야 한다.\nㄴ . 갑 : 군 주 는 전 쟁 을 일 으 켜 서 라도 천 하 의 평 화 를 이루어야 한다.\nㄷ . 을 : 궁 찜 한 백 성 의 도덕적 일 탈 은 군 주 의 책 임 으로 귀 속 될 수 있다\n르 . 감과 을: 군 주 는 의 로 움 보다 백 성 의 이 로 움 을 중 시 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.878,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:55:32+00:00",
+    "qa_flags": []
+  }
+}

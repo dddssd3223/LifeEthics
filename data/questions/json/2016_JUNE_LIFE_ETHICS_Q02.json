@@ -1,0 +1,83 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 25,
+    "question_number": 2,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      145,
+      3148,
+      1743,
+      4622
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. 다음 글 은 신문 칼 럼 이다. 에 들어갈 적절한 내 용 을 < 보 기 >\n에서 고른 것은?\n(2(> 신 문 (202<2 년 (월 (> 일\n칼 럼\n최근 스 포 츠 가 본 연 의 목 적 을 상 실 했다는 우 려 의 목 소 리 가 높아지고 있다. 지난\n올 림 픽 에 참가한 ㅅ 선 수 의 사 례 를 통해 우 리 는 스 포 츠 의 참된 의 의 를 발 견 할 수\n있다. ㅅ 선 수 는 전 문 적 으로 수 영 을 배울 기 회 가 커 의 없는 나라 출 신 의 선 수 로\n국제 수영 연 맹 의 특별 초 청 을 받아 출 전 하였다. 경 기 에서 다른 선 수 들은 결 승 점 에\n도 착 하였지만, 그는 아직 중간 지 점 밖에 오지 못했고 이미 체 력 이 다하여 지친\n기 색 이 역 력 하였다. 분명 그 자 신 은 꼴 찌 로 결 승 점 에 도 달 할 것을 알고 있었지만\n온 힘 을 다해 결 승 점 을 향해 나 아 갔다. 이러한 모 습 에 관 중 들은 일제히 일어나\n뜨거운 격 려 의 박 수 를 . 치 며 응 원 을 하였다. 우 리 는 이러한 ㅅ 선 수 의 모 습 에서\n스 포 츠 의 의 의 는 (2 | [에 있 음 을 알게 된다. … 후 략 )…\n2\n< 보 기 >\n. 볼 굴 의 인 내 력 으로 자 신 의 한 계 를 극 복 하 는 것\n. 희 생 과 헌 신 을 통해 오직 승 리 만을 추 구 하는 것\n. 최 선 을 다 함 으로써 관 중 에게 감 동 을 주는 것\n. 전술적 반 칙 으로 관 중 에게 재 미 를 주는 것",
+    "stem": "다음 글 은 신문 칼 럼 이다. 에 들어갈 적절한 내 용 을 < 보 기 > 에서 고른 것은?",
+    "passage": "(2(> 신 문 (202<2 년 (월 (> 일\n칼 럼\n최근 스 포 츠 가 본 연 의 목 적 을 상 실 했다는 우 려 의 목 소 리 가 높아지고 있다. 지난\n올 림 픽 에 참가한 ㅅ 선 수 의 사 례 를 통해 우 리 는 스 포 츠 의 참된 의 의 를 발 견 할 수\n있다. ㅅ 선 수 는 전 문 적 으로 수 영 을 배울 기 회 가 커 의 없는 나라 출 신 의 선 수 로\n국제 수영 연 맹 의 특별 초 청 을 받아 출 전 하였다. 경 기 에서 다른 선 수 들은 결 승 점 에\n도 착 하였지만, 그는 아직 중간 지 점 밖에 오지 못했고 이미 체 력 이 다하여 지친\n기 색 이 역 력 하였다. 분명 그 자 신 은 꼴 찌 로 결 승 점 에 도 달 할 것을 알고 있었지만\n온 힘 을 다해 결 승 점 을 향해 나 아 갔다. 이러한 모 습 에 관 중 들은 일제히 일어나\n뜨거운 격 려 의 박 수 를 . 치 며 응 원 을 하였다. 우 리 는 이러한 ㅅ 선 수 의 모 습 에서\n스 포 츠 의 의 의 는 (2 | [에 있 음 을 알게 된다. … 후 략 )…\n2\n< 보 기 >\n. 볼 굴 의 인 내 력 으로 자 신 의 한 계 를 극 복 하 는 것\n. 희 생 과 헌 신 을 통해 오직 승 리 만을 추 구 하는 것\n. 최 선 을 다 함 으로써 관 중 에게 감 동 을 주는 것\n. 전술적 반 칙 으로 관 중 에게 재 미 를 주는 것",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ㅋㄷ"
+      },
+      {
+        "number": 3,
+        "text": "느 , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "08 |"
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.802,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE2_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE4_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[5] (원문자 기호 등 OCR 불가, 이미지 확인)",
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T114336",
+    "extracted_at": "2026-09-24T11:44:40+00:00",
+    "qa_flags": []
+  }
+}

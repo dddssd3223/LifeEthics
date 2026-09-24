@@ -1,0 +1,75 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 11,
+    "question_number": 12,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2780,
+      1592,
+      4301
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. (가) 사 상 가 의 입 장 에서 ( 나 ) 의 사회 문 제 를 해 결 하 기 위해\n제 시 할 수 있는 주 장 으 로 가장 적절한 것은?\n인 간 의 노 동 은 본래 자연 세 계 를 변 형 하는 주체적,\n자 율 적 인 활 동 이다. 하지만 자본주의 사 회 에서 인 간 의\n(가) | 노 동 은 상 품 만을 생 산 하는 것이 아니라 노 동 자 를 하 나 의\n상 품 으로 전 락 시킨다. 결국, 노 동 자 의 노 동 은 그 자 신 을\n위한 것이 아니라 타 인 을 위한 것이 된다.\n영화 모던 타임즈 의 주인\n공인 찰 리 는 조립 라 인 에서\n나 사 를 조이는 단순 작 업 만을\n반 복 한다. 여기서는 인 간 의\n노 동 을 중 심 으로 기 계 가 돌아\n가는 것이 아니라 단 순 화 되고\n파 편 화 된 인 간 의 노 동 이 기 계 의\n동 작 에 맞 춰 진 다.\n노 동 의 소 외 를 극 복 하기 위해 분 업 을 강 화 해야 한다.\n0 육 체 노 동 보다 정 신 노 동 에 더 높은 가 치 를 부 여 해 야 한다.\n노동 생 산 성 을 향 상 하여 사유 재 산 의 축 적 을 추 구 해 야 한다.\n@ 신이 부여한 노 동 의 신성한 의 미 를 현실 속 에 서 구 현 해 야 한다.\n(8) 자발적 노 동 을 통해 노 동 의 본 래 적 가 치 의 회 복 을 지 향 해야 한다.",
+    "stem": "(가) 사 상 가 의 입 장 에서 ( 나 ) 의 사회 문 제 를 해 결 하 기 위해 제 시 할 수 있는 주 장 으 로 가장 적절한 것은?",
+    "passage": "인 간 의 노 동 은 본래 자연 세 계 를 변 형 하는 주체적,\n자 율 적 인 활 동 이다. 하지만 자본주의 사 회 에서 인 간 의\n(가) | 노 동 은 상 품 만을 생 산 하는 것이 아니라 노 동 자 를 하 나 의\n상 품 으로 전 락 시킨다. 결국, 노 동 자 의 노 동 은 그 자 신 을\n위한 것이 아니라 타 인 을 위한 것이 된다.\n영화 모던 타임즈 의 주인\n공인 찰 리 는 조립 라 인 에서\n나 사 를 조이는 단순 작 업 만을\n반 복 한다. 여기서는 인 간 의\n노 동 을 중 심 으로 기 계 가 돌아\n가는 것이 아니라 단 순 화 되고\n파 편 화 된 인 간 의 노 동 이 기 계 의\n동 작 에 맞 춰 진 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "노 동 의 소 외 를 극 복 하기 위해 분 업 을 강 화 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "육 체 노 동 보다 정 신 노 동 에 더 높은 가 치 를 부 여 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "노동 생 산 성 을 향 상 하여 사유 재 산 의 축 적 을 추 구 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "신이 부여한 노 동 의 신성한 의 미 를 현실 속 에 서 구 현 해 야 한다."
+      },
+      {
+        "number": 5,
+        "text": "자발적 노 동 을 통해 노 동 의 본 래 적 가 치 의 회 복 을 지 향 해야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.916,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:52+00:00",
+    "qa_flags": []
+  }
+}

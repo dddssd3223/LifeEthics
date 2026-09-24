@@ -1,0 +1,75 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 149,
+    "question_number": 3,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1057,
+      3149,
+      2429
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 그 림 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은? [3 점 ]\n사 랑 은 수동적 감 정 이 아닌 능동적 활 동 이며, 받는 것이\n아닌 주는 것 입니다. 그런데 어떤 사 람 은 자 신 의 성 장 과\n행 복 을 무시한 채 희 생 하는 것 만 을 사 랑 이라 여 김 니다. 그러나\n능동적 활 동 으로서의 사 랑 은 생 산 성 의 표 현 으로 이는 다른\n사 람 과 자신 모 두 의 성 장 과 행 복 에 대한 능동적 갈 망 입니다.\n즉 , 다른 사 람 뿐 만 아니라 자 신 도 사 랑 의 대 상 이 될 수 있 으 므\n사 랑 한 다 는 것은 곧 다른 사 람 과 자 신 을 동시에 사랑하는\n것이라고 할 수 있습니다. 이에 대해 어떤 사 람 은 이기적인\n사 람 들 이 자 신 만 사랑하는 것처럼 보이기 때문에 자 신 을\n사랑하는 것과 다른 사 람 을 사랑하는 것은 양 자 택 일 적인\n것이라고 주 장 합니다. 그러나 실 제 로 는 그렇지 않습니다.\n이기적인 사 람 들 은 받는 데 서 만 기 뽑 을 느끼고, 주는 것에서\n성 장 과 행 복 이라는 결 과 를 만들지 못합니다. 결국, 그들은 |\n자 신 을 사랑하는 것이 아니라 사 랑 하 지 못하는 것 입 니다.\n01 능동적 활 동 으로서의 사 랑 은 주기만 하는 희 생 으로 실천할 수 있다,\n2 이기적인 사 람 은 자 신 만 사 링 하고 다른 사 람 을 사 랑 하 지 못한\n8) 성 장 과 행 복 에 대한 같 망 은 사 랑 의 생 산 성 을 감 소 시킬 뿐이다,\n9 자기 자 신 을 사랑하는 사 람 은 다른 사람 역시 사랑할 수 있다\n(9) 다른 사 람 은 사 랑 의 대 상 이 되지만 자 신 은 사 랑 의 대 상 이 될 수 없다.",
+    "stem": "그 림 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "사 랑 은 수동적 감 정 이 아닌 능동적 활 동 이며, 받는 것이\n아닌 주는 것 입니다. 그런데 어떤 사 람 은 자 신 의 성 장 과\n행 복 을 무시한 채 희 생 하는 것 만 을 사 랑 이라 여 김 니다. 그러나\n능동적 활 동 으로서의 사 랑 은 생 산 성 의 표 현 으로 이는 다른\n사 람 과 자신 모 두 의 성 장 과 행 복 에 대한 능동적 갈 망 입니다.\n즉 , 다른 사 람 뿐 만 아니라 자 신 도 사 랑 의 대 상 이 될 수 있 으 므\n사 랑 한 다 는 것은 곧 다른 사 람 과 자 신 을 동시에 사랑하는\n것이라고 할 수 있습니다. 이에 대해 어떤 사 람 은 이기적인\n사 람 들 이 자 신 만 사랑하는 것처럼 보이기 때문에 자 신 을\n사랑하는 것과 다른 사 람 을 사랑하는 것은 양 자 택 일 적인\n것이라고 주 장 합니다. 그러나 실 제 로 는 그렇지 않습니다.\n이기적인 사 람 들 은 받는 데 서 만 기 뽑 을 느끼고, 주는 것에서\n성 장 과 행 복 이라는 결 과 를 만들지 못합니다. 결국, 그들은 |\n자 신 을 사랑하는 것이 아니라 사 랑 하 지 못하는 것 입 니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "능동적 활 동 으로서의 사 랑 은 주기만 하는 희 생 으로 실천할 수 있다,"
+      },
+      {
+        "number": 2,
+        "text": "이기적인 사 람 은 자 신 만 사 링 하고 다른 사 람 을 사 랑 하 지 못한"
+      },
+      {
+        "number": 3,
+        "text": "성 장 과 행 복 에 대한 같 망 은 사 랑 의 생 산 성 을 감 소 시킬 뿐이다,"
+      },
+      {
+        "number": 4,
+        "text": "자기 자 신 을 사랑하는 사 람 은 다른 사람 역시 사랑할 수 있다"
+      },
+      {
+        "number": 5,
+        "text": "다른 사 람 은 사 랑 의 대 상 이 되지만 자 신 은 사 랑 의 대 상 이 될 수 없다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.912,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:26+00:00",
+    "qa_flags": []
+  }
+}

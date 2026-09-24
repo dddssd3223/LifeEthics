@@ -1,0 +1,73 @@
+{
+  "id": "2027_JUNE_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 155,
+    "question_number": 12,
+    "exam_key": "2027_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2103,
+      1740,
+      3350
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_JUNE_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은?\n갑 : 태 어 나 기 전에는 형 체 도 없었고 기 (%/ 도 없었다. 기가\n생기고, 기가 변하여 형 체 가 생기고, 형 체 가 변하여 삶이\n생겼다. 또 그 삶이 변하여 죽 음 에 이르는 것이다. 이는\n마치 계 절 의 운 행 과 같다.\n을: 태 어 남 이 있기 때문에 눔 음 이 있고 죽 음 이 있다. 만약\n태 어 남 이 없다면 놈 음 과 죽 음 도 없을 것이다. 이러한\n연 기 008) 의 이 치 를 바르게 깨 달 아 야 생 사 의 고 통 에서\n벗어날 수 있다.\n0 갑 : 죽 음 에 초 연 한 사 람 만이 기 의 순 환 에서 벗어날 수 있다.\n2 갑 : 죽 음 은 슬 퍼 해야 할 일 이므로 예 08) 로 써 애 도 해야 한다.\n6) 을: 죽 음 을 통해서만 원 인 과 조 건 의 법 칙 을 깨달을 수 있\n0) 을 : 열 반 에 이 르 더라도 생 사 의 고 통 에서 완전히 해 방 될 수 없다.\n6 갑과 을 : 도 () 를 따르면 삶 에 대한 집 착 에서 벗어날 수 있",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은?",
+    "passage": "갑 : 태 어 나 기 전에는 형 체 도 없었고 기 (%/ 도 없었다. 기가\n생기고, 기가 변하여 형 체 가 생기고, 형 체 가 변하여 삶이\n생겼다. 또 그 삶이 변하여 죽 음 에 이르는 것이다. 이는\n마치 계 절 의 운 행 과 같다.\n을: 태 어 남 이 있기 때문에 눔 음 이 있고 죽 음 이 있다. 만약\n태 어 남 이 없다면 놈 음 과 죽 음 도 없을 것이다. 이러한\n연 기 008) 의 이 치 를 바르게 깨 달 아 야 생 사 의 고 통 에서\n벗어날 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 죽 음 에 초 연 한 사 람 만이 기 의 순 환 에서 벗어날 수 있다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 죽 음 은 슬 퍼 해야 할 일 이므로 예 08) 로 써 애 도 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을: 죽 음 을 통해서만 원 인 과 조 건 의 법 칙 을 깨달을 수 있"
+      },
+      {
+        "number": 4,
+        "text": "을 : 열 반 에 이 르 더라도 생 사 의 고 통 에서 완전히 해 방 될 수 없다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을 : 도 () 를 따르면 삶 에 대한 집 착 에서 벗어날 수 있"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.886,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:39+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2021_SEPTEMBER_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 91,
+    "question_number": 13,
+    "exam_key": "2021_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3282,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_SEPTEMBER_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 갑 , 을, 병 사 상 가 들의 입 장 으로 적 절 하지 않은 것은? [3 점 ]\n갑 ： 누구나 일반 의 지 에 복 종 하 기 를 거 부 하는 자는 국 가 에 의해\n강 제 를 당하게 된다. 국 가 는 모든 구 성 원 의 생명 보 존 을\n위해 존 재 하며, 사 형 도 같은 관 점 에서 다 뤄 진다.\n을: 누구도 자 신 의 생 명 을 양 도 할 수 없다. 사 형 은 결코 권 리 의\n문 제 가 아니며, 국 가 가 유 용 하다고 판단한 경 우 에 시민\n한 사 람 과 벌이는 전 쟁 이다.\n병 : 누구나 형 벌 받을 행 위 를 의 욕 하 여 범 죄 를 저 질 렀 다 는 그\n이 유 만으로 형 벌 을 받는 것이다. 범 죄 자 와의 계 약 을 근 거 로\n사 형 이 적 법 하지 않다고 주 장 하는 것은 법 의 왜 곡 이다.\n00 갑 : 살 인 범 은 자 신 이 사회 구 성 원 이 아 님 을 스스로 입 증 한 자 이 다.\n2) 을 : 사 형 은 시 민 에게 지 속 적 으로 가장 큰 공 포 감 을 주는 형 벌 이다.\n8) 병 : 사 형 은 살 인 법 을 목적 그 자 체 로 존 중 하는 정당한 형 벌 이다.\n4 갑 , 을 : 범 죄 에 상 응 하는 형 벌 의 부 과 는 사회 계 약 에 근 거 해야 한다.\n을, 병 : 형 벌 은 정 의 의 기 초 가 되는 원 리 에 따라 부 과 되어야 한다.",
+    "stem": "갑 , 을, 병 사 상 가 들의 입 장 으로 적 절 하지 않은 것은? [3 점 ]",
+    "passage": "갑 ： 누구나 일반 의 지 에 복 종 하 기 를 거 부 하는 자는 국 가 에 의해\n강 제 를 당하게 된다. 국 가 는 모든 구 성 원 의 생명 보 존 을\n위해 존 재 하며, 사 형 도 같은 관 점 에서 다 뤄 진다.\n을: 누구도 자 신 의 생 명 을 양 도 할 수 없다. 사 형 은 결코 권 리 의\n문 제 가 아니며, 국 가 가 유 용 하다고 판단한 경 우 에 시민\n한 사 람 과 벌이는 전 쟁 이다.\n병 : 누구나 형 벌 받을 행 위 를 의 욕 하 여 범 죄 를 저 질 렀 다 는 그\n이 유 만으로 형 벌 을 받는 것이다. 범 죄 자 와의 계 약 을 근 거 로\n사 형 이 적 법 하지 않다고 주 장 하는 것은 법 의 왜 곡 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 살 인 범 은 자 신 이 사회 구 성 원 이 아 님 을 스스로 입 증 한 자 이 다."
+      },
+      {
+        "number": 2,
+        "text": "을 : 사 형 은 시 민 에게 지 속 적 으로 가장 큰 공 포 감 을 주는 형 벌 이다."
+      },
+      {
+        "number": 3,
+        "text": "병 : 사 형 은 살 인 법 을 목적 그 자 체 로 존 중 하는 정당한 형 벌 이다."
+      },
+      {
+        "number": 4,
+        "text": "갑 , 을 : 범 죄 에 상 응 하는 형 벌 의 부 과 는 사회 계 약 에 근 거 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "을, 병 : 형 벌 은 정 의 의 기 초 가 되는 원 리 에 따라 부 과 되어야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.902,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:05+00:00",
+    "qa_flags": []
+  }
+}

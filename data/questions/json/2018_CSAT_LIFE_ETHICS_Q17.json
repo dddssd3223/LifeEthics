@@ -1,0 +1,77 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 60,
+    "question_number": 17,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1792,
+      1592,
+      3207
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 갑 , 을 사 상 가 들 모 두 가 부 정 의 대 답 을 할 질 문 으로 가장 적절한\n것은? [3 점 ]\n시 민 의 생명 보 존 이 사회 계 약 의 시민 사 회 가 모든 구 성 원 의 동 의 로\n목 적 입니다. 우 리 의 신 체 와 모든 해 체 될 경 우 라 도 감 옥 에 있는 마지막\n능 력 은 공 동 의 것이며, 이것은 일반 살 인 자 는 먼저 처 형 되어야 합니다.\n의 지 의 최고 감 독 하 에 있는 것 입 이것은 사 법 권 의 이 념 으로서 정 의 가\n니다. 시민 사 회 에서 타 인 의 생 명 을 보 편 적 인 도덕 법 칙 에 따라 의 욕 하는\n희 생 시킨 사 람 은 자 신 의 생 명 도 것 입니다. 공적 정의 앞에서 최상의\n포 기 해야 합니다. | 끄 형 자는 사 형 입니다.\n때\n(1) 살 인 범 을 사 형 하는 것은 그를 국 가 의 적 으 로 잔 주 하는 것인가?\n(3) 사회 계 약 을 위 반 한 살 인 범 을 국가 구 성 원 에서 배 제 해야 하는가?\n(8) 사 형 은 실 잇 죄 에 대해 법 적 으로 집 행 되는 응 딩 한 보 복 의 방 법 인가?\n4) 살 인 범 을 사 형 하지 않는 것은 공 적 으로 정 의 를 침 해 하는 것인가?\n6) 사 형 제 는 인간 존 엄 성 의 이 념 에 위 배 되는 것이므로 부당한 제 도 인가?",
+    "stem": "갑 , 을 사 상 가 들 모 두 가 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "시 민 의 생명 보 존 이 사회 계 약 의 시민 사 회 가 모든 구 성 원 의 동 의 로\n목 적 입니다. 우 리 의 신 체 와 모든 해 체 될 경 우 라 도 감 옥 에 있는 마지막\n능 력 은 공 동 의 것이며, 이것은 일반 살 인 자 는 먼저 처 형 되어야 합니다.\n의 지 의 최고 감 독 하 에 있는 것 입 이것은 사 법 권 의 이 념 으로서 정 의 가\n니다. 시민 사 회 에서 타 인 의 생 명 을 보 편 적 인 도덕 법 칙 에 따라 의 욕 하는\n희 생 시킨 사 람 은 자 신 의 생 명 도 것 입니다. 공적 정의 앞에서 최상의\n포 기 해야 합니다. | 끄 형 자는 사 형 입니다.\n때",
+    "choices": [
+      {
+        "number": 1,
+        "text": "살 인 범 을 사 형 하는 것은 그를 국 가 의 적 으 로 잔 주 하는 것인가?"
+      },
+      {
+        "number": 2,
+        "text": "사회 계 약 을 위 반 한 살 인 범 을 국가 구 성 원 에서 배 제 해야 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "사 형 은 실 잇 죄 에 대해 법 적 으로 집 행 되는 응 딩 한 보 복 의 방 법 인가?"
+      },
+      {
+        "number": 4,
+        "text": "살 인 범 을 사 형 하지 않는 것은 공 적 으로 정 의 를 침 해 하는 것인가?"
+      },
+      {
+        "number": 5,
+        "text": "사 형 제 는 인간 존 엄 성 의 이 념 에 위 배 되는 것이므로 부당한 제 도 인가?"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=2500",
+      "vector_lines=2911"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.903,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:51+00:00",
+    "qa_flags": []
+  }
+}

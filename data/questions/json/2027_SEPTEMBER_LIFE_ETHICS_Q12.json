@@ -1,0 +1,77 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 151,
+    "question_number": 12,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3211,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 다음 사 상 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?\n[3 점 ]\n불 자 (\\ 구 ) 는 감 각 기 관 18805] 을 걸어 잠그고, 음 식 의 양 을\n조 절 하며, 열심히 수 행 하여 바른 지 혜 를 성 취 해야 한다. 음 식 의\n양 을 조 절 한다는 것은 일정한 수 량 을 정해 놓고 함부로 먹지\n않는 것이다. 출 가 한 이들은 청정한 수 행 을 하기 때문에 몸 을\n지 탱 하면서 굴 주 림 과 목 마 름 만 그 치 게 할 뿐이다. 이렇게 하여\n이미 일어난 괴 롭 다 는 느 낌 은 사라지게 하고, 아직 일어나지\n않은 괴 롭 다 는 느 낌 도 일어나지 않게 한다.\n< 보 기 >\nㄱ . 음 식 의 섭 취 는 탐 욕 [ 출 | 의 제 거 를 방 해 하여 고 통 만 을 유 발 한다.\nㄴ . 만 물 의 상호 의 존 성 11 에 유 념 하 며 음 식 을 섭 취 해야 한다.\nㄷ . 음 식 을 절 제 함 으로써 불 살 생 (4@#%) 의 실 천 에 기여할 수 있다.\n르 . 삼 학 (= 뿌 을 낚아 음 식 이 고 정 된 실 체 일 수 있 음 을 깨 달 아 야 한다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "다음 사 상 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "불 자 (\\ 구 ) 는 감 각 기 관 18805] 을 걸어 잠그고, 음 식 의 양 을\n조 절 하며, 열심히 수 행 하여 바른 지 혜 를 성 취 해야 한다. 음 식 의\n양 을 조 절 한다는 것은 일정한 수 량 을 정해 놓고 함부로 먹지\n않는 것이다. 출 가 한 이들은 청정한 수 행 을 하기 때문에 몸 을\n지 탱 하면서 굴 주 림 과 목 마 름 만 그 치 게 할 뿐이다. 이렇게 하여\n이미 일어난 괴 롭 다 는 느 낌 은 사라지게 하고, 아직 일어나지\n않은 괴 롭 다 는 느 낌 도 일어나지 않게 한다.\n< 보 기 >\nㄱ . 음 식 의 섭 취 는 탐 욕 [ 출 | 의 제 거 를 방 해 하여 고 통 만 을 유 발 한다.\nㄴ . 만 물 의 상호 의 존 성 11 에 유 념 하 며 음 식 을 섭 취 해야 한다.\nㄷ . 음 식 을 절 제 함 으로써 불 살 생 (4@#%) 의 실 천 에 기여할 수 있다.\n르 . 삼 학 (= 뿌 을 낚아 음 식 이 고 정 된 실 체 일 수 있 음 을 깨 달 아 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.87,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:46+00:00",
+    "qa_flags": []
+  }
+}

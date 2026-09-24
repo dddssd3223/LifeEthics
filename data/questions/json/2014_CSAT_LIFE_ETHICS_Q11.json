@@ -1,0 +1,76 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 11,
+    "question_number": 11,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1592,
+      2780
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 퓨 현 할 때,\n&~1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 동 물 을 잔 인 하게 다루는 것은 인 간 의 자기 자 신 에\n대한 의 무 와 배 치 된다. 왜냐하면 이는 인 간 의 도 덕 성 을\n실 현 하는 데 방 해 가 되기 때 문 이 다.\n을: 고 통 이나 쾌 락 을 느낄 수 있는 능 력 은 한 존 재 자가\n( 가 )| 이 익 관 심 을 갖 는 다 고 말할 수 있기 위한 필 요 충분\n조 건 이다,\n병 : 인 간 은 자 기 가 도울 수 있는 모든 생 명 체 를 도 와 주고\n어떤 생 명 체 에도 해 를 끼 치 지 않을 때만 진 정 으로\n윤 리 적 이다.\n< 범 례 >\n스 : 갑 만의 입장\n8: 을 만의 입장\n6: 병 만의 입장\n1: 갑 , 을, 병 의 공통 입장\nㆍ ~ 고\n< 보 기 >〉\nㄱ . &: 동물 학대 금 지 는 간 접 적 으 로 만 인 간 의 의 무 에 속한다.\nㄴ . 8: 인 간 과 동 물 을 도덕적 관 점 에서 동 등 하게 고려해야 한다.\nㄷ . (: 석 물 은 내재적 가 치 를 지 니 므로 도덕적 존 중 의 대 상 이다.\n2. 1: 인 간 은 도 덕 적 으로 존 중 받을 만한 가치 있는 존 재 이다.\n(2) ㄱ , ㄷ (20) ㄴ , 큰 (3) ㄱ , ㄴ , 크\n(0) ㄱ , ㄷ , 2 (6) ㄴ , ㄷ , 르",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 퓨 현 할 때, &~1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 동 물 을 잔 인 하게 다루는 것은 인 간 의 자기 자 신 에\n대한 의 무 와 배 치 된다. 왜냐하면 이는 인 간 의 도 덕 성 을\n실 현 하는 데 방 해 가 되기 때 문 이 다.\n을: 고 통 이나 쾌 락 을 느낄 수 있는 능 력 은 한 존 재 자가\n( 가 )| 이 익 관 심 을 갖 는 다 고 말할 수 있기 위한 필 요 충분\n조 건 이다,\n병 : 인 간 은 자 기 가 도울 수 있는 모든 생 명 체 를 도 와 주고\n어떤 생 명 체 에도 해 를 끼 치 지 않을 때만 진 정 으로\n윤 리 적 이다.\n< 범 례 >\n스 : 갑 만의 입장\n8: 을 만의 입장\n6: 병 만의 입장\n1: 갑 , 을, 병 의 공통 입장\nㆍ ~ 고\n< 보 기 >〉\nㄱ . &: 동물 학대 금 지 는 간 접 적 으 로 만 인 간 의 의 무 에 속한다.\nㄴ . 8: 인 간 과 동 물 을 도덕적 관 점 에서 동 등 하게 고려해야 한다.\nㄷ . (: 석 물 은 내재적 가 치 를 지 니 므로 도덕적 존 중 의 대 상 이다.\n2. 1: 인 간 은 도 덕 적 으로 존 중 받을 만한 가치 있는 존 재 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 3,
+        "text": "ㄱ , ㄴ , 크"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=40",
+      "vector_lines=264"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.875,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:51+00:00",
+    "qa_flags": []
+  }
+}

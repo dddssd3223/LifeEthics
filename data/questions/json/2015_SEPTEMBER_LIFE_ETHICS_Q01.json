@@ -1,0 +1,73 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 17,
+    "question_number": 1,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      883,
+      1592,
+      2836
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 다음 대 화 에 서 에 들어갈 말로 가장 적절한 것은?\n갑 : 현대 사 회 에서 발 생 하는 새로운 윤리 문 제 들을 해 결 하기\n위해 윤 리 학 은 어떤 노 력 을 해야 할까?\n을: 윤리 문 제 는 좋음 , 옮 음 등과 같은 도덕 언 어 의 분석,\n도 덕 규 범 에 관한 지 식 만 으로 해결할 수 없어.\n갑 : 네 의 견 에 동 의 해. 다양한 가 치 들이 공 존 하는 현대 사회\n에서 보편적 도 덕 규 범 의 근 거 를 마 련 했 다고 해서 새로운\n윤리 문 제 가 해 결 되는 것은 아니야.\n을: 그렇지. 생명 윤리 문제, 정보 윤리 문제 등과 같은 실천\n적인 삶 의 영 역 에서 발 생 하 는 새로운 윤리 문 제 에 대처\n하기 위해서 오늘날 유 리 학 은\n6) 도 덕 의 규 법적 근 거 로서 객관적인 도덕 원 리 를 정 립 해야 해.\n8) 인접 학문 영 혁 과 는 분 리 된 유 리 학의 정 체 성 을 확 립 해야 해.\n8) 도덕적 행 위 에 대한 이론적 분 석 과 정당화 문 제 를 해 결 해 야 해.\n4 윤 리 학 이 하 나 의 객관적 학 문 으로 성립 가 능 한 지 를 탐 구 해야 해.\n6) 구체적 도덕 문 제 에 도 덕 규 범 을 적 용 하여 해 결 책 을 찾아야 해.",
+    "stem": "다음 대 화 에 서 에 들어갈 말로 가장 적절한 것은?",
+    "passage": "갑 : 현대 사 회 에서 발 생 하는 새로운 윤리 문 제 들을 해 결 하기\n위해 윤 리 학 은 어떤 노 력 을 해야 할까?\n을: 윤리 문 제 는 좋음 , 옮 음 등과 같은 도덕 언 어 의 분석,\n도 덕 규 범 에 관한 지 식 만 으로 해결할 수 없어.\n갑 : 네 의 견 에 동 의 해. 다양한 가 치 들이 공 존 하는 현대 사회\n에서 보편적 도 덕 규 범 의 근 거 를 마 련 했 다고 해서 새로운\n윤리 문 제 가 해 결 되는 것은 아니야.\n을: 그렇지. 생명 윤리 문제, 정보 윤리 문제 등과 같은 실천\n적인 삶 의 영 역 에서 발 생 하 는 새로운 윤리 문 제 에 대처\n하기 위해서 오늘날 유 리 학 은",
+    "choices": [
+      {
+        "number": 1,
+        "text": "도 덕 의 규 법적 근 거 로서 객관적인 도덕 원 리 를 정 립 해야 해."
+      },
+      {
+        "number": 2,
+        "text": "인접 학문 영 혁 과 는 분 리 된 유 리 학의 정 체 성 을 확 립 해야 해."
+      },
+      {
+        "number": 3,
+        "text": "도덕적 행 위 에 대한 이론적 분 석 과 정당화 문 제 를 해 결 해 야 해."
+      },
+      {
+        "number": 4,
+        "text": "윤 리 학 이 하 나 의 객관적 학 문 으로 성립 가 능 한 지 를 탐 구 해야 해."
+      },
+      {
+        "number": 5,
+        "text": "구체적 도덕 문 제 에 도 덕 규 범 을 적 용 하여 해 결 책 을 찾아야 해."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.914,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:05+00:00",
+    "qa_flags": []
+  }
+}

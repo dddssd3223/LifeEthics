@@ -1,0 +1,75 @@
+{
+  "id": "2022_CSAT_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 108,
+    "question_number": 20,
+    "exam_key": "2022_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2650,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_CSAT_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은\n갑 : 현 재 의 분단 상 황 은 정전 상 태 로, 전 쟁 이 발생할 수 있는\n불안정한 상 태 입니다. 따라서 이 상 황 이 끝나지 않는 한\n한반도 평 화 와 지속 가능한 발 전 은 보 장 하기 어 렵 습니다.\n을: 맞습니다. 그래서 종전 선 언 이 필 요 합니다. 종전 선 언 은\n남 북 한 이 상호 적대 정 책 을 전 환 하는 신 호 탄 이 될 것이며,\n남북 교 류 의 물 꼬 를 트고 한반도 평 화 를 이 끌 어 멸 것 입니다.\n갑 : 종전 선 언 으로 남북 교 류 가 확 대 될 수 있지만 북 한 의 대남\n적대 정 책 은 유 지 될 것 입니다. 따라서 종전 선 언 은 북 한 의\n핵 폐 기 에 대한 반 대 급 부 로서 추 진 되어야 합니다,\n을: 종전 선 언 이 북 한 만을 위한 시 혜 는 아 니 므 로 상 호 주 의 의\n대 상 은 아닙니다. 오히려 종전 선 언 이 정전 상 태 를 명 분 으\n핵 을 개 발 한다는 북 한 의 입 장 을 변 화 시킬 수 있습니다.\n0 북 한 은 현재 대남 적대 정 책 을 취하고 있는가?\n2) 분 단 은 한 반 도 의 지속 가능한 발 전 을 저 해 하는가?\n@ 종전 선 언 을 통해 남북 교 류 가 활 성 화 될 수 있는가?\n0 종전 선 언 은 상 호 주의 관 접 에 서 이루어져야 하는가?\n5 현 재 의 한반도 상 황 은 전 쟁 이 종 식 되지 않은 상 태 인가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은",
+    "passage": "갑 : 현 재 의 분단 상 황 은 정전 상 태 로, 전 쟁 이 발생할 수 있는\n불안정한 상 태 입니다. 따라서 이 상 황 이 끝나지 않는 한\n한반도 평 화 와 지속 가능한 발 전 은 보 장 하기 어 렵 습니다.\n을: 맞습니다. 그래서 종전 선 언 이 필 요 합니다. 종전 선 언 은\n남 북 한 이 상호 적대 정 책 을 전 환 하는 신 호 탄 이 될 것이며,\n남북 교 류 의 물 꼬 를 트고 한반도 평 화 를 이 끌 어 멸 것 입니다.\n갑 : 종전 선 언 으로 남북 교 류 가 확 대 될 수 있지만 북 한 의 대남\n적대 정 책 은 유 지 될 것 입니다. 따라서 종전 선 언 은 북 한 의\n핵 폐 기 에 대한 반 대 급 부 로서 추 진 되어야 합니다,\n을: 종전 선 언 이 북 한 만을 위한 시 혜 는 아 니 므 로 상 호 주 의 의\n대 상 은 아닙니다. 오히려 종전 선 언 이 정전 상 태 를 명 분 으\n핵 을 개 발 한다는 북 한 의 입 장 을 변 화 시킬 수 있습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "북 한 은 현재 대남 적대 정 책 을 취하고 있는가?"
+      },
+      {
+        "number": 2,
+        "text": "분 단 은 한 반 도 의 지속 가능한 발 전 을 저 해 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "종전 선 언 을 통해 남북 교 류 가 활 성 화 될 수 있는가?"
+      },
+      {
+        "number": 4,
+        "text": "종전 선 언 은 상 호 주의 관 접 에 서 이루어져야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "현 재 의 한반도 상 황 은 전 쟁 이 종 식 되지 않은 상 태 인가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.912,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:45:56+00:00",
+    "qa_flags": []
+  }
+}

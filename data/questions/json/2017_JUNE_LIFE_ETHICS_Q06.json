@@ -1,0 +1,73 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 38,
+    "question_number": 6,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1592,
+      2151
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 갑 , 을 의 입 장 에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?\n갑 : 장 발 장은 전과자 신 분 을 숨기고 시 장 이 되었어. 하지만\n정보 사 회 에서는 사람들 잊 거나 지우고 싶은 정 보 가 인 터 넷 에\n남아 있어서 타 인 이 볼 수 있지. 따라서 자 신 이 원하지 않는\n정 보 를 삭제할 수 있는 ' 잊 힐 권리 를 보 장 해 야 해.\n을: 장 발 장이 아무리 시 민 을 위해 봉 사 했다 하더라도 그를\n시 장 으로 뽑을 때 사 람 들 이 그의 과 거 를 알 아 야 만 했다고 봐 .\n정보 사 회 에 서는 누구나 그러한 정 보 에 접 근 할 수 있어야\n하지. 사 람 들 이 알아야 할 정 보 라면 삭 제 를 금 지 해야 해.\n< 보 기 >\nㄱ . 갑 : 개 인 에게 자기 정 보 에 대한 삭 제 권 이 있어야 함 을 주 장 한 다.\nㄴ . 갑 : 잊 힐 권리 보 장 이 알 권리 침 해 로 이 어 짐 을 강 조 한 다.\nㄷ . 을: 사생활 보 호 가 공 익 을 위해 제 한 될 수 있 음 을 주 장 한 다.\n르 . 갑 , 을: 자기 정 보 에 대한 배타적 관 리 권 이 절 대 적 임을 강 조 한 다.\n060) ㄱ , ㄴㄴ (2)0 ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 그",
+    "stem": "갑 , 을 의 입 장 에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "갑 : 장 발 장은 전과자 신 분 을 숨기고 시 장 이 되었어. 하지만\n정보 사 회 에서는 사람들 잊 거나 지우고 싶은 정 보 가 인 터 넷 에\n남아 있어서 타 인 이 볼 수 있지. 따라서 자 신 이 원하지 않는\n정 보 를 삭제할 수 있는 ' 잊 힐 권리 를 보 장 해 야 해.\n을: 장 발 장이 아무리 시 민 을 위해 봉 사 했다 하더라도 그를\n시 장 으로 뽑을 때 사 람 들 이 그의 과 거 를 알 아 야 만 했다고 봐 .\n정보 사 회 에 서는 누구나 그러한 정 보 에 접 근 할 수 있어야\n하지. 사 람 들 이 알아야 할 정 보 라면 삭 제 를 금 지 해야 해.\n< 보 기 >\nㄱ . 갑 : 개 인 에게 자기 정 보 에 대한 삭 제 권 이 있어야 함 을 주 장 한 다.\nㄴ . 갑 : 잊 힐 권리 보 장 이 알 권리 침 해 로 이 어 짐 을 강 조 한 다.\nㄷ . 을: 사생활 보 호 가 공 익 을 위해 제 한 될 수 있 음 을 주 장 한 다.\n르 . 갑 , 을: 자기 정 보 에 대한 배타적 관 리 권 이 절 대 적 임을 강 조 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "060) ㄱ , ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "0 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 그"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.891,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:59+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 60,
+    "question_number": 19,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      502,
+      2999,
+      2408
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은?\n갑 : 인 간 의 생 명 과 건 강 을 위해 동물 실 험 은 꼭 필 요 합 니다.\n인 간 과 동 물 은 생 물 학 적 으로 유 사 하며, 동물 실 혐의\n확실한 대 안 은 없습니다. 따라서 동물 실 험 은 정 당 합니다.\n을 : 저는 당 신 이 제 시 한 논 중의 모든 전 제 에 대해 찬 성 하지만\n결 론 에 는 반 대 합 니다. 논 증 에 등 장 하는 동물 을 모두\n인간 으로 바꿔 보세요. 당 신 이 제 시 한 논 증 을 이 용 하 면\n인간 실 험 마 저 정 당 화 할 수 있습니다.\n갑 ： 인간 실 험 은 부 당 합니다. 하지만 인 간 과 달리 동 물 은 기본적\n권 리 를 갖지 않습니다. 당 신 의 비 판 은 동 물 도 기본적 권 리 를\n갖 는 다 는 선결 문 제 를 해 결 해 야 합니다.\n을 : 인 간 은 물론 동 물 도 삶 의 주 체 이므로 기본적 권 리 를 갖 습니다.\n인간 실 험 과 마찬가지로 동물 실 험 도 부 당 합니다. 당 신 이야말로\n동 물 의 기본적 권 리 를 단적으로 부 정 하고 있습니다.\n0) 동물 실 험 은 인 간 의 생 명 과 건 강 을 위해 필요한가?\n@9) 동물 실 혐의 대안 중 확실한 것이 존 재 하는가?\n@) 인 간 과 달리 동 물 은 기본적 퀸 리 를 갖 는 가?\n@ 인간 실 험 과 달리 동물 실 험 은 정 당 한 가?\n6) 잇 간과 동 물 은 생 물 학 적 으로 유 사 한 가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은?",
+    "passage": "갑 : 인 간 의 생 명 과 건 강 을 위해 동물 실 험 은 꼭 필 요 합 니다.\n인 간 과 동 물 은 생 물 학 적 으로 유 사 하며, 동물 실 혐의\n확실한 대 안 은 없습니다. 따라서 동물 실 험 은 정 당 합니다.\n을 : 저는 당 신 이 제 시 한 논 중의 모든 전 제 에 대해 찬 성 하지만\n결 론 에 는 반 대 합 니다. 논 증 에 등 장 하는 동물 을 모두\n인간 으로 바꿔 보세요. 당 신 이 제 시 한 논 증 을 이 용 하 면\n인간 실 험 마 저 정 당 화 할 수 있습니다.\n갑 ： 인간 실 험 은 부 당 합니다. 하지만 인 간 과 달리 동 물 은 기본적\n권 리 를 갖지 않습니다. 당 신 의 비 판 은 동 물 도 기본적 권 리 를\n갖 는 다 는 선결 문 제 를 해 결 해 야 합니다.\n을 : 인 간 은 물론 동 물 도 삶 의 주 체 이므로 기본적 권 리 를 갖 습니다.\n인간 실 험 과 마찬가지로 동물 실 험 도 부 당 합니다. 당 신 이야말로\n동 물 의 기본적 권 리 를 단적으로 부 정 하고 있습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "동물 실 험 은 인 간 의 생 명 과 건 강 을 위해 필요한가?"
+      },
+      {
+        "number": 2,
+        "text": "동물 실 혐의 대안 중 확실한 것이 존 재 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "인 간 과 달리 동 물 은 기본적 퀸 리 를 갖 는 가?"
+      },
+      {
+        "number": 4,
+        "text": "인간 실 험 과 달리 동물 실 험 은 정 당 한 가?"
+      },
+      {
+        "number": 5,
+        "text": "잇 간과 동 물 은 생 물 학 적 으로 유 사 한 가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.911,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:52+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 58,
+    "question_number": 7,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1971,
+      1592,
+      3198
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 그 럼 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은? |3 점 ]\n정 의 로 운 전 쟁 을 옹 호 하는 저의 주 장 은 두 가지\n입니다. 전 쟁 은 때로는 정 당 화 될 수 있다는 것과\n전 쟁 은 언제나 도덕 판 단 의 대 상 이 된다는 것\n입니다. 여기서 도덕 판 단 의 근 거 는 효용 계 산 의\n결 과 가 아니라 인 간 의 생 명 과 자 유 에 대한 권리\n입니다. 또한 전 쟁 에 대한 도덕 판 단 의 영 역 은\n개시, 수행, 종 결 의 세 가 지 로 구 분 됩니다. 어떤\n전 쟁 이 정 의 로 운 지를 판 단 할 때는 전쟁 개 시 의\n영 역 이 전쟁 수 행 의 영 역 보다 우 선 합 니다. 전쟁\n개 시 에 서 가장 중요한 것은 정당한 명 분 입니다.\n(01) 전 쟁 은 어떠한 도덕적 명 분 으 로도 정 당 화 될 수 없다.\n(3) 전 쟁 의 정당한 명 분 을 사회 전 체 의 효 용 에서 찾아야 한다.\n(3) 전 쟁 의 정당한 명 분 보다 전쟁 수 행 의 규 범 을 중 시 해야 한다.\n(4) 전 쟁 은 국 가 의 주권 사 항 이므로 도덕적 평 가 에서 제 외 되어야 한다.\n(5) 전쟁 개 시 의 정당한 명 분 만 으로 그 전 쟁 이 정 의 롭다고 단 정 할 수 없다.",
+    "stem": "그 럼 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은? |3 점 ]",
+    "passage": "정 의 로 운 전 쟁 을 옹 호 하는 저의 주 장 은 두 가지\n입니다. 전 쟁 은 때로는 정 당 화 될 수 있다는 것과\n전 쟁 은 언제나 도덕 판 단 의 대 상 이 된다는 것\n입니다. 여기서 도덕 판 단 의 근 거 는 효용 계 산 의\n결 과 가 아니라 인 간 의 생 명 과 자 유 에 대한 권리\n입니다. 또한 전 쟁 에 대한 도덕 판 단 의 영 역 은\n개시, 수행, 종 결 의 세 가 지 로 구 분 됩니다. 어떤\n전 쟁 이 정 의 로 운 지를 판 단 할 때는 전쟁 개 시 의\n영 역 이 전쟁 수 행 의 영 역 보다 우 선 합 니다. 전쟁\n개 시 에 서 가장 중요한 것은 정당한 명 분 입니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "전 쟁 은 어떠한 도덕적 명 분 으 로도 정 당 화 될 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "전 쟁 의 정당한 명 분 을 사회 전 체 의 효 용 에서 찾아야 한다."
+      },
+      {
+        "number": 3,
+        "text": "전 쟁 의 정당한 명 분 보다 전쟁 수 행 의 규 범 을 중 시 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "전 쟁 은 국 가 의 주권 사 항 이므로 도덕적 평 가 에서 제 외 되어야 한다."
+      },
+      {
+        "number": 5,
+        "text": "전쟁 개 시 의 정당한 명 분 만 으로 그 전 쟁 이 정 의 롭다고 단 정 할 수 없다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=2630",
+      "vector_lines=3148"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.925,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:46+00:00",
+    "qa_flags": []
+  }
+}

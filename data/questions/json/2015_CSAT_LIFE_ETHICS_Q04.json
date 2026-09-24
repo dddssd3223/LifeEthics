@@ -1,0 +1,77 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 21,
+    "question_number": 4,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      1925,
+      2999,
+      3135
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 그 림 은 수업 장 면 이다. 소 전 제 ㅁ 에 대한 반 론 의 근 거 로 가장\n적절한 것은? [3 점 ]\n인체 실 험 은 인 간 의 존 엄 성 을 너의 주 장 을 삼단 논 법 으로 정 리 하면\n훼 손 하므로 바 람 직 하지 않아. 칠 판 의 내 용 과 같 겠군.\n0\n대 전 제: 인 간 의 존 엄 성 을 훼 손 하는 실 험 은 바 람 직 하지 않다.\n소 전 제: 오\n결 론 : 인체 실 험 은 바 람 직 하지 않다.\n(1) 인체 실 험 의 부정적 결 과 로 인해 인 간 의 존엄성 상 실 이 초 래 된다.\n(3) 절 차 적 정 당 성 을 갖는 인체 실 험 은 인격 가 치 를 침 해 하지 않는다.\n(3) 농 몰 실험 결 과 만으로 신약 후보 물 질 의 안 전 을 확 보 할 수 있다.\n(4) 인 간 의 존 엄 성 은 어떤 경 우 에도 훼 손 되 어 서 는 안 되는 가 치 이다.\n(5) 인 간 을 타 인 의 생 명 을 구하기 위한 수 단 으로 여 겨 서 는 안 된다.",
+    "stem": "그 림 은 수업 장 면 이다. 소 전 제 ㅁ 에 대한 반 론 의 근 거 로 가장 적절한 것은? [3 점 ]",
+    "passage": "인체 실 험 은 인 간 의 존 엄 성 을 너의 주 장 을 삼단 논 법 으로 정 리 하면\n훼 손 하므로 바 람 직 하지 않아. 칠 판 의 내 용 과 같 겠군.\n0\n대 전 제: 인 간 의 존 엄 성 을 훼 손 하는 실 험 은 바 람 직 하지 않다.\n소 전 제: 오\n결 론 : 인체 실 험 은 바 람 직 하지 않다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인체 실 험 의 부정적 결 과 로 인해 인 간 의 존엄성 상 실 이 초 래 된다."
+      },
+      {
+        "number": 2,
+        "text": "절 차 적 정 당 성 을 갖는 인체 실 험 은 인격 가 치 를 침 해 하지 않는다."
+      },
+      {
+        "number": 3,
+        "text": "농 몰 실험 결 과 만으로 신약 후보 물 질 의 안 전 을 확 보 할 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "인 간 의 존 엄 성 은 어떤 경 우 에도 훼 손 되 어 서 는 안 되는 가 치 이다."
+      },
+      {
+        "number": 5,
+        "text": "인 간 을 타 인 의 생 명 을 구하기 위한 수 단 으로 여 겨 서 는 안 된다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=34",
+      "vector_lines=28"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.913,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:15+00:00",
+    "qa_flags": []
+  }
+}

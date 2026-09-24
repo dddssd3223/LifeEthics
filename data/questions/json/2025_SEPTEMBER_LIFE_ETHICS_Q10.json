@@ -1,0 +1,79 @@
+{
+  "id": "2025_SEPTEMBER_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 138,
+    "question_number": 10,
+    "exam_key": "2025_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2557,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_SEPTEMBER_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하 고자 할 때,\n&~(` 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 고른 것은?\n갑 ： 정 의 의 원 칙 은 공정한 최초 상 황 에서 계약 당 사 자 가\n합 의 하는 원 칙 이다. 우 연 적 사 실 들 에 관한 지 식 을\n(가 배제한 조 건 에서 합의한 원 칙 은 정 의 로 운 것이다.\n7\n을 : 소유 권 리 론 은 취득, 이 전 (80 및 교정 과 정 을 주 제 로\n삼는다. 그 역 할 이 개 인 의 소유 권리 보 호 에 국한된\n최소 국 가 만이 유 일 하게 정당한 국 가 이다.\n사상가 갑 , 을 의 < 려 레기\n번 2\n입 장 을 탐 구 한 다 ; =\n번 으 고 ㅋ ㄱ 마나. 도\n<>: 판단 내용\n- ㅡ - 구 : 판단 방향\n- 6 아니요 1: 사 상 가 의 입장\n(나) 에\n< 보 기 >\nㄱ . ㅅ &: 공정한 절 차 를 거 친 다 면 그 분 배 는 모두 정 의 로 운 가?\nㄴ . 3: 원초적 입 장 에서 당 사 자 들의 합 의 는 호 혜 적 인 사 회 를\n지 향 하게 되는가?\nㄷ . (6: 최소 국 가 는 시 민 들 의 권 리 를 차 별 적 으로 보 호 하는가?\n르 . (6: 취득 원 칙 과 이전 원 칙 을 충 족 했 다면 그 소 유 는 모두\n정 의 로 운 가?\n0700 0976 6 9042 662",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하 고자 할 때, &~(` 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 고른 것은?",
+    "passage": "갑 ： 정 의 의 원 칙 은 공정한 최초 상 황 에서 계약 당 사 자 가\n합 의 하는 원 칙 이다. 우 연 적 사 실 들 에 관한 지 식 을\n(가 배제한 조 건 에서 합의한 원 칙 은 정 의 로 운 것이다.\n7\n을 : 소유 권 리 론 은 취득, 이 전 (80 및 교정 과 정 을 주 제 로\n삼는다. 그 역 할 이 개 인 의 소유 권리 보 호 에 국한된\n최소 국 가 만이 유 일 하게 정당한 국 가 이다.\n사상가 갑 , 을 의 < 려 레기\n번 2\n입 장 을 탐 구 한 다 ; =\n번 으 고 ㅋ ㄱ 마나. 도\n<>: 판단 내용\n- ㅡ - 구 : 판단 방향\n- 6 아니요 1: 사 상 가 의 입장\n(나) 에\n< 보 기 >\nㄱ . ㅅ &: 공정한 절 차 를 거 친 다 면 그 분 배 는 모두 정 의 로 운 가?\nㄴ . 3: 원초적 입 장 에서 당 사 자 들의 합 의 는 호 혜 적 인 사 회 를\n지 향 하게 되는가?\nㄷ . (6: 최소 국 가 는 시 민 들 의 권 리 를 차 별 적 으로 보 호 하는가?\n르 . (6: 취득 원 칙 과 이전 원 칙 을 충 족 했 다면 그 소 유 는 모두\n정 의 로 운 가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.856,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:12+00:00",
+    "qa_flags": []
+  }
+}

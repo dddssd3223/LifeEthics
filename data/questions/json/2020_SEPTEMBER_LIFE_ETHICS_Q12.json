@@ -1,0 +1,75 @@
+{
+  "id": "2020_SEPTEMBER_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 79,
+    "question_number": 12,
+    "exam_key": "2020_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2551,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_SEPTEMBER_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때,\n~ 에 해 당 하 는 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 고 통 받는 사 회 는 정 의 로운 정치 체 제 를 만들 수 있는\n전 통 을 결 낌 하고 있다. 질서 정연한 사 회 의 만 민 은\n이러한 고 통 반 는 사 회 를 원 조 해야 할 의 무 를 갖는다.\n| 을 : 절 매 빈 곤 은 나쁘다. 어떤 절 매 빈 곤 이 그에 상 당 하는\n도 덕 적 으로 중요한 다른 일 을 희 생 하지 않고서 방 지 될\n수 있다면, 우 리 는 이 절대 빈 곤 을 막 아 야 만 한다.\n사상가 갑 , 을 의 별 레시\n번 2\n입 장 을 탐 구 한다. : 판단 내용\n> : 판단 내용\nㅡ > : 판단 방향\n-& ~ 아 너 요 : 사 싱 가 의 입장\n(나) 에\n예\n갑의 인자 을 의 인자\n터 벼 = 로 터 =\n< 보 기 >\nㄱ . &: 원 조 는 국가 간 복지 수 준 의 조 정 을 목 표 로 하는가?\nㄴ . 2: 원 조 는 국가 간에 자 원 을 재 분 배 하는 윤리적 의 무 인가?\nㄷ . (: 질서 정연한 사 회 의 구 성 원 은 원조 대 상 이 될 수 있는가?\n르 . (;: 원조 주 체 와 대 상 의 이 익 을 평 등 하 게 고려해야 하는가?\n0) ㄱㄱ, ㄴ (00) ㄱ , ㄷ (3) ㄷ , 큰\n0 1, 느 , 르 05) 느 , =, 르",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때, ~ 에 해 당 하 는 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 고 통 받는 사 회 는 정 의 로운 정치 체 제 를 만들 수 있는\n전 통 을 결 낌 하고 있다. 질서 정연한 사 회 의 만 민 은\n이러한 고 통 반 는 사 회 를 원 조 해야 할 의 무 를 갖는다.\n| 을 : 절 매 빈 곤 은 나쁘다. 어떤 절 매 빈 곤 이 그에 상 당 하는\n도 덕 적 으로 중요한 다른 일 을 희 생 하지 않고서 방 지 될\n수 있다면, 우 리 는 이 절대 빈 곤 을 막 아 야 만 한다.\n사상가 갑 , 을 의 별 레시\n번 2\n입 장 을 탐 구 한다. : 판단 내용\n> : 판단 내용\nㅡ > : 판단 방향\n-& ~ 아 너 요 : 사 싱 가 의 입장\n(나) 에\n예\n갑의 인자 을 의 인자\n터 벼 = 로 터 =\n< 보 기 >\nㄱ . &: 원 조 는 국가 간 복지 수 준 의 조 정 을 목 표 로 하는가?\nㄴ . 2: 원 조 는 국가 간에 자 원 을 재 분 배 하는 윤리적 의 무 인가?\nㄷ . (: 질서 정연한 사 회 의 구 성 원 은 원조 대 상 이 될 수 있는가?\n르 . (;: 원조 주 체 와 대 상 의 이 익 을 평 등 하 게 고려해야 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, 느 , 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.843,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:35+00:00",
+    "qa_flags": []
+  }
+}

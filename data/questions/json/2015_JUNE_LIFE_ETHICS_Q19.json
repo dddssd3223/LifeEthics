@@ -1,0 +1,73 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 16,
+    "question_number": 19,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      501,
+      2999,
+      1936
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 에 반 영 되어 있는 사상적 관 점 에서 ( 나 ) 의 에게 해 졸\n수 있는 조 언 으로 가장 적절한 것은? [3 점 ]\n(. )( ) 에 게\n넌 겉으로 내 색 하지 않지만 다른 사 람 의 고 통 을 보면\n안 쓰 러 워 하 지 . 그런 마 음 을 측 은 지 심 ( 베 82/0) 이 라고\n(가)\n해. 그것은 태 어 나 면 서부터 누구나 가지고 있는 마 음 이야.\n사 회 생 활 을 할 때에도 그런 마 음 을 잊지 않으면 좋겠어.\n체육 대 회 를 맞 이 하여 가 속한 학급 학 생 들 은 점심\n(나) 시 간 에 모여서 단 체 로 응원 연 습 을 하 기 로 결 정 했 다. ㅅ 는\n점 심 을 먹은 후 쉬고 싶은 마 음 에 응원 연 습 에 참 가 할 지\n말 지 를 고 민 하 고 있다.\n03 좌 망 (4 슴 ) 을 통해 친 구 들 을 편견 없이 대 하 도록 해.\n@ 서 () 의 정 신 으로 친 구 들 의 입 장 을 혜 아려 행 동 해야 해.\n@ 이기적인 마 음 에서 벗어나기 위해 선 정 (0068) 을 다 아야 해.\n@ 친 구 들 의 평 가 에 좌 우 되지 않는 허 심 (/: 의 태 도 가 필요해.\n08) 모든 친 구 들 을 평 등 하게 대하는 자비 888 의 마 음 을 지녀야 해.",
+    "stem": "( 가 ) 에 반 영 되어 있는 사상적 관 점 에서 ( 나 ) 의 에게 해 졸 수 있는 조 언 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "(. )( ) 에 게\n넌 겉으로 내 색 하지 않지만 다른 사 람 의 고 통 을 보면\n안 쓰 러 워 하 지 . 그런 마 음 을 측 은 지 심 ( 베 82/0) 이 라고\n(가)\n해. 그것은 태 어 나 면 서부터 누구나 가지고 있는 마 음 이야.\n사 회 생 활 을 할 때에도 그런 마 음 을 잊지 않으면 좋겠어.\n체육 대 회 를 맞 이 하여 가 속한 학급 학 생 들 은 점심\n(나) 시 간 에 모여서 단 체 로 응원 연 습 을 하 기 로 결 정 했 다. ㅅ 는\n점 심 을 먹은 후 쉬고 싶은 마 음 에 응원 연 습 에 참 가 할 지\n말 지 를 고 민 하 고 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "좌 망 (4 슴 ) 을 통해 친 구 들 을 편견 없이 대 하 도록 해."
+      },
+      {
+        "number": 2,
+        "text": "서 () 의 정 신 으로 친 구 들 의 입 장 을 혜 아려 행 동 해야 해."
+      },
+      {
+        "number": 3,
+        "text": "이기적인 마 음 에서 벗어나기 위해 선 정 (0068) 을 다 아야 해."
+      },
+      {
+        "number": 4,
+        "text": "친 구 들 의 평 가 에 좌 우 되지 않는 허 심 (/: 의 태 도 가 필요해."
+      },
+      {
+        "number": 5,
+        "text": "모든 친 구 들 을 평 등 하게 대하는 자비 888 의 마 음 을 지녀야 해."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.868,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:04+00:00",
+    "qa_flags": []
+  }
+}

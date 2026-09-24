@@ -1,0 +1,73 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 68,
+    "question_number": 19,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      650,
+      3148,
+      2687
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n정 의 의 원 칙 을 완전히 보장해 줄 완전한 헌 법 을 제 정 하 기는\n어려우며 그 절 차 도 찾기 어렵다. 또한 헌 법 에 따라 제 정 된 법 이\n정 의 로 운 것 이 기 를 보장해 줄 완벽한 절 차 도 존 재 하 지 않는다.\n이러한 한 계 로 인해 헌 법 이 정 의 로 우 며 그로부터 이 익 을 받고\n또 받을 예 정 이라면, 우 리 는 다 수 자가 제 정 한 법 이 부 정 의 하 다\n할 지 라 도 그에 따라야 할 의 무 를 갖는다. 하지만 대체로 질서\n정연한 사회 안에서, 정 의 의 원 칙 에 어긋나는 법 이 심각한\n정도로 부 정 의 할 경우, 우 리 는 시민 불 복 종 을 고 려 하게 된다.\n< 보 기 >\nㄱ . 정치적 절 차 는 완전히 정 의 로운 법 의 제 정 을 보 장 할 수 없다.\nㄴ . 시민 불 복 종 의 대 상 이 되지 않는 부 정 의가 존재할 수 있다.\nㄷ . 시민 불 복 종 은 부 정 의한 정치 체 제 에 항 거 하는 것이다.\n르 . 원초적 입 장 에서 합의한 원 칙 도 시민 불 복 종 의 대 상 이다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄷ , 그\n04) 7, ㄴ , 큰 06 ㄴ , ㄷ , 크",
+    "stem": "다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "정 의 의 원 칙 을 완전히 보장해 줄 완전한 헌 법 을 제 정 하 기는\n어려우며 그 절 차 도 찾기 어렵다. 또한 헌 법 에 따라 제 정 된 법 이\n정 의 로 운 것 이 기 를 보장해 줄 완벽한 절 차 도 존 재 하 지 않는다.\n이러한 한 계 로 인해 헌 법 이 정 의 로 우 며 그로부터 이 익 을 받고\n또 받을 예 정 이라면, 우 리 는 다 수 자가 제 정 한 법 이 부 정 의 하 다\n할 지 라 도 그에 따라야 할 의 무 를 갖는다. 하지만 대체로 질서\n정연한 사회 안에서, 정 의 의 원 칙 에 어긋나는 법 이 심각한\n정도로 부 정 의 할 경우, 우 리 는 시민 불 복 종 을 고 려 하게 된다.\n< 보 기 >\nㄱ . 정치적 절 차 는 완전히 정 의 로운 법 의 제 정 을 보 장 할 수 없다.\nㄴ . 시민 불 복 종 의 대 상 이 되지 않는 부 정 의가 존재할 수 있다.\nㄷ . 시민 불 복 종 은 부 정 의한 정치 체 제 에 항 거 하는 것이다.\n르 . 원초적 입 장 에서 합의한 원 칙 도 시민 불 복 종 의 대 상 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 그"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 큰"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 크"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.908,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:12+00:00",
+    "qa_flags": []
+  }
+}

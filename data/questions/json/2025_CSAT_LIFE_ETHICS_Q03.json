@@ -1,0 +1,77 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 141,
+    "question_number": 3,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1062,
+      3149,
+      2337
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 그 림 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은?\n시 인 은 행 위 하는 인 간 을 모 방 하는데, 행 위 하 는\n인 간 은 필 연 적 으로 선 인 이 거나 악 인 입 니다.\n인 간 이 거의 언제나 이 두 가지 범 주 에 속하는\n것은, 모든 인 간 은 덕과 부 덕 에 의해 구 별 되기\n때 문 입니다. 모 방 된 인 간 은 필 연 적 으로 우리\n이상의 선 인 이든지, 우리 이 하 의 악 인 이든지,\n우 리 와 동등한 인 간 입 니다. 희 극 과 비 극 의\n차 이 도 여 기 에 있습니다. 희 극 은 실제 이 하 의\n악 인 을, 비 극 은 실제 이상의 선 인 을 재 현 합니다.\n한 가지 명백한 사 실 은 시 인 의 임 무 는 실제 일어난\n일 이 아니라 일어날 법한 일 을 이 야 기 하는 데\n있다는 것 입니다.\n0 예 술 가 는 악한 인 간 의 성 품 을 묘 사 해서는 안 된다.\n2) 예술 작품 속 인 물 에 대한 도덕적 구 분 은 불 가 능 하다.\n@ 예술 작품 속 인 물 이 현 실 의 인 간 과 유 사 할 수 는 없다.\n@ 예 술 가 는 인 간 의 유 덕 함 을 작품 소 재 로 삼 아 서 는 안 된다.\n069) 예 술 가 가 개연성 없는 서 사 를 창 작 하는 것은 바 람 직 하 지 않다.",
+    "stem": "그 림 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은?",
+    "passage": "시 인 은 행 위 하는 인 간 을 모 방 하는데, 행 위 하 는\n인 간 은 필 연 적 으로 선 인 이 거나 악 인 입 니다.\n인 간 이 거의 언제나 이 두 가지 범 주 에 속하는\n것은, 모든 인 간 은 덕과 부 덕 에 의해 구 별 되기\n때 문 입니다. 모 방 된 인 간 은 필 연 적 으로 우리\n이상의 선 인 이든지, 우리 이 하 의 악 인 이든지,\n우 리 와 동등한 인 간 입 니다. 희 극 과 비 극 의\n차 이 도 여 기 에 있습니다. 희 극 은 실제 이 하 의\n악 인 을, 비 극 은 실제 이상의 선 인 을 재 현 합니다.\n한 가지 명백한 사 실 은 시 인 의 임 무 는 실제 일어난\n일 이 아니라 일어날 법한 일 을 이 야 기 하는 데\n있다는 것 입니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "예 술 가 는 악한 인 간 의 성 품 을 묘 사 해서는 안 된다."
+      },
+      {
+        "number": 2,
+        "text": "예술 작품 속 인 물 에 대한 도덕적 구 분 은 불 가 능 하다."
+      },
+      {
+        "number": 3,
+        "text": "예술 작품 속 인 물 이 현 실 의 인 간 과 유 사 할 수 는 없다."
+      },
+      {
+        "number": 4,
+        "text": "예 술 가 는 인 간 의 유 덕 함 을 작품 소 재 로 삼 아 서 는 안 된다."
+      },
+      {
+        "number": 5,
+        "text": "069) 예 술 가 가 개연성 없는 서 사 를 창 작 하는 것은 바 람 직 하 지 않다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=825",
+      "vector_lines=93"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.827,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:07+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2026_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 147,
+    "question_number": 14,
+    "exam_key": "2026_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      3076
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장\n적절한 것은? [3 점 ]\n갑 : 형 벌 의 목 적 은 국가 구 성 원 의 생명 보 존 에 있다. 형 벌 은\n사회 계 약 에 기 초 하며, 일반 의 지 에 복 종 하 기 를 거 부 하는\n자 에게 내리는 국 가 의 강 제 이다.\n을 : 형 별 의 목 적 은 범죄 예 빵 에 있다. 종신 노 역 형 은 가장\n(가) | 완 강 한 자의 마 음 을 억 제 시 키 기 에 충 분 하며, 사형 이상의\n확실한 효 과 를 가진다.\n병 : 형 벌 의 목 적 은 정의 실 현 에 있다. 공적인 정 의 는 동 등 성의\n원 러 를 기 준 으로 하며, 오직 보 복 법 만이 형 벌 의 질 과 양 을\n명 확 하게 제 시 할 수 있다.\n< 범 례 >\nㅡ - : 비 판 의 방향\n스 ~#: 비 판 의 내용\n(나) % 비 < 예 시 >\n( 알 ) - (을)\n\" 와 (8) -\n~\n… 쇼 는 갑 이 을 에게 제 기 할\n1 수 있는 비 판 임 .\n07 스 : 시 민 의 생명 보 존 이 사 형 의 정당화 근 거 가 아 님 을 간 과 한다.\n2) 8 와 1: 사 형 은 범죄 억 제 력 이 없는 비 인 도적 형 벌 임을 간 과 한다.\n9) (: 형 벌 받아야 할 자의 동 의 가 형 별 퀸 의 기 초 가 아 님 을 간 과 한다.\n04) 8: 사 형 은 시 민 의 자 격 을 상실한 자 에게 내리는 형 벌 임을 간 과 한다.\n6) 『: 살 인 자 에게는 사형 이 외 의 형 별 이 정 딩 화 될 수 없 음 을 간 과 한다.",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 형 벌 의 목 적 은 국가 구 성 원 의 생명 보 존 에 있다. 형 벌 은\n사회 계 약 에 기 초 하며, 일반 의 지 에 복 종 하 기 를 거 부 하는\n자 에게 내리는 국 가 의 강 제 이다.\n을 : 형 별 의 목 적 은 범죄 예 빵 에 있다. 종신 노 역 형 은 가장\n(가) | 완 강 한 자의 마 음 을 억 제 시 키 기 에 충 분 하며, 사형 이상의\n확실한 효 과 를 가진다.\n병 : 형 벌 의 목 적 은 정의 실 현 에 있다. 공적인 정 의 는 동 등 성의\n원 러 를 기 준 으로 하며, 오직 보 복 법 만이 형 벌 의 질 과 양 을\n명 확 하게 제 시 할 수 있다.\n< 범 례 >\nㅡ - : 비 판 의 방향\n스 ~#: 비 판 의 내용\n(나) % 비 < 예 시 >\n( 알 ) - (을)\n\" 와 (8) -\n~\n… 쇼 는 갑 이 을 에게 제 기 할\n1 수 있는 비 판 임 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": "스 : 시 민 의 생명 보 존 이 사 형 의 정당화 근 거 가 아 님 을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "8 와 1: 사 형 은 범죄 억 제 력 이 없는 비 인 도적 형 벌 임을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "(: 형 벌 받아야 할 자의 동 의 가 형 별 퀸 의 기 초 가 아 님 을 간 과 한다."
+      },
+      {
+        "number": 4,
+        "text": "8: 사 형 은 시 민 의 자 격 을 상실한 자 에게 내리는 형 벌 임을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": "『: 살 인 자 에게는 사형 이 외 의 형 별 이 정 딩 화 될 수 없 음 을 간 과 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.854,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:21+00:00",
+    "qa_flags": []
+  }
+}

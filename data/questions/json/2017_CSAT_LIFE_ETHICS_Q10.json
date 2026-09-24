@@ -1,0 +1,76 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 46,
+    "question_number": 10,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      2218,
+      2999,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 할 때,\n&~1 에 들어갈 옮 은 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]\n갑 : 모든 형 벌 은 강도, 지속성, 보 편 성 을 근 거 로 과 도 하지\n않게 집 행 되어야 한다. 형 벌 의 가장 중요한 목 적 은\n처 벌 을 본 보 기 로 삼아 전 제 의 효 용 을 증 진 하는 것이다.\n을: 모든 인 간 은 목 적 으로 대 우 받아야 한다. 사 형 은\n( 가 )| 살 인 범 의 인 간 성 을 회 손 할 수 있는 모든 가혹 행위\n로부터 살 인 범 의 인 격 을 존 중 하는 것이다.\n병 : 모든 사 람 들 에게 살 인 법 의 끝없는 비참한 상 태 를 보여\n주는 것이 사 형 보다 범죄 예 방 에 더 효 과 적 이다. 형 벌 의\n강 도 보다 지 속 성 이 사 람 들 에게 더 큰 영 향 을 준다.\n간 을 벼 으 < 범 례 >\n갑 , 을, 병 의 그\n입 장 을 탐 구 한다. : 플랑 들\n< >: 판단 내용\n아니요 ㅡ 그 : 판단 방향\n- ~ 다 ! - : 사 상 가 의 입장\n(나)\n예 예\n} 예 예\n< 보 기 >\nㄱ . 4: 사회 전 체 의 이 익 보다 살 인 법 의 생 명 권 을 우 선 해야 하는가?\nㄴ . 8: 사 형 은 범죄 억제 목 적 을 달 성 하기 위한 응 보 적 처 벌 인가?\nㄷ . 0: 사 형 은 살 인 죄 에 대한 동 등 성 윈 리에 부 합 하는 정 딩 한 처 벌 인가?\n2.10: 사 형 은 종 신 형 에 비해 처 벌 의 사회적 효 용 이 낮은 형 벌 인가?\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄷ , 르\n(00 )0 ㄱ , ㄴ , 2 (66) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 할 때, &~1 에 들어갈 옮 은 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 모든 형 벌 은 강도, 지속성, 보 편 성 을 근 거 로 과 도 하지\n않게 집 행 되어야 한다. 형 벌 의 가장 중요한 목 적 은\n처 벌 을 본 보 기 로 삼아 전 제 의 효 용 을 증 진 하는 것이다.\n을: 모든 인 간 은 목 적 으로 대 우 받아야 한다. 사 형 은\n( 가 )| 살 인 범 의 인 간 성 을 회 손 할 수 있는 모든 가혹 행위\n로부터 살 인 범 의 인 격 을 존 중 하는 것이다.\n병 : 모든 사 람 들 에게 살 인 법 의 끝없는 비참한 상 태 를 보여\n주는 것이 사 형 보다 범죄 예 방 에 더 효 과 적 이다. 형 벌 의\n강 도 보다 지 속 성 이 사 람 들 에게 더 큰 영 향 을 준다.\n간 을 벼 으 < 범 례 >\n갑 , 을, 병 의 그\n입 장 을 탐 구 한다. : 플랑 들\n< >: 판단 내용\n아니요 ㅡ 그 : 판단 방향\n- ~ 다 ! - : 사 상 가 의 입장\n(나)\n예 예\n} 예 예\n< 보 기 >\nㄱ . 4: 사회 전 체 의 이 익 보다 살 인 법 의 생 명 권 을 우 선 해야 하는가?\nㄴ . 8: 사 형 은 범죄 억제 목 적 을 달 성 하기 위한 응 보 적 처 벌 인가?\nㄷ . 0: 사 형 은 살 인 죄 에 대한 동 등 성 윈 리에 부 합 하는 정 딩 한 처 벌 인가?\n2.10: 사 형 은 종 신 형 에 비해 처 벌 의 사회적 효 용 이 낮은 형 벌 인가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "0 )0 ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=32",
+      "vector_lines=75"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.855,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:19+00:00",
+    "qa_flags": []
+  }
+}

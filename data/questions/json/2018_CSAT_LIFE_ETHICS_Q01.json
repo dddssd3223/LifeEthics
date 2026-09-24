@@ -1,0 +1,73 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 57,
+    "question_number": 1,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      886,
+      1594,
+      2010
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 에 들어갈 진 술 로 가장 적절한 것은?\n나는 윤 리 학 의 근본 과 제 가 현 실 에서 적용 가능한 도덕적\n규 범 이나 원 칙 을 탐 구 하 여 이를 구체적인 삶 의 문 제 에 적용\n하는 것이라고 본다. 그런데 어떤 사 람 들 은 현실적 도 덕 이\n삶 에 대한 경 험 의 일 부 이기 때문에 경 험 적 으로 연 구 될 수 있다는\n관 점 에서 유 리 학의 근본 과 제 가 어떤 문 화 나 사 회 의 도덕적\n현 상 을 가치 판단 없이 객 관 적 으로 기 술 하는 것이라고 본다.\n나는 이러한 엽 장이 그 고 생 각 한 다.\n0 도덕 추 론 에 대한 논리적 구조 분 석 의 필 요 성 을 주 장 한 다\n8) 도덕 현 상 의 인과 관 계 에 대한 탐 구 의 가 능 성 을 부 정 한 다\n(3) 실천적 규 법 을 통한 도덕 문제 해 결 의 중 요 성 을 경 시 한다\n4 현실적 도 덕 에 대한 가치 중립적 설 명 의 필 요 성 을 무 시 한 다\n6) 보편적 도 덕 규 범 의 이론적 체계 구 성 의 중 요 성 을 강 조 한 다",
+    "stem": "에 들어갈 진 술 로 가장 적절한 것은?",
+    "passage": "나는 윤 리 학 의 근본 과 제 가 현 실 에서 적용 가능한 도덕적\n규 범 이나 원 칙 을 탐 구 하 여 이를 구체적인 삶 의 문 제 에 적용\n하는 것이라고 본다. 그런데 어떤 사 람 들 은 현실적 도 덕 이\n삶 에 대한 경 험 의 일 부 이기 때문에 경 험 적 으로 연 구 될 수 있다는\n관 점 에서 유 리 학의 근본 과 제 가 어떤 문 화 나 사 회 의 도덕적\n현 상 을 가치 판단 없이 객 관 적 으로 기 술 하는 것이라고 본다.\n나는 이러한 엽 장이 그 고 생 각 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "도덕 추 론 에 대한 논리적 구조 분 석 의 필 요 성 을 주 장 한 다"
+      },
+      {
+        "number": 2,
+        "text": "도덕 현 상 의 인과 관 계 에 대한 탐 구 의 가 능 성 을 부 정 한 다"
+      },
+      {
+        "number": 3,
+        "text": "실천적 규 법 을 통한 도덕 문제 해 결 의 중 요 성 을 경 시 한다"
+      },
+      {
+        "number": 4,
+        "text": "현실적 도 덕 에 대한 가치 중립적 설 명 의 필 요 성 을 무 시 한 다"
+      },
+      {
+        "number": 5,
+        "text": "보편적 도 덕 규 범 의 이론적 체계 구 성 의 중 요 성 을 강 조 한 다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:44+00:00",
+    "qa_flags": []
+  }
+}

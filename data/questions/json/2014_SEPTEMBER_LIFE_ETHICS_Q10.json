@@ -1,0 +1,73 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 6,
+    "question_number": 10,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      3323,
+      2999,
+      4299
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 다음 서양 사 상 가 의 입 장 으로 옮 지 않은 것은?\n사 회 의 요 구 와 개인적 양 심 의 요청 사 이 에 는 여 간 해 서 화합\n하기 힘든 지속적인 모 순 과 갈 등 이 존 재 한다. 왜냐하면 사 회 는\n정 의 를 최고의 도덕적 이 상 으로 삼 지 만, 개 인 은 이 타 성 을\n최고의 도덕적 이 상 으로 삼기 때 문 이 다. 그래서 사 회 는 양 심 적 인\n사 람 들 로부터 도덕적 승 인 을 받지 못하는 방 법 을 사 용 해 서라도\n정 의 를 추 구 해 야 한다.\n0) 사회 부 정 의 는 외적 강 제 력 을 통해 타 파 되 어야 한다.\n(3) 개 인 의 양심적 통 찰 은 사회 정 의 를 실 현 하 는 데 기 여 한 다.\n(3) 집 단 들 간의 관 계 는 윤 리 적 이 라 기 보 다는 매우 정 치 적 이다.\n(4) 개 인 들이 양 심 적 이더라도 사 회 가 항상 도 덕 적 인 것은 아니다.\n(5) 개 인 들의 이기적 충 동 들은 집단 속 에 서 약 화 된 형 태 로 나타난다.",
+    "stem": "다음 서양 사 상 가 의 입 장 으로 옮 지 않은 것은?",
+    "passage": "사 회 의 요 구 와 개인적 양 심 의 요청 사 이 에 는 여 간 해 서 화합\n하기 힘든 지속적인 모 순 과 갈 등 이 존 재 한다. 왜냐하면 사 회 는\n정 의 를 최고의 도덕적 이 상 으로 삼 지 만, 개 인 은 이 타 성 을\n최고의 도덕적 이 상 으로 삼기 때 문 이 다. 그래서 사 회 는 양 심 적 인\n사 람 들 로부터 도덕적 승 인 을 받지 못하는 방 법 을 사 용 해 서라도\n정 의 를 추 구 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "사회 부 정 의 는 외적 강 제 력 을 통해 타 파 되 어야 한다."
+      },
+      {
+        "number": 2,
+        "text": "개 인 의 양심적 통 찰 은 사회 정 의 를 실 현 하 는 데 기 여 한 다."
+      },
+      {
+        "number": 3,
+        "text": "집 단 들 간의 관 계 는 윤 리 적 이 라 기 보 다는 매우 정 치 적 이다."
+      },
+      {
+        "number": 4,
+        "text": "개 인 들이 양 심 적 이더라도 사 회 가 항상 도 덕 적 인 것은 아니다."
+      },
+      {
+        "number": 5,
+        "text": "개 인 들의 이기적 충 동 들은 집단 속 에 서 약 화 된 형 태 로 나타난다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.925,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:35:27+00:00",
+    "qa_flags": []
+  }
+}

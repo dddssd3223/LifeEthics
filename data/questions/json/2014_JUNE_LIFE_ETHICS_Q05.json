@@ -1,0 +1,73 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 1,
+    "question_number": 5,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      3262,
+      2999,
+      4300
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q05.png",
+    "raw_text": "6. (가) 사 상 의 입 장 에서 (나) 사 상 에 대해 제 시 할 조 언 으로 가\n장 적절한 것은? [3 점 ]\n(가) 프 로 메 테 우 스 는 과 학 을 통해 이제까지 알려지지 않았던\n힘 을 부 여 받아 마침내 사 슬 로부터 풀 려 났지만, 그는 자신\n의 힘 이 불 행 을 자 초 하지 않도록 스 스 로 를 제 어 해야 한다.\n(나) 과 학 은 관 찰 과 실 혐 에 기 초 해 자 연 을 객 관 적 으로 이해\n한다. 우 리 는 이러한 과 학 을 활 용 하여 자 연 을 지 배 하고\n통 제 함으로써 인 간 의 복 지 를 무한히 증 대 할 수 있다.\n0 과 학 은 경제적 생 산 성 과 효 율 성 을 증 진 하는 데 공 현 해야 한다.\n3) 과 학 의 발 전 이 가져올 위 험 들 에 대해 경 각 심 을 가져야 한다.\n8) 과 학 은 정 치 의 간섭 없이 독 립 적 으로 발 전 해 야 한다.\n@ 과 학 자 는 객관적인 가 치 중립적 태 도 를 지녀야 한다.\n6) 과 학 의 진 보 를 위해 연 구 의 자 유 가 보 장 되어야 한다.",
+    "stem": "(가) 사 상 의 입 장 에서 (나) 사 상 에 대해 제 시 할 조 언 으로 가 장 적절한 것은? [3 점 ]",
+    "passage": "(가) 프 로 메 테 우 스 는 과 학 을 통해 이제까지 알려지지 않았던\n힘 을 부 여 받아 마침내 사 슬 로부터 풀 려 났지만, 그는 자신\n의 힘 이 불 행 을 자 초 하지 않도록 스 스 로 를 제 어 해야 한다.\n(나) 과 학 은 관 찰 과 실 혐 에 기 초 해 자 연 을 객 관 적 으로 이해\n한다. 우 리 는 이러한 과 학 을 활 용 하여 자 연 을 지 배 하고\n통 제 함으로써 인 간 의 복 지 를 무한히 증 대 할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "과 학 은 경제적 생 산 성 과 효 율 성 을 증 진 하는 데 공 현 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "과 학 의 발 전 이 가져올 위 험 들 에 대해 경 각 심 을 가져야 한다."
+      },
+      {
+        "number": 3,
+        "text": "과 학 은 정 치 의 간섭 없이 독 립 적 으로 발 전 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "과 학 자 는 객관적인 가 치 중립적 태 도 를 지녀야 한다."
+      },
+      {
+        "number": 5,
+        "text": "과 학 의 진 보 를 위해 연 구 의 자 유 가 보 장 되어야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.912,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:31+00:00",
+    "qa_flags": []
+  }
+}

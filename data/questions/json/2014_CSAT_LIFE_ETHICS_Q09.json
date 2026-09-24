@@ -1,0 +1,79 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 10,
+    "question_number": 9,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      1904,
+      2999,
+      3266
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 그 림 은 수행 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 ㅠ ~ ㅁ 중\n옮 지 않은 것은?\n수행 평가\n@ 문제: 낙 태 에 관한 갑 , 을 의 입 장 을 비 교 하시오.\n갑 : 나는 낙 태 가 임 신 한 여 성 의 선 택 에 의해 결 정 되어야 한다는\n' 선 택 옹 호 주 의 ' 를 지 지 한다.\n을: 나는 임 신 한 여 성 의 선 택 보다는 태 아 의 생 명 이 도 덕 적 으로\n존 중 되어야 한다는 ' 생 명 옹 호 주 의 ' 를 지 지 한다.\n@ 학생 답안\n낙 태 에 관한 잡 , 을 의 입 장 을 비 교 하 면 (7) 잡은 자 신 의 삶 에 대한 여 성 의 자기\n결 정 권 을 전 제 로 낙 태 를 찬 성 한다. 이에 비해 ( 을 은 태 아 의 생 명 의 존 엄 성 을\n전 제 로 낙 태 를 반 대 한다. 잡 의 입 장 을 지 지 하 는 논 거 로 @ 여 성 은 남 성 처럼\n자기 몸 에 대한 소 유 권 을 지 닌 다 는 주 장 이 있으며, 을 의 입 장 을 지 지 하는 논 거 로\n@) 태 아는 출생 이 후 에 비로소 인 잔 의 본질적 특 성 을 갖게 되어 생 명 권 을 획득\n한다는 주 장 이 있다. 감 , 을 의 입 장 을 정 리 하 면 @) 잡 은 여 성 의 권 리 를 존중할\n것을, 을 은 태 아 의 권 리 를 존중할 것을 주 장 한 다.\n00 00 ㄴ 8 0) ㅁ 00 @) 69) 2:",
+    "stem": "그 림 은 수행 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 ㅠ ~ ㅁ 중 옮 지 않은 것은?",
+    "passage": "수행 평가\n@ 문제: 낙 태 에 관한 갑 , 을 의 입 장 을 비 교 하시오.\n갑 : 나는 낙 태 가 임 신 한 여 성 의 선 택 에 의해 결 정 되어야 한다는\n' 선 택 옹 호 주 의 ' 를 지 지 한다.\n을: 나는 임 신 한 여 성 의 선 택 보다는 태 아 의 생 명 이 도 덕 적 으로\n존 중 되어야 한다는 ' 생 명 옹 호 주 의 ' 를 지 지 한다.\n@ 학생 답안\n낙 태 에 관한 잡 , 을 의 입 장 을 비 교 하 면 (7) 잡은 자 신 의 삶 에 대한 여 성 의 자기\n결 정 권 을 전 제 로 낙 태 를 찬 성 한다. 이에 비해 ( 을 은 태 아 의 생 명 의 존 엄 성 을\n전 제 로 낙 태 를 반 대 한다. 잡 의 입 장 을 지 지 하 는 논 거 로 @ 여 성 은 남 성 처럼\n자기 몸 에 대한 소 유 권 을 지 닌 다 는 주 장 이 있으며, 을 의 입 장 을 지 지 하는 논 거 로\n@) 태 아는 출생 이 후 에 비로소 인 잔 의 본질적 특 성 을 갖게 되어 생 명 권 을 획득\n한다는 주 장 이 있다. 감 , 을 의 입 장 을 정 리 하 면 @) 잡 은 여 성 의 권 리 를 존중할\n것을, 을 은 태 아 의 권 리 를 존중할 것을 주 장 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(0"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ 8"
+      },
+      {
+        "number": 3,
+        "text": "ㅁ"
+      },
+      {
+        "number": 4,
+        "text": "@)"
+      },
+      {
+        "number": 5,
+        "text": "2:"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=13",
+      "vector_lines=16"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.856,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:50:28+00:00",
+    "qa_flags": []
+  }
+}

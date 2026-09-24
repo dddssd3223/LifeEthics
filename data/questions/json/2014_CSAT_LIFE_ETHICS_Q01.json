@@ -1,0 +1,75 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 9,
+    "question_number": 1,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      875,
+      1594,
+      2530
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 갑 , 을 이 강 조 하고 있는 윤 리 학 의 주요 탐구 과 제 를 < 보 기 > 에 서\n구 트 것 은 []\n갑 : 오늘날 삶 의 실 천 적 인 영 역 에 서 새로운 윤리 문 제 들이\n제 기 되고 있어. 따라서 윤 리 학 은 생태 윤리 문제, 정보 윤리\n문제 등에 대한 윤리적 해결 방 안 을 찾아야 해. 즉 , 유 리 학 은\n이론 지 향 적 이 아니라 실천 지 향 적 이어야 해.\n을: 나는 윤 리 학 의 학문적 성립 가 능 성 을 규 명 하는 것이 중요\n하다고 생각해. 따라서 윤 리 학 은 선한 삶 이 란 무 엇 인가? 를\n묻지 말고, 선 하 다 는 말이 참 , 거 짓 의 여 부 를 알 수 있는\n과학적 명 제 처럼 검증 가능한 성 질 의 것 인 지 를 물어야 해.\n< 보 기 >\nㄱ . 특정 시 대 의 관 습 에 대해 조 사 하고 객 관 적 으로 기 술 한다.\nㄴ . 도덕 원 리 를 응 용 하여 구체적 삶 의 도덕 문 제 를 해 결 한다.\nㄷ . 도덕적 언 어 의 의 미 와 논리적 타 당 성 을 엄밀히 분 석 한다.\n2. 도 덕 의 규 법적 근 거 로서 객관적인 도 덕 법 칙 을 정 립 한다.\n잘 을 장 을\n(01) ㄱ ㄴ (2) ㄱ ㄷ\n(3) ㄴ ㄷ (0) ㄴ 근\n(6) ㄷ 른",
+    "stem": "갑 , 을 이 강 조 하고 있는 윤 리 학 의 주요 탐구 과 제 를 < 보 기 > 에 서 구 트 것 은 []",
+    "passage": "갑 : 오늘날 삶 의 실 천 적 인 영 역 에 서 새로운 윤리 문 제 들이\n제 기 되고 있어. 따라서 윤 리 학 은 생태 윤리 문제, 정보 윤리\n문제 등에 대한 윤리적 해결 방 안 을 찾아야 해. 즉 , 유 리 학 은\n이론 지 향 적 이 아니라 실천 지 향 적 이어야 해.\n을: 나는 윤 리 학 의 학문적 성립 가 능 성 을 규 명 하는 것이 중요\n하다고 생각해. 따라서 윤 리 학 은 선한 삶 이 란 무 엇 인가? 를\n묻지 말고, 선 하 다 는 말이 참 , 거 짓 의 여 부 를 알 수 있는\n과학적 명 제 처럼 검증 가능한 성 질 의 것 인 지 를 물어야 해.\n< 보 기 >\nㄱ . 특정 시 대 의 관 습 에 대해 조 사 하고 객 관 적 으로 기 술 한다.\nㄴ . 도덕 원 리 를 응 용 하여 구체적 삶 의 도덕 문 제 를 해 결 한다.\nㄷ . 도덕적 언 어 의 의 미 와 논리적 타 당 성 을 엄밀히 분 석 한다.\n2. 도 덕 의 규 법적 근 거 로서 객관적인 도 덕 법 칙 을 정 립 한다.\n잘 을 장 을",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ 근"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 른"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=15"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.874,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_3rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:41:48+00:00",
+    "qa_flags": []
+  }
+}

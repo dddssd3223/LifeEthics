@@ -1,0 +1,76 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 9,
+    "question_number": 5,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      3166,
+      2999,
+      4302
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q05.png",
+    "raw_text": "5. 그 림 은 수업 장 면 이다. 소 전 제 에 대한 반 론 으 로 가장 적절한\n것은? [3 점 ]\n과학 기 술 의 연구 개 발 은 | 너의 주 장 을 삼단 논법\n기 치 줄 립 적인 것으로 도덕적 으로 정 리 하면 칠 판 의\n가치 판 단 의 대 상 이 아니야. ) 내 용 과 갈 겠군.\n대 전 제: 가 치 중 립 적 인 것은 도덕적 가치 판 단 의 대 상 이 아니다.\n소 전 제: @\n과학 기 술 의 연구 개 발 은 도덕적 가치 판 단 의 대 상 이\n0 과학 기 술 은 도덕적 가치 판 단 으로부터 자 유 로 워야 한다.\n3 과학 기 술 의 연구 목 표 를 설정할 때 가치 판 단 이 개 입 한다.\n8) 과학 기 술 의 발 전 을 위해 가 치 중립적 태 도 를 유 지 해 야 한다.\n4 과학적 사실 판 단 은 도덕적 가치 판 단 에 종 속 되 어 서 는 안 된다.\n6) 과학 기 술 의 연구 대 상 과 도 덕 의 탐구 대 상 은 서로 구 별 된다.",
+    "stem": "그 림 은 수업 장 면 이다. 소 전 제 에 대한 반 론 으 로 가장 적절한 것은? [3 점 ]",
+    "passage": "과학 기 술 의 연구 개 발 은 | 너의 주 장 을 삼단 논법\n기 치 줄 립 적인 것으로 도덕적 으로 정 리 하면 칠 판 의\n가치 판 단 의 대 상 이 아니야. ) 내 용 과 갈 겠군.\n대 전 제: 가 치 중 립 적 인 것은 도덕적 가치 판 단 의 대 상 이 아니다.\n소 전 제: @\n과학 기 술 의 연구 개 발 은 도덕적 가치 판 단 의 대 상 이",
+    "choices": [
+      {
+        "number": 1,
+        "text": "과학 기 술 은 도덕적 가치 판 단 으로부터 자 유 로 워야 한다."
+      },
+      {
+        "number": 2,
+        "text": "과학 기 술 의 연구 목 표 를 설정할 때 가치 판 단 이 개 입 한다."
+      },
+      {
+        "number": 3,
+        "text": "과학 기 술 의 발 전 을 위해 가 치 중립적 태 도 를 유 지 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "과학적 사실 판 단 은 도덕적 가치 판 단 에 종 속 되 어 서 는 안 된다."
+      },
+      {
+        "number": 5,
+        "text": "과학 기 술 의 연구 대 상 과 도 덕 의 탐구 대 상 은 서로 구 별 된다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=12"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.899,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:48+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2021_SEPTEMBER_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 92,
+    "question_number": 20,
+    "exam_key": "2021_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2418,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_SEPTEMBER_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는\n대로 고른 것은? [3 점 ]\n갑 : 공화 정 체 인 국 가 들은 평 화 를 요 구 하는 시 민 들 에 의해 쉽게\n전 쟁 을 일으킬 수 없게 된다. 그러한 국 가 들 은 자 발 적 으로\n결 성 한 평화 연 맹 에서 자 유 와 평 화 를 보 장 받고자 하며, 영구\n평 화 를 위해 세계 시 민 적 체 제 로 나 아 가 고 자 한다.\n을: 물리적 관 점 에서 협 소 하게 규 정 되던 기 존 의 폭력 개 념 은\n불 완 전 하다. 우 리 는 구조적, 문화적 폭 력 까지 없는 상 태 를\n지 향 해야 한다. 이러한 상 태 는 소극적 평화 상 태 를 뛰어\n넘는 그 이상의 상 태 라 할 수 있다.\n< 보 기 >\nㄱ . 갑 : 이 방 인 이 평화롭게 처 신 하는 한 우 호 적 으로 대 우 해야 한다.\nㄴ . 갑 : 평화 연 맹 은 국 가 와 같은 주 권 적 권 력 으로 기 능 해야 한다.\nㄷ . 을: 폭 력 의 예방 없이는 적극적 평 화 를 실현할 수 없다.\n르 . 갑 , 을: 모든 전 쟁 의 종 식 은 진정한 평화 실 현 의 필수 조 전 이다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄴ , 큰\n04) 1, =, 르 05) 느 , =, 르",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 공화 정 체 인 국 가 들은 평 화 를 요 구 하는 시 민 들 에 의해 쉽게\n전 쟁 을 일으킬 수 없게 된다. 그러한 국 가 들 은 자 발 적 으로\n결 성 한 평화 연 맹 에서 자 유 와 평 화 를 보 장 받고자 하며, 영구\n평 화 를 위해 세계 시 민 적 체 제 로 나 아 가 고 자 한다.\n을: 물리적 관 점 에서 협 소 하게 규 정 되던 기 존 의 폭력 개 념 은\n불 완 전 하다. 우 리 는 구조적, 문화적 폭 력 까지 없는 상 태 를\n지 향 해야 한다. 이러한 상 태 는 소극적 평화 상 태 를 뛰어\n넘는 그 이상의 상 태 라 할 수 있다.\n< 보 기 >\nㄱ . 갑 : 이 방 인 이 평화롭게 처 신 하는 한 우 호 적 으로 대 우 해야 한다.\nㄴ . 갑 : 평화 연 맹 은 국 가 와 같은 주 권 적 권 력 으로 기 능 해야 한다.\nㄷ . 을: 폭 력 의 예방 없이는 적극적 평 화 를 실현할 수 없다.\n르 . 갑 , 을: 모든 전 쟁 의 종 식 은 진정한 평화 실 현 의 필수 조 전 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, =, 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.895,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:10+00:00",
+    "qa_flags": []
+  }
+}

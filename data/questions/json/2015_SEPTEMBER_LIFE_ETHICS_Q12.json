@@ -1,0 +1,76 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 19,
+    "question_number": 12,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1633,
+      1592,
+      3028
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 다음 글 은 신문 칼 럼 이다. 에 들어갈 내 용 으로 가장 적절한\n것은?\n(신문 (200070 년 (〉 월 (일\n칼럼\n최근 어떤 나 라 에서 한 언 론 사 가 정 부 의 외교 기 밀 을 폭 로 한 기 사 를 연 재 했 다.\n이에 정 부 는 그 기 사 가 국 익 에 배 치 된다는 이유로 보도 중지 요청 소 송 을 제기\n했다. 그런데 법 원 은 정 부 가 진 실 을 감 추 거나 국 민 을 속이지 못하게 하는 것이\n언 론 의 책 무 란 점 을 근 거 로 보 도 를 허 용 하였다. 배 판 결 은 정 부 가 자 의 적 으 로\n구 정 한 정보 공개 기 준 이 언론 자 유 를 제 약 하는 이 유 가 될 수 없 음 을 명 시 하였다\n주 사 회 에서 국 민 은 국가 정 책 의 정 당 성 을 판 단 히 는 주 권 자 로서, 무엇이 진실\n인지 판 단 할 수 있도록 일 체 의 관련 정 보 를 제 공 받을 권 리 가 있다. 국 민 을 위한\n정보 제 공 이 바로 언론 본 연 의 사 명 이자 존재 의 미 인 것이다. 따라서 민주\n사 회 의 언 론 은 본 …( 후 략 )…\n나아 02 _^ = __^…\n6) 진 실 을 보 도 한다고 하더라도 인 격 권 을 존 중 해아 한다.\n3) 보 도 로 인한 피해 당 사 자 에게 반론 기 회 를 주어야 한다.\n(3) 국 민 의 할 권리 충 충 족 을 위 해 항상 진 실 을 추 구 해 야 한다.\n(4 국익 관련 정보 보 도 에 언 론 의 자 유 를 적 용 해서는 안 된다.\n(5) 표 현 의 자 유 를 이유로 정 부 의 신 뢰 성 을 훼 손 해서는 안 된다.",
+    "stem": "다음 글 은 신문 칼 럼 이다. 에 들어갈 내 용 으로 가장 적절한 것은?",
+    "passage": "(신문 (200070 년 (〉 월 (일\n칼럼\n최근 어떤 나 라 에서 한 언 론 사 가 정 부 의 외교 기 밀 을 폭 로 한 기 사 를 연 재 했 다.\n이에 정 부 는 그 기 사 가 국 익 에 배 치 된다는 이유로 보도 중지 요청 소 송 을 제기\n했다. 그런데 법 원 은 정 부 가 진 실 을 감 추 거나 국 민 을 속이지 못하게 하는 것이\n언 론 의 책 무 란 점 을 근 거 로 보 도 를 허 용 하였다. 배 판 결 은 정 부 가 자 의 적 으 로\n구 정 한 정보 공개 기 준 이 언론 자 유 를 제 약 하는 이 유 가 될 수 없 음 을 명 시 하였다\n주 사 회 에서 국 민 은 국가 정 책 의 정 당 성 을 판 단 히 는 주 권 자 로서, 무엇이 진실\n인지 판 단 할 수 있도록 일 체 의 관련 정 보 를 제 공 받을 권 리 가 있다. 국 민 을 위한\n정보 제 공 이 바로 언론 본 연 의 사 명 이자 존재 의 미 인 것이다. 따라서 민주\n사 회 의 언 론 은 본 …( 후 략 )…\n나아 02 _^ = __^…",
+    "choices": [
+      {
+        "number": 1,
+        "text": "진 실 을 보 도 한다고 하더라도 인 격 권 을 존 중 해아 한다."
+      },
+      {
+        "number": 2,
+        "text": "보 도 로 인한 피해 당 사 자 에게 반론 기 회 를 주어야 한다."
+      },
+      {
+        "number": 3,
+        "text": "국 민 의 할 권리 충 충 족 을 위 해 항상 진 실 을 추 구 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "국익 관련 정보 보 도 에 언 론 의 자 유 를 적 용 해서는 안 된다."
+      },
+      {
+        "number": 5,
+        "text": "표 현 의 자 유 를 이유로 정 부 의 신 뢰 성 을 훼 손 해서는 안 된다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=3585",
+      "vector_lines=4363"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.878,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:10+00:00",
+    "qa_flags": []
+  }
+}

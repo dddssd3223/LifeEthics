@@ -1,0 +1,73 @@
+{
+  "id": "2017_SEPTEMBER_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 41,
+    "question_number": 3,
+    "exam_key": "2017_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3266,
+      1594,
+      4297
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_SEPTEMBER_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 다음 고대 서양 사 상 가 의 입 장 으로 가장 적절한 것은?\n우 정 에는 각기 대 응 하는 사 랑 이 존 재 한다. 이 로 움 때문에\n사랑하는 사 람 들 은 서 로 를 그 자 체 로 사랑하는 것이 아니라\n상 대 로 부터 어떤 좋 음 [ 뽑 ] 이 생기는 한 사랑하는 것이다.\n즐거움 때문에 사 링 하는 사 람 들 은 상 대 빵 이 어떤 사 람 이 어 서 가\n아니라 즐 거 움 을 주기 때문에 사랑한다. 완전한 우 정 은 덕 에\n있어 닮은 선한 사 람 들 의 우 정 으로 이 경 우 에만 서로 잘 되기를\n바란다. 그들은 그 자 체 로서 좋은 사 람 들 이기 때 문 이 다.\n00 유 덕 한 성 품 을 갖춘 사 람 들 만 이 완전한 우 정 을 맺을 수 있다.\n(3) 이 익 과 쾌 락 에 기초한 우 정 은 호 혜 적 관 계 를 형 성 할 수 없다.\n(3) 이 익 과 쾌 락 만 추 구 하는 이들은 어떠한 우 정 도 맺을 수 없다.\n(4) 유 덕 하지 못한 이 들 의 우 정 에서는 어떠한 선도 생 겨 나 지 않는다.\n(5) 모든 우 정 은 행 위 의 좋 음 보 다 행 위 자 의 성 품 을 사랑하는 것이다.",
+    "stem": "다음 고대 서양 사 상 가 의 입 장 으로 가장 적절한 것은?",
+    "passage": "우 정 에는 각기 대 응 하는 사 랑 이 존 재 한다. 이 로 움 때문에\n사랑하는 사 람 들 은 서 로 를 그 자 체 로 사랑하는 것이 아니라\n상 대 로 부터 어떤 좋 음 [ 뽑 ] 이 생기는 한 사랑하는 것이다.\n즐거움 때문에 사 링 하는 사 람 들 은 상 대 빵 이 어떤 사 람 이 어 서 가\n아니라 즐 거 움 을 주기 때문에 사랑한다. 완전한 우 정 은 덕 에\n있어 닮은 선한 사 람 들 의 우 정 으로 이 경 우 에만 서로 잘 되기를\n바란다. 그들은 그 자 체 로서 좋은 사 람 들 이기 때 문 이 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "유 덕 한 성 품 을 갖춘 사 람 들 만 이 완전한 우 정 을 맺을 수 있다."
+      },
+      {
+        "number": 2,
+        "text": "이 익 과 쾌 락 에 기초한 우 정 은 호 혜 적 관 계 를 형 성 할 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "이 익 과 쾌 락 만 추 구 하는 이들은 어떠한 우 정 도 맺을 수 없다."
+      },
+      {
+        "number": 4,
+        "text": "유 덕 하지 못한 이 들 의 우 정 에서는 어떠한 선도 생 겨 나 지 않는다."
+      },
+      {
+        "number": 5,
+        "text": "모든 우 정 은 행 위 의 좋 음 보 다 행 위 자 의 성 품 을 사랑하는 것이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.918,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:37:02+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 73,
+    "question_number": 4,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      1057,
+      3148,
+      2747
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 다음 가상 대 담 의 사 상 가 가 지 지 할 입 장 으로 적 절 하지 않은\n것은? [3 전 ]\n배 아 에 대한 유전자 조 작 이 폰 란 거 리 입니다. 예 . 정상적인 능 력 을 더 강 화 하는 유 전 학 적\n이에 선 생 님 께서는 치 료 가 아닌 강 화 를 개 입 은 일 방 적 인 것이기에 세대 간의\n위한 유전자 조 작 은 인 간 을 수 단 화 하 기 에 평 등 성 을 훼 손 하며, 그 존 재 의 자 율 성 을\n옮 지 않다고 하셨습니다. 근 본 적 으로 침 해 하는 행 위 입니다.\n유 전 학 적 강 화 로 태어난 인 간 은 부모 | | | 맞습니다. 유 전 학 적 강 화 는 의 사 소 통 의\n세 대 의 일 방 적 인 결 정 과 당 사 자 의 동의 | ㅣ | 함 리 성 이 확 보 된 상 황 에서 구성원 모 두 의\n결 여 로 인해 자 신 의 삶 에 부당한 간 섭 이 | ㅣ | 합 의 를 기대할 수 없기에 정 당 화 될 수\n일 어 난 다 는 말 씀 이시군요. 없습니다.\n0 자 녀 의 능력 강 화 를 위한 유전자 조 작 은 인 간 을 도 구 화 한 다.\n2) 유 전 학 적 치 료 에 대해서는 담 론 을 통한 보편적 합 의 가 가 능 하 다.\n@ 인 간 에 대한 모든 형 태 의 유 전 학 적 개 입 을 거 부 하는 것은 아니다.\n4 유 전 학 적 강 화 를 통해 태어난 사 람 은 온전한 자 윤 성 을 지닐 수 없다.\n5 자질 강 화 를 위한 배아 유전자 조 작 은 세대 간의 균 형 을 회 복 시킨다.",
+    "stem": "다음 가상 대 담 의 사 상 가 가 지 지 할 입 장 으로 적 절 하지 않은 것은? [3 전 ]",
+    "passage": "배 아 에 대한 유전자 조 작 이 폰 란 거 리 입니다. 예 . 정상적인 능 력 을 더 강 화 하는 유 전 학 적\n이에 선 생 님 께서는 치 료 가 아닌 강 화 를 개 입 은 일 방 적 인 것이기에 세대 간의\n위한 유전자 조 작 은 인 간 을 수 단 화 하 기 에 평 등 성 을 훼 손 하며, 그 존 재 의 자 율 성 을\n옮 지 않다고 하셨습니다. 근 본 적 으로 침 해 하는 행 위 입니다.\n유 전 학 적 강 화 로 태어난 인 간 은 부모 | | | 맞습니다. 유 전 학 적 강 화 는 의 사 소 통 의\n세 대 의 일 방 적 인 결 정 과 당 사 자 의 동의 | ㅣ | 함 리 성 이 확 보 된 상 황 에서 구성원 모 두 의\n결 여 로 인해 자 신 의 삶 에 부당한 간 섭 이 | ㅣ | 합 의 를 기대할 수 없기에 정 당 화 될 수\n일 어 난 다 는 말 씀 이시군요. 없습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "자 녀 의 능력 강 화 를 위한 유전자 조 작 은 인 간 을 도 구 화 한 다."
+      },
+      {
+        "number": 2,
+        "text": "유 전 학 적 치 료 에 대해서는 담 론 을 통한 보편적 합 의 가 가 능 하 다."
+      },
+      {
+        "number": 3,
+        "text": "인 간 에 대한 모든 형 태 의 유 전 학 적 개 입 을 거 부 하는 것은 아니다."
+      },
+      {
+        "number": 4,
+        "text": "유 전 학 적 강 화 를 통해 태어난 사 람 은 온전한 자 윤 성 을 지닐 수 없다."
+      },
+      {
+        "number": 5,
+        "text": "자질 강 화 를 위한 배아 유전자 조 작 은 세대 간의 균 형 을 회 복 시킨다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.919,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:24+00:00",
+    "qa_flags": []
+  }
+}

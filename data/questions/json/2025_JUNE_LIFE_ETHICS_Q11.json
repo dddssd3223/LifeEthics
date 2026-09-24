@@ -1,0 +1,75 @@
+{
+  "id": "2025_JUNE_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 135,
+    "question_number": 11,
+    "exam_key": "2025_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1808
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_JUNE_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]\n옛 진 인 ( 빠 ㅅ ) 은 삶 을 기뻐할 줄 도 죽 음 을\n죽 음 은 영 혼 과 몸 을 구 성 하는 원 자 ( 뿌 구 )\n미워할 줄 도 몰 랐 습니다. 혼돈 상 태 로 있 다 가\n들이 흘 어 지 는 것 입니다. 모든 좋고 나 쁜\n감 각 에 달려 있는데, 죽으면 감 각 이 없어\n변하여 기 ( 했 ) 가 되고 기가 변해 형 체 가 되고\n집니다. 죽 음 이 두려운 일 이 아니라는\n형 체 가 변해 삶이 되었으며 이제 또 변해서\n사 실 을 진 정 으로 깨달은 사 람 은 삶 에서\n죽은 것 입니다. 이것은 춘 하 추 동 의 사 계 절 이\n두 려 워 할 것이 없습니다.\n번갈아 운 행 하는 것과 같은 것 입니다.\n0) 갑 : 죽 음 은 자연스러운 과 정 이므로 지나친 슬 픔 에서 벗어나야 한다.\n(2) 갑 : 삶 의 단 절 인 죽 음 은 생 사 의 순 환 에서 벗어나는 필 연 적 인 과 정 이다.\n(3) 을: 죽 음 은 육 체 의 고 통 을 낳 지 만 죽 음 에 대한 이 해 는 평 온 을 낳는다\n0) 을: 죽 음 은 영원한 삶 으로 이 행 하는 과 정 이므로 두 려 워 해서는 안 된다.\n9) 갑과 을: 죽음 이 후 에 는 인 간 을 구 성 하는 요 소 들이 완전히 사라진다.",
+    "stem": "감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "옛 진 인 ( 빠 ㅅ ) 은 삶 을 기뻐할 줄 도 죽 음 을\n죽 음 은 영 혼 과 몸 을 구 성 하는 원 자 ( 뿌 구 )\n미워할 줄 도 몰 랐 습니다. 혼돈 상 태 로 있 다 가\n들이 흘 어 지 는 것 입니다. 모든 좋고 나 쁜\n감 각 에 달려 있는데, 죽으면 감 각 이 없어\n변하여 기 ( 했 ) 가 되고 기가 변해 형 체 가 되고\n집니다. 죽 음 이 두려운 일 이 아니라는\n형 체 가 변해 삶이 되었으며 이제 또 변해서\n사 실 을 진 정 으로 깨달은 사 람 은 삶 에서\n죽은 것 입니다. 이것은 춘 하 추 동 의 사 계 절 이\n두 려 워 할 것이 없습니다.\n번갈아 운 행 하는 것과 같은 것 입니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 죽 음 은 자연스러운 과 정 이므로 지나친 슬 픔 에서 벗어나야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 삶 의 단 절 인 죽 음 은 생 사 의 순 환 에서 벗어나는 필 연 적 인 과 정 이다."
+      },
+      {
+        "number": 3,
+        "text": "을: 죽 음 은 육 체 의 고 통 을 낳 지 만 죽 음 에 대한 이 해 는 평 온 을 낳는다"
+      },
+      {
+        "number": 4,
+        "text": "을: 죽 음 은 영원한 삶 으로 이 행 하는 과 정 이므로 두 려 워 해서는 안 된다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을: 죽음 이 후 에 는 인 간 을 구 성 하는 요 소 들이 완전히 사라진다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.91,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:49+00:00",
+    "qa_flags": []
+  }
+}

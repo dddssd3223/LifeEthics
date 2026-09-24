@@ -1,0 +1,73 @@
+{
+  "id": "2024_CSAT_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 130,
+    "question_number": 10,
+    "exam_key": "2024_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3555,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_CSAT_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n미적인 것은 유 리 적 으 로 좋은 것의 상 징 이다. 미적인 것은\n다른 모든 사 람 들 의 동 의 를 요 구 하며 요 구 해 야 마 땅 하다. 이때\n우 리 의 마 음 은 캐 락 의 단순한 감각적 수 용 을 넘어선 순 화 와\n고 양 을 의 식 하며, 다른 사 람 들 의 가 치 도 그들이 지닌 간 단 력 의\n비슷한 준 칙 에 따라서 평 가 하게 된다.\n0) 미적 판 단 과 도덕 판 단 은 모두 이해 관 심 에 근 거 해야 한다.\n2 미적 판 단 은 개 인 의 주관적인 판 단 이기에 보 편 화 될 수 없다.\n6 미적 판 단 의 대상인 예 술 은 그 자 체 로 자 율 성 을 지닐 수 없다.\n9) 미적 대 상 에 대한 감각적 경 험 은 도덕성 고 양 에 기여할 수 있다.\n5 미적 판단 능 력 은 옮 고 그 릅 을 판 단 하는 도덕적 능 력 에 종 속 된다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "미적인 것은 유 리 적 으 로 좋은 것의 상 징 이다. 미적인 것은\n다른 모든 사 람 들 의 동 의 를 요 구 하며 요 구 해 야 마 땅 하다. 이때\n우 리 의 마 음 은 캐 락 의 단순한 감각적 수 용 을 넘어선 순 화 와\n고 양 을 의 식 하며, 다른 사 람 들 의 가 치 도 그들이 지닌 간 단 력 의\n비슷한 준 칙 에 따라서 평 가 하게 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "미적 판 단 과 도덕 판 단 은 모두 이해 관 심 에 근 거 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "미적 판 단 은 개 인 의 주관적인 판 단 이기에 보 편 화 될 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "미적 판 단 의 대상인 예 술 은 그 자 체 로 자 율 성 을 지닐 수 없다."
+      },
+      {
+        "number": 4,
+        "text": "미적 대 상 에 대한 감각적 경 험 은 도덕성 고 양 에 기여할 수 있다."
+      },
+      {
+        "number": 5,
+        "text": "미적 판단 능 력 은 옮 고 그 릅 을 판 단 하는 도덕적 능 력 에 종 속 된다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:52+00:00",
+    "qa_flags": []
+  }
+}

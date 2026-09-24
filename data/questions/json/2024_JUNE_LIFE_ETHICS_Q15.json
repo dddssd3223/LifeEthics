@@ -1,0 +1,79 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 123,
+    "question_number": 15,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2455,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 퓨 현할 때,\nㅅ ~)11 에 해 당 하 는 적절한 진 술 만을 < 보 기 > 에 서 고른 것은? [3 점 ]\n갑 ： 목 적 론적 삶 의 중 심 으로서 유 기 체 는 의 식 이 있든 없 든\n자 신 을 보 존 하고 자 신 만의 독특한 방 식 으로 고 유 한\n선 을 실 현 하 려고 애쓰는 지속적인 경 향 이 있다.\n을: 비록 무 생 물 이라 할 지 라 도 자연 안에 있는 아름다운\n(가) 대 상 을 파 괴 해 버리는 인 간 의 성향, 즉 파괴적 정 신 은\n인 간 의 자기 자 신 에 대한 의 무 와 대 립 한다.\n병 : 어떤 것이 생명 공 동 체 의 통 합 성과 안정성 그리고\n아 름 다 움 의 보 전 에 이 바 지 한 다면, 그것은 옮 다. 인 간 은\n생명 공 동 체 의 한 구 성 원 일 뿐이다.\n< 범 례 >\n: 갑 만의 입장\n: 을 만의 입장\n6 : 병 만의 입장\n1 : 감 과 병 만의 공통 입장\n< 보 기 >\nㄱ . &: 인 간 이 아닌 생 명 체 에 대한 해악 금지 의 무 는 그 생 명 체 의\n내재적 선 에 근 거 한 다.\nㄴ . 2: 이성적 삶 의 주 체 만이 생 명 체 에 대한 도덕적 의 무 를 지 넌 다.\nㄷ . (;: 생 명 체 들의 가 치 보 다 생명 공 동 체 의 가 치 가 더 중 요 하다.\n르 . 10: 어떤 생 명 체 의 존 속 은 그 생 명 체 의 본 래 적 가 치 에 의해\n정 당 화 된다.\n0700 0976 6 9042 662",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 퓨 현할 때, ㅅ ~)11 에 해 당 하 는 적절한 진 술 만을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 ： 목 적 론적 삶 의 중 심 으로서 유 기 체 는 의 식 이 있든 없 든\n자 신 을 보 존 하고 자 신 만의 독특한 방 식 으로 고 유 한\n선 을 실 현 하 려고 애쓰는 지속적인 경 향 이 있다.\n을: 비록 무 생 물 이라 할 지 라 도 자연 안에 있는 아름다운\n(가) 대 상 을 파 괴 해 버리는 인 간 의 성향, 즉 파괴적 정 신 은\n인 간 의 자기 자 신 에 대한 의 무 와 대 립 한다.\n병 : 어떤 것이 생명 공 동 체 의 통 합 성과 안정성 그리고\n아 름 다 움 의 보 전 에 이 바 지 한 다면, 그것은 옮 다. 인 간 은\n생명 공 동 체 의 한 구 성 원 일 뿐이다.\n< 범 례 >\n: 갑 만의 입장\n: 을 만의 입장\n6 : 병 만의 입장\n1 : 감 과 병 만의 공통 입장\n< 보 기 >\nㄱ . &: 인 간 이 아닌 생 명 체 에 대한 해악 금지 의 무 는 그 생 명 체 의\n내재적 선 에 근 거 한 다.\nㄴ . 2: 이성적 삶 의 주 체 만이 생 명 체 에 대한 도덕적 의 무 를 지 넌 다.\nㄷ . (;: 생 명 체 들의 가 치 보 다 생명 공 동 체 의 가 치 가 더 중 요 하다.\n르 . 10: 어떤 생 명 체 의 존 속 은 그 생 명 체 의 본 래 적 가 치 에 의해\n정 당 화 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.891,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:32+00:00",
+    "qa_flags": []
+  }
+}

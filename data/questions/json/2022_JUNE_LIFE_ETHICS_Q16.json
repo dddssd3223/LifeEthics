@@ -1,0 +1,73 @@
+{
+  "id": "2022_JUNE_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 100,
+    "question_number": 16,
+    "exam_key": "2022_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1822
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_JUNE_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n나는 시민 불 복 종 을 흔히 법 이나 정 부 의 정 책 에 변 혁 을 가져올\n목 적 으로 행 해 지 는 공 공 적이고 비 폭 력 적 이 며 법 에 반하는 정치적\n행 위 라 정 의 하고자 한다. 이러한 행 위 는 법 에 대한 충 실 성의 한계\n내 에 서 부 정 의 에 항 거 함으로써 정 의 로 부 터 의 이 탈 을 방 지 하고,\n부 정 의 를 교 정 하는 데 도 움 이 된다. 정당한 시민 복 불 종 에 참여\n하고자 하는 일반적 성 향 은 질서 정연한 사회 속에 인 정 을 가 져 준다 디\n0 시민 불 복 좋은 개 인 의 이 억 이 아닌 집 단 의 이 익 에 근 거 해야 한다.\n2) 지민 불 복 종 은 시 회 의 기본 구 조 가 아주 부 정 의하면 성 립 할 수 없다.\n8) 시민 불 복 종 은 현 법 의 정 당 성 에 이 희 를 제 기 하는 정치적 행 위 이다.\n4 시민 불 복 종 은 비 민주적 체 제 의 변 혁 을 목 적 으로 이루어져야 한다.\n5 지민 불 복 종 의 근 거 인 다 수 의 정 의 감 은 개 인 의 양 심 과 양 립 할 수 없다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "나는 시민 불 복 종 을 흔히 법 이나 정 부 의 정 책 에 변 혁 을 가져올\n목 적 으로 행 해 지 는 공 공 적이고 비 폭 력 적 이 며 법 에 반하는 정치적\n행 위 라 정 의 하고자 한다. 이러한 행 위 는 법 에 대한 충 실 성의 한계\n내 에 서 부 정 의 에 항 거 함으로써 정 의 로 부 터 의 이 탈 을 방 지 하고,\n부 정 의 를 교 정 하는 데 도 움 이 된다. 정당한 시민 복 불 종 에 참여\n하고자 하는 일반적 성 향 은 질서 정연한 사회 속에 인 정 을 가 져 준다 디",
+    "choices": [
+      {
+        "number": 1,
+        "text": "시민 불 복 좋은 개 인 의 이 억 이 아닌 집 단 의 이 익 에 근 거 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "지민 불 복 종 은 시 회 의 기본 구 조 가 아주 부 정 의하면 성 립 할 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "시민 불 복 종 은 현 법 의 정 당 성 에 이 희 를 제 기 하는 정치적 행 위 이다."
+      },
+      {
+        "number": 4,
+        "text": "시민 불 복 종 은 비 민주적 체 제 의 변 혁 을 목 적 으로 이루어져야 한다."
+      },
+      {
+        "number": 5,
+        "text": "지민 불 복 종 의 근 거 인 다 수 의 정 의 감 은 개 인 의 양 심 과 양 립 할 수 없다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:27+00:00",
+    "qa_flags": []
+  }
+}

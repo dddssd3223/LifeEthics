@@ -1,0 +1,11 @@
+{
+  "questions": 800,
+  "review_required": 98,
+  "ok": 702,
+  "answers_linked": 0,
+  "errors": 0,
+  "warnings": 4,
+  "duplicate_candidates": 0,
+  "db": "data/database/questions.db",
+  "db_error": null
+}

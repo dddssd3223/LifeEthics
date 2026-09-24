@@ -1,0 +1,77 @@
+{
+  "id": "2023_JUNE_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 110,
+    "question_number": 6,
+    "exam_key": "2023_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1997
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_JUNE_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 감 , 을 의 입 장 에 대한 적절한 설 명 만을 < 보 기 > 에 서 고른 것은?\n갑 : 잠 재 적 인 것은 현실적인 것과 동일한 가 치 를 갖는다. 인간\n배 아 는 연 속 적 인 발달 과 정 을 거쳐 성 인 이 될 잠 재 성 을\n갖 기 에 성 인 과 같은 도덕적 지 위 를 갖는다. 따라서 배 아 의\n파 괴 를 수 반 하 는 배아 복 제 는 유 용 하더라도 허 용 될 수 없다.\n을: 잠 재 적 인 것은 현실적인 것과 다르다. 신체 기 관 이 형성\n되지 않은 인간 배 아 는 도덕적 지 위 를 전혀 갖지 않는다.\n배아 복 제 는 인 류 에게 의 료 적 혜 택 을 줄 수 있기 때문에\n이를 금 지 하는 것은 사회적 손 실 이다,\n< 보 기 >\nㄱ . 갑 : 인간 배 아 는 발달 단 계 에 따라 도덕적 지 위 가 달라진다.\nㄴ . 을: 인간 배 아 는 단순한 세포 덩 어 리 에 불 과 하다.\nㄷ . 을: 인간 배 아 를 수 단 으로 대할 수 있는 경 우 가 있다.\n르 . 갑 , 을: 배아 복제 여 부 는 공리적 관 점 에 서 결 정 해야 한다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "감 , 을 의 입 장 에 대한 적절한 설 명 만을 < 보 기 > 에 서 고른 것은?",
+    "passage": "갑 : 잠 재 적 인 것은 현실적인 것과 동일한 가 치 를 갖는다. 인간\n배 아 는 연 속 적 인 발달 과 정 을 거쳐 성 인 이 될 잠 재 성 을\n갖 기 에 성 인 과 같은 도덕적 지 위 를 갖는다. 따라서 배 아 의\n파 괴 를 수 반 하 는 배아 복 제 는 유 용 하더라도 허 용 될 수 없다.\n을: 잠 재 적 인 것은 현실적인 것과 다르다. 신체 기 관 이 형성\n되지 않은 인간 배 아 는 도덕적 지 위 를 전혀 갖지 않는다.\n배아 복 제 는 인 류 에게 의 료 적 혜 택 을 줄 수 있기 때문에\n이를 금 지 하는 것은 사회적 손 실 이다,\n< 보 기 >\nㄱ . 갑 : 인간 배 아 는 발달 단 계 에 따라 도덕적 지 위 가 달라진다.\nㄴ . 을: 인간 배 아 는 단순한 세포 덩 어 리 에 불 과 하다.\nㄷ . 을: 인간 배 아 를 수 단 으로 대할 수 있는 경 우 가 있다.\n르 . 갑 , 을: 배아 복제 여 부 는 공리적 관 점 에 서 결 정 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.912,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:54:33+00:00",
+    "qa_flags": []
+  }
+}

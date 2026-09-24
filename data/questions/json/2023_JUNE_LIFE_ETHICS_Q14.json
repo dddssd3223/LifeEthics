@@ -1,0 +1,73 @@
+{
+  "id": "2023_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 111,
+    "question_number": 14,
+    "exam_key": "2023_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2200
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다음 글 의 입 장 에서 (7 에 대한 해결 방 안 으로 가장 적절한 것은?\n우 리 가 효 율 성 이 높은 인 공 지능 개 발 에만 주로 관 심 을 기울인\n나머지, 인 공 지 등 이 행하는 혐 오 와 차 별 의 표 현 은 용 인 될 수 없는\n사회적 문 제 로 대 두 되었다. 이 문 제 는 인 공 지 능 이 학 습 하는 데이터\n자 체 의 비 윤 리 성 에 기 인 한 다. 인 공 지 능 이 인간 수 준 의 윤리적\n판 단 력 을 갖추는 것은 볼 가 등 하므로 적절한 여과 과 정 을 거친\n데 이 터 를 인 공 지 등에 제 공 해 야 한다. 주목할 것은 그 것 의 비 윤 리 적 인\n표 현 들이 우 리 의 일상 언 어 에 근 거 한 다는 사 실 이다. 이 언 어 들은\n인 공 지 능 에게는 숫 자 로 변 환 되는 전산 언 어 에 불 과 하지만, 그 것 들 이\n우 리 에게 다시 돌 아 을 때에는 (: 윤리적 문 제 를 일으킬 수 있다.\n0 인 공 지 능 의 데이터 처리 속 도 를 높이기 위한 기 술 을 개 발 해 야 한다.\n2) 인 공 지 능 의 표 현 을 수 용 할 수 있는 관 8 적 인 태 도 를 함 양 해야 한다.\n3) 잇 간의 도덕적 겁 중 을 거친 학습 데 이 터 를 인 공 지 능 에 입 력 해야 한다.\n@) 인 간 보다 뛰어난 도덕적 판 단 력 을 지닌 인 공 지 능 을 개 발 해 야 한다.\n5) 인간 친 화 적 인 인 공 지능 개 발 을 위해 일상 언 어 를 인 공 지 능 에\n그대로 입 력 해야 한다,",
+    "stem": "다음 글 의 입 장 에서 (7 에 대한 해결 방 안 으로 가장 적절한 것은?",
+    "passage": "우 리 가 효 율 성 이 높은 인 공 지능 개 발 에만 주로 관 심 을 기울인\n나머지, 인 공 지 등 이 행하는 혐 오 와 차 별 의 표 현 은 용 인 될 수 없는\n사회적 문 제 로 대 두 되었다. 이 문 제 는 인 공 지 능 이 학 습 하는 데이터\n자 체 의 비 윤 리 성 에 기 인 한 다. 인 공 지 능 이 인간 수 준 의 윤리적\n판 단 력 을 갖추는 것은 볼 가 등 하므로 적절한 여과 과 정 을 거친\n데 이 터 를 인 공 지 등에 제 공 해 야 한다. 주목할 것은 그 것 의 비 윤 리 적 인\n표 현 들이 우 리 의 일상 언 어 에 근 거 한 다는 사 실 이다. 이 언 어 들은\n인 공 지 능 에게는 숫 자 로 변 환 되는 전산 언 어 에 불 과 하지만, 그 것 들 이\n우 리 에게 다시 돌 아 을 때에는 (: 윤리적 문 제 를 일으킬 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인 공 지 능 의 데이터 처리 속 도 를 높이기 위한 기 술 을 개 발 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "인 공 지 능 의 표 현 을 수 용 할 수 있는 관 8 적 인 태 도 를 함 양 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "잇 간의 도덕적 겁 중 을 거친 학습 데 이 터 를 인 공 지 능 에 입 력 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "인 간 보다 뛰어난 도덕적 판 단 력 을 지닌 인 공 지 능 을 개 발 해 야 한다."
+      },
+      {
+        "number": 5,
+        "text": "인간 친 화 적 인 인 공 지능 개 발 을 위해 일상 언 어 를 인 공 지 능 에 그대로 입 력 해야 한다,"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.897,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:55+00:00",
+    "qa_flags": []
+  }
+}

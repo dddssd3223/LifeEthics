@@ -1,0 +1,76 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 64,
+    "question_number": 19,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      650,
+      3157,
+      2646
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 입 장 에서 ( 나 ) 의 입 장 에 대해 제 시 할 적절한 반 론 을\n< 보 기 > 에 서 고른 것은?\n“패스트 패션 산 업 은 경제적 측 면 에 만 몰 두 하여 노동\n조 건 과 자연 생 태 계 를 위 협 하는 부 작 용 을 초 래 한 다. 그\n결과 패스트 패 션 을 추 구 하는 현 상 에 대한 반 성 이 확산\n( 가 )| 되고 있다. 패션 산업 종 사 자 와 소 비 자 도 인 간 다운 삶 의\n권 리 와 조 건 에 기 여 해 야 할 책 임 을 다해야 한다.\n* 패스트 패 션 (\"396 139700): 비교적 저렴한 가 격 대 에 최신 유행\n상 품 을 빠르게 공급해 상품 회 전 율 이 빠른 패션\n패스트 패션 산 업 은 생산 비 용 을 절 감 하고 이 유 을\n창 출 함으로써 기 업 의 사회적 역 할 과 책 임 을 다하고 있\n( 나 )| 또한 소 비 자 들은 부담 없는 가 격 으로 패스트 패 션 을\n즐 기 면 서 다양한 미적 욕 구 를 충 족 하고 있다. 이처럼\n패스트 패 션 은 기 업 과 소비자 모 두 에게 유 용 하다.\n< 보 기 >\nㄱ . 환 경 과 인 권 에 대한 기 업 의 역 할 과 책 임 을 간 과 하고 있다\nㄴ . 패 션 에 대한 개 인 들의 차 별 화 된 욕 구 와 기 호 를 간 과 하고 있다.\nㄷ . 욕구 충 족 만이 소 비 의 도덕 판단 기 준 이 이 넘 을 간 과 하고 있다.\n2. 경제적 효 율 을 추 구 하는 합리적 소비 성 향 을 간 과 하고 있\n07 ㄴ 90976 6 니 9 6 ㄷ ㅁ",
+    "stem": "( 가 ) 의 입 장 에서 ( 나 ) 의 입 장 에 대해 제 시 할 적절한 반 론 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "“패스트 패션 산 업 은 경제적 측 면 에 만 몰 두 하여 노동\n조 건 과 자연 생 태 계 를 위 협 하는 부 작 용 을 초 래 한 다. 그\n결과 패스트 패 션 을 추 구 하는 현 상 에 대한 반 성 이 확산\n( 가 )| 되고 있다. 패션 산업 종 사 자 와 소 비 자 도 인 간 다운 삶 의\n권 리 와 조 건 에 기 여 해 야 할 책 임 을 다해야 한다.\n* 패스트 패 션 (\"396 139700): 비교적 저렴한 가 격 대 에 최신 유행\n상 품 을 빠르게 공급해 상품 회 전 율 이 빠른 패션\n패스트 패션 산 업 은 생산 비 용 을 절 감 하고 이 유 을\n창 출 함으로써 기 업 의 사회적 역 할 과 책 임 을 다하고 있\n( 나 )| 또한 소 비 자 들은 부담 없는 가 격 으로 패스트 패 션 을\n즐 기 면 서 다양한 미적 욕 구 를 충 족 하고 있다. 이처럼\n패스트 패 션 은 기 업 과 소비자 모 두 에게 유 용 하다.\n< 보 기 >\nㄱ . 환 경 과 인 권 에 대한 기 업 의 역 할 과 책 임 을 간 과 하고 있다\nㄴ . 패 션 에 대한 개 인 들의 차 별 화 된 욕 구 와 기 호 를 간 과 하고 있다.\nㄷ . 욕구 충 족 만이 소 비 의 도덕 판단 기 준 이 이 넘 을 간 과 하고 있다.\n2. 경제적 효 율 을 추 구 하는 합리적 소비 성 향 을 간 과 하고 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "90976"
+      },
+      {
+        "number": 3,
+        "text": "니"
+      },
+      {
+        "number": 4,
+        "text": "느 , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ ㅁ"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.895,
+    "review_required": true,
+    "warnings": [
+      "CHOICE4_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:52:42+00:00",
+    "qa_flags": []
+  }
+}

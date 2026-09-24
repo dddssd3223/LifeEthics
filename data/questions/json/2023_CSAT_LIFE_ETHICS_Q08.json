@@ -1,0 +1,75 @@
+{
+  "id": "2023_CSAT_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 118,
+    "question_number": 8,
+    "exam_key": "2023_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3188,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_CSAT_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다음 가상 편 지 에서 강 조 하는 내 용 으로 가장 적절한 것은?\n( )( 국가 다문화 정책 담 당 자 께\n지 단 번 에 의 뢰 해 주신 귀 국 의 다문화 정 책 의 추진 방 향 에 대한 답 변 을\n드리고자 합니다. 귀 국 에서는 외 국 인 과 의 혼인 및 외국인 노 동 자 의 이 주 가\n증 가 하 면서 이주민 문 화 와 기존 문화 간에 갈 등 이 발 생 하고 있습니다.\n이러한 갈 등 을 해 소 하기 위해서는 다양한 문 화 를 주류 문화 속에 융 합 하여\n하 나 의 문 화 를 형 성 하는 정 책 이 아니라, 다양한 문 화 가 조 화 를 이루며\n평 등 하게 공 존 할 수 있는 정 책 을 추 진 해 야 합니다. 비 유 하자면, 샐 러 드 처 럼\n양상추, 당근, 오이 등 이 각각 그 고 유 한 맛 을 유 지 하면서도 다채로운 맛 을\n낼 수 있도록 해야 한다는 것 입니다. 이러한 정 책 이 각 문 화 의 특 수 성 을\n존 중 하면서도 자유, 평등, 정 의 와 같은 보편적 가 치 를 실 현 하 는 데 기여할\n수 있습니다.\n07 이주민 문 화 를 주류 문 화 에 편 입 시켜 사회적 결 속 력 을 강 화 해야 한다.\n2) 보편 윤 리 를 실 현 하기 위해 각 문 화 의 특 수 성 을 배 제 해 야 한다.\n69) 꾼 화 간 갈 등 이 발 생 하지 않도록 동 화 주의 정 책 을 추 진 해 야 한다.\n@ 주류 문 화 의 우 위 를 전 제 로 비주류 문 화 의 고 유 성 을 존 중 해야 한다.\n(69) 꾼 화 의 다 양 성 을 인 정 함 으로써 문화적 역 동 성 을 중 진 해 야 한다.",
+    "stem": "다음 가상 편 지 에서 강 조 하는 내 용 으로 가장 적절한 것은?",
+    "passage": "( )( 국가 다문화 정책 담 당 자 께\n지 단 번 에 의 뢰 해 주신 귀 국 의 다문화 정 책 의 추진 방 향 에 대한 답 변 을\n드리고자 합니다. 귀 국 에서는 외 국 인 과 의 혼인 및 외국인 노 동 자 의 이 주 가\n증 가 하 면서 이주민 문 화 와 기존 문화 간에 갈 등 이 발 생 하고 있습니다.\n이러한 갈 등 을 해 소 하기 위해서는 다양한 문 화 를 주류 문화 속에 융 합 하여\n하 나 의 문 화 를 형 성 하는 정 책 이 아니라, 다양한 문 화 가 조 화 를 이루며\n평 등 하게 공 존 할 수 있는 정 책 을 추 진 해 야 합니다. 비 유 하자면, 샐 러 드 처 럼\n양상추, 당근, 오이 등 이 각각 그 고 유 한 맛 을 유 지 하면서도 다채로운 맛 을\n낼 수 있도록 해야 한다는 것 입니다. 이러한 정 책 이 각 문 화 의 특 수 성 을\n존 중 하면서도 자유, 평등, 정 의 와 같은 보편적 가 치 를 실 현 하 는 데 기여할\n수 있습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "이주민 문 화 를 주류 문 화 에 편 입 시켜 사회적 결 속 력 을 강 화 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "보편 윤 리 를 실 현 하기 위해 각 문 화 의 특 수 성 을 배 제 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "꾼 화 간 갈 등 이 발 생 하지 않도록 동 화 주의 정 책 을 추 진 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "주류 문 화 의 우 위 를 전 제 로 비주류 문 화 의 고 유 성 을 존 중 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "꾼 화 의 다 양 성 을 인 정 함 으로써 문화적 역 동 성 을 중 진 해 야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.921,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:20+00:00",
+    "qa_flags": []
+  }
+}

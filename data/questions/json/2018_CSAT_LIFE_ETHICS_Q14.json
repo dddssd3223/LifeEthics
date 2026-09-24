@@ -1,0 +1,73 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 59,
+    "question_number": 14,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      1881,
+      2999,
+      3261
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다음 서양 사 상 가 의 입 장 으로 적 절 하지 않은 것은?\n우 리 에게는 악의 인 석 이 선의 인 식 보다 무한히 쉽다. 선 은\n눈 에 띄지 않게 존 재 하며 반 성 을 하지 않으면 인 식 될 수\n없지만, 악의 현 존 은 우 리 에게 인 식 을 강 요 한다. 우 리 가\n실제로 무 엇 을 보 호 해야 하 는 가 를 알 아 내기 위해 새로운\n윤 리 학 은 공 포 를 논의 대 상 으로 삼아야 한다. 인간 행 위 의\n새로운 유 형 에 적 합 하고 새로운 유 형 의 행위 주 체 를 지 향 하는\n명 법 은 다 음 과 같다. “너의 행 위 의 효 과 가 지 상 에 서 의 진정한\n인간적 삶 의 지 속 과 조 화 될 수 있도록 행 위 하라.\"\n0) 자 연 이 수 용 할 수 있는 한 에서 과학 기 술 의 발 전 을 추 구 해 야 한다.\n(3) 과학 기 술 의 긍 정 적 인 영 향 보다 부정적인 영 향 에 주 목 해야 한다.\n(3) 새로운 유 리 학 은 최 고 악 에 대한 공 포 에서 출 발 할 필 요 가 있다.\n4 새로운 유 리 학 은 \"이면 8 하 라 .\" 라 는 형 식 의 명 법 만을 지 향 한다.\n6) 사 후 적 책 임 뿐 만 아니라 사 전 적 책 임 도 중 시 해야 한다.",
+    "stem": "다음 서양 사 상 가 의 입 장 으로 적 절 하지 않은 것은?",
+    "passage": "우 리 에게는 악의 인 석 이 선의 인 식 보다 무한히 쉽다. 선 은\n눈 에 띄지 않게 존 재 하며 반 성 을 하지 않으면 인 식 될 수\n없지만, 악의 현 존 은 우 리 에게 인 식 을 강 요 한다. 우 리 가\n실제로 무 엇 을 보 호 해야 하 는 가 를 알 아 내기 위해 새로운\n윤 리 학 은 공 포 를 논의 대 상 으로 삼아야 한다. 인간 행 위 의\n새로운 유 형 에 적 합 하고 새로운 유 형 의 행위 주 체 를 지 향 하는\n명 법 은 다 음 과 같다. “너의 행 위 의 효 과 가 지 상 에 서 의 진정한\n인간적 삶 의 지 속 과 조 화 될 수 있도록 행 위 하라.\"",
+    "choices": [
+      {
+        "number": 1,
+        "text": "자 연 이 수 용 할 수 있는 한 에서 과학 기 술 의 발 전 을 추 구 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "과학 기 술 의 긍 정 적 인 영 향 보다 부정적인 영 향 에 주 목 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "새로운 유 리 학 은 최 고 악 에 대한 공 포 에서 출 발 할 필 요 가 있다."
+      },
+      {
+        "number": 4,
+        "text": "새로운 유 리 학 은 \"이면 8 하 라 .\" 라 는 형 식 의 명 법 만을 지 향 한다."
+      },
+      {
+        "number": 5,
+        "text": "사 후 적 책 임 뿐 만 아니라 사 전 적 책 임 도 중 시 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.916,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:50+00:00",
+    "qa_flags": []
+  }
+}

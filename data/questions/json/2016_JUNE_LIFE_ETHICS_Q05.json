@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 25,
+    "question_number": 5,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1767,
+      3594,
+      3292,
+      4622
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q05.png",
+    "raw_text": "5. 서양 사상가 갑 , 을 의 입 장 에 대한 설 명 으로 옮 은 것은? [3 점 ]\n: 개 인 은 타 인 의 이 익 을 존중할 수 있다는 점 에서 도덕적\n이지만, 사 회 는 이 기 심 을 합 리 적 으로 통 제 하기 어 려 우 므로\n비 도 덕 적 이다.\n: 원초적 입 장 에서 타 인 의 이 익 에 무관심한 합리적 개 인 은\n자 신 의 능 력 이나 사회적 지위 등 을 모른 채 정 의 의 두 원 칙 을\n선 택 하게 된다.\n0 갑 은 개 인 의 선 의 지가 없어도 사회 정 의 가 확 립 될 수 있다고 본다.\n9) 을 은 취득 및 양도 절 차 가 공 정 하면 그 결 과 도 공 정 하다고 본다.\n(8) 감은 을과 달리 개 인 보다 사 회 가 도덕성 측 면 에서 우 월 하다고 본다.\n@ 을 은 갑과 달리 정 딩 한 강 제 력 으로 시회 문 제 를 해 결 해 야 한다고 본다.\n0 갑 , 을 은 정 의 를 사 회 가 추 구 해 야 할 최고의 도덕적 이 상 으로 본다.",
+    "stem": "서양 사상가 갑 , 을 의 입 장 에 대한 설 명 으로 옮 은 것은? [3 점 ]",
+    "passage": ": 개 인 은 타 인 의 이 익 을 존중할 수 있다는 점 에서 도덕적\n이지만, 사 회 는 이 기 심 을 합 리 적 으로 통 제 하기 어 려 우 므로\n비 도 덕 적 이다.\n: 원초적 입 장 에서 타 인 의 이 익 에 무관심한 합리적 개 인 은\n자 신 의 능 력 이나 사회적 지위 등 을 모른 채 정 의 의 두 원 칙 을\n선 택 하게 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 개 인 의 선 의 지가 없어도 사회 정 의 가 확 립 될 수 있다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 취득 및 양도 절 차 가 공 정 하면 그 결 과 도 공 정 하다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "감은 을과 달리 개 인 보다 사 회 가 도덕성 측 면 에서 우 월 하다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "을 은 갑과 달리 정 딩 한 강 제 력 으로 시회 문 제 를 해 결 해 야 한다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 정 의 를 사 회 가 추 구 해 야 할 최고의 도덕적 이 상 으로 본다."
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.816,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T111523",
+    "extracted_at": "2026-09-24T11:20:20+00:00",
+    "qa_flags": []
+  }
+}

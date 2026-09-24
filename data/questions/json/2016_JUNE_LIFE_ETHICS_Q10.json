@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 26,
+    "question_number": 10,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1752,
+      3366,
+      3339,
+      4561
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q10.png",
+    "raw_text": "10, 다음 글 에서 추 론 할 수 있는 기업 활 동 에 대한 주 장 으로 가장\n적절한 것은? [3 점 ]\n사 회 악 의 근 원 을 개 인 의 이 기 심 에만 돌리는 것은 진부한\n처 방 일 뿐만 아니라 바 람 직 하 지 않은 결 과 를 낳는다. 자 신 의\n이 익 을 합리적 방 법 을 통하여 성 취 하는 것은 자유 민 주 주 의 와\n시장 경제 체 제 에서는 지극히 당연한 일 이다. 그래서 혈연,\n지연, 학연 등에 의해 이윤 추 구 의 경 쟁 이 제 한 되는 비합리적인\n관 행 은 타 파 되어야 한다. 장 기 적 으로 볼 때, 이러한 요 인 들 에\n의해서 공정한 경 쟁 이 제 한 되는 것은 결국 기 업 뿐 만 아니라\n사회 전 체 를 패 배 자 로 만들 것이다.\n0 기 업 의 사적 이 익 보다 공 공 의 이 익 이 우 선 시 되어야 한다.\n8) 기 업 에 대한 평 가 는 과 정 보다 결 과 에 의해 측 정 되어야 한다.\n@) 기 업 의 이윤 추 구 를 위한 비합리적 관 행 은 인 정 되어야 한다.\n@) 기 업 의 이윤 추 구 는 사 희 에 대한 책 임 을 이 행 할 때 보 장 되어야 한다.\n(5) 기 업 의 합리적인 활 동 에. 의한 최대 이윤 추 구 는 보 장 되어야 한다.",
+    "stem": "다음 글 에서 추 론 할 수 있는 기업 활 동 에 대한 주 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "사 회 악 의 근 원 을 개 인 의 이 기 심 에만 돌리는 것은 진부한\n처 방 일 뿐만 아니라 바 람 직 하 지 않은 결 과 를 낳는다. 자 신 의\n이 익 을 합리적 방 법 을 통하여 성 취 하는 것은 자유 민 주 주 의 와\n시장 경제 체 제 에서는 지극히 당연한 일 이다. 그래서 혈연,\n지연, 학연 등에 의해 이윤 추 구 의 경 쟁 이 제 한 되는 비합리적인\n관 행 은 타 파 되어야 한다. 장 기 적 으로 볼 때, 이러한 요 인 들 에\n의해서 공정한 경 쟁 이 제 한 되는 것은 결국 기 업 뿐 만 아니라\n사회 전 체 를 패 배 자 로 만들 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "기 업 의 사적 이 익 보다 공 공 의 이 익 이 우 선 시 되어야 한다."
+      },
+      {
+        "number": 2,
+        "text": "기 업 에 대한 평 가 는 과 정 보다 결 과 에 의해 측 정 되어야 한다."
+      },
+      {
+        "number": 3,
+        "text": "기 업 의 이윤 추 구 를 위한 비합리적 관 행 은 인 정 되어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "기 업 의 이윤 추 구 는 사 희 에 대한 책 임 을 이 행 할 때 보 장 되어야 한다."
+      },
+      {
+        "number": 5,
+        "text": "기 업 의 합리적인 활 동 에. 의한 최대 이윤 추 구 는 보 장 되어야 한다."
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.822,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:32+00:00",
+    "qa_flags": []
+  }
+}

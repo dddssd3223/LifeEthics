@@ -1,0 +1,75 @@
+{
+  "id": "2025_JUNE_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 136,
+    "question_number": 19,
+    "exam_key": "2025_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2703
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_JUNE_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 판 을 (나) 그 림 으로 표현할 때, &~\\ 에 해 당 하는 내 용 으로\n가장 적절한 것은? [3 점 ]\n갑 : 형 벌 의 법 칙 은 하 나 의 정언 명 령 이다. 그러므로 살 인 을\n했거나 그에 협 력 했던 살 인 자 는 누구든 사 형 에 처 해 지지\n않으면 안 된다.\n을 : 시 민 은 계 약 을 통해 자기 생 명 을 처 분 하 기 보다 보존\n(가) | 하려고 궁 리 한다. 그러므로 살 인 자 는 시 민 이 아닌\n국 가 의 적 으 로 간 주 되어 사 형 에 처 해 져야 한다.\n병 : 사 형 은 한 사 람 의 시 민 에 대한 국 가 의 전 쟁 이다. 사 형 이\n유 용 하지도 않고 필 요 하지도 않 음 을 드 러 냄 으로써 나는\n인 도 주 의 의 대 의 를 선 취 하고자 한다.\n범 려\nㅡ ㅜㅜ : 비 판 의 방향\n스 ~\\ : 비 판 의 내용\n(나) % 나시. 에 ㅅ\n스\n6 예나\n쇼 는 갑 이 을 에게 제 기 할\n- ㅠ 수 있는 비 판 임 .\n1 스와 『: 살 인 자 는 시민 사 회 에서 제 거 될 수밖에 없 음 을 간 과 한다,\n21 8: 사 형 은 국가 존 립 이 이니라 정의 실 현 을 위해 집 행 됨을 간 과 한다,\n(3) (:: 시회 계 익 에 근 거 해 모든 종 류 의 형 벌 이 집 행 될 수 있 음 을 간 과 한다\n04) 1: 사 형 의 선 고 와 집 행 은 실 잇 자의 동 의 를 전 제 하지 않 음 을 간 과 한다.\n6) : 동해 보복 윈 리에 어긋나는 형 벌 도 정 딩 화 될 수 있 음 을 간 과 한다,",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 판 을 (나) 그 림 으로 표현할 때, &~\\ 에 해 당 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 형 벌 의 법 칙 은 하 나 의 정언 명 령 이다. 그러므로 살 인 을\n했거나 그에 협 력 했던 살 인 자 는 누구든 사 형 에 처 해 지지\n않으면 안 된다.\n을 : 시 민 은 계 약 을 통해 자기 생 명 을 처 분 하 기 보다 보존\n(가) | 하려고 궁 리 한다. 그러므로 살 인 자 는 시 민 이 아닌\n국 가 의 적 으 로 간 주 되어 사 형 에 처 해 져야 한다.\n병 : 사 형 은 한 사 람 의 시 민 에 대한 국 가 의 전 쟁 이다. 사 형 이\n유 용 하지도 않고 필 요 하지도 않 음 을 드 러 냄 으로써 나는\n인 도 주 의 의 대 의 를 선 취 하고자 한다.\n범 려\nㅡ ㅜㅜ : 비 판 의 방향\n스 ~\\ : 비 판 의 내용\n(나) % 나시. 에 ㅅ\n스\n6 예나\n쇼 는 갑 이 을 에게 제 기 할\n- ㅠ 수 있는 비 판 임 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": "스와 『: 살 인 자 는 시민 사 회 에서 제 거 될 수밖에 없 음 을 간 과 한다,"
+      },
+      {
+        "number": 2,
+        "text": "8: 사 형 은 국가 존 립 이 이니라 정의 실 현 을 위해 집 행 됨을 간 과 한다,"
+      },
+      {
+        "number": 3,
+        "text": "(:: 시회 계 익 에 근 거 해 모든 종 류 의 형 벌 이 집 행 될 수 있 음 을 간 과 한다"
+      },
+      {
+        "number": 4,
+        "text": "1: 사 형 의 선 고 와 집 행 은 실 잇 자의 동 의 를 전 제 하지 않 음 을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": ": 동해 보복 윈 리에 어긋나는 형 벌 도 정 딩 화 될 수 있 음 을 간 과 한다,"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.868,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:53+00:00",
+    "qa_flags": []
+  }
+}

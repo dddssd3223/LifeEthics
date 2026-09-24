@@ -1,0 +1,73 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 152,
+    "question_number": 18,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3352,
+      1740,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n천 자 ( ㅅ ㅜ ) 처 럼 고 귀 해지고 천 하 를 차지할 만큼 부 유 해지는\n것은 사 람 이라면 똑같이 바라는 바이다. 그러나 모든 사 람 의\n욕 망 이 다 수 용 될 수 는 없고, 재 화 도 충분할 수 없다. 그러므로\n선 왕 (%+) 은 예 의 (1838) 를 제 정 해 귀 하 고 천 함의 등 급 이 있게\n하였으며, 사 람 들 로 하여금 일 을 맡아서 각기 자 신 에게 마땅한\n역 할 을 갖게 하였다. 그 이 후 에 야 녹 으로 받는 곡 식 의 많고\n적 음 에 균 형 이 맞 추 어 졌으니, 이것이 사 람 들 이 모여 살며\n하나로 조 화 를 이루는 방 법 이다.\n0 백 성 이 지닌 감각적 옥 망 의 충 족 이 분 업 의 유일한 목 적 이다.\n2 직 분 에 필요한 덕은 그 직 분 을 맡은 후에야 비로소 형 성 될 수 있다.\n8 직업 선 택 의 자 유 를 보 장 하기 위해 신 분 의 귀 천 을 없애야 한다.\n4) 예 에 정통한 군 주 가 직 분 을 디 하면 천 하 가 고르게 디 스 려 질 수 있\n5 군 주 는 백 성 의 본 성 만을 기 준 으로 사회적 역 할 을 분 배 해야 한다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "천 자 ( ㅅ ㅜ ) 처 럼 고 귀 해지고 천 하 를 차지할 만큼 부 유 해지는\n것은 사 람 이라면 똑같이 바라는 바이다. 그러나 모든 사 람 의\n욕 망 이 다 수 용 될 수 는 없고, 재 화 도 충분할 수 없다. 그러므로\n선 왕 (%+) 은 예 의 (1838) 를 제 정 해 귀 하 고 천 함의 등 급 이 있게\n하였으며, 사 람 들 로 하여금 일 을 맡아서 각기 자 신 에게 마땅한\n역 할 을 갖게 하였다. 그 이 후 에 야 녹 으로 받는 곡 식 의 많고\n적 음 에 균 형 이 맞 추 어 졌으니, 이것이 사 람 들 이 모여 살며\n하나로 조 화 를 이루는 방 법 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "백 성 이 지닌 감각적 옥 망 의 충 족 이 분 업 의 유일한 목 적 이다."
+      },
+      {
+        "number": 2,
+        "text": "직 분 에 필요한 덕은 그 직 분 을 맡은 후에야 비로소 형 성 될 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "직업 선 택 의 자 유 를 보 장 하기 위해 신 분 의 귀 천 을 없애야 한다."
+      },
+      {
+        "number": 4,
+        "text": "예 에 정통한 군 주 가 직 분 을 디 하면 천 하 가 고르게 디 스 려 질 수 있"
+      },
+      {
+        "number": 5,
+        "text": "군 주 는 백 성 의 본 성 만을 기 준 으로 사회적 역 할 을 분 배 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:47+00:00",
+    "qa_flags": []
+  }
+}

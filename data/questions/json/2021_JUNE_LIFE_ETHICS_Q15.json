@@ -1,0 +1,75 @@
+{
+  "id": "2021_JUNE_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 87,
+    "question_number": 15,
+    "exam_key": "2021_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2208,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_JUNE_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. ( 가 ) 의 갑 , 을, 병 의 입 장 을 (나) 그 림 으로 표현할 때, ㅅ ~1) 에\n해 당 하 는 적절한 진 술 만 을 < 보 기 > 에 서 있는 대로 고른 것은?\n[3 점 ]\n갑 : 도덕 판 단 은 보편화 가 능 해 야 한다. 어떤 이 익 이 단지\n인 간 에게 유 용 하다는 이 유 만으로, 이억 관 심 을 가진\n동 물 의 이 익 보다 중 요 하다고 간 주 해 서는 안 된다.\n을 : 도덕적 존 중 의 대 상 에는 도덕적 권 리 를 가질 수 있는\n( 가 )| 살의 주 체 인 동 물 도 포 함 된다. 그들 각 각 은 다른 존 재 의\n이 익 과 독 립 해 개별적 복 지 를 추 구 한다.\n병 : 도덕적 의 무 를 질 수 있는 인 간 에 대한 의무 외에 다른\n존 재 에 대한 의 무 는 없다. 물론 동 물 이 수 행 한 봉 사 에\n대한 감 사 는 간 접 적 으로 인 간 의 의 무 에 속한다.\n< 범 례 >\n스 : 감 만 의 입장\n(나)\n8: 을 만의 입장\n(: 병 만의 입장\n1: 갑과 을 만 의 공통 입장\n< 보 기 >\nㄱ . 4: 이억 관 심 을 지닌 모든 개 체 는 동일한 대 우 를 받아야 한다.\nㄴ . 0: 목적 그 자 체 로서 가 치 를 지닌 존 재 는 도덕적 존 중 의\n대 상 이다.\nㄷ . (6: 똥물 학 대 가 그릇된 근본 이 유 는 인간성 실 현 을 저해\n함에 있다.\n2. 1: 자율적 행위 능 력 과 무 관 하게 도덕적 지 위 는 부 여 되어야\n한다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄷ , 큰\n0 1, 느 , 르 05) 느 , =, 르",
+    "stem": "( 가 ) 의 갑 , 을, 병 의 입 장 을 (나) 그 림 으로 표현할 때, ㅅ ~1) 에 해 당 하 는 적절한 진 술 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 도덕 판 단 은 보편화 가 능 해 야 한다. 어떤 이 익 이 단지\n인 간 에게 유 용 하다는 이 유 만으로, 이억 관 심 을 가진\n동 물 의 이 익 보다 중 요 하다고 간 주 해 서는 안 된다.\n을 : 도덕적 존 중 의 대 상 에는 도덕적 권 리 를 가질 수 있는\n( 가 )| 살의 주 체 인 동 물 도 포 함 된다. 그들 각 각 은 다른 존 재 의\n이 익 과 독 립 해 개별적 복 지 를 추 구 한다.\n병 : 도덕적 의 무 를 질 수 있는 인 간 에 대한 의무 외에 다른\n존 재 에 대한 의 무 는 없다. 물론 동 물 이 수 행 한 봉 사 에\n대한 감 사 는 간 접 적 으로 인 간 의 의 무 에 속한다.\n< 범 례 >\n스 : 감 만 의 입장\n(나)\n8: 을 만의 입장\n(: 병 만의 입장\n1: 갑과 을 만 의 공통 입장\n< 보 기 >\nㄱ . 4: 이억 관 심 을 지닌 모든 개 체 는 동일한 대 우 를 받아야 한다.\nㄴ . 0: 목적 그 자 체 로서 가 치 를 지닌 존 재 는 도덕적 존 중 의\n대 상 이다.\nㄷ . (6: 똥물 학 대 가 그릇된 근본 이 유 는 인간성 실 현 을 저해\n함에 있다.\n2. 1: 자율적 행위 능 력 과 무 관 하게 도덕적 지 위 는 부 여 되어야\n한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, 느 , 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.89,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:58+00:00",
+    "qa_flags": []
+  }
+}

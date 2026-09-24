@@ -1,0 +1,73 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 30,
+    "question_number": 9,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      2459
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 감 , 을 의 입 장 에 대한 설 명 으로 옮 지 않은 것은?\n갑 : 정 보 는 정보 생 산 자 의 창 작 물 이므로 다른 사 람 이 정 보 를\n이 용 하 기 위해서는 정보 생 산 자 에게 사 용 료 를 지 볼 해야\n한다. 설령 정 보 가 부 유 충의 전 유 물 이 될 지 라 도 정보\n생 산 자 의 권 리 는 보 장 되어야 하기 때 문 이 다.\n을: 정보 사 용 료 를 지 불 하 지 않 음 으로써 정보 생 산 자 의 권 리 를\n침 해 하는 것은 옮 지 않다. 하지만 정 보 는 인 간 다운 삶 의\n보 장 을 위해 필 요 하므로, 경제적 약 자 도 정당한 대 가 를 지불\n하고 정 보 를 이용할 수 있도록 공적 부 조 를 해주어야 한다.\n0 갑 은 경제력 차 이 에 따라 정보 격 차 가 발생할 수 있다고 본다.\n6) 을 은 경제적 약 자 를 위해 정보 복 지 를 실 현 해야 한다고 본다.\n(3) 갑 은 생 산 된 정 보 를 사유 재 산 으 로, 을 은 공유 자 산 으로 본다.\n(4) 갑 , 을 은 정보 생 산 자 에 대한 경제적 보 상 이 필 요 하 다고 본다.\n6) 갑 , 을 은 정보 생 산 자 의 지적 재 산 권 을 보 호 해 야 한다고 본다.",
+    "stem": "감 , 을 의 입 장 에 대한 설 명 으로 옮 지 않은 것은?",
+    "passage": "갑 : 정 보 는 정보 생 산 자 의 창 작 물 이므로 다른 사 람 이 정 보 를\n이 용 하 기 위해서는 정보 생 산 자 에게 사 용 료 를 지 볼 해야\n한다. 설령 정 보 가 부 유 충의 전 유 물 이 될 지 라 도 정보\n생 산 자 의 권 리 는 보 장 되어야 하기 때 문 이 다.\n을: 정보 사 용 료 를 지 불 하 지 않 음 으로써 정보 생 산 자 의 권 리 를\n침 해 하는 것은 옮 지 않다. 하지만 정 보 는 인 간 다운 삶 의\n보 장 을 위해 필 요 하므로, 경제적 약 자 도 정당한 대 가 를 지불\n하고 정 보 를 이용할 수 있도록 공적 부 조 를 해주어야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 경제력 차 이 에 따라 정보 격 차 가 발생할 수 있다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 경제적 약 자 를 위해 정보 복 지 를 실 현 해야 한다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "갑 은 생 산 된 정 보 를 사유 재 산 으 로, 을 은 공유 자 산 으로 본다."
+      },
+      {
+        "number": 4,
+        "text": "갑 , 을 은 정보 생 산 자 에 대한 경제적 보 상 이 필 요 하 다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 정보 생 산 자 의 지적 재 산 권 을 보 호 해 야 한다고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.918,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:42+00:00",
+    "qa_flags": []
+  }
+}

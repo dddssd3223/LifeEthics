@@ -1,0 +1,75 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 66,
+    "question_number": 9,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      650,
+      3148,
+      2478
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 다음 가상 편 지 를 쓴 사 상 가 가 지 지 할 입 장 만을 < 보 기 > 에 서 있는\n대로 고른 것은? [3 점 ]\n(2 선 생 님께\n지난 편 지 에서 선 생 님 께서는 개 인 의 이 기 심 이 선 의 지 에 의해\n견 제 되고 있어 모든 집 단 은 조 화 를 이룰 것이라 하시며, 개 인 의 선 의 지\n함 양 을 권 고 하 셨습니다. 하지만 제 생 각 은 다릅니다. 선 생 님 께서는\n집단 이 기 주 의 가 갖는 힘 , 범위, 지 속 성 을 깨닫지 못하고 있습니다.\n개인 간의 관 계 를 순전히 합리적인 조 정 과 설 득 에 의해 확 립 하는\n일은 불 가 능 하지는 않을 것 입니다. 그러나 집단 간의 관 계 는 윤리적\n이 기 보다는 정 치 적 이기 때문에, 개 인 의 양 심 은 집단 간의 갈 등 을\n부 분 적 으로 억 제 할 수 는 있겠지만 완전히 해 결 하지는 못합니다.\n< 보 기 >\nㄱ . 집단 간 관 계 는 각 집 단 이 갖는 힘 의 비 율 에 따라 수 립 된다.\nㄴ . 선 의 지는 정의 실 현 을 위한 비합리적인 수 단 을 통 제 해야 한다.\nㄷ . 사회 정 의 는 사회적 억 제 와 힘 을 통해 실 현 되 어 서 는 안 된다.\n르 . 사회적 협 력 이 아무리 확 대 되어도 사회적 분 쟁 은 볼 가 피 하다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄷ , 그\n04) 7, ㄴ , 큰 06 ㄴ , ㄷ , 크",
+    "stem": "다음 가상 편 지 를 쓴 사 상 가 가 지 지 할 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "(2 선 생 님께\n지난 편 지 에서 선 생 님 께서는 개 인 의 이 기 심 이 선 의 지 에 의해\n견 제 되고 있어 모든 집 단 은 조 화 를 이룰 것이라 하시며, 개 인 의 선 의 지\n함 양 을 권 고 하 셨습니다. 하지만 제 생 각 은 다릅니다. 선 생 님 께서는\n집단 이 기 주 의 가 갖는 힘 , 범위, 지 속 성 을 깨닫지 못하고 있습니다.\n개인 간의 관 계 를 순전히 합리적인 조 정 과 설 득 에 의해 확 립 하는\n일은 불 가 능 하지는 않을 것 입니다. 그러나 집단 간의 관 계 는 윤리적\n이 기 보다는 정 치 적 이기 때문에, 개 인 의 양 심 은 집단 간의 갈 등 을\n부 분 적 으로 억 제 할 수 는 있겠지만 완전히 해 결 하지는 못합니다.\n< 보 기 >\nㄱ . 집단 간 관 계 는 각 집 단 이 갖는 힘 의 비 율 에 따라 수 립 된다.\nㄴ . 선 의 지는 정의 실 현 을 위한 비합리적인 수 단 을 통 제 해야 한다.\nㄷ . 사회 정 의 는 사회적 억 제 와 힘 을 통해 실 현 되 어 서 는 안 된다.\n르 . 사회적 협 력 이 아무리 확 대 되어도 사회적 분 쟁 은 볼 가 피 하다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 그"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 큰"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 크"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.903,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:07+00:00",
+    "qa_flags": []
+  }
+}

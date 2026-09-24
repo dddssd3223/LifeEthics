@@ -1,0 +1,73 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 69,
+    "question_number": 5,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1765,
+      3092,
+      3148,
+      4456
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q05.png",
+    "raw_text": "6. 잡 , 을 의 입 장 에서 < 사 례 > 속 ㅅ 에 게 제 시 할 조 언 으로 가장 적절한\n것은? [3 점 ]\n갑 : 신을 찬 양 하고 덕 을 찬 양 하는 시 (\\) 만 을 이 나 라 에 받아\n들여야 한다. 시 를 통해 즐 거 움 만 누 리 려 한다면 이성\n대신 즐 거 움 과 괴 로 움 이 왕 노 릇 을 하게 될 것이다.\n을: 예 술 가 는 도덕적 공 감 을 지니지 않는다. 예 술 가 에게 도덕적\n공 감 은 용 납 될 수 없는 구 태 의 연 한 양 식 에 불 과 하 다.\n예 술 가 는 단지 아 름 다 움 의 창 조 자 일 뿐이다.\n< 사 례 >\n는 웹툰 작 가 로 포털 사 이 트 에 작 품 을 연 재 할 예 정 이다. 어떤\n작 품 을 그려야 할지 ㅅ 는 고 민 하 고 있\n00 갑 : 독 자 들이 오로지 즐 거 움 만 느낄 수 있도록 하세요.\n3) 갑 : 독 자 들이 도덕적 이 상 을 추 구 할 수 있도록 하세요.\n6) 을 : 독 자 들 에게 퀸 선 징 악 의 교 훈 을 전 달 하도록 하세요.\n4 을: 독 자 들 에게 도덕적 공 감 을 얻을 수 있도록 하세요.\n65 갑 , 을 : 독 자 들이 자 신 의 삶 을 성 찰 할 수 있도록 하세요.",
+    "stem": "잡 , 을 의 입 장 에서 < 사 례 > 속 ㅅ 에 게 제 시 할 조 언 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 신을 찬 양 하고 덕 을 찬 양 하는 시 (\\) 만 을 이 나 라 에 받아\n들여야 한다. 시 를 통해 즐 거 움 만 누 리 려 한다면 이성\n대신 즐 거 움 과 괴 로 움 이 왕 노 릇 을 하게 될 것이다.\n을: 예 술 가 는 도덕적 공 감 을 지니지 않는다. 예 술 가 에게 도덕적\n공 감 은 용 납 될 수 없는 구 태 의 연 한 양 식 에 불 과 하 다.\n예 술 가 는 단지 아 름 다 움 의 창 조 자 일 뿐이다.\n< 사 례 >\n는 웹툰 작 가 로 포털 사 이 트 에 작 품 을 연 재 할 예 정 이다. 어떤\n작 품 을 그려야 할지 ㅅ 는 고 민 하 고 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 독 자 들이 오로지 즐 거 움 만 느낄 수 있도록 하세요."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 독 자 들이 도덕적 이 상 을 추 구 할 수 있도록 하세요."
+      },
+      {
+        "number": 3,
+        "text": "을 : 독 자 들 에게 퀸 선 징 악 의 교 훈 을 전 달 하도록 하세요."
+      },
+      {
+        "number": 4,
+        "text": "을: 독 자 들 에게 도덕적 공 감 을 얻을 수 있도록 하세요."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 독 자 들이 자 신 의 삶 을 성 찰 할 수 있도록 하세요."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.905,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:13+00:00",
+    "qa_flags": []
+  }
+}

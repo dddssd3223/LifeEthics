@@ -1,0 +1,65 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 10,
+    "question_number": 7,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2410,
+      1592,
+      4300
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 과 같이 탐 구 하고자\n할 때, &~ 에 들어갈 질 문 으로 옮 지 않은 것은? [3 점 ]\n갑 : 각 개 인 은 자 신 에 대한 완전한 소 유 권 을 지 니 므로\n재 화 의 분 배 는 전적으로 개 인 의 자 유 에 위 임 해야\n한다. 정 부 가 근로 소 득 에 세 금 을 부 과 하 는 것은\n(가) 시 민 에 게 강제 노 동 을 강 요 하 는 것과 같다.\n을: 원초적 입 장 에 있는 사 람 은 자 신 을 위해 특정한\n이 익 을 취할 수 있는 길이 없다. 그는 자 신 이 최 악 의\n상 황 에 놓일 가 능 성 을 고 려 하 여 최소 수 혜 자 의\n상 황 을 개 선 하 는 정 의 의 원 칙 들 에 합 의 할 것이다.\n~ < 범 례 >\n갑 , 을 의 : 출발 조건\n입 장 을 탐 구 한다. -: 쿨라 나을\n은 : 판단 방향\n: 사 상 가 의 입장\n갑의 입장 을 의 입장\n02 &: 개 인 은 자 신 의 이익 증 진 에 관 심 을 가진다고 가 정 하는가?\n(2) 8: 사회 복지 증 진 을 위한 정 부 의 재분배 정 책 에 반 대 하는가?\n(8) 8: 정 의 로운 사 회 에서도 사회적 ㆍ 경 제적 불 평 등 이 존 재 하는가?\nㅇ ㄴㅇ =] 6] 고 즈 끄 느\n2 트 10\n6) 0: 절 차 의 공 정 성 은 결 과 의 공 정 성 을 보 장 한다고 간 주 하는가?",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 과 같이 탐 구 하고자 할 때, &~ 에 들어갈 질 문 으로 옮 지 않은 것은? [3 점 ]",
+    "passage": "갑 : 각 개 인 은 자 신 에 대한 완전한 소 유 권 을 지 니 므로\n재 화 의 분 배 는 전적으로 개 인 의 자 유 에 위 임 해야\n한다. 정 부 가 근로 소 득 에 세 금 을 부 과 하 는 것은\n(가) 시 민 에 게 강제 노 동 을 강 요 하 는 것과 같다.\n을: 원초적 입 장 에 있는 사 람 은 자 신 을 위해 특정한\n이 익 을 취할 수 있는 길이 없다. 그는 자 신 이 최 악 의\n상 황 에 놓일 가 능 성 을 고 려 하 여 최소 수 혜 자 의\n상 황 을 개 선 하 는 정 의 의 원 칙 들 에 합 의 할 것이다.\n~ < 범 례 >\n갑 , 을 의 : 출발 조건\n입 장 을 탐 구 한다. -: 쿨라 나을\n은 : 판단 방향\n: 사 상 가 의 입장\n갑의 입장 을 의 입장\n02 &: 개 인 은 자 신 의 이익 증 진 에 관 심 을 가진다고 가 정 하는가?\n(2) 8: 사회 복지 증 진 을 위한 정 부 의 재분배 정 책 에 반 대 하는가?\n(8) 8: 정 의 로운 사 회 에서도 사회적 ㆍ 경 제적 불 평 등 이 존 재 하는가?\nㅇ ㄴㅇ =] 6] 고 즈 끄 느\n2 트 10",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0: 절 차 의 공 정 성 은 결 과 의 공 정 성 을 보 장 한다고 간 주 하는가?"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=30",
+      "vector_lines=25"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.618,
+    "review_required": true,
+    "warnings": [
+      "CHOICE_MARKERS_NOT_RESOLVED_BY_IMAGE (unresolved groups=[4])",
+      "CHOICES_COUNT_1"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ocr_text_markers",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:49+00:00",
+    "qa_flags": [
+      "QA_CHOICES_1"
+    ]
+  }
+}

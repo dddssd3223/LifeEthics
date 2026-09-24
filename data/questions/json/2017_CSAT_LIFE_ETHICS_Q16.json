@@ -1,0 +1,73 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 48,
+    "question_number": 16,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1593,
+      1859
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다음 글 의 입 장 을 < 보 기 > 에 서 고른 것은? |[3 점 ]\n세계 평 화 를 위한 특별한 책 임 이 종 교 에 있다. 종 교 들이\n일 치 하는 지 점 을 찾아가는 것 으 로 부터 세계 평 화 는 시 작 된 다.\n인 류 는 평 화 보다 전 쟁 을, 화 해 보다 광 신 을, 대 화 보다 우 월 성 을\n부 추 기는 종 교 를 더 이상 용 인 하지 않는다. 이 세 계 에 차 별 의\n윤리, 모 순 의 윤리, 두 쟁 의 윤 리 가 사라질 때 비로소 우 리 는\n생 존 의 기 회 를 얻을 수 있다. 종교 간 대화 없이 종 교 의 평 화 가\n있을 수 없고, 종 교 의 평화 없이 세 계 의 평 화 는 있을 수 없다.\n< 보 기 >\nㄱ . 종 교 들이 공 유 하는 가 르 침 의 실 천 은 화 합 과 공 존 의 토 대 이다.\nㄴ . 종교 간의 관 용 은 세계 평화 실 현 을 위해 필요한 조 건 이다.\nㄷ . 타 종 교 에 대한 무 지 와 편 견 은 현실 세 계 의 갈 등 과 무 관 하다.\n2. 보편 유 리 의 실 현 과 종 교 의 단 일 화 는 인류 생 존 의 조 건 이다.\n060) ㄱ , ㄴㄴ (2) ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 르",
+    "stem": "다음 글 의 입 장 을 < 보 기 > 에 서 고른 것은? |[3 점 ]",
+    "passage": "세계 평 화 를 위한 특별한 책 임 이 종 교 에 있다. 종 교 들이\n일 치 하는 지 점 을 찾아가는 것 으 로 부터 세계 평 화 는 시 작 된 다.\n인 류 는 평 화 보다 전 쟁 을, 화 해 보다 광 신 을, 대 화 보다 우 월 성 을\n부 추 기는 종 교 를 더 이상 용 인 하지 않는다. 이 세 계 에 차 별 의\n윤리, 모 순 의 윤리, 두 쟁 의 윤 리 가 사라질 때 비로소 우 리 는\n생 존 의 기 회 를 얻을 수 있다. 종교 간 대화 없이 종 교 의 평 화 가\n있을 수 없고, 종 교 의 평화 없이 세 계 의 평 화 는 있을 수 없다.\n< 보 기 >\nㄱ . 종 교 들이 공 유 하는 가 르 침 의 실 천 은 화 합 과 공 존 의 토 대 이다.\nㄴ . 종교 간의 관 용 은 세계 평화 실 현 을 위해 필요한 조 건 이다.\nㄷ . 타 종 교 에 대한 무 지 와 편 견 은 현실 세 계 의 갈 등 과 무 관 하다.\n2. 보편 유 리 의 실 현 과 종 교 의 단 일 화 는 인류 생 존 의 조 건 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "060) ㄱ , ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.901,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:22+00:00",
+    "qa_flags": []
+  }
+}

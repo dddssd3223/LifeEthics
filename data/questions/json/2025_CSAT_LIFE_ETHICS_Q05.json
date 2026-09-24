@@ -1,0 +1,76 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 141,
+    "question_number": 5,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3399,
+      3149,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q05.png",
+    "raw_text": "5. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은?\n종교적 인 간 에게 자 연 은 결코 단순한 자 연 이 아니다. 그것은\n항상 종교적 의 미 로 충 만 해 있다. 우 주 는 신 들 의 창 조 물 이고\n세 계 는 신 들 의 손 으로 완 성 된 것이어서 성 스 러 움 으로 가득 차\n있기 때 문 이 다. 이는 예 를 들면, 신의 현 존 에 의해서 정 화 된\n장 소 나 사 물 에 머무르는 경 우 와 같이 신 들 과 직접 교 류 하는\n신 성 성 만 은 아니다. 신 들 은 세 계 의 구 조 와 우주적 현 상 의 구조\n그 자체 안에서 다양한 성 ( 쁘 ) 의 양 태 를 현 현 08808) 한 다.\n0) 성 스 러 움 이 드러나는 자 연 과 세 계 가 초 월 적 신 자 체 이다.\n(2) 인 간 의 노력 없이는 세계 안에 성 스 러 움 이 존재할 수 없다.\n3) 신이 창 조 한 세 계 는 실 재 하 지 않지만 일정한 구 조 를 지닌다.\n@) 종교적 인 간 은 신과 직접 교 류 함 으 로 써 만 성 스 러 움 을 느 끼 다.\n69) 종교적 인 간 은 세속적 공 간 에 서도 성 스 러 움 을 체 험 할 수 있다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은?",
+    "passage": "종교적 인 간 에게 자 연 은 결코 단순한 자 연 이 아니다. 그것은\n항상 종교적 의 미 로 충 만 해 있다. 우 주 는 신 들 의 창 조 물 이고\n세 계 는 신 들 의 손 으로 완 성 된 것이어서 성 스 러 움 으로 가득 차\n있기 때 문 이 다. 이는 예 를 들면, 신의 현 존 에 의해서 정 화 된\n장 소 나 사 물 에 머무르는 경 우 와 같이 신 들 과 직접 교 류 하는\n신 성 성 만 은 아니다. 신 들 은 세 계 의 구 조 와 우주적 현 상 의 구조\n그 자체 안에서 다양한 성 ( 쁘 ) 의 양 태 를 현 현 08808) 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "성 스 러 움 이 드러나는 자 연 과 세 계 가 초 월 적 신 자 체 이다."
+      },
+      {
+        "number": 2,
+        "text": "인 간 의 노력 없이는 세계 안에 성 스 러 움 이 존재할 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "신이 창 조 한 세 계 는 실 재 하 지 않지만 일정한 구 조 를 지닌다."
+      },
+      {
+        "number": 4,
+        "text": "종교적 인 간 은 신과 직접 교 류 함 으 로 써 만 성 스 러 움 을 느 끼 다."
+      },
+      {
+        "number": 5,
+        "text": "종교적 인 간 은 세속적 공 간 에 서도 성 스 러 움 을 체 험 할 수 있다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=11827",
+      "vector_lines=1670"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.818,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:25+00:00",
+    "qa_flags": []
+  }
+}

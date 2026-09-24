@@ -1,0 +1,73 @@
+{
+  "id": "2026_CSAT_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 160,
+    "question_number": 17,
+    "exam_key": "2026_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1997,
+      1740,
+      3419
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_CSAT_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은?\n갑 : 덕은 실천 관 행 을 지 지 하는, 그리고 실천 관 행 에 내 재 하는\n선의 성 취 를 가 능 하 게 하는 성 향 으로 이 해 될 수 있다. 덕은\n선 에 대한 탐 색 을 지 속 하게 함으로써 자기 지 식 과 선 에\n관한 지 식 을 증 진 하게 하는 성 향 이다.\n을: 자 연 은 인 류 를 쾌 락 과 고 통 이라는 최고의 두 군 주 가 지배\n하도록 하였다. 오직 쾌 락 과 고 통 만이 우 리 가 무 엇 을 해야\n하 는 가 를 지 시 해 준다. 옮 음 과 그 름 의 기 준 은 이 둘 의 왕 좌 에\n매여 있\n07 갑 : 친 밀 도 에 따른 차 등 적 대 우 는 유 덕 한 행 위 가 될 수 없다.\n(3) 갑 : 행위 자 체 에 내 재 된 도덕적 속 성 으로 보편적 도덕 법 칙 을 세워야\n한다.\n(9) 을 : 국 가 의 입법 원 리 와 개 인 의 도덕 원 리 는 궁 극 적 으로 같을 수 없다.\n@) 을 : 쾌 락 과 고 통 으로써 행위 결 과 를 평가할 수 있지만 행위 동 기 를\n설 명 할 수 는 없다.\n65) 갑과 을 : 도덕 행 위 의 실천적 고려 범 위 에서 공 동 체 를 배 제 해서는\n안 된다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은?",
+    "passage": "갑 : 덕은 실천 관 행 을 지 지 하는, 그리고 실천 관 행 에 내 재 하는\n선의 성 취 를 가 능 하 게 하는 성 향 으로 이 해 될 수 있다. 덕은\n선 에 대한 탐 색 을 지 속 하게 함으로써 자기 지 식 과 선 에\n관한 지 식 을 증 진 하게 하는 성 향 이다.\n을: 자 연 은 인 류 를 쾌 락 과 고 통 이라는 최고의 두 군 주 가 지배\n하도록 하였다. 오직 쾌 락 과 고 통 만이 우 리 가 무 엇 을 해야\n하 는 가 를 지 시 해 준다. 옮 음 과 그 름 의 기 준 은 이 둘 의 왕 좌 에\n매여 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 친 밀 도 에 따른 차 등 적 대 우 는 유 덕 한 행 위 가 될 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 행위 자 체 에 내 재 된 도덕적 속 성 으로 보편적 도덕 법 칙 을 세워야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 국 가 의 입법 원 리 와 개 인 의 도덕 원 리 는 궁 극 적 으로 같을 수 없다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 쾌 락 과 고 통 으로써 행위 결 과 를 평가할 수 있지만 행위 동 기 를 설 명 할 수 는 없다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을 : 도덕 행 위 의 실천적 고려 범 위 에서 공 동 체 를 배 제 해서는 안 된다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.909,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:51+00:00",
+    "qa_flags": []
+  }
+}

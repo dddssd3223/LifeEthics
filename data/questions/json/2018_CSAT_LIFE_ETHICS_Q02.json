@@ -1,0 +1,76 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 57,
+    "question_number": 2,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2010,
+      1594,
+      3193
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. 다음 가상 편 지 의 (에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?\n<2 에 게\n얼마 전 자 네 가 가 정 을 이 루 었 다 는 말 을 듣고 몸 시 기 다 네 . 공 자 는 \" 경 (#)\n으로써 자 신 을 수 양 하고, 자 신 을 수 양 하여 다른 사 람 을 편 안 하게 해 주어라.\"\n라고 말 했 다 네 . 이러한 가 르 침 은 | (ㅠㅜ | 간 의 도 리 에 대해서도 마 찬 가 지 라 고\n생 각 하네. | ( ㅠ ㅁ |」 은 / 는 서로 다른 환 경 에서 오랫동안 성 장 하여 만난 두 사람\n이지만, 자 네 가 상 대 를 아끼는 마 음 으로 손 님 을 대 하 듯 존 중 한다면 어찌 백 년 해로\n( 건 소 쌈 콩 ) 할 수 없 겠 는가? …( 후 략 )…\n< 보 기 >\nㄱ . 혼인 (66000) 을 통해 및 어진 가족 관 계 이다.\nㄴ . 상 경 여 빈 (4800018) 을 실 천 해 야 하는 관 계 이다.\nㄷ . 항 렬 ({791) 에 따라 서로 역 할 을 분 담 하는 관 계 이다.\n2. 동 기 간 (81&08) 으 로서 배 려 해야 하는 가족 관 계 이다.\n0) ㄱ , ㄴㄴ (2) ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 그",
+    "stem": "다음 가상 편 지 의 (에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "<2 에 게\n얼마 전 자 네 가 가 정 을 이 루 었 다 는 말 을 듣고 몸 시 기 다 네 . 공 자 는 \" 경 (#)\n으로써 자 신 을 수 양 하고, 자 신 을 수 양 하여 다른 사 람 을 편 안 하게 해 주어라.\"\n라고 말 했 다 네 . 이러한 가 르 침 은 | (ㅠㅜ | 간 의 도 리 에 대해서도 마 찬 가 지 라 고\n생 각 하네. | ( ㅠ ㅁ |」 은 / 는 서로 다른 환 경 에서 오랫동안 성 장 하여 만난 두 사람\n이지만, 자 네 가 상 대 를 아끼는 마 음 으로 손 님 을 대 하 듯 존 중 한다면 어찌 백 년 해로\n( 건 소 쌈 콩 ) 할 수 없 겠 는가? …( 후 략 )…\n< 보 기 >\nㄱ . 혼인 (66000) 을 통해 및 어진 가족 관 계 이다.\nㄴ . 상 경 여 빈 (4800018) 을 실 천 해 야 하는 관 계 이다.\nㄷ . 항 렬 ({791) 에 따라 서로 역 할 을 분 담 하는 관 계 이다.\n2. 동 기 간 (81&08) 으 로서 배 려 해야 하는 가족 관 계 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 그"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=2422",
+      "vector_lines=2753"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.832,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:44+00:00",
+    "qa_flags": []
+  }
+}

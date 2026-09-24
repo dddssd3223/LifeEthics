@@ -1,0 +1,76 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 143,
+    "question_number": 11,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      628,
+      1740,
+      1923
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 갑 , 을 사 상 가 들의 업 장 으로 적 절 하지 않은 것은?\n갑 : 뜻 을 얻으면 백 성 과 함께 그 도 (0) 를 행하고, 뜻 을 얻지\n못하면 홀로 그 도 를 행한다. 부 귀 가 마 음 을 어 지 럽 히 지\n못하고, 빈 천이 행 위 를 바꾸지 못하며, 위 세 와 무 력 이 지 조 를\n꺼 지 못한다. 이러한 사 람 을 대 장 부 라 한다.\n을 : 예 0@ 라 는 것은 진 실 하고 신실한 마 음 이 얄 팍 해진 결 과 이며\n혼 란 의 원 인 이다. 선 부르게 내 다 보는 것은 도가 꾸며진\n것 이 자 어 리 석 음 의 단 초 이다. 그러니 대 장 부 는 중 후 함에\n처 하 며 얄팍한 곳에 거 하 지 않는다.\n0) 감 : 수 오 (의 마 음 은 의로운 행 위 를 꾸준히 실 천 해 야만 생 겨 난 다.\n(2) 감 : 오 륜 (24@ 의 참된 실 천 은 반드시 수 기 (0》2) 가 바 탕 이 되어야 한다.\n3) 을: 이상적인 정 치 는 스스로 그러함 %5| 의 원 리 에 어긋나지 않는\n0) 을: 성 인 ( 뿌 ) 의 도 를 본 받아 겸 허 하고 다룸 없는 덕 을 지녀야 한다.\n09) 갑과 을 : 도 를 따르는 사 람 은 곧 본 성 을 따르는 사 람 이라 할 수 있다.",
+    "stem": "갑 , 을 사 상 가 들의 업 장 으로 적 절 하지 않은 것은?",
+    "passage": "갑 : 뜻 을 얻으면 백 성 과 함께 그 도 (0) 를 행하고, 뜻 을 얻지\n못하면 홀로 그 도 를 행한다. 부 귀 가 마 음 을 어 지 럽 히 지\n못하고, 빈 천이 행 위 를 바꾸지 못하며, 위 세 와 무 력 이 지 조 를\n꺼 지 못한다. 이러한 사 람 을 대 장 부 라 한다.\n을 : 예 0@ 라 는 것은 진 실 하고 신실한 마 음 이 얄 팍 해진 결 과 이며\n혼 란 의 원 인 이다. 선 부르게 내 다 보는 것은 도가 꾸며진\n것 이 자 어 리 석 음 의 단 초 이다. 그러니 대 장 부 는 중 후 함에\n처 하 며 얄팍한 곳에 거 하 지 않는다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "감 : 수 오 (의 마 음 은 의로운 행 위 를 꾸준히 실 천 해 야만 생 겨 난 다."
+      },
+      {
+        "number": 2,
+        "text": "감 : 오 륜 (24@ 의 참된 실 천 은 반드시 수 기 (0》2) 가 바 탕 이 되어야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을: 이상적인 정 치 는 스스로 그러함 %5| 의 원 리 에 어긋나지 않는"
+      },
+      {
+        "number": 4,
+        "text": "을: 성 인 ( 뿌 ) 의 도 를 본 받아 겸 허 하고 다룸 없는 덕 을 지녀야 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을 : 도 를 따르는 사 람 은 곧 본 성 을 따르는 사 람 이라 할 수 있다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=12729",
+      "vector_lines=2025"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.784,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:11+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2022_CSAT_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 106,
+    "question_number": 9,
+    "exam_key": "2022_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      3142
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_CSAT_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자\n할 때, 4~1 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로\n고른 것은? [3 점 ]\nㄴㄴ ^ 씨 ㆍ\n갑 : 살 인 을 했거나, 그것을 명 했거나, 그에 협 력 했던 살 인 자 는\n누구든 사 형 에 처 해 지지 않으면 안 된다. 살 인 의 경우\n공적 정의 앞에서 최상의 균 형 자는 사 형 이다.\n을 : 형 벌 의 남 용 은 결코 인 간 을 개 선 시키지 못한다. 사 형 을\n( 가 )| 대 체 한 종신 노 역 형 은 가장 완 강 한 자의 마 음 을 억제\n시 키 기 에 충분한 업 격 성 을 지닌다.\n병 : 사회 계 약 은 계 약 자 의 생명 보 존 이 목 적 이므로, 타 인 의\n희 생 으로 자 기 의 생 명 을 보 존 하려는 자는 타 인 을 위해\n필 요 하다면 자 신 도 생 명 을 희 생 해야 한다,\n사상가 감 , 을, 병 의 를 헤지\n범 려\n인 자 은 탄 구 ㅎㅎ ： ,\n입 장 을 탐 구 한다. \"= : 판단 내용\n- ㅡ > : 판다 방향\nㅣ ㅡ - : 판단 방향\n아니요 [ |: 사 상 가 의 입장\n[니요\n러 토트\n1 은 3\n예 예\n< 보 기 >\nㄱ . ㅅ : 정 의 의 기 초 가 되는 원 리 에 따라 형 벌 을 가 해 야 하는가?\nㄴ . 1 : 사회 계 약 의 당 사 자 가 사 형 제 에 동 의 하는 것은 불 합 리 한 가?\nㄷ . (;: 형 벌 은 범 죄 가 공 익 에 반하는 정 도 에 비 례 해야 하는가?\n2. 1): 계 약 자 의 생 명 은 국 가 로부터 조 건 부 적 으 로 보 장 되는가?\n00 7, ㄴ 09 7, 르 8) ㄴㄴ\n0400 ㄱ 7, ㄷ , 르 06 ㄴ , ㄷ , 큰",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, 4~1 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "ㄴㄴ ^ 씨 ㆍ\n갑 : 살 인 을 했거나, 그것을 명 했거나, 그에 협 력 했던 살 인 자 는\n누구든 사 형 에 처 해 지지 않으면 안 된다. 살 인 의 경우\n공적 정의 앞에서 최상의 균 형 자는 사 형 이다.\n을 : 형 벌 의 남 용 은 결코 인 간 을 개 선 시키지 못한다. 사 형 을\n( 가 )| 대 체 한 종신 노 역 형 은 가장 완 강 한 자의 마 음 을 억제\n시 키 기 에 충분한 업 격 성 을 지닌다.\n병 : 사회 계 약 은 계 약 자 의 생명 보 존 이 목 적 이므로, 타 인 의\n희 생 으로 자 기 의 생 명 을 보 존 하려는 자는 타 인 을 위해\n필 요 하다면 자 신 도 생 명 을 희 생 해야 한다,\n사상가 감 , 을, 병 의 를 헤지\n범 려\n인 자 은 탄 구 ㅎㅎ ： ,\n입 장 을 탐 구 한다. \"= : 판단 내용\n- ㅡ > : 판다 방향\nㅣ ㅡ - : 판단 방향\n아니요 [ |: 사 상 가 의 입장\n[니요\n러 토트\n1 은 3\n예 예\n< 보 기 >\nㄱ . ㅅ : 정 의 의 기 초 가 되는 원 리 에 따라 형 벌 을 가 해 야 하는가?\nㄴ . 1 : 사회 계 약 의 당 사 자 가 사 형 제 에 동 의 하는 것은 불 합 리 한 가?\nㄷ . (;: 형 벌 은 범 죄 가 공 익 에 반하는 정 도 에 비 례 해야 하는가?\n2. 1): 계 약 자 의 생 명 은 국 가 로부터 조 건 부 적 으 로 보 장 되는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "7, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "7, 르"
+      },
+      {
+        "number": 3,
+        "text": "ㄴㄴ"
+      },
+      {
+        "number": 4,
+        "text": "0400 ㄱ 7, ㄷ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.842,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:42+00:00",
+    "qa_flags": []
+  }
+}

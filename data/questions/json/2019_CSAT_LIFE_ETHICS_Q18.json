@@ -1,0 +1,73 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 72,
+    "question_number": 18,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3210,
+      1740,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n거의 정 의 로운 사 회 는 심각한 부 정 의가 존 재 할 지도 모르지만\n일종의 민주적 정 부 의 형 태 를 갖춘 사 회 이다. 이러한 사 회 에서\n정 의 의 원 칙 들은 자유롭고 평 등 한 인간들 간의 자발적인 협 동 의\n기본 조 항 으로서 공 공 적 으 로 인 정 된다. 그래서 시민 불 복 종 에\n참 여 합 으로써 사 람 들 이 의 도 하는 것은 다 수 의 정 의 감 에 호 수 하여\n자유로운 협 동 의 조 건 이 침 해 되었다는 것을 정 당 하게 알리는\n것이다.\n< 보 기 >\nㄱ . 지민 불 복 충 은 정당한 폭 력 으로 디 수 의 정 의 김에 호 수 하는 행 위 이다.\nㄴ . 시민 불 복 종 은 사회적 협 동 의 기본 원 리 에 근거한 양심적 항 거 이다.\nㄷ . 시민 불 복 종 은 도 더 적 으 로는 옮 지 못하지만 불 기 퍼 한 위법 행 위 이다.\n르 . 민주적 정 부 의 법도 부 정 의하면 시민 불 복 종 의 대 상 이 될 수 있다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ 03) ㄴ , 근\n04) 1, =, 르 05) 느 , =, 르",
+    "stem": "다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "거의 정 의 로운 사 회 는 심각한 부 정 의가 존 재 할 지도 모르지만\n일종의 민주적 정 부 의 형 태 를 갖춘 사 회 이다. 이러한 사 회 에서\n정 의 의 원 칙 들은 자유롭고 평 등 한 인간들 간의 자발적인 협 동 의\n기본 조 항 으로서 공 공 적 으 로 인 정 된다. 그래서 시민 불 복 종 에\n참 여 합 으로써 사 람 들 이 의 도 하는 것은 다 수 의 정 의 감 에 호 수 하여\n자유로운 협 동 의 조 건 이 침 해 되었다는 것을 정 당 하게 알리는\n것이다.\n< 보 기 >\nㄱ . 지민 불 복 충 은 정당한 폭 력 으로 디 수 의 정 의 김에 호 수 하는 행 위 이다.\nㄴ . 시민 불 복 종 은 사회적 협 동 의 기본 원 리 에 근거한 양심적 항 거 이다.\nㄷ . 시민 불 복 종 은 도 더 적 으 로는 옮 지 못하지만 불 기 퍼 한 위법 행 위 이다.\n르 . 민주적 정 부 의 법도 부 정 의하면 시민 불 복 종 의 대 상 이 될 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 근"
+      },
+      {
+        "number": 4,
+        "text": "1, =, 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.881,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:15+00:00",
+    "qa_flags": []
+  }
+}

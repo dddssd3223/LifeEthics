@@ -1,0 +1,77 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 50,
+    "question_number": 6,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      658,
+      1740,
+      2124
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 다음 가상 대담 속의 에 들어갈 말로 적 절 하지 않은 것은? [3 점 |\n선 생 님 께서는 행 정 체계, 경 제 체 계 , 생활 | | | 맞습니다 그런데 오늘날 행정 및 경 제 체 계 의\n세 계 의 힘 의 균 형 을 통해 사회 통 합 을 | | | 영 향 력 이 과 도 해져서 시 민 의 의 사 가 공적\n이룰 수 있다고 주 장 하셨습니다. 결 정 에 올바르게 반 영 되지 못하고 있습니다.\n『“ 0 시 개 2 ~ 거\n( 4. 도 련 (\n보 204 50 렸 4 20\n6 ~ 승 ~ / 배 2 ~\n0、 … 설\n터 권 력 의 힘 이 생 활 세 계 에서 진리,\n로 그렇습니다. 이를 해 소 하려면 의 사 소 통 적\n올바름, 진 실 성 이 리 는 의 사 소 통 적 합 리 성 의\n합 리 성 이 공 론 장 에서 작 동 해 야 합니다.\n조 건 0| 9 힌 것을 방 해 한다는 말 씀 이죠?\n를 위해서\n삿 를 ㅎㅇ\n@^ 9 】\n0 ( 계 배 0\n(1) 공 론 장 에서 행정 및 경 제 체 계 의 효 윤 성 을 강 조 해 야 합니다.\n(3) 공 론 장 에서 기 업 과 정 부 가 시 민 의 의 견 을 경 청 해야 합니다.\n(3) 공정한 담론 절 차 를 준수한 합 의 의 결 과 를 수 용 해 야 합니다.\n@ 시 민 이 참여할 수 있는 공 론 장 의 개 방 성 을 유 지 해 야 합니다.\n@) 군기 정 확 하 고 이해 가 능 하 며 진실한 말로 주 장 해야 합니다.",
+    "stem": "다음 가상 대담 속의 에 들어갈 말로 적 절 하지 않은 것은? [3 점 |",
+    "passage": "선 생 님 께서는 행 정 체계, 경 제 체 계 , 생활 | | | 맞습니다 그런데 오늘날 행정 및 경 제 체 계 의\n세 계 의 힘 의 균 형 을 통해 사회 통 합 을 | | | 영 향 력 이 과 도 해져서 시 민 의 의 사 가 공적\n이룰 수 있다고 주 장 하셨습니다. 결 정 에 올바르게 반 영 되지 못하고 있습니다.\n『“ 0 시 개 2 ~ 거\n( 4. 도 련 (\n보 204 50 렸 4 20\n6 ~ 승 ~ / 배 2 ~\n0、 … 설\n터 권 력 의 힘 이 생 활 세 계 에서 진리,\n로 그렇습니다. 이를 해 소 하려면 의 사 소 통 적\n올바름, 진 실 성 이 리 는 의 사 소 통 적 합 리 성 의\n합 리 성 이 공 론 장 에서 작 동 해 야 합니다.\n조 건 0| 9 힌 것을 방 해 한다는 말 씀 이죠?\n를 위해서\n삿 를 ㅎㅇ\n@^ 9 】\n0 ( 계 배 0",
+    "choices": [
+      {
+        "number": 1,
+        "text": "공 론 장 에서 행정 및 경 제 체 계 의 효 윤 성 을 강 조 해 야 합니다."
+      },
+      {
+        "number": 2,
+        "text": "공 론 장 에서 기 업 과 정 부 가 시 민 의 의 견 을 경 청 해야 합니다."
+      },
+      {
+        "number": 3,
+        "text": "공정한 담론 절 차 를 준수한 합 의 의 결 과 를 수 용 해 야 합니다."
+      },
+      {
+        "number": 4,
+        "text": "시 민 이 참여할 수 있는 공 론 장 의 개 방 성 을 유 지 해 야 합니다. 군기"
+      },
+      {
+        "number": 5,
+        "text": "정 확 하 고 이해 가 능 하 며 진실한 말로 주 장 해야 합니다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=2856",
+      "vector_lines=3197"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.806,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:27+00:00",
+    "qa_flags": []
+  }
+}

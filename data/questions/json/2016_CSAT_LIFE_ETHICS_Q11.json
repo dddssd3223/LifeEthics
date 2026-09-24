@@ -1,0 +1,76 @@
+{
+  "id": "2016_CSAT_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 35,
+    "question_number": 11,
+    "exam_key": "2016_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      658,
+      1739,
+      1947
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_CSAT_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 다음 가상 편 지 에 제시된 전통 의 례 에 대한 설 명 으로 가장\n적절한 것은?\n1 6 에 게 짜\n그동안 택 내 가 족 은 모두 평 안 하 셨 는 가? 자 네 가 보내온 소 식 을 접하고,\n내게 문 의 한 그 의례 절 차 에 대해 간단히 답 하 겠네. 먼저 예 (#&@#) 를 올릴\n좋은 날 을 가려서 택 하고, 그 때 가 다 가 오 면 먼저 친척 중에 예 법 을 아는\n부 인 [ 돌 몽 ] 을 주 례 ( 조 @@) 로 청하고, 당일 주 례 가 도 착 하면 주 부 ( 초 @) 인\n자 네 가 몸소 맞 이 하 게 나 . 주 례 가 자네 여 식 (※ 뷰 ) 에 게 비 녀 [#] 를 꽂아\n주면 방 으로 데리고 가서 준비된 의 복 을 입 히 게 나 . 이어 간단히 예 를\n올리면 주 례 가 자네 여 식 에 게 새로운 이 름 [ 무 ] 을 지어 줄 걸 세. 그 후\n사 당 의 조 상 에 고한 다음, 잔 치 를 베풀어 사 람 들 을 대 접 하면 된 다 네 .\n그러면 이로써 글 을 맺 으 며 가족 모 두 의 건 강 을 기 원 하네.\n202\n(0) 삶 을 성 찰 할 수 있는 계 기 이며 인 생 의 마지막 통과 의 례 이다.\n(3) 죽 음 의 확 인 에서 시 작 하 여 일 상 으 로 의 복 귀 로 끝나는 의 례 이다.\n(3) 덕 망 과 학 식 을 갖춘 인 재 를 관 직 에 천 거 할 때 거 행 하는 의 례 이다.\n(4) 친족 관 계 를 벗어나 독립된 가 정 을 이 루 었 음 을 알리는 의 례 이다.\n(9) 성 인 (66) 으 로서의 사회적 책 임 과 역 할 을 알게 하는 의 례 이다.",
+    "stem": "다음 가상 편 지 에 제시된 전통 의 례 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "1 6 에 게 짜\n그동안 택 내 가 족 은 모두 평 안 하 셨 는 가? 자 네 가 보내온 소 식 을 접하고,\n내게 문 의 한 그 의례 절 차 에 대해 간단히 답 하 겠네. 먼저 예 (#&@#) 를 올릴\n좋은 날 을 가려서 택 하고, 그 때 가 다 가 오 면 먼저 친척 중에 예 법 을 아는\n부 인 [ 돌 몽 ] 을 주 례 ( 조 @@) 로 청하고, 당일 주 례 가 도 착 하면 주 부 ( 초 @) 인\n자 네 가 몸소 맞 이 하 게 나 . 주 례 가 자네 여 식 (※ 뷰 ) 에 게 비 녀 [#] 를 꽂아\n주면 방 으로 데리고 가서 준비된 의 복 을 입 히 게 나 . 이어 간단히 예 를\n올리면 주 례 가 자네 여 식 에 게 새로운 이 름 [ 무 ] 을 지어 줄 걸 세. 그 후\n사 당 의 조 상 에 고한 다음, 잔 치 를 베풀어 사 람 들 을 대 접 하면 된 다 네 .\n그러면 이로써 글 을 맺 으 며 가족 모 두 의 건 강 을 기 원 하네.\n202",
+    "choices": [
+      {
+        "number": 1,
+        "text": "삶 을 성 찰 할 수 있는 계 기 이며 인 생 의 마지막 통과 의 례 이다."
+      },
+      {
+        "number": 2,
+        "text": "죽 음 의 확 인 에서 시 작 하 여 일 상 으 로 의 복 귀 로 끝나는 의 례 이다."
+      },
+      {
+        "number": 3,
+        "text": "덕 망 과 학 식 을 갖춘 인 재 를 관 직 에 천 거 할 때 거 행 하는 의 례 이다."
+      },
+      {
+        "number": 4,
+        "text": "친족 관 계 를 벗어나 독립된 가 정 을 이 루 었 음 을 알리는 의 례 이다."
+      },
+      {
+        "number": 5,
+        "text": "성 인 (66) 으 로서의 사회적 책 임 과 역 할 을 알게 하는 의 례 이다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=12",
+      "vector_lines=588"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:52+00:00",
+    "qa_flags": []
+  }
+}

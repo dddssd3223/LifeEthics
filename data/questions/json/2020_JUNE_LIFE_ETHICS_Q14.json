@@ -1,0 +1,73 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 75,
+    "question_number": 14,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2257
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다음 사 상 가 의 입 장 에서 지 지 할 주 장 만을 < 보 기 > 에 서 있는\n대로 고른 것은?\nㅇ 양 로 ( 좋 콘 ) 의 예법 중에는 노 인 에 게 교 훈 이나 길 잡 이 가 되는\n가 르 침 을 달라고 부 탁 드 리 는 절 차 가 있다. 그러므로 목 민 관\n(0 뽀 ) 은 노 인 에 게 백 성 들이 겪는 괴 로 움 과 질 병 이 무엇\n인 지 를 물어서 그 절 차 에 부 합 하 도록 해야 한다.\nㅇ “ 윗 사 람 이 어 른 을 어 른 으로 섬 기 면 백 성 들 에게는 어 른 을 공 경 하는\n마 음 | 생 겨 난 다 .\" 라 고 하였다. 목 민 관 이 가 난 하고 의 지 할 데\n없는 고 령 의 노 인 을 위해 혜 택 을 베풀고, 양 로 의 예 법 을 제도화\n하는 데 힘 쓰면, 백 성 들은 노 인 을 공 경 할 줄 알게 될 것이다.\n< 보 기 >\nㄱ . 국 가 는 모든 노 인 에게 동일한 복지 혜 택 을 지 원 해 야 한다.\nㄴ . 윗 사 람 의 모 범 을 통해 장 유 유 서 ( 튼 써 섭 1 우 ) 를 구현할 수 있다.\nㄷ . 사회 문제 해 결 을 위해 노 인 의 경 험 과 지 혜 를 활용할 수 있다.\n르 . 노인 부양 문 제 의 해 결 은 정 신 적 ㆍ 물 질적 측면 모 두 와 관 련 된 다.\n0) ㄱㄱ, ㄴ (00 ㄱ , ㄷ (3) ㄴ , 큰\n0400 ㄱ 7, ㄷ , 르 06) ㄴ , ㄷ , 큰",
+    "stem": "다음 사 상 가 의 입 장 에서 지 지 할 주 장 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "ㅇ 양 로 ( 좋 콘 ) 의 예법 중에는 노 인 에 게 교 훈 이나 길 잡 이 가 되는\n가 르 침 을 달라고 부 탁 드 리 는 절 차 가 있다. 그러므로 목 민 관\n(0 뽀 ) 은 노 인 에 게 백 성 들이 겪는 괴 로 움 과 질 병 이 무엇\n인 지 를 물어서 그 절 차 에 부 합 하 도록 해야 한다.\nㅇ “ 윗 사 람 이 어 른 을 어 른 으로 섬 기 면 백 성 들 에게는 어 른 을 공 경 하는\n마 음 | 생 겨 난 다 .\" 라 고 하였다. 목 민 관 이 가 난 하고 의 지 할 데\n없는 고 령 의 노 인 을 위해 혜 택 을 베풀고, 양 로 의 예 법 을 제도화\n하는 데 힘 쓰면, 백 성 들은 노 인 을 공 경 할 줄 알게 될 것이다.\n< 보 기 >\nㄱ . 국 가 는 모든 노 인 에게 동일한 복지 혜 택 을 지 원 해 야 한다.\nㄴ . 윗 사 람 의 모 범 을 통해 장 유 유 서 ( 튼 써 섭 1 우 ) 를 구현할 수 있다.\nㄷ . 사회 문제 해 결 을 위해 노 인 의 경 험 과 지 혜 를 활용할 수 있다.\n르 . 노인 부양 문 제 의 해 결 은 정 신 적 ㆍ 물 질적 측면 모 두 와 관 련 된 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "0 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "0400 ㄱ 7, ㄷ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.873,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:29+00:00",
+    "qa_flags": []
+  }
+}

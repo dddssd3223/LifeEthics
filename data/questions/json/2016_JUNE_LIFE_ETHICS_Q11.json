@@ -1,0 +1,78 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 27,
+    "question_number": 11,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      98,
+      762,
+      1689,
+      3005
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자\n할 때, 4~7 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로\n고른 것은? [3 점 ]\n분 배 는 모든 사 람 이 자 신 의 소 유 물 에 대한 소유 권 리 가\n있을 경우 정 의 롭다. 최소 국 가 만 이 이러한 소유 권 리 를\n보 장 한다. ：\n을: 분 배 는 필 요 에 따라, 노 동 은 능 력 에 따라 이루어지는\n사 회 가 필 연 적 으로 도 래 할 것이다. 그러면 노 동 은\n더 이상 소 외 되지 않을 것이다.\n병 : 분 배 는 동 등 함에도 동 등 하지 않은 품 을, 동 등 하지\n않은 사 람 들 이 동등한 몰 을 받게 될 경우 정 의 롭지\n않다. 정 의 로운 것은 비 례 적인 것이다.\n범 례\n분배 정 의 에 대한\n[_ |: 출발 조건\n갑 , 을, 병 의 입 장 을 탐 구 한다.\n> : 판단 내용\n구조 : 판단 방향\n: 사 상 가 의 입장\n예 예\n< 보 기 >〉\n: 소유 권 리 를 침 해 하 지 않는 국 가 만이 정 의 로 운 가?\n: 재 화 의 분 배 는 개 인 의 자유로운 선 택 에 맡겨야 하는가?\n: 자 본 주 의 의 노 동 은 자발적인 것이 아니라 강 제 된 것인가?\n: 각 자 의 가 치 에 비 례 하여 각 자 의 옴 이 분 배 되어야 하는가?\n060) ㄱ , ㄴ (0) ㄱ , 2 (0) ㄴ , ㄷ\n(0407, ㄷ , (6) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, 4~7 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "분 배 는 모든 사 람 이 자 신 의 소 유 물 에 대한 소유 권 리 가\n있을 경우 정 의 롭다. 최소 국 가 만 이 이러한 소유 권 리 를\n보 장 한다. ：\n을: 분 배 는 필 요 에 따라, 노 동 은 능 력 에 따라 이루어지는\n사 회 가 필 연 적 으로 도 래 할 것이다. 그러면 노 동 은\n더 이상 소 외 되지 않을 것이다.\n병 : 분 배 는 동 등 함에도 동 등 하지 않은 품 을, 동 등 하지\n않은 사 람 들 이 동등한 몰 을 받게 될 경우 정 의 롭지\n않다. 정 의 로운 것은 비 례 적인 것이다.\n범 례\n분배 정 의 에 대한\n[_ |: 출발 조건\n갑 , 을, 병 의 입 장 을 탐 구 한다.\n> : 판단 내용\n구조 : 판단 방향\n: 사 상 가 의 입장\n예 예\n< 보 기 >〉\n: 소유 권 리 를 침 해 하 지 않는 국 가 만이 정 의 로 운 가?\n: 재 화 의 분 배 는 개 인 의 자유로운 선 택 에 맡겨야 하는가?\n: 자 본 주 의 의 노 동 은 자발적인 것이 아니라 강 제 된 것인가?\n: 각 자 의 가 치 에 비 례 하여 각 자 의 옴 이 분 배 되어야 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "060) ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , 2"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "407, ㄷ ,"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.484,
+    "review_required": true,
+    "warnings": [
+      "QNUM_OCR_CORRECTED: 숫자OCR '1.7' / 토큰 '11.' -> 11",
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:33+00:00",
+    "qa_flags": []
+  }
+}

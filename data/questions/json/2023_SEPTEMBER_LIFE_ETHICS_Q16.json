@@ -1,0 +1,77 @@
+{
+  "id": "2023_SEPTEMBER_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 116,
+    "question_number": 16,
+    "exam_key": "2023_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1943
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_SEPTEMBER_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른\n것은? [3 점 ]\n갑 : 영구 평 화 를 위해 상 비 군 은 점차 완전히 폐 지 되어야 한다.\n그러나 조 국 을 외 부 의 침 략 으로부터 방 어 하기 위한 시 민 들 으\n자 발 적 이고 정 기 적 인 무장 훈 련 은 사 정 이 다르다.\n을: 전 쟁 과 같은 직접적 폭력 외에도 간접적 폭 력 이 존 재 한다.\n각 각 의 폭 력 은 상호 작 용 하며 서로 영 향 을 미친다. 이러한\n다양한 폭 력 을 제 거 해 야 진정한 평 화 가 달 성 될 수 있\n< 보 기 >\nㄱ . 감 : 평화 연 맹 은 모든 전 쟁 의 영구적 종 식 을 목 표 로 한다.\nㄴ . 갑 : 세계 시 민 법 은 인권 보 장 이 아닌 영구 평 화 를 위한 것이다.\nㄷ . 을 : 문화적 폭 력 은 구조적 폭 력 을 올바른 것으로 보이게 한다.\n2. 갑과 을 : 폭 력 의 사 용 은 어떠한 경 우 에도 허 용 될 수 없다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 영구 평 화 를 위해 상 비 군 은 점차 완전히 폐 지 되어야 한다.\n그러나 조 국 을 외 부 의 침 략 으로부터 방 어 하기 위한 시 민 들 으\n자 발 적 이고 정 기 적 인 무장 훈 련 은 사 정 이 다르다.\n을: 전 쟁 과 같은 직접적 폭력 외에도 간접적 폭 력 이 존 재 한다.\n각 각 의 폭 력 은 상호 작 용 하며 서로 영 향 을 미친다. 이러한\n다양한 폭 력 을 제 거 해 야 진정한 평 화 가 달 성 될 수 있\n< 보 기 >\nㄱ . 감 : 평화 연 맹 은 모든 전 쟁 의 영구적 종 식 을 목 표 로 한다.\nㄴ . 갑 : 세계 시 민 법 은 인권 보 장 이 아닌 영구 평 화 를 위한 것이다.\nㄷ . 을 : 문화적 폭 력 은 구조적 폭 력 을 올바른 것으로 보이게 한다.\n2. 갑과 을 : 폭 력 의 사 용 은 어떠한 경 우 에도 허 용 될 수 없다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.909,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:54:49+00:00",
+    "qa_flags": []
+  }
+}

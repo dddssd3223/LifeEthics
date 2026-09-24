@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# 로컬 캐시/체크포인트 (재생성 가능)
+data/processed/pages/
+data/processed/runs/
+data/processed/backups/
+data/processed/pending/
+data/processed/state.json
+data/database/*.tmp
+data/questions/images/*.tmp.png
+logs/*.jsonl

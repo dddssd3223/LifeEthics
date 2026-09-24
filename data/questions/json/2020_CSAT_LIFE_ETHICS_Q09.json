@@ -1,0 +1,73 @@
+{
+  "id": "2020_CSAT_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 82,
+    "question_number": 9,
+    "exam_key": "2020_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1916,
+      3148,
+      3351
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_CSAT_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 다음 글 의 입 장 으로 적 절 하 지 않은 것은? [3 점 ]\n옛 성 인 ( 똑 ㅅ ) 이 세금 제 도 를 만든 것은 백 성 으로부터 거두어\n자 기 를 봉 양 하자는 것이 아니었다. 백 성 들이 모여 살면서\n갈 등 과 투 쟁 이 생겨 서로 죽 이 기 까지 하거니와, 통 치 자 가\n법 으로 다 스 려 평화롭게 해 주 어 야 만 민 생 이 편 안 해 진다.\n그러나 이 일은 농 사 를 지으면서 함 께 할 수 없으므로, 백 성 은\n수 확 의 10 분 의 1 을 세 (##) 로 바쳐 통 치 자 를 공 양 ( 싸 ) 하 는 것\n이다. 통 치 자 가 백 성 으로부터 거 두 어 들인 것이 큰 만큼, 백 성 에\n대한 보 답 도 무거운 것이다. 후 세 의 통 치 자 는 세금 제 도 를 만든\n의 의 를 모르고 ' 백 성 이 나를 공 양 하는 것은 당연한 것 ' 이 라고\n말하면서 가 혹 하게 수 취 하니, 백 성 들 도 그 영 향 을 받아 서로\n싸 위 국 가 가 혼 란 해진다,\n01 공 직 자 는 별 도 의 생 업 에 종 사 하며 나 락 일 에 충 실 해야 한다.\n3) 공 직 자 는 자 신 의 본 분 에 충 실 하여 민 생 을 안 정 시켜야 한다,\n8 공 직 의 설 치 는 필수적인 것으로 사회적 역할 분 담 의 일 환 이다.\n9 공 직 자 는 세 금 을 납 부 한 국 민 들 에게 봉 사 로써 보 답 해야 한다.\n5 공 직 자 의 탐 욕 과 수 탈 은 국 민 의 반 목 과 국 가 의 분 란 을 아 기 한다.",
+    "stem": "다음 글 의 입 장 으로 적 절 하 지 않은 것은? [3 점 ]",
+    "passage": "옛 성 인 ( 똑 ㅅ ) 이 세금 제 도 를 만든 것은 백 성 으로부터 거두어\n자 기 를 봉 양 하자는 것이 아니었다. 백 성 들이 모여 살면서\n갈 등 과 투 쟁 이 생겨 서로 죽 이 기 까지 하거니와, 통 치 자 가\n법 으로 다 스 려 평화롭게 해 주 어 야 만 민 생 이 편 안 해 진다.\n그러나 이 일은 농 사 를 지으면서 함 께 할 수 없으므로, 백 성 은\n수 확 의 10 분 의 1 을 세 (##) 로 바쳐 통 치 자 를 공 양 ( 싸 ) 하 는 것\n이다. 통 치 자 가 백 성 으로부터 거 두 어 들인 것이 큰 만큼, 백 성 에\n대한 보 답 도 무거운 것이다. 후 세 의 통 치 자 는 세금 제 도 를 만든\n의 의 를 모르고 ' 백 성 이 나를 공 양 하는 것은 당연한 것 ' 이 라고\n말하면서 가 혹 하게 수 취 하니, 백 성 들 도 그 영 향 을 받아 서로\n싸 위 국 가 가 혼 란 해진다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "공 직 자 는 별 도 의 생 업 에 종 사 하며 나 락 일 에 충 실 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "공 직 자 는 자 신 의 본 분 에 충 실 하여 민 생 을 안 정 시켜야 한다,"
+      },
+      {
+        "number": 3,
+        "text": "공 직 의 설 치 는 필수적인 것으로 사회적 역할 분 담 의 일 환 이다."
+      },
+      {
+        "number": 4,
+        "text": "공 직 자 는 세 금 을 납 부 한 국 민 들 에게 봉 사 로써 보 답 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "공 직 자 의 탐 욕 과 수 탈 은 국 민 의 반 목 과 국 가 의 분 란 을 아 기 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.895,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:45+00:00",
+    "qa_flags": []
+  }
+}

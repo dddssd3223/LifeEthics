@@ -1,0 +1,73 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 11,
+    "question_number": 13,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      1644
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q13.png",
+    "raw_text": "19. 다음 사 례 를 동해 우 리 나 라 의 분단 상 황 을 극 복 하는 데 있어\n얻을 수 있는 시 사 점 으로 가장 적절한 것은?\n갑 작 스 럽 게 통 일 이 이루어진 이후, 동서독 주 민 들 은 통일\n이 전 의 상이한 체 제 에 서 비롯된 사 고 방 식 과 정 서 의 차 이 로\n심각한 갈 등 을 겪었다. 서 독 인 은 동 독 인 을 가 난 하고 게 으 르 다는\n의 미 인 오 씨 (0891) 로, 동 독 인 은 서 독 인 을 거 만 하고 잘 났 다 는\n의 미 인 ' 베 씨 (\\6891) 로 부르는 현 상 이 나타났다.\n0 남 북 한 의 조속한 통 합 을 위해 외 형 적인 통 일 을 강 조 해 야 한다.\n3) 국제적 합 의 를 통해 남북 통 일 에 대한 공 감 대 를 형 성 해 야 한다.\n8) 정치 ㆍ 군 사적 방 식 을 통해 하 나 의 민족 공 동 체 를 수 립 해야 한다.\n@ 동북아 다자 안 보 를 토대로 한반도 평화 체 제 를 구 축 해 야 한다.\n6) 사회 ㆍ 문 화적 교 류 의 확 대 를 통해 남 북 한 의 이 질 성 을 줄여야 한다.",
+    "stem": "다음 사 례 를 동해 우 리 나 라 의 분단 상 황 을 극 복 하는 데 있어 얻을 수 있는 시 사 점 으로 가장 적절한 것은?",
+    "passage": "갑 작 스 럽 게 통 일 이 이루어진 이후, 동서독 주 민 들 은 통일\n이 전 의 상이한 체 제 에 서 비롯된 사 고 방 식 과 정 서 의 차 이 로\n심각한 갈 등 을 겪었다. 서 독 인 은 동 독 인 을 가 난 하고 게 으 르 다는\n의 미 인 오 씨 (0891) 로, 동 독 인 은 서 독 인 을 거 만 하고 잘 났 다 는\n의 미 인 ' 베 씨 (\\6891) 로 부르는 현 상 이 나타났다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "남 북 한 의 조속한 통 합 을 위해 외 형 적인 통 일 을 강 조 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "국제적 합 의 를 통해 남북 통 일 에 대한 공 감 대 를 형 성 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "정치 ㆍ 군 사적 방 식 을 통해 하 나 의 민족 공 동 체 를 수 립 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "동북아 다자 안 보 를 토대로 한반도 평화 체 제 를 구 축 해 야 한다."
+      },
+      {
+        "number": 5,
+        "text": "사회 ㆍ 문 화적 교 류 의 확 대 를 통해 남 북 한 의 이 질 성 을 줄여야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.916,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:52+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 152,
+    "question_number": 16,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2090
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다음 신문 칼 럼 에서 강 조 하는 내 용 으로 가장 적절한 것은?\n(2 신 문 (200(2(〉 년 (>(〉 월 (>(〉 일\n칼럼\n판 옵 티 콘 은 중앙 감 시 탑 에서는 모든 수 용 실 이 보이지만 수 용 실 에서는 감 시 탑 을\n볼 수 없는 시 선 의 비 대 칭 성 을 지닌 공 간 이다. 감시 행 위 가 분 명 하게 드러나지 않기\n때문에 수 감 자 는 감 시 를 내 면 화 하여 스 스 로 를 통 제 하는 자동 규율 상 태 에 놓인다.\n정보 사 회 의 새로운 감시 시 스 템 은 이러한 판 온 티 콘 의 권력 구 조 를 계승해 전자\n판 옵 티 콘 의 형 타로 작 동 하게 된다. 전자 판 옵 티 콘 이 나를 언제 들 여 다 보는지 명확히\n확인할 수 없고, 자 신 의 모든 흔 적 이 데 이 터 로 축 적 될 수 있다는 사 실 은 개 인 에게\n심리적 압 박 으로 작 용 한다. 결국 전자 판 옵 티 콘 은 물리적 강 저력 없이도 개 인 이\n자 신 의 행 동 을 검 열 하게 하여 스스로 자 유 를 억 압 하게 만든다.\n기 기 기 02 ㅣ]\n1 전자 판 옵 티 콘 은 감시 구 조 에 내 재 된 시 선 의 비 대 칭 성 을 해 체 한다.\n2) 전자 판 옵 티 콘 은 개 인 의 자 유 를 위 축 시키는 권력 구 조 로 작 동 한다.\n3 전자 판 옵 티 콘 은 물리적 강 제 력 이 발 휘 될 때 에 만 작 동 할 수 있다.\n9 전자 판 옵 티 콘 은 정 보 의 수집 없이 개 인 의 행 동 을 감 시 할 뿐이다.\n5 전자 판 옵 티 콘 은 감시 행 위 가 드러날 때 에 만 통 제 력 을 발 휘 한다",
+    "stem": "다음 신문 칼 럼 에서 강 조 하는 내 용 으로 가장 적절한 것은?",
+    "passage": "(2 신 문 (200(2(〉 년 (>(〉 월 (>(〉 일\n칼럼\n판 옵 티 콘 은 중앙 감 시 탑 에서는 모든 수 용 실 이 보이지만 수 용 실 에서는 감 시 탑 을\n볼 수 없는 시 선 의 비 대 칭 성 을 지닌 공 간 이다. 감시 행 위 가 분 명 하게 드러나지 않기\n때문에 수 감 자 는 감 시 를 내 면 화 하여 스 스 로 를 통 제 하는 자동 규율 상 태 에 놓인다.\n정보 사 회 의 새로운 감시 시 스 템 은 이러한 판 온 티 콘 의 권력 구 조 를 계승해 전자\n판 옵 티 콘 의 형 타로 작 동 하게 된다. 전자 판 옵 티 콘 이 나를 언제 들 여 다 보는지 명확히\n확인할 수 없고, 자 신 의 모든 흔 적 이 데 이 터 로 축 적 될 수 있다는 사 실 은 개 인 에게\n심리적 압 박 으로 작 용 한다. 결국 전자 판 옵 티 콘 은 물리적 강 저력 없이도 개 인 이\n자 신 의 행 동 을 검 열 하게 하여 스스로 자 유 를 억 압 하게 만든다.\n기 기 기 02 ㅣ]",
+    "choices": [
+      {
+        "number": 1,
+        "text": "전자 판 옵 티 콘 은 감시 구 조 에 내 재 된 시 선 의 비 대 칭 성 을 해 체 한다."
+      },
+      {
+        "number": 2,
+        "text": "전자 판 옵 티 콘 은 개 인 의 자 유 를 위 축 시키는 권력 구 조 로 작 동 한다."
+      },
+      {
+        "number": 3,
+        "text": "전자 판 옵 티 콘 은 물리적 강 제 력 이 발 휘 될 때 에 만 작 동 할 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "전자 판 옵 티 콘 은 정 보 의 수집 없이 개 인 의 행 동 을 감 시 할 뿐이다."
+      },
+      {
+        "number": 5,
+        "text": "전자 판 옵 티 콘 은 감시 행 위 가 드러날 때 에 만 통 제 력 을 발 휘 한다"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:32+00:00",
+    "qa_flags": []
+  }
+}
