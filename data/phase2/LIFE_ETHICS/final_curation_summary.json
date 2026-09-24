@@ -1,0 +1,133 @@
+{
+  "total_candidates": 461,
+  "candidate_union": {
+    "phase2a_direct_adaptable": 213,
+    "phase2b_direct_adaptable": 248,
+    "overlap": 0
+  },
+  "KEEP": 261,
+  "MECHANISM_ONLY": 85,
+  "DROP": 115,
+  "review_required": 130,
+  "review_required_by_decision": {
+    "KEEP": 52,
+    "MECHANISM_ONLY": 46,
+    "DROP": 32
+  },
+  "by_phase2a_source": {
+    "ADAPTABLE": {
+      "KEEP": 62,
+      "MECHANISM_ONLY": 34,
+      "DROP": 16
+    },
+    "DIRECT": {
+      "KEEP": 88,
+      "MECHANISM_ONLY": 3,
+      "DROP": 10
+    }
+  },
+  "by_phase2b_source": {
+    "ADAPTABLE": {
+      "DROP": 86,
+      "MECHANISM_ONLY": 45,
+      "KEEP": 60
+    },
+    "DIRECT": {
+      "KEEP": 51,
+      "DROP": 3,
+      "MECHANISM_ONLY": 3
+    }
+  },
+  "keep_by_curriculum_area": {
+    "10통사1-03 자연환경과 인간": 28,
+    "10통사1-04 문화와 다양성": 23,
+    "10통사1-05 생활공간과 사회": 33,
+    "10통사2-01 인권보장과 헌법": 43,
+    "10통사2-02 사회정의와 불평등": 76,
+    "10통사2-03 시장경제와 지속가능발전": 21,
+    "10통사2-04 세계화와 평화": 62,
+    "10통사2-05 미래와 지속가능한 삶": 13
+  },
+  "mechanism_only_by_curriculum_area": {
+    "10통사2-04 세계화와 평화": 35
+  },
+  "keep_without_curriculum_area": 0,
+  "keep_by_sample": {
+    "Q1": 1,
+    "Q13": 8,
+    "Q14": 30,
+    "Q15": 44,
+    "Q16": 21,
+    "Q18": 29,
+    "Q3": 14,
+    "Q4": 29,
+    "Q8": 2
+  },
+  "keep_by_mechanism_family": {
+    "(Phase 2A family 없음)": 111,
+    "ETH-RAWLS-02": 38,
+    "ETH-PUN-02": 20,
+    "ETH-ENV-02": 19,
+    "ETH-CD-01": 16,
+    "ETH-CD-02": 14,
+    "ETH-ENV-01": 8,
+    "ETH-PEACE-01": 8,
+    "ETH-CULT-02": 8,
+    "ETH-JUST-01": 6,
+    "ETH-CULT-01": 4,
+    "ETH-RAWLS-01": 3,
+    "ETH-JUST-02": 3,
+    "ETH-PEACE-02": 2,
+    "ETH-PUN-01": 1
+  },
+  "mechanism_only_by_mechanism_family": {
+    "(Phase 2A family 없음)": 48,
+    "ETH-PUN-02": 14,
+    "ETH-ENV-02": 11,
+    "ETH-JUST-01": 5,
+    "ETH-ENV-01": 4,
+    "ETH-RAWLS-02": 1,
+    "ETH-PEACE-02": 1,
+    "ETH-JUST-02": 1
+  },
+  "false_positive_drop_count": 115,
+  "false_positive_drop_keyword_misfire": 81,
+  "false_positive_drop_out_of_scope_detail": 34,
+  "false_positive_causes": {
+    "동양 사상·생사관 세부": 25,
+    "생윤 직업 윤리 사상(베버·마르크스·칼뱅·순자 등)": 17,
+    "요나스 책임 윤리 세부": 15,
+    "해외 원조·니부어 등 기타 사상가 단일 문항": 11,
+    "윤리학 분류(메타·실천 윤리)": 10,
+    "생명 윤리·사랑·성·예술·스포츠 등": 9,
+    "사회 계약론(홉스·로크) 세부": 8,
+    "관혼상제·효 등 가정 윤리 의례": 6,
+    "과학자 책임·과학 기술 정책": 6,
+    "아도르노 문화 산업·대중문화": 5,
+    "정의 전쟁론 단일 사상가": 3
+  },
+  "false_positive_trigger_keywords": {
+    "차별": 11,
+    "과학기술": 9,
+    "의례": 6,
+    "기업/노동": 5,
+    "노동/직업": 5,
+    "생태 윤리": 4,
+    "형벌": 4,
+    "평화": 4,
+    "분배": 3,
+    "업적": 3,
+    "소비/기업": 3,
+    "복지": 2
+  },
+  "dedup_policy": "유사·반복 기출은 제거하지 않음. 동일 family·동일 사상가 문항도 각각 독립 판정. 파일 중복은 Phase 1 기준 0건.",
+  "life_ethics_800_check": {
+    "KEEP": 261,
+    "MECHANISM_ONLY": 85,
+    "DROP": 115,
+    "NOT_CANDIDATE": 339,
+    "sum": 800,
+    "ok": true
+  },
+  "method": "후보 461문항을 20~30문항 batch로 OCR 원문·2A/2B 결과·seed와 대조해 의미 판정(pilot 30 → batch 1회). 문항별 AI 호출·신규 OCR·Phase 1/2A/2B 재실행 없음."
+}
