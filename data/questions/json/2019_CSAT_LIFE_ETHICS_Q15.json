@@ -1,0 +1,73 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 71,
+    "question_number": 15,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3070,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]\n갑 : 과 학 은 가치 중 립 적 이지 않습니다. 과 학 자 는 연구 주 제 를\n설정할 때 주관적 가 치 를 개 입 시키게 됩니다. 또한 연구 과정\n에서 과 학 자 는 연구 윤 리 를 준 수 해야 합니다.\n을 : 동 의 합니다. 또한 과 학 자 는 연구 과 정 에 서 의 내적 책 임 뿐만\n아니라 자 신 의 연구 결 과 가 미칠 사회적 영 향 을 인 식 하여 연구\n및 개 발 과 그 활 용 에 관한 사회적 책 임 까 지 다해야 합니다.\n갑 ： 아닙니다. 과 학 자 에게 그러한 책 임 까지 돌리면 과 학 의 발 전 이\n지 체 됩니다. 연구 결 과 가 활 용 되어 사 회 에 부정적 결 과 를 초래\n해도 그것은 연구 결 과 를 활 용 한 사 람 들 의 책 임 일 뿐입니다.\n을: 과 학 의 발 전 이 지 체 될 수 있지만 과 학 자 에게 사회적 책 임 을\n부 과 하는 것은 정 당 합니다. 과 학 의 발 전 에서 더 중요한 것은\n시간적 속 도 가 아니라 윤리적 방 향 입니다.\n1 과 학 자 는 연구 과 정 에서 연구 윤 리 를 준 수 해야 하는가?\n2 과 학 자 는 연구 주 제 를 설정할 때 가치 중립적 태 도 를 취 하 는 가?\n@ 과 학 자 는 과학 연 구 에 대한 모든 책 임 에서 면 제 되어야 하는가?\n0: 과 학 자 에게 내적 책 임 과 더불어 사회적 책 임 도 부 과 해야 하는가?\n5 과 학 자 에게 사회적 책 임 을 부 과 하면 괴 학 발 전 이 지 체 될 수 있는가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 과 학 은 가치 중 립 적 이지 않습니다. 과 학 자 는 연구 주 제 를\n설정할 때 주관적 가 치 를 개 입 시키게 됩니다. 또한 연구 과정\n에서 과 학 자 는 연구 윤 리 를 준 수 해야 합니다.\n을 : 동 의 합니다. 또한 과 학 자 는 연구 과 정 에 서 의 내적 책 임 뿐만\n아니라 자 신 의 연구 결 과 가 미칠 사회적 영 향 을 인 식 하여 연구\n및 개 발 과 그 활 용 에 관한 사회적 책 임 까 지 다해야 합니다.\n갑 ： 아닙니다. 과 학 자 에게 그러한 책 임 까지 돌리면 과 학 의 발 전 이\n지 체 됩니다. 연구 결 과 가 활 용 되어 사 회 에 부정적 결 과 를 초래\n해도 그것은 연구 결 과 를 활 용 한 사 람 들 의 책 임 일 뿐입니다.\n을: 과 학 의 발 전 이 지 체 될 수 있지만 과 학 자 에게 사회적 책 임 을\n부 과 하는 것은 정 당 합니다. 과 학 의 발 전 에서 더 중요한 것은\n시간적 속 도 가 아니라 윤리적 방 향 입니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "과 학 자 는 연구 과 정 에서 연구 윤 리 를 준 수 해야 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "과 학 자 는 연구 주 제 를 설정할 때 가치 중립적 태 도 를 취 하 는 가?"
+      },
+      {
+        "number": 3,
+        "text": "과 학 자 는 과학 연 구 에 대한 모든 책 임 에서 면 제 되어야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "과 학 자 에게 내적 책 임 과 더불어 사회적 책 임 도 부 과 해야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "과 학 자 에게 사회적 책 임 을 부 과 하면 괴 학 발 전 이 지 체 될 수 있는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.914,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:15+00:00",
+    "qa_flags": []
+  }
+}

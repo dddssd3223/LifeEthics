@@ -1,0 +1,73 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 65,
+    "question_number": 3,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3332,
+      1751,
+      4456
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 다음 사 상 가 의 입 장 으로 가장 적절한 것은:\n공 정 으로서의 정 의 에 의하면 질서 정연한 사 회 란 그 구성원\n들의 선 을 증 진 하고 공적 정 의 관 에 의해 효과적으로 규 제 되는\n사 회 이 다. 그런데 정 의 의 원 칙 을 자기 사회 내에 있는 사람들\n에게만 적 용 하고 세 계 를 지금 이대로 내버려 둔다면, 수백만 명\n이나 되는 사 람 들 이 자 신 의 나 라 가 질서 정연한 사 회 가 되기\n전에 빈 곤 으 로 인해 죽 어 갈 것이다. 우 리 는 고 통 을 느끼는 모는\n존 재 의 이 익 을 평 등 하게 고려해야 하므로 빈 곤 으로 인해 고통\n받는 사 람 들 을 도 와 야 만 한다.\n(01) 원조 대 상 자 의 국 적 은 원조 여 부 를 결 정 하 는 데 중 요 하지 않\n(2) 원 조 는 전 지 구 적 차 원 의 윤 리 적 인 의 무 로 정 당 화 될 수 없다.\n(3) 원조 대 상 에서 질서 정연한 사 회 의 빈 곤 한 시 민 은 제 외 되어야 한다.\n(4) 원 조 는 인 류 의 공리 증 진 이 아 넌 지 구 적 정의 실 현 을 지 향 해야 한다.\n(6) 원 조 의 최종 목 적 은 고통 받는 사 회 의 정치 문 화 를 개 선 하는 것이다.",
+    "stem": "다음 사 상 가 의 입 장 으로 가장 적절한 것은:",
+    "passage": "공 정 으로서의 정 의 에 의하면 질서 정연한 사 회 란 그 구성원\n들의 선 을 증 진 하고 공적 정 의 관 에 의해 효과적으로 규 제 되는\n사 회 이 다. 그런데 정 의 의 원 칙 을 자기 사회 내에 있는 사람들\n에게만 적 용 하고 세 계 를 지금 이대로 내버려 둔다면, 수백만 명\n이나 되는 사 람 들 이 자 신 의 나 라 가 질서 정연한 사 회 가 되기\n전에 빈 곤 으 로 인해 죽 어 갈 것이다. 우 리 는 고 통 을 느끼는 모는\n존 재 의 이 익 을 평 등 하게 고려해야 하므로 빈 곤 으로 인해 고통\n받는 사 람 들 을 도 와 야 만 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "원조 대 상 자 의 국 적 은 원조 여 부 를 결 정 하 는 데 중 요 하지 않"
+      },
+      {
+        "number": 2,
+        "text": "원 조 는 전 지 구 적 차 원 의 윤 리 적 인 의 무 로 정 당 화 될 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "원조 대 상 에서 질서 정연한 사 회 의 빈 곤 한 시 민 은 제 외 되어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "원 조 는 인 류 의 공리 증 진 이 아 넌 지 구 적 정의 실 현 을 지 향 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "원 조 의 최종 목 적 은 고통 받는 사 회 의 정치 문 화 를 개 선 하는 것이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.924,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:03+00:00",
+    "qa_flags": []
+  }
+}

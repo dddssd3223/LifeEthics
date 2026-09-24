@@ -1,0 +1,73 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 124,
+    "question_number": 16,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은;\n갑 : 동물 실 험 은 인 간 을 위한 신약 개 발 이나 제 품 의 안전성\n검증 등 을 위해 수 행 되고 있습니다. 그런데 동물 실험\n과 정 에서 수많은 동 물 이 큰 고 통 을 받고 있습니다. 동물\n에게도 고 통 받지 않을 권 리 가 있습니다.\n을: 동 의 합니다. 하지만 모든 동물 실 험 이 부당한 것은 아닙니다.\n동 물 이 겪는 고 통 에도 불 구 하 고 인 간 의 생 명 과 건 강 을 위해\n큰 이 익 을 주는 경 우 에는 동물 실 험 이 정 당 성 을 확 보 할\n수 있습니다.\n갑 : 동물 실 험 이 인 간 에 게 큰 이 익 을 줄 수 있지만, 인 간 의\n이 익 이 동물 실 험 을 정 당 화 할 수 는 없습니다. 동 물 도 인 간 과\n동등한 권 리 를 가 집 니 다. 모든 동물 실 험 은 동 물 의 권 리 를\n침 해 하는 것이기 때문에 금 지 되어야 합니다.\n을: 아닙니다. 동 물 의 권 리 와 이 익 보다 인 간 의 권 리 와 이 익 을\n중 시 해야 합니다. 다만 인 간 에게 큰 이 익 을 주지 못하면서\n동 물 에게 큰 고 통 을 줄 경 우 에는 동물 실 험 이 금 지 되어야\n합니다.\n0) 동물 실 험 이 허 용 되 어 서 는 안 되는 경 우 가 있는가?\n(0) 인 간 은 동물 실 험 을 통해 큰 이 익 을 얻을 수 있는가?\n9) 동 물 은 동물 실험 과 정 에서 고 통 받지 않을 권 리 가 있는가?\n0) 동물 실 험 에서 인 간 의 권 리 보다 동 물 의 권 리 를 중 시 해야 하는가?\n(9) 인 간 의 이 익 은 동물 실 험 을 정 당 화 하기 위한 근 거 가 될 수 있는가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은;",
+    "passage": "갑 : 동물 실 험 은 인 간 을 위한 신약 개 발 이나 제 품 의 안전성\n검증 등 을 위해 수 행 되고 있습니다. 그런데 동물 실험\n과 정 에서 수많은 동 물 이 큰 고 통 을 받고 있습니다. 동물\n에게도 고 통 받지 않을 권 리 가 있습니다.\n을: 동 의 합니다. 하지만 모든 동물 실 험 이 부당한 것은 아닙니다.\n동 물 이 겪는 고 통 에도 불 구 하 고 인 간 의 생 명 과 건 강 을 위해\n큰 이 익 을 주는 경 우 에는 동물 실 험 이 정 당 성 을 확 보 할\n수 있습니다.\n갑 : 동물 실 험 이 인 간 에 게 큰 이 익 을 줄 수 있지만, 인 간 의\n이 익 이 동물 실 험 을 정 당 화 할 수 는 없습니다. 동 물 도 인 간 과\n동등한 권 리 를 가 집 니 다. 모든 동물 실 험 은 동 물 의 권 리 를\n침 해 하는 것이기 때문에 금 지 되어야 합니다.\n을: 아닙니다. 동 물 의 권 리 와 이 익 보다 인 간 의 권 리 와 이 익 을\n중 시 해야 합니다. 다만 인 간 에게 큰 이 익 을 주지 못하면서\n동 물 에게 큰 고 통 을 줄 경 우 에는 동물 실 험 이 금 지 되어야\n합니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "동물 실 험 이 허 용 되 어 서 는 안 되는 경 우 가 있는가?"
+      },
+      {
+        "number": 2,
+        "text": "인 간 은 동물 실 험 을 통해 큰 이 익 을 얻을 수 있는가?"
+      },
+      {
+        "number": 3,
+        "text": "동 물 은 동물 실험 과 정 에서 고 통 받지 않을 권 리 가 있는가?"
+      },
+      {
+        "number": 4,
+        "text": "동물 실 험 에서 인 간 의 권 리 보다 동 물 의 권 리 를 중 시 해야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "인 간 의 이 익 은 동물 실 험 을 정 당 화 하기 위한 근 거 가 될 수 있는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:46:34+00:00",
+    "qa_flags": []
+  }
+}

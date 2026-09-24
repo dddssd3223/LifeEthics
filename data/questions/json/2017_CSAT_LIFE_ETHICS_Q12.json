@@ -1,0 +1,76 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 47,
+    "question_number": 12,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1832,
+      1593,
+      3192
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 감 이 을 에게 제 기 할 반 론 으 로 가장 적절한 것은?\n디지털 익 명 성은 사 람 들 이 자유롭게 ㅣ | 디지털 익 명 성은 사 회 에 해 악 을 끼치기\n자 신 의 삶 을 계 획 하 고 실 현 하 는 데 | ㅣ | 때 문 에 일종의 악 이 라 할 수 있어.\n매우 중 요 하기 때문에 일종의 선 이라 ㅣ | 사이버 공 간 에서 익 명 의 표 현 은 범 죄 에\n할 수 있어. 사이버 공 간 에서 표 현 의 | | 이 용 되거나 사회적 신 뢰 와 질 서 를\n자 유 가 정 당 하게 행 사 되려면 익 명 성 이 | | 해치는 무책임한 행 동 을 일 으 키 므로\n보 장 되어야 해. 금 지 되어야 해.\n09 익 명 성은 그 자 체 로 가 치 중립적 성 격 을 지 님 을 간 과 하고 있다.\n(3) 사이버 폭 력 의 증 가 가 디지털 익 명 성에 기 인 함 을 간 과 하고 있다.\n(8) 사이버 공 간 의 실명 공 개 가 표 현 의 책 임 성 을 강 화 함 을 가 과 하고 있다.\n(@ 사이버 공 간 의 익 명 성 규 제 가 잇 간의 기 본 권 을 회 손 함 을 긴 과 하 고 있 다.\n(6) 익 명 성 보 장 이 사회 구 성 윈 들 간의 불 신 을 조 장 합 을 간 과 하고 있다.",
+    "stem": "감 이 을 에게 제 기 할 반 론 으 로 가장 적절한 것은?",
+    "passage": "디지털 익 명 성은 사 람 들 이 자유롭게 ㅣ | 디지털 익 명 성은 사 회 에 해 악 을 끼치기\n자 신 의 삶 을 계 획 하 고 실 현 하 는 데 | ㅣ | 때 문 에 일종의 악 이 라 할 수 있어.\n매우 중 요 하기 때문에 일종의 선 이라 ㅣ | 사이버 공 간 에서 익 명 의 표 현 은 범 죄 에\n할 수 있어. 사이버 공 간 에서 표 현 의 | | 이 용 되거나 사회적 신 뢰 와 질 서 를\n자 유 가 정 당 하게 행 사 되려면 익 명 성 이 | | 해치는 무책임한 행 동 을 일 으 키 므로\n보 장 되어야 해. 금 지 되어야 해.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "익 명 성은 그 자 체 로 가 치 중립적 성 격 을 지 님 을 간 과 하고 있다."
+      },
+      {
+        "number": 2,
+        "text": "사이버 폭 력 의 증 가 가 디지털 익 명 성에 기 인 함 을 간 과 하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "사이버 공 간 의 실명 공 개 가 표 현 의 책 임 성 을 강 화 함 을 가 과 하고 있다."
+      },
+      {
+        "number": 4,
+        "text": "사이버 공 간 의 익 명 성 규 제 가 잇 간의 기 본 권 을 회 손 함 을 긴 과 하 고 있 다."
+      },
+      {
+        "number": 5,
+        "text": "익 명 성 보 장 이 사회 구 성 윈 들 간의 불 신 을 조 장 합 을 간 과 하고 있다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=12"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.867,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:20+00:00",
+    "qa_flags": []
+  }
+}

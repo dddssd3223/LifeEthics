@@ -1,0 +1,73 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 71,
+    "question_number": 12,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2088,
+      1740,
+      3348
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]\n갑 : 누구든 그가 처 벌 받아야 할 행 동 을 원했기 때문에 처 벌 받는\n것이다. 아무리 고 통 이 가득한 삶 이 라도 살 과 죽 음 은 같은\n종 류 의 것이 아니다. 법 정 의 심 판 대 앞에서 살 인 죄 에 대한\n최상의 균 형 자는 사 형 이다.\n을 : 누구든 자 신 의 생 명 을 빼앗을 권 한 을 기꺼이 양 도 하지 않을\n것이다. 사회 계 약 의 목 적 은 공리, 즉 최대 다 수 의 최대\n행 복 이며, 이것이 인간적 정 의 의 기 초 이다. 사 형 보다 종신\n노 역 형 이 공 리 에 부 합 한다.\n0) 갑 : 범 죄 자 는 범 행 이 아닌 처 벌 을 원했기 때문에 처 벌 받는 것이다.\n2) 갑 : 사 형 은 살 인 범 을 수 단 으 로 서 만 대 하 려는 응 분 의 보복 행 위 이다.\n(9) 을 : 종신 노 역 형 은 비 공 개 로 집 행 하는 것이 범죄 예 방 에 효 과 적 이다.\n0) 을 : 사 형 은 범죄 억 제 력 이 최 대 이므로 사회 계 약 의 목 적 에 부 합 한다.\n(9) 갑 , 을: 형 벌 은 사적인 보 복 이 이니라 공적인 정 의 를 실 현 해야만 한다.",
+    "stem": "감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 누구든 그가 처 벌 받아야 할 행 동 을 원했기 때문에 처 벌 받는\n것이다. 아무리 고 통 이 가득한 삶 이 라도 살 과 죽 음 은 같은\n종 류 의 것이 아니다. 법 정 의 심 판 대 앞에서 살 인 죄 에 대한\n최상의 균 형 자는 사 형 이다.\n을 : 누구든 자 신 의 생 명 을 빼앗을 권 한 을 기꺼이 양 도 하지 않을\n것이다. 사회 계 약 의 목 적 은 공리, 즉 최대 다 수 의 최대\n행 복 이며, 이것이 인간적 정 의 의 기 초 이다. 사 형 보다 종신\n노 역 형 이 공 리 에 부 합 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 범 죄 자 는 범 행 이 아닌 처 벌 을 원했기 때문에 처 벌 받는 것이다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 사 형 은 살 인 범 을 수 단 으 로 서 만 대 하 려는 응 분 의 보복 행 위 이다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 종신 노 역 형 은 비 공 개 로 집 행 하는 것이 범죄 예 방 에 효 과 적 이다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 사 형 은 범죄 억 제 력 이 최 대 이므로 사회 계 약 의 목 적 에 부 합 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 형 벌 은 사적인 보 복 이 이니라 공적인 정 의 를 실 현 해야만 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.902,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:18+00:00",
+    "qa_flags": []
+  }
+}

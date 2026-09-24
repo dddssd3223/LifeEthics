@@ -1,0 +1,73 @@
+{
+  "id": "2017_SEPTEMBER_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 44,
+    "question_number": 19,
+    "exam_key": "2017_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      501,
+      2999,
+      2383
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_SEPTEMBER_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 다음 글 의 갑 ~ 정 중 적어도 세 명이 부 정 의 대 답 을 할 질 문 만을\n< 보 기 > 에 서 있는 대로 고른 것은?\n과 학 자 의 윤리적 책 임 은 내적 책 임 과 외적 책 임 으로 구분\n할 수 있다. 내적 책 임 은 연구 과정 자 체 에 만 한정된 책 임 이며,\n외적 책 임 은 연구 결 과 의 사회적 활 용 에 대한 책 임 이다.\n따라서 논 리 적 으로 다 음 과 같은 네 명의 입 장 이 가 능 하 다.\n갑 있을 있을\n버 ^ ㅅ ㅁ ^ ㅅ ㅁ\n으 있을 없을\n르 ^ ㅅ ㅁㅁ 2 ㅅ ㅁㅁ\n벽 없음 있음\n어 으 =\n정 없음 없음\n없으 없으\nㄱ . 과 학 자 는 자 료 를 위 조 해서라도 사회적 책 임 을 다해야 하는가?\nㄴ . 과 학 자 는 모든 책 임 에서 면 제 되어 자유롭게 연 구 해야 하는가?\nㄷ . 과 학 자 는 연 구 자 체 만이 이니라 사회적 부 작 용 도 책 임 져야 하는가?\n2 . 과 학 자 는 어 떠 한 경 우 에 도 연구 과 정 에서 표 절 을 해서는 안 되는가?\n0) ㄱ , ㄴ (2) ㄱ , (3) ㄷ , 르\n(0) ㄱ , ㄴ , ㄷ (66) ㄴ , ㄷ , 2",
+    "stem": "다음 글 의 갑 ~ 정 중 적어도 세 명이 부 정 의 대 답 을 할 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "과 학 자 의 윤리적 책 임 은 내적 책 임 과 외적 책 임 으로 구분\n할 수 있다. 내적 책 임 은 연구 과정 자 체 에 만 한정된 책 임 이며,\n외적 책 임 은 연구 결 과 의 사회적 활 용 에 대한 책 임 이다.\n따라서 논 리 적 으로 다 음 과 같은 네 명의 입 장 이 가 능 하 다.\n갑 있을 있을\n버 ^ ㅅ ㅁ ^ ㅅ ㅁ\n으 있을 없을\n르 ^ ㅅ ㅁㅁ 2 ㅅ ㅁㅁ\n벽 없음 있음\n어 으 =\n정 없음 없음\n없으 없으\nㄱ . 과 학 자 는 자 료 를 위 조 해서라도 사회적 책 임 을 다해야 하는가?\nㄴ . 과 학 자 는 모든 책 임 에서 면 제 되어 자유롭게 연 구 해야 하는가?\nㄷ . 과 학 자 는 연 구 자 체 만이 이니라 사회적 부 작 용 도 책 임 져야 하는가?\n2 . 과 학 자 는 어 떠 한 경 우 에 도 연구 과 정 에서 표 절 을 해서는 안 되는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ,"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄴ , ㄷ"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.866,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:14+00:00",
+    "qa_flags": []
+  }
+}

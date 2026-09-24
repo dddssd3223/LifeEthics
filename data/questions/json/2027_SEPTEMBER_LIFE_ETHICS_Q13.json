@@ -1,0 +1,73 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 151,
+    "question_number": 13,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      1876
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은\n갑 : 고 통 받는 사 회 에는 질서 정연한 사 회 가 되는 데 필요한\n정 치 적 이며 문 화 적 인 전 통 들이 결 김 되어 있다. 질서 정연한\n만 민 은 고 동 받는 사 회 들을 원 조 해야 할 의 무 가 있\n을: 우 리 는 얼마 되지 않는 비 용 을 가 지 고 도 곤 궁 한 타 인 의\n복 리 에 중요한 변 화 를 일으킬 수 있다. 윈 조는 공 리 의\n원 리 에 따른 전 지 구 적 의 무 다.\n01 갑 : 원 조 는 원조 대 상 국 의 경제적 불평등 해 소 에 기여할 수 없다.\n2) 갑 : 인권 구 현 을 위해서는 원조 대 싱 국 에 강 제 력 을 행사할 수 있다.\n@) 을 : 원 조 의 보편적 의 무 는 이성적 숙 고 를 통해서 노 출 될 수 있다.\n0 을 : 절대 빈 곤 국 에 대한 원 조 는 어떤 경 우 에도 유 보 될 수 없다.\n6 갑과 을: 한 국 가 가 동시에 원조 주 체 이면서 윈 조 대 상 일 수 있다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은",
+    "passage": "갑 : 고 통 받는 사 회 에는 질서 정연한 사 회 가 되는 데 필요한\n정 치 적 이며 문 화 적 인 전 통 들이 결 김 되어 있다. 질서 정연한\n만 민 은 고 동 받는 사 회 들을 원 조 해야 할 의 무 가 있\n을: 우 리 는 얼마 되지 않는 비 용 을 가 지 고 도 곤 궁 한 타 인 의\n복 리 에 중요한 변 화 를 일으킬 수 있다. 윈 조는 공 리 의\n원 리 에 따른 전 지 구 적 의 무 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 원 조 는 원조 대 상 국 의 경제적 불평등 해 소 에 기여할 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 인권 구 현 을 위해서는 원조 대 싱 국 에 강 제 력 을 행사할 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 원 조 의 보편적 의 무 는 이성적 숙 고 를 통해서 노 출 될 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 절대 빈 곤 국 에 대한 원 조 는 어떤 경 우 에도 유 보 될 수 없다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을: 한 국 가 가 동시에 원조 주 체 이면서 윈 조 대 상 일 수 있다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.899,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:47:43+00:00",
+    "qa_flags": []
+  }
+}

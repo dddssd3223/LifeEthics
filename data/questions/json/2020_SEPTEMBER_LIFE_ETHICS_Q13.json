@@ -1,0 +1,73 @@
+{
+  "id": "2020_SEPTEMBER_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 79,
+    "question_number": 13,
+    "exam_key": "2020_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      1999
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_SEPTEMBER_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 다음 글 에서 강 조 하는 내 용 으로 가장 적절한 것은\n사이버 공 간 은 실제 공 간 의 연 장 이면서도 익 명 성의 특 징 을\n지닌 새로운 공 간 이다. 도덕적 책 임 을 둔 감 하게 만드는 익 명 성의\n부정적 측 면 을 간 과 해서는 안 되지만, 그 긍정적 측 면 을 살리는\n지 혜 가 필 요 하다. 사이버 공 간 에서 우 리 는 현 실 의 자 아 에서\n벗어나, 여러 자 아 를 실 협 하며 자 신 의 모 습 을 자유롭게 만들고\n해 체 하면서 새로운 자 아 를 형 성 할 수 있다. 우 리 는 다중 정 체 성 의\n위 험 에 유 의 한다면 사이버 자 아 를 통해 현 실 의 살 을 더 풍 성 하게\n할 수 있다.\n(01) 사이버 자 아 는 현실 자 아 의 반 영 에 불 과 하 다.\n(2) 사이버 자 아 의 익 명 성은 위 험 하 기 에 실 명 화 해야 한다.\n(3) 사이버 자 아 는 현 실 의 자 아 보다 도덕적 책 임 에 민 감 하다.\n0) 사이버 공 간 은 자아 정 체 성 을 모 색 할 수 있는 열린 공 간 이 다.\n09 사이버 공 간 의 다중 자 아 를 금 지 해 정체성 혼 란 을 예 방 해 야 한다.",
+    "stem": "다음 글 에서 강 조 하는 내 용 으로 가장 적절한 것은",
+    "passage": "사이버 공 간 은 실제 공 간 의 연 장 이면서도 익 명 성의 특 징 을\n지닌 새로운 공 간 이다. 도덕적 책 임 을 둔 감 하게 만드는 익 명 성의\n부정적 측 면 을 간 과 해서는 안 되지만, 그 긍정적 측 면 을 살리는\n지 혜 가 필 요 하다. 사이버 공 간 에서 우 리 는 현 실 의 자 아 에서\n벗어나, 여러 자 아 를 실 협 하며 자 신 의 모 습 을 자유롭게 만들고\n해 체 하면서 새로운 자 아 를 형 성 할 수 있다. 우 리 는 다중 정 체 성 의\n위 험 에 유 의 한다면 사이버 자 아 를 통해 현 실 의 살 을 더 풍 성 하게\n할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "사이버 자 아 는 현실 자 아 의 반 영 에 불 과 하 다."
+      },
+      {
+        "number": 2,
+        "text": "사이버 자 아 의 익 명 성은 위 험 하 기 에 실 명 화 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "사이버 자 아 는 현 실 의 자 아 보다 도덕적 책 임 에 민 감 하다."
+      },
+      {
+        "number": 4,
+        "text": "사이버 공 간 은 자아 정 체 성 을 모 색 할 수 있는 열린 공 간 이 다."
+      },
+      {
+        "number": 5,
+        "text": "사이버 공 간 의 다중 자 아 를 금 지 해 정체성 혼 란 을 예 방 해 야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.916,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:44:43+00:00",
+    "qa_flags": []
+  }
+}

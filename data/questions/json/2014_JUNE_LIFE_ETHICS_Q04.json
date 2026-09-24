@@ -1,0 +1,73 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 1,
+    "question_number": 4,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      2176,
+      2999,
+      3262
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 에 들어갈 내 용 으로 가장 적절한 것은?\n갑 : 성 () 을 이윤 추 구 에 이용하는 것은 인 간 을 목 적 이 아닌\n수 단 으로 취 급 하는 것 입니다.\n을: 성적인 이 미 지 를 이용한 성의 상 품 화 는 더 이상 금 기 의\n대 상 이 아닙니다. 따라서 그러한 방 법 을 이용한 기 업 의\n이윤 추 구 를 비 난 해서는 안 됩니다.\n갑 : 제 생 각 에 당 신 의 주 장 은 이\n0) 성의 인격적 가 치 를 존 중 해야 함 을 간 과 하고 있습니다.\n(3) 성적 표 현 의 자 유 를 제 한 해야 함 을 강 조 하고 있습니다.\n(9) 성 이 지닌 쾌 락 적 가 치 의 중 요 성 을 경 시 하고 있습니다.\n(4) 성도 일반적인 상 품 과 동일한 것임을 간 과 하고 있습니다.\n5) 성적 취 향 의 다 양 성 을 존 중 해야 함 을 간 과 하고 있습니다.",
+    "stem": "에 들어갈 내 용 으로 가장 적절한 것은?",
+    "passage": "갑 : 성 () 을 이윤 추 구 에 이용하는 것은 인 간 을 목 적 이 아닌\n수 단 으로 취 급 하는 것 입니다.\n을: 성적인 이 미 지 를 이용한 성의 상 품 화 는 더 이상 금 기 의\n대 상 이 아닙니다. 따라서 그러한 방 법 을 이용한 기 업 의\n이윤 추 구 를 비 난 해서는 안 됩니다.\n갑 : 제 생 각 에 당 신 의 주 장 은 이",
+    "choices": [
+      {
+        "number": 1,
+        "text": "성의 인격적 가 치 를 존 중 해야 함 을 간 과 하고 있습니다."
+      },
+      {
+        "number": 2,
+        "text": "성적 표 현 의 자 유 를 제 한 해야 함 을 강 조 하고 있습니다."
+      },
+      {
+        "number": 3,
+        "text": "성 이 지닌 쾌 락 적 가 치 의 중 요 성 을 경 시 하고 있습니다."
+      },
+      {
+        "number": 4,
+        "text": "성도 일반적인 상 품 과 동일한 것임을 간 과 하고 있습니다."
+      },
+      {
+        "number": 5,
+        "text": "성적 취 향 의 다 양 성 을 존 중 해야 함 을 간 과 하고 있습니다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:31+00:00",
+    "qa_flags": []
+  }
+}

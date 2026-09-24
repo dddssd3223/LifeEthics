@@ -1,0 +1,73 @@
+{
+  "id": "2021_CSAT_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 94,
+    "question_number": 9,
+    "exam_key": "2021_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2264
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_CSAT_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 감 , 을 사 상 가 들의 공통된 입 장 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 모든 사 람 에게는 주어진 본 분 이 있다. 군 주 는 군 주 의\n본 분 을, 신 하 는 신 하 의 본 분 을, 부 모 는 부 모 의 본 분 을,\n자 식 은 자 식 의 본 분 을 다하는 것을 정 명 ( ㅠ 씀 ) 이 라 한다.\n을: 국 가 에서 통 치 자 는 지 혜 를, 방 위 자는 용 기 를, 생 산 자 는\n절 제 를 발 휘 하여, 여러 구 성 원 들이 조화롭게 살아가는 것을\n정 의 (가라 한다.\n< 보 기 >\n-. 사회적 직 분 에는 그것에 합당한 도덕적 덕 목 이 요 구 된다.\nㄴ . 누구나 자 신 의 직 업 을 선택할 수 있는 자 유 를 가져야 한다.\nㄷ . 각 자 는 역할 수 행 에 필요한 덕 을 갖 추 도록 노력해야 한다.\n르 . 구 성 원 의 역 할 이 분 담 되면 자연스럽게 이상적 국 가 가 실 현 된다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄴ , 큰\n04) 1, =, 르 05) 느 , =, 르",
+    "stem": "감 , 을 사 상 가 들의 공통된 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 모든 사 람 에게는 주어진 본 분 이 있다. 군 주 는 군 주 의\n본 분 을, 신 하 는 신 하 의 본 분 을, 부 모 는 부 모 의 본 분 을,\n자 식 은 자 식 의 본 분 을 다하는 것을 정 명 ( ㅠ 씀 ) 이 라 한다.\n을: 국 가 에서 통 치 자 는 지 혜 를, 방 위 자는 용 기 를, 생 산 자 는\n절 제 를 발 휘 하여, 여러 구 성 원 들이 조화롭게 살아가는 것을\n정 의 (가라 한다.\n< 보 기 >\n-. 사회적 직 분 에는 그것에 합당한 도덕적 덕 목 이 요 구 된다.\nㄴ . 누구나 자 신 의 직 업 을 선택할 수 있는 자 유 를 가져야 한다.\nㄷ . 각 자 는 역할 수 행 에 필요한 덕 을 갖 추 도록 노력해야 한다.\n르 . 구 성 원 의 역 할 이 분 담 되면 자연스럽게 이상적 국 가 가 실 현 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, =, 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.881,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:14+00:00",
+    "qa_flags": []
+  }
+}

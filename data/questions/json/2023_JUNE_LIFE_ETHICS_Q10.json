@@ -1,0 +1,75 @@
+{
+  "id": "2023_JUNE_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 110,
+    "question_number": 10,
+    "exam_key": "2023_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2475,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_JUNE_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장\n적절한 것은?\n갑 : 처벌 그 자 체 는 고 통 을 주므로 악 이다. 하지만 처 벌 어\n더 큰 악 을 제 거 한 다면 양적 공 리 의 원 칙 에 의해 허 용 된다\n을: 형 벌 은 강 도 보다 지 속 성 을 중 시 해야 한다. 사 형 은 한\n0 | 시 린 에 때 한 국 가 의 전 쟁 이므로 허 용 되 어 서 는 안 된다.\n병 : 살 인 자 는 사 형 에 처 해 져야 한다. 누 구 는지 그가 형 벌 을\n받 이 야 할 행 위 를 의 욕 했기 때문에 형 벌 을 받는 것이다.\n범 례\nㅡ -* : 비 판 의 방향\n스 ~Ｌ : 비 판 의 내용\n(나) 4 놈 네 에 시\n스\n. @-…@\n~ 쇼 는 갑 이 을 에게 제 기 할\n- ㅎ >, 수 있는 비 판 임 .\n00 &: 형 벌 을 통해 행 위 를 통 제 하고자 하는 대 상 은 법 죄 자 에\n국 한 되어야 합 을 간 과 한다.\n2) 8: 형 벌 의 종 류 와 크 기 는 사회적 파급 효 과 를 고 려 하여 정해야\n함 을 간 과 한다.\n@) 0, 8: 형 벌 은 사회적 선 을 촉 진 하기 위한 수 단 으로 가해질 수\n없 음 을 간 과 한다.\n4) 1: 사 형 을 통해 지 속 적 으로 공포 인 상 을 주어 범 죄 를 예 빵 해야\n함 을 간 과 한다.\n5) 『: 형 벌 로부터 초 래 되는 해 악 은 형 벌 을 부 과 할 때 고려해야 할\n사 항 이 아 님 을 간 과 한다,",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장 적절한 것은?",
+    "passage": "갑 : 처벌 그 자 체 는 고 통 을 주므로 악 이다. 하지만 처 벌 어\n더 큰 악 을 제 거 한 다면 양적 공 리 의 원 칙 에 의해 허 용 된다\n을: 형 벌 은 강 도 보다 지 속 성 을 중 시 해야 한다. 사 형 은 한\n0 | 시 린 에 때 한 국 가 의 전 쟁 이므로 허 용 되 어 서 는 안 된다.\n병 : 살 인 자 는 사 형 에 처 해 져야 한다. 누 구 는지 그가 형 벌 을\n받 이 야 할 행 위 를 의 욕 했기 때문에 형 벌 을 받는 것이다.\n범 례\nㅡ -* : 비 판 의 방향\n스 ~Ｌ : 비 판 의 내용\n(나) 4 놈 네 에 시\n스\n. @-…@\n~ 쇼 는 갑 이 을 에게 제 기 할\n- ㅎ >, 수 있는 비 판 임 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": "&: 형 벌 을 통해 행 위 를 통 제 하고자 하는 대 상 은 법 죄 자 에 국 한 되어야 합 을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "8: 형 벌 의 종 류 와 크 기 는 사회적 파급 효 과 를 고 려 하여 정해야 함 을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "0, 8: 형 벌 은 사회적 선 을 촉 진 하기 위한 수 단 으로 가해질 수 없 음 을 간 과 한다."
+      },
+      {
+        "number": 4,
+        "text": "1: 사 형 을 통해 지 속 적 으로 공포 인 상 을 주어 범 죄 를 예 빵 해야 함 을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": "『: 형 벌 로부터 초 래 되는 해 악 은 형 벌 을 부 과 할 때 고려해야 할 사 항 이 아 님 을 간 과 한다,"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.854,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:58+00:00",
+    "qa_flags": []
+  }
+}

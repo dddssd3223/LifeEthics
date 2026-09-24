@@ -1,0 +1,77 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 123,
+    "question_number": 14,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2455
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른\n것은? [3 점 ]\n갑 : 고 통 받는 사 회 들만 원 조 가 필 요 하다. 원 조 의 목 표 는 고통\n받는 사 회 들이 질서 정연한 국제 사 회 의 구 성 원 이 되게\n하는 것이다. 이러한 목 표 나 차 단 점 을 넘 어 서 면 원 조 는\n필요 없다.\n을: 절대 빈 곤 은 매우 나쁜 것이다. 우 리 에게 그에 상 응 하는\n도 덕 적 으로 중요한 일 을 희 생 시키지 않고 절대 빈 곤 을\n감 소 시킬 힙 이 있다면, 인류 복 지 의 최 대 화 를 위해 우 리 는\n마땅히 그렇게 해야 한다.\n< 보 기 >\nㄱ . 잡 : 공격적인 사 회 는 자 원 이 매우 꾸 족 해도 원조 대 상 이 아니다.\nㄴ . 을: 절대 빈 곤 의 감 수 를 위한 원 조 는 예외 없는 도덕적 의 무 이다.\nㄷ . 을: 원 조 는 이익 평등 고 려 의 원 칙 에 따른 전 지 구 적 의 무 이다.\n2. 갑과 을: 원조 대 상 의 경 제 력 은 원조 결 정 의 고려 사 항 이 아니다.\n0700 0976 6 9042 662",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 고 통 받는 사 회 들만 원 조 가 필 요 하다. 원 조 의 목 표 는 고통\n받는 사 회 들이 질서 정연한 국제 사 회 의 구 성 원 이 되게\n하는 것이다. 이러한 목 표 나 차 단 점 을 넘 어 서 면 원 조 는\n필요 없다.\n을: 절대 빈 곤 은 매우 나쁜 것이다. 우 리 에게 그에 상 응 하는\n도 덕 적 으로 중요한 일 을 희 생 시키지 않고 절대 빈 곤 을\n감 소 시킬 힙 이 있다면, 인류 복 지 의 최 대 화 를 위해 우 리 는\n마땅히 그렇게 해야 한다.\n< 보 기 >\nㄱ . 잡 : 공격적인 사 회 는 자 원 이 매우 꾸 족 해도 원조 대 상 이 아니다.\nㄴ . 을: 절대 빈 곤 의 감 수 를 위한 원 조 는 예외 없는 도덕적 의 무 이다.\nㄷ . 을: 원 조 는 이익 평등 고 려 의 원 칙 에 따른 전 지 구 적 의 무 이다.\n2. 갑과 을: 원조 대 상 의 경 제 력 은 원조 결 정 의 고려 사 항 이 아니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.891,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:55:07+00:00",
+    "qa_flags": []
+  }
+}

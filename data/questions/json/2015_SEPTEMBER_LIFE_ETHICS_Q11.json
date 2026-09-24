@@ -1,0 +1,73 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 19,
+    "question_number": 11,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      506,
+      1592,
+      1633
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. (가), (나) 사 상 의 자 연 관 에 대한 설 명 으로 가장 적절한 것은?\n(가) 하 늘 과 땅 은 사 랑 을 모 르 므 로 [(-] 인 간 을 포함한 만\n물 을 찾 으로 만든 개 처럼 취 급 한다. 성 인 (/\\) 도 사랑\n을 모 르 므로 백 성 을 질 으 로 만든 개 처럼 취 급 한다.\n(나) 하 늘 이 사 람 에게 명 령 한 것을 본 성 [ 쓴 ] 이 라 하고, 본성\n을 따르는 것을 도 ( 캐 ) 라 하며, 이 도 를 다 아 나가는 것\n을 교 화 [%0 라 고 한다.\n0 ( 가 ) 는 인 간 과 하 늘 을 상호 독립된 존 재 로 이해해야 한다고 본다.\n2) ( 나 ) 는 자 연 을 필연적 질 서 가 지 배 하는 기 계 적 인 존 재 로 본다.\n@) ( 가 ) 는 ( 나 ) 와 달리 자 연 이 목 적 론적 체 계 로 구 성 된 다고 본다.\n@) (나는 ( 가 ) 와 달리 하 늘 이 인 ([ ) 과 같은 덕의 근 원 이라고 본다.\n6) (가), ( 나 ) 는 연 기 적 (80809) 관 점 에서 자 연 을 이해해야 한다고 본다.",
+    "stem": "(가), (나) 사 상 의 자 연 관 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "(가) 하 늘 과 땅 은 사 랑 을 모 르 므 로 [(-] 인 간 을 포함한 만\n물 을 찾 으로 만든 개 처럼 취 급 한다. 성 인 (/\\) 도 사랑\n을 모 르 므로 백 성 을 질 으 로 만든 개 처럼 취 급 한다.\n(나) 하 늘 이 사 람 에게 명 령 한 것을 본 성 [ 쓴 ] 이 라 하고, 본성\n을 따르는 것을 도 ( 캐 ) 라 하며, 이 도 를 다 아 나가는 것\n을 교 화 [%0 라 고 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "( 가 ) 는 인 간 과 하 늘 을 상호 독립된 존 재 로 이해해야 한다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "( 나 ) 는 자 연 을 필연적 질 서 가 지 배 하는 기 계 적 인 존 재 로 본다."
+      },
+      {
+        "number": 3,
+        "text": "( 가 ) 는 ( 나 ) 와 달리 자 연 이 목 적 론적 체 계 로 구 성 된 다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "(나는 ( 가 ) 와 달리 하 늘 이 인 ([ ) 과 같은 덕의 근 원 이라고 본다."
+      },
+      {
+        "number": 5,
+        "text": "(가), ( 나 ) 는 연 기 적 (80809) 관 점 에서 자 연 을 이해해야 한다고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.873,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:09+00:00",
+    "qa_flags": []
+  }
+}

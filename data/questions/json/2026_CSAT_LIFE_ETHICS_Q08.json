@@ -1,0 +1,73 @@
+{
+  "id": "2026_CSAT_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 158,
+    "question_number": 8,
+    "exam_key": "2026_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2000
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_CSAT_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은?\n갑 : 신은 사 람 마다 주어진 적절한 한 계 를 벗 어 니지 않도록 하기\n위해 각기 다른 삶 의 양 태 를 소 명 이라 이 름 하셨다. 그래서\n다스리는 사 람 은 자기 직 분 을 더 의 욕 적 으로 수 행 할 것이며,\n가 정 의 가 장 도 자기 의 무 를 다할 것이다.\n을: 군 주 가 예 의 를 숭 싱 하고 법 도 를 이 루 면 나 라 의 표 준 이 있게\n된다. 그런 후 사 람 들 의 직 분 을 분명히 나누고, 하는 일 에\n질 서 를 마 련 하며, 재 능 과 기 술 을 따져 능력 있는 이 에 게\n관 직 을 주면 잘 다 스 려 지지 않을 수가 없다.\n2 갑 : 직업적 성 공 은 선 행 에 대한 공 로 를 신 에게 인 정 받은 은 총 이 다.\n2 갑 : 소 명 으로 주어진 직업 중 고 귀 하지 않은 직 업 은 있을 수 없다.\n3) 을 : 군 자 와 소 인 은 그 본성 다 르 기 에 직 업 에 차 별 이 있어야 한다.\n0 을 : 직 업 은 재 능 에 따라 정 해 지 므로 공 적 을 따져 보 상 해서는 안 된다.\n갑과 을 : 각 자 의 직 업 은 천 직 (398@ 이 기에 개 인 의 의 지 로 바꿈 수 없다.",
+    "stem": "감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은?",
+    "passage": "갑 : 신은 사 람 마다 주어진 적절한 한 계 를 벗 어 니지 않도록 하기\n위해 각기 다른 삶 의 양 태 를 소 명 이라 이 름 하셨다. 그래서\n다스리는 사 람 은 자기 직 분 을 더 의 욕 적 으로 수 행 할 것이며,\n가 정 의 가 장 도 자기 의 무 를 다할 것이다.\n을: 군 주 가 예 의 를 숭 싱 하고 법 도 를 이 루 면 나 라 의 표 준 이 있게\n된다. 그런 후 사 람 들 의 직 분 을 분명히 나누고, 하는 일 에\n질 서 를 마 련 하며, 재 능 과 기 술 을 따져 능력 있는 이 에 게\n관 직 을 주면 잘 다 스 려 지지 않을 수가 없다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 직업적 성 공 은 선 행 에 대한 공 로 를 신 에게 인 정 받은 은 총 이 다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 소 명 으로 주어진 직업 중 고 귀 하지 않은 직 업 은 있을 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 군 자 와 소 인 은 그 본성 다 르 기 에 직 업 에 차 별 이 있어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 직 업 은 재 능 에 따라 정 해 지 므로 공 적 을 따져 보 상 해서는 안 된다."
+      },
+      {
+        "number": 5,
+        "text": "을 : 각 자 의 직 업 은 천 직 (398@ 이 기에 개 인 의 의 지 로 바꿈 수 없다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.894,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:47+00:00",
+    "qa_flags": []
+  }
+}

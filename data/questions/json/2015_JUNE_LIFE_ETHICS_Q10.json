@@ -1,0 +1,79 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 14,
+    "question_number": 10,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2922,
+      2999,
+      4300
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 그 림 은 수행 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 ㅁ ㅠ ~\n중 옮 지 않은 것은?\n수행 평가\n@ 문제: 사상가 갑 , 을 의 정 치 에 대한 입 장 을 비 교 하시오.\n갑 : 백 성 이 가장 귀 하 고, 사 직 ([#※) 이 그 다 음 이며, 임 금 이\n가장 겹 다. 그래서 백 성 의 마 음 을 얻으면 천 자 가 되고,\n천 자 에게 신 임 을 얻으면 제 후 가 되고, 제 후 에게 신 임 을\n얻으면 대 부 가 된다.\n을: 주권 재 민 의 원 리 에 따라 개 인 은 평 등 하 게 권 력 을 나누어\n가지며 참 여 를 통해 시 민 의 권 리 를 행 사 한 다. 시 민 들 이\n정 치 에 참 여 하는 이 유 는 상호 신 뢰 를 바 탕 으로 타 인 의\n권 리 를 지켜줄 때 나의 권 리 도 보 장 되기 때 문 이 다 .\n@ 학생 답안\n정 치 에 있어서 0 잡은 통 치 자 가 뱅 을 위한 정 치 를 해야 할 책 임 이\n있 읍 을 강 조 하고, 4 을 은 공적 영 역 에 대한 시 민 들 의 적극적\n관 심 과 책 무 를 강 조 한 다, 6 잡 은 통 치 자 가 덕 을 갖출 것을 강조\n하고, @ 을 은 시 민 들 이 이 기 심 을 버리고 이 1 타 심을 지닐 것을 강조\n한다, 하지만 @ 잡 은 백 성 을 위한 덕 치 (@#) 를 , 을 은 시 민 의\n권 리 를 강 조 한 다 는 접 에 서 둘 다 인 잔 의 존 업 성 을 중 시 한 다고\n볼 수 있다,\n00 00 8 06) = 00 8) 69) 2",
+    "stem": "그 림 은 수행 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 ㅁ ㅠ ~ 중 옮 지 않은 것은?",
+    "passage": "수행 평가\n@ 문제: 사상가 갑 , 을 의 정 치 에 대한 입 장 을 비 교 하시오.\n갑 : 백 성 이 가장 귀 하 고, 사 직 ([#※) 이 그 다 음 이며, 임 금 이\n가장 겹 다. 그래서 백 성 의 마 음 을 얻으면 천 자 가 되고,\n천 자 에게 신 임 을 얻으면 제 후 가 되고, 제 후 에게 신 임 을\n얻으면 대 부 가 된다.\n을: 주권 재 민 의 원 리 에 따라 개 인 은 평 등 하 게 권 력 을 나누어\n가지며 참 여 를 통해 시 민 의 권 리 를 행 사 한 다. 시 민 들 이\n정 치 에 참 여 하는 이 유 는 상호 신 뢰 를 바 탕 으로 타 인 의\n권 리 를 지켜줄 때 나의 권 리 도 보 장 되기 때 문 이 다 .\n@ 학생 답안\n정 치 에 있어서 0 잡은 통 치 자 가 뱅 을 위한 정 치 를 해야 할 책 임 이\n있 읍 을 강 조 하고, 4 을 은 공적 영 역 에 대한 시 민 들 의 적극적\n관 심 과 책 무 를 강 조 한 다, 6 잡 은 통 치 자 가 덕 을 갖출 것을 강조\n하고, @ 을 은 시 민 들 이 이 기 심 을 버리고 이 1 타 심을 지닐 것을 강조\n한다, 하지만 @ 잡 은 백 성 을 위한 덕 치 (@#) 를 , 을 은 시 민 의\n권 리 를 강 조 한 다 는 접 에 서 둘 다 인 잔 의 존 업 성 을 중 시 한 다고\n볼 수 있다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(0"
+      },
+      {
+        "number": 2,
+        "text": "8"
+      },
+      {
+        "number": 3,
+        "text": "="
+      },
+      {
+        "number": 4,
+        "text": "8)"
+      },
+      {
+        "number": 5,
+        "text": "2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=3894",
+      "vector_lines=6083"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.867,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 3, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows_clustered",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:35:46+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 20,
+    "question_number": 17,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1602,
+      1592,
+      2905
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은?\n갑 : 민 족 은 근 대 화 라는 특정한 사회적 조 건 에서 등장한 상\n상 된 공 동 체 ' 라 고 할 수 있어.\n을: 그렇지 않아. 민 족 은 고대 이래 혈연, 언 어 를 공 유 하는\n실 체 로 지 금 까 지 존 재 해 왔어.\n갑 : 민 족 은 혈 연 이나 언 어 가 아니라 구 성 원 의 의 지 에 기초한\n공 동 체 야 . 그러니까 민 족 은 ' 매 일 매 일 의 국민 두 표 에 의해\n결 정 된 다는 비 유 도 가능해,\n을: 민 족 은 대대로 이어진 원초적 유 대 로 결 속 된 집 단 이야. 그\n래서 개 인 이 자기 의 지 대로 민 족 을 선 택 하는 건 불 가 능 해.\n(1 민 족 은 언 제 부터 어떤 요 소 에 의해 형 성 되어 왔는가?\n(3) 민 족 이 등장한 근대 이 후 의 사회적 조 건 은 무 엇 인가?\n(9) 민 족 의 구성 요 소 는 근대화 과 정 에서 왜 변 화 하였는가?\n(4 민족 구 성 원 의 의 지 는 원초적 유 대 를 어떻게 강 화 하는가?\n(5) 민족 형 성 이 민주주의 발 전 과 병 행 했던 이 유 는 무 엇 인가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은?",
+    "passage": "갑 : 민 족 은 근 대 화 라는 특정한 사회적 조 건 에서 등장한 상\n상 된 공 동 체 ' 라 고 할 수 있어.\n을: 그렇지 않아. 민 족 은 고대 이래 혈연, 언 어 를 공 유 하는\n실 체 로 지 금 까 지 존 재 해 왔어.\n갑 : 민 족 은 혈 연 이나 언 어 가 아니라 구 성 원 의 의 지 에 기초한\n공 동 체 야 . 그러니까 민 족 은 ' 매 일 매 일 의 국민 두 표 에 의해\n결 정 된 다는 비 유 도 가능해,\n을: 민 족 은 대대로 이어진 원초적 유 대 로 결 속 된 집 단 이야. 그\n래서 개 인 이 자기 의 지 대로 민 족 을 선 택 하는 건 불 가 능 해.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "민 족 은 언 제 부터 어떤 요 소 에 의해 형 성 되어 왔는가?"
+      },
+      {
+        "number": 2,
+        "text": "민 족 이 등장한 근대 이 후 의 사회적 조 건 은 무 엇 인가?"
+      },
+      {
+        "number": 3,
+        "text": "민 족 의 구성 요 소 는 근대화 과 정 에서 왜 변 화 하였는가?"
+      },
+      {
+        "number": 4,
+        "text": "민족 구 성 원 의 의 지 는 원초적 유 대 를 어떻게 강 화 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "민족 형 성 이 민주주의 발 전 과 병 행 했던 이 유 는 무 엇 인가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.918,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:12+00:00",
+    "qa_flags": []
+  }
+}

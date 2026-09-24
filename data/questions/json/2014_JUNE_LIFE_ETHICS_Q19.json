@@ -1,0 +1,76 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 4,
+    "question_number": 19,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      1919
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 갑 , 을 모 두 가 ( 나 ) 의 그 림 과 관 련 하여 부 정 의 대 답 을\n할 질 문 으로 옮 은 것은? [3 접 ]\n갑 : 사회적 ㆍ 경 제적 불 평 등 은 최소 수 혜 자 에게 최대\n의 이 억 이 보 장 될 때 정 당 화 된다.\n1 | 을: 개 인 들의 이 익 의 총 합 으로 이루어지는 공동체 전\n의 이 익 을 극 대 화 해야 한다.\n어떤 사 회 의 구 성 원 이 1\n?7 Ｌ\n두 사 람 뿐이고, 가능한 (| 소개\n분배 방식 4, 8, (를 통 | )\n0 | 기 구성원 각 각 이 얻을 43 때\n2 [ |\n수 있는 이 익 의 크 기 를 | 퍼\n<, 라고 가 정 하자. 0 12345678910*\n02 가 쇼 보 다 더 정 의 로운 분배 방 식 인가?\n(2) (가 쇼 보 다 더 정 의 로운 분배 방 식 인가?\n(8) 8 와 (는 똑같이 정 의 로운 분배 방 식 인가?\n@) &, 8 중에서 보다 더 정 의 로운 분배 방 식 이 있는가?\n6) &, ( 중에서 보다 더 정 의 로운 분배 방 식 이 있는가?",
+    "stem": "( 가 ) 의 갑 , 을 모 두 가 ( 나 ) 의 그 림 과 관 련 하여 부 정 의 대 답 을 할 질 문 으로 옮 은 것은? [3 접 ]",
+    "passage": "갑 : 사회적 ㆍ 경 제적 불 평 등 은 최소 수 혜 자 에게 최대\n의 이 억 이 보 장 될 때 정 당 화 된다.\n1 | 을: 개 인 들의 이 익 의 총 합 으로 이루어지는 공동체 전\n의 이 익 을 극 대 화 해야 한다.\n어떤 사 회 의 구 성 원 이 1\n?7 Ｌ\n두 사 람 뿐이고, 가능한 (| 소개\n분배 방식 4, 8, (를 통 | )\n0 | 기 구성원 각 각 이 얻을 43 때\n2 [ |\n수 있는 이 익 의 크 기 를 | 퍼\n<, 라고 가 정 하자. 0 12345678910*",
+    "choices": [
+      {
+        "number": 1,
+        "text": "가 쇼 보 다 더 정 의 로운 분배 방 식 인가?"
+      },
+      {
+        "number": 2,
+        "text": "(가 쇼 보 다 더 정 의 로운 분배 방 식 인가?"
+      },
+      {
+        "number": 3,
+        "text": "8 와 (는 똑같이 정 의 로운 분배 방 식 인가?"
+      },
+      {
+        "number": 4,
+        "text": "&, 8 중에서 보다 더 정 의 로운 분배 방 식 이 있는가?"
+      },
+      {
+        "number": 5,
+        "text": "&, ( 중에서 보다 더 정 의 로운 분배 방 식 이 있는가?"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=16",
+      "vector_lines=37"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.808,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:37+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 19,
+    "question_number": 13,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3028,
+      1592,
+      4303
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 다음 대 화 에서 에 들어갈 내 용 으로 가장 적절한 것은?\n야 구 에서 특정 소 재 로 만든 배트 사 용 을 ! 런 데 그 배 사 용 하면 선 수 들 의\n금 지 하 는 것은 천 마 라 거야. 스 포 츠 에 서 의 | | | 경 기 력 이 향 상 되어 관 중 에게 더 큰 흥 미 를\n경 쟁 은 커 마 잖아. 유발할 수 있어. 스 포 츠 는 놀 이 의 관점\n(0\n에서 바 라 봐 야 해.\n하더라도 각 선 수 가 사 용 하는 장 비 의 경 기 력 이 향 상 된 다 면 어떤 장 비 를 아이\n질적 차 이 가 경기 결 과 에 영 향 을 끼 쳐 서는 것 인 가 는 선수 개 인 의 서 리 에 맡겨야\n안 된다고 2 왜냐하면 나는 해\n생 각 하 기 때문이야.\n(0\n0 스 포 츠 가 재 미 와 즐 거 움 을 추 구 하는 활 동 이 되어야 한다\n9 스 포 츠 가 제 도 화 된 규 직 에 의해 지 배 되는 활 동 이어야 한다\n8) 신 체 적 인 탁 월 성 을 발 휘 하는 것이 스 포 츠 의 목 적 이 되어야 한다\n@ 개 인 의 노력 이 외 의 것이 경기 결 과 에 영 향 을 끼 쳐 서는 안 된다\n(6) 경기력 향 상 이라는 명 목 으로 불공정 경 쟁 을 정 당 화 할 수 는 없다",
+    "stem": "다음 대 화 에서 에 들어갈 내 용 으로 가장 적절한 것은?",
+    "passage": "야 구 에서 특정 소 재 로 만든 배트 사 용 을 ! 런 데 그 배 사 용 하면 선 수 들 의\n금 지 하 는 것은 천 마 라 거야. 스 포 츠 에 서 의 | | | 경 기 력 이 향 상 되어 관 중 에게 더 큰 흥 미 를\n경 쟁 은 커 마 잖아. 유발할 수 있어. 스 포 츠 는 놀 이 의 관점\n(0\n에서 바 라 봐 야 해.\n하더라도 각 선 수 가 사 용 하는 장 비 의 경 기 력 이 향 상 된 다 면 어떤 장 비 를 아이\n질적 차 이 가 경기 결 과 에 영 향 을 끼 쳐 서는 것 인 가 는 선수 개 인 의 서 리 에 맡겨야\n안 된다고 2 왜냐하면 나는 해\n생 각 하 기 때문이야.\n(0",
+    "choices": [
+      {
+        "number": 1,
+        "text": "스 포 츠 가 재 미 와 즐 거 움 을 추 구 하는 활 동 이 되어야 한다"
+      },
+      {
+        "number": 2,
+        "text": "스 포 츠 가 제 도 화 된 규 직 에 의해 지 배 되는 활 동 이어야 한다"
+      },
+      {
+        "number": 3,
+        "text": "신 체 적 인 탁 월 성 을 발 휘 하는 것이 스 포 츠 의 목 적 이 되어야 한다"
+      },
+      {
+        "number": 4,
+        "text": "개 인 의 노력 이 외 의 것이 경기 결 과 에 영 향 을 끼 쳐 서는 안 된다"
+      },
+      {
+        "number": 5,
+        "text": "경기력 향 상 이라는 명 목 으로 불공정 경 쟁 을 정 당 화 할 수 는 없다"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=2595",
+      "vector_lines=2988"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.873,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:35:55+00:00",
+    "qa_flags": []
+  }
+}

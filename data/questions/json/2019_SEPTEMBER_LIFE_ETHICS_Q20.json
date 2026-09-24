@@ -1,0 +1,77 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 68,
+    "question_number": 20,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      2687,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 그 림 의 강 연 자가 긍 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?\n것\n과 시 적 소 비 는 자 신 의 부 와 명 성 을 타 인 에 게 명백하게\n명 성 을\n증 명 하려는 경 쟁 적 인 소비 행 위 입니다. 명 성 의 관 점 에서\n사회 구 조 의 최 상 부 에 위치한 유 한 계 금 의 생활 예 절 과\n가치 기 준 들은 사회 구 조 의 최 하 층 까지 강 압 적 인 영 향 력 을\n확 장 합니다. 그 결과 각 계 급 의 구 성 원 들, 심지어 절대\n빈 곤 에 시달리는 빈 민 조차도 모든 관 습 적인 과 시 적 소 비 의\n유 혹 을 떨 쳐 버 리지 못합니다. 하지만 사 회 의 전체적인 부가\n아무리 증 가 하 더라도 다른 사 람 들 보다 더 많은 재 화 를\n축 적 하고자 하는 모든 사 람 들 의 모든 욕 망 은 결코\n완전히 충 족 되지 못합니다. 그 욕 망 은 본 질 적 으로\n차 별 적 인 비 교 에 바 탕 을 둔 , 명 성 을 획 득 하고 유 지 하기\n| 위한 경 쟁 이기 때 문 입니다. |\n07 유 한 계 급 의 소비 행 태 는 사회 구조 전 반 으로 확 산 되는가?\n(0) 사회 구 조 의 최상위 계 급 만이 과 시 적 소 비 를 욕 구 하는가?\n3) 유 한 계 급 은 소 비 를 통해 자 신 의 재 력 을 은 폐 하고자 하는가?\n@) 사 회 의 각 계 급 은 상위 계 급 의 소비 행 태 에 대해 무 관 심 한 가 ?\n(9) 사 회 의 전체적인 부가 증 대 되면 과 시 적 소 비 의 욕 망 은 사 라 지 는 가 ?",
+    "stem": "그 림 의 강 연 자가 긍 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?",
+    "passage": "것\n과 시 적 소 비 는 자 신 의 부 와 명 성 을 타 인 에 게 명백하게\n명 성 을\n증 명 하려는 경 쟁 적 인 소비 행 위 입니다. 명 성 의 관 점 에서\n사회 구 조 의 최 상 부 에 위치한 유 한 계 금 의 생활 예 절 과\n가치 기 준 들은 사회 구 조 의 최 하 층 까지 강 압 적 인 영 향 력 을\n확 장 합니다. 그 결과 각 계 급 의 구 성 원 들, 심지어 절대\n빈 곤 에 시달리는 빈 민 조차도 모든 관 습 적인 과 시 적 소 비 의\n유 혹 을 떨 쳐 버 리지 못합니다. 하지만 사 회 의 전체적인 부가\n아무리 증 가 하 더라도 다른 사 람 들 보다 더 많은 재 화 를\n축 적 하고자 하는 모든 사 람 들 의 모든 욕 망 은 결코\n완전히 충 족 되지 못합니다. 그 욕 망 은 본 질 적 으로\n차 별 적 인 비 교 에 바 탕 을 둔 , 명 성 을 획 득 하고 유 지 하기\n| 위한 경 쟁 이기 때 문 입니다. |",
+    "choices": [
+      {
+        "number": 1,
+        "text": "유 한 계 급 의 소비 행 태 는 사회 구조 전 반 으로 확 산 되는가?"
+      },
+      {
+        "number": 2,
+        "text": "사회 구 조 의 최상위 계 급 만이 과 시 적 소 비 를 욕 구 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "유 한 계 급 은 소 비 를 통해 자 신 의 재 력 을 은 폐 하고자 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "사 회 의 각 계 급 은 상위 계 급 의 소비 행 태 에 대해 무 관 심 한 가 ?"
+      },
+      {
+        "number": 5,
+        "text": "사 회 의 전체적인 부가 증 대 되면 과 시 적 소 비 의 욕 망 은 사 라 지 는 가 ?"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.921,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:12+00:00",
+    "qa_flags": []
+  }
+}

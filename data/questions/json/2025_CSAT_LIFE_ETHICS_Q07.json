@@ -1,0 +1,77 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 142,
+    "question_number": 7,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1957,
+      1740,
+      3213
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. ( 가 ) 의 주 장 을 (나) 그 림 으로 나타낼 때, (에 대한 반 론 의 근 거 로\n가장 적절한 것은? [3 점 ]\n인공 지능 기 술 은 인 간 의 일 자 리 를 축 소 시키므로 법 으로\n(가)\n규 제 해야 한다,\n인 간 의 일 자 리 를 축 소 시키는 .\n다저 제 | 기 스 으 버 으 로 규 제 해야 한다. | | 어젠 그\n즈 스즈 (~\n인공 지능 기 술 은 법 으로 규 제 해 야\n결로\n한다.\n(0) 인공 지능 기 술 은 인간 노 동 에 대한 기 업 의 수 요 를 감 소 시킨다.\n(2) 인공 자 능 기 술 은 직 업 을 통한 인 간 의 자 아 실현 기 회 를 박 탈 한다.\n(3) 인공 지능 기 술 로 인간 노동 필요한 직 종 이 지 속 적 으 로 증 가 한 다.\n0) 인공 지능 기 술 은 인간 노동 대 부 분 을 자동화 기 기 로 대 체 할 수 있다.\n09) 인공 지능 기 술 로 일 자 리 는 줄 어 들 어 도 최 소 한 의 인간 노 동 은 필 요 하다.",
+    "stem": "( 가 ) 의 주 장 을 (나) 그 림 으로 나타낼 때, (에 대한 반 론 의 근 거 로 가장 적절한 것은? [3 점 ]",
+    "passage": "인공 지능 기 술 은 인 간 의 일 자 리 를 축 소 시키므로 법 으로\n(가)\n규 제 해야 한다,\n인 간 의 일 자 리 를 축 소 시키는 .\n다저 제 | 기 스 으 버 으 로 규 제 해야 한다. | | 어젠 그\n즈 스즈 (~\n인공 지능 기 술 은 법 으로 규 제 해 야\n결로\n한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인공 지능 기 술 은 인간 노 동 에 대한 기 업 의 수 요 를 감 소 시킨다."
+      },
+      {
+        "number": 2,
+        "text": "인공 자 능 기 술 은 직 업 을 통한 인 간 의 자 아 실현 기 회 를 박 탈 한다."
+      },
+      {
+        "number": 3,
+        "text": "인공 지능 기 술 로 인간 노동 필요한 직 종 이 지 속 적 으 로 증 가 한 다."
+      },
+      {
+        "number": 4,
+        "text": "인공 지능 기 술 은 인간 노동 대 부 분 을 자동화 기 기 로 대 체 할 수 있다."
+      },
+      {
+        "number": 5,
+        "text": "인공 지능 기 술 로 일 자 리 는 줄 어 들 어 도 최 소 한 의 인간 노 동 은 필 요 하다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=7536",
+      "vector_lines=1002"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.769,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:09+00:00",
+    "qa_flags": []
+  }
+}

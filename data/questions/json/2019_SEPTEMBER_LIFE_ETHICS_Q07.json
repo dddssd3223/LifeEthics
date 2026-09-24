@@ -1,0 +1,73 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 66,
+    "question_number": 7,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2090,
+      1742,
+      3416
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 갑 , 을 사 상 가 들의 입 장 으로 옮 지 않은 것은? [3 점 ]\n갑 : 선 왕 (%) 이 예 (0@ 를 제 정 하여 사 람 들 에게 귀 함 과 천 함의\n등 급 을 분 별 하게 하였다. 사 대 부 의 자 손 이라도 예 에 합 하 지\n않으면 서 민 이 되어야 하고, 서 민 의 자 손 이라도 학 문 을 닭 고\n품 행 이 단 정 하여 예 에 합하면 사 대 부 가 되어야 한다.\n을: 왕도 정 치 가 구 현 된 사 회 에서 농 부 와 목 수 와 기 술 자 는 각자\n생 산 물 이나 재 능 을 교 환 함으로써 사 회 에 기 여 한 다. 힘 을\n쓰는 노 력 자 (#2)) 와 마 음 을 쓰는 노 심 자 (#/6 좀 ) 역시\n각 자 의 수 고 로 움 으로 서로 기 여 한 다.\n01 갑 : 예 0@ 를 기 준 으로 삼아 사회적 역할 분 담 이 정 해 져 야 한다.\n2) 갑 : 사회적 신 분 은 개 인 의 자유로운 선 택 에 따라 정 해 져 야 한다.\n8) 을 : 분 업 을 통해 사회적 직분 간의 유기적 관 계 를 이루어야 한다.\n0) 을 : 노 력 자 (@#20 좁 ) 는 생 계 가 안 정 되어야 도 덕 심을 유지할 수 있다.\n5 갑 , 을 : 자 신 의 직 분 에 충 실 할 때 사회 질 서 가 유 지 될 수 있다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 옮 지 않은 것은? [3 점 ]",
+    "passage": "갑 : 선 왕 (%) 이 예 (0@ 를 제 정 하여 사 람 들 에게 귀 함 과 천 함의\n등 급 을 분 별 하게 하였다. 사 대 부 의 자 손 이라도 예 에 합 하 지\n않으면 서 민 이 되어야 하고, 서 민 의 자 손 이라도 학 문 을 닭 고\n품 행 이 단 정 하여 예 에 합하면 사 대 부 가 되어야 한다.\n을: 왕도 정 치 가 구 현 된 사 회 에서 농 부 와 목 수 와 기 술 자 는 각자\n생 산 물 이나 재 능 을 교 환 함으로써 사 회 에 기 여 한 다. 힘 을\n쓰는 노 력 자 (#2)) 와 마 음 을 쓰는 노 심 자 (#/6 좀 ) 역시\n각 자 의 수 고 로 움 으로 서로 기 여 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 예 0@ 를 기 준 으로 삼아 사회적 역할 분 담 이 정 해 져 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 사회적 신 분 은 개 인 의 자유로운 선 택 에 따라 정 해 져 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 분 업 을 통해 사회적 직분 간의 유기적 관 계 를 이루어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 노 력 자 (@#20 좁 ) 는 생 계 가 안 정 되어야 도 덕 심을 유지할 수 있다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 자 신 의 직 분 에 충 실 할 때 사회 질 서 가 유 지 될 수 있다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.882,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:06+00:00",
+    "qa_flags": []
+  }
+}

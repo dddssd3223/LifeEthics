@@ -1,0 +1,76 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 12,
+    "question_number": 17,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1729,
+      1592,
+      3200
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 그 럼 은 토론 장 면 이다. 갑 , 을 의 입 장 에 대한 적절한 설 명 만을\n< 보 기 > 에 서 있는 대로 고른 것은?\n전신 수 영 복 이 기 록 을 단 축 하는 데 도 움 을 스 포 츠 에서 기록 단 축 은 선수 자 신 과\n주는 것은 맞지만, 과학 기 술 의 힘 을 빌려 관 중 에게 큰 즐 거 움 을 줍니다. 따라서\n경 쟁 의 결 과 를 왜 곡 해서는 안 된다고 전신 수 영 복 을 금 지 하지 말고 소 재 와\n봅니다. 수영 선수 개 개 인 의 능 력 과 노 력 이 두 께 를 통 일 하여 선 수 들 이 동일한 조건\n인 정 받아야 합니다. 에서 경 쟁 할 수 있도록 해야 합니다.\n전신 수영복 착용, 무엇이 문 제 인 가?\n< 보 기 >\nㄱ . 감은 스 포 츠 에서 순수한 신체적 탁 월 성의 발 휘 를 강 조 한 다.\nㄴ . 을 은 스 포 츠 가 제 도 화 된 규 칙 에 의해 운 영 될 것을 강 조 한 다.\nㄷ . 갑 은 스 포 츠 에서 경쟁 요 소 를 수 용 하고, 을 은 배 제 한 다.\n2. 갑 , 을 은 스 포 츠 를 공정한 조 건 에서 진행할 것을 주 장 한 다.\n0) ㄱ , ㄴ (0) ㄴ , ㄷ (3) ㄱ , ㄴ , 크\n(0) ㄱ , ㄷ , 2 (6) ㄴ , ㄷ , 르",
+    "stem": "그 럼 은 토론 장 면 이다. 갑 , 을 의 입 장 에 대한 적절한 설 명 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "전신 수 영 복 이 기 록 을 단 축 하는 데 도 움 을 스 포 츠 에서 기록 단 축 은 선수 자 신 과\n주는 것은 맞지만, 과학 기 술 의 힘 을 빌려 관 중 에게 큰 즐 거 움 을 줍니다. 따라서\n경 쟁 의 결 과 를 왜 곡 해서는 안 된다고 전신 수 영 복 을 금 지 하지 말고 소 재 와\n봅니다. 수영 선수 개 개 인 의 능 력 과 노 력 이 두 께 를 통 일 하여 선 수 들 이 동일한 조건\n인 정 받아야 합니다. 에서 경 쟁 할 수 있도록 해야 합니다.\n전신 수영복 착용, 무엇이 문 제 인 가?\n< 보 기 >\nㄱ . 감은 스 포 츠 에서 순수한 신체적 탁 월 성의 발 휘 를 강 조 한 다.\nㄴ . 을 은 스 포 츠 가 제 도 화 된 규 칙 에 의해 운 영 될 것을 강 조 한 다.\nㄷ . 갑 은 스 포 츠 에서 경쟁 요 소 를 수 용 하고, 을 은 배 제 한 다.\n2. 갑 , 을 은 스 포 츠 를 공정한 조 건 에서 진행할 것을 주 장 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄱ , ㄴ , 크"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=20"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.898,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:54+00:00",
+    "qa_flags": []
+  }
+}

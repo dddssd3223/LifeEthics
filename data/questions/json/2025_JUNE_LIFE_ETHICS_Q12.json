@@ -1,0 +1,73 @@
+{
+  "id": "2025_JUNE_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 135,
+    "question_number": 12,
+    "exam_key": "2025_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1808,
+      1740,
+      3264
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_JUNE_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 갑 , 을 사 상 가 들 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는\n대로 고른 것은? [3 점 ]\n갑 : 사 람 이 음 석 을 필 요 로 하는 것은 인 종 과 아무런 상 관 이 없다.\n고 통 받는 사 람 들 은 누구나 이억 평등 고 려 의 원 칙 에 따라\n도 움 을 받아야 한다,\n을: 정치적 전 통 과 법 이 합 당 하고 합리적인 사 회 는 천 연 자 원 이\n부 족 해 도 질서 정 연 해질 수 있다. 해외 원 조 의 목 적 은 고 통 받는\n사 회 를 적정 수 준 의 사 회 가 되도록 하는 데 있다.\n< 보 기 >\nㄱ . 갑 : 해외 원 조 의 목 적 은 국가 간 평균적 부의 격 차 를 줄이는 것이다\nㄴ . 갑 : 해외 원 조 와 국내 부 조 를 정 당 화 하는 최종 근 거 는 다르지 입다\nㄷ . 을: 인권 개 선 을 위한 해외 원 조 는 수 혜 국 의 정 의 로 운 기본\n제도 수립 이후에도 계 속 되 어야 한다.\n르 . 갑과 을: 기아 상 태 의 사 람 들 을 구 제 하는 해외 원 조 는 보편적\n의 무 로 간 주 될 수 있다.\n00 ㄱ 7, ㄴ 0 7, ㄴ 8) ㄴ , 르\n04) ㄱ 7, ㄷ , 2 06 ㄴ ㄷ , 큰",
+    "stem": "갑 , 을 사 상 가 들 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 사 람 이 음 석 을 필 요 로 하는 것은 인 종 과 아무런 상 관 이 없다.\n고 통 받는 사 람 들 은 누구나 이억 평등 고 려 의 원 칙 에 따라\n도 움 을 받아야 한다,\n을: 정치적 전 통 과 법 이 합 당 하고 합리적인 사 회 는 천 연 자 원 이\n부 족 해 도 질서 정 연 해질 수 있다. 해외 원 조 의 목 적 은 고 통 받는\n사 회 를 적정 수 준 의 사 회 가 되도록 하는 데 있다.\n< 보 기 >\nㄱ . 갑 : 해외 원 조 의 목 적 은 국가 간 평균적 부의 격 차 를 줄이는 것이다\nㄴ . 갑 : 해외 원 조 와 국내 부 조 를 정 당 화 하는 최종 근 거 는 다르지 입다\nㄷ . 을: 인권 개 선 을 위한 해외 원 조 는 수 혜 국 의 정 의 로 운 기본\n제도 수립 이후에도 계 속 되 어야 한다.\n르 . 갑과 을: 기아 상 태 의 사 람 들 을 구 제 하는 해외 원 조 는 보편적\n의 무 로 간 주 될 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ 7, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "7, ㄴ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 르"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ 7, ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.886,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:50+00:00",
+    "qa_flags": []
+  }
+}

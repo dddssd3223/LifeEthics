@@ -1,0 +1,73 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 47,
+    "question_number": 13,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3192,
+      1593,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q13.png",
+    "raw_text": "18. 다음 한국 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n청 령 하지 않고서 수령 노 릇 을 제대로 한 사 람 은 지 금 까지\n한 명도 없었다. 수 령 이 청 렴 하지 않으면 백 성 들이 그를 도적\n이라 욕 하 며 원 성 이 드 높을 것이니, 부끄러운 일 이다. 청 렴 은\n큰 장 사 [ 펄 ] 이 다. 그래서 포 부 가 큰 사 람 은 반드시 청 렴 하고\n자 한다. 청 렴 하지 끗 한 것은 지 혜 가 모 자 라 기 때 문 이 다.\n물 을 주 고 받는 일 을 몰래 하지 않 겠 는 가 마는 밤 에 한 일도\n아 침 이면 드러난다. 선 물 이 아무리 하찮은 것 이 라 도 신 세 지는\n정 [\\5] 이 맺 어 지면 이미 사 사 로 움 [#] 이 행해진 것이다.\n0 청 렵 은 목 민 관 의 어떤 과 오 도 면 책 시켜 주는 지 혜 로운 덕 목 이다.\n(3) 청렴한 목 민 관 에게 청 백 리 ( 캡 터 ) 칭 호 는 관직 상 승 의 수 단 이다.\n8) 포 부 가 윈 대 하 고 지 혜 로운 목 민 관 은 부 패 를 저 지 르 기 마 련 이다.\n@) 백 성 들의 원 성 을 사지 않는다면 사 사 로 운 청 탁 (660) 은 가 능 하 다.\n(6) 목 민 관 의 청 렴 은 애 민 (※88) 과 봉 공 (※645 을 위해 필요한 덕 목 이다.",
+    "stem": "다음 한국 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "청 령 하지 않고서 수령 노 릇 을 제대로 한 사 람 은 지 금 까지\n한 명도 없었다. 수 령 이 청 렴 하지 않으면 백 성 들이 그를 도적\n이라 욕 하 며 원 성 이 드 높을 것이니, 부끄러운 일 이다. 청 렴 은\n큰 장 사 [ 펄 ] 이 다. 그래서 포 부 가 큰 사 람 은 반드시 청 렴 하고\n자 한다. 청 렴 하지 끗 한 것은 지 혜 가 모 자 라 기 때 문 이 다.\n물 을 주 고 받는 일 을 몰래 하지 않 겠 는 가 마는 밤 에 한 일도\n아 침 이면 드러난다. 선 물 이 아무리 하찮은 것 이 라 도 신 세 지는\n정 [\\5] 이 맺 어 지면 이미 사 사 로 움 [#] 이 행해진 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "청 렵 은 목 민 관 의 어떤 과 오 도 면 책 시켜 주는 지 혜 로운 덕 목 이다."
+      },
+      {
+        "number": 2,
+        "text": "청렴한 목 민 관 에게 청 백 리 ( 캡 터 ) 칭 호 는 관직 상 승 의 수 단 이다."
+      },
+      {
+        "number": 3,
+        "text": "포 부 가 윈 대 하 고 지 혜 로운 목 민 관 은 부 패 를 저 지 르 기 마 련 이다."
+      },
+      {
+        "number": 4,
+        "text": "백 성 들의 원 성 을 사지 않는다면 사 사 로 운 청 탁 (660) 은 가 능 하 다."
+      },
+      {
+        "number": 5,
+        "text": "목 민 관 의 청 렴 은 애 민 (※88) 과 봉 공 (※645 을 위해 필요한 덕 목 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.874,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:21+00:00",
+    "qa_flags": []
+  }
+}

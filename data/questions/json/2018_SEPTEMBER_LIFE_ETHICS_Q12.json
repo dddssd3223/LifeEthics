@@ -1,0 +1,73 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 55,
+    "question_number": 12,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2781,
+      1592,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 갑의 입 장 에서 을 의 주 장 에 대해 제 시 할 적절한 견 해 만을\n< 보 기 > 에 서 있는 대로 고른 것은? |3 점 ]\n갑 : 회생 불가능한 환 자 의 불필요한 고 통 을 없애는 방 법 에는\n인위적 개 입 으로 죽 음 을 앞 당 기 는 것과 연명 치료 중단\n으로 죽 음 에 이르게 두는 것이 있다. 전 자 는 비 도 덕 적 인\n살 인 이기에 금 지 되지만, 후 자 는 자 연 의 과 정 을 따르는\n것이므로 허 용 될 수 있다.\n을: 인 간 의 생 명 은 절대적인 가 치 를 지닌다. 인간 생 명 의\n존 엄 성 은 물 필요한 고 통 을 없 앤 다 는 명 분 으 로 도 절대\n체 손 되 어 서 는 안 된다. 인 위 적 으로 죽 음 을 앞 당 기 거나\n연명 치 료 를 중 단 하는 것은 모두 인간 생 명 의 존 엄 성 을\n경 시 하므로 허 용 될 수 없다.\n< 보 기 >\nㄱ . 적극적 안 락 사 는 환 자 의 뜻 에 따라 허 용 되어야 한다.\nㄴ . 안 락 사 가 허 흥 되면 인간 생 명 의 존 엄 성 을 지킬 수 없다.\nㄷ . 환 자 가 희 생 할 가 망 이 없을 경우 연명 치료 중 단 이 가 능 하 다.\n2. 자 연 의 과 정 을 거 스 르 지 않는 안락사 방 법 은 허 용 될 수 있다.\n0) ㄱ , ㄴ (0) ㄴ , ㄷ (3) ㄷ , 2\n(00 ) ㄱ , ㄴ , 2 (6) ㄱ , ㄷ , 2",
+    "stem": "갑의 입 장 에서 을 의 주 장 에 대해 제 시 할 적절한 견 해 만을 < 보 기 > 에 서 있는 대로 고른 것은? |3 점 ]",
+    "passage": "갑 : 회생 불가능한 환 자 의 불필요한 고 통 을 없애는 방 법 에는\n인위적 개 입 으로 죽 음 을 앞 당 기 는 것과 연명 치료 중단\n으로 죽 음 에 이르게 두는 것이 있다. 전 자 는 비 도 덕 적 인\n살 인 이기에 금 지 되지만, 후 자 는 자 연 의 과 정 을 따르는\n것이므로 허 용 될 수 있다.\n을: 인 간 의 생 명 은 절대적인 가 치 를 지닌다. 인간 생 명 의\n존 엄 성 은 물 필요한 고 통 을 없 앤 다 는 명 분 으 로 도 절대\n체 손 되 어 서 는 안 된다. 인 위 적 으로 죽 음 을 앞 당 기 거나\n연명 치 료 를 중 단 하는 것은 모두 인간 생 명 의 존 엄 성 을\n경 시 하므로 허 용 될 수 없다.\n< 보 기 >\nㄱ . 적극적 안 락 사 는 환 자 의 뜻 에 따라 허 용 되어야 한다.\nㄴ . 안 락 사 가 허 흥 되면 인간 생 명 의 존 엄 성 을 지킬 수 없다.\nㄷ . 환 자 가 희 생 할 가 망 이 없을 경우 연명 치료 중 단 이 가 능 하 다.\n2. 자 연 의 과 정 을 거 스 르 지 않는 안락사 방 법 은 허 용 될 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 2"
+      },
+      {
+        "number": 4,
+        "text": "0 ) ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄱ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.893,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:40+00:00",
+    "qa_flags": []
+  }
+}

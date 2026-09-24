@@ -1,0 +1,73 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 55,
+    "question_number": 14,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      1880,
+      2999,
+      3192
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다음 서양 사 상 가 가 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?\n현대 사 회 의 사 람 들 은 상 품 을 소 비 한 다고 생 각 하지만 정작\n소 비 하는 것은 상 품 의 기 호 (828) 와 상 품 이 지니고 있는\n이 미 지 이다. 광고 속에 나오는 상 품 이 기 호 라면 행복, 풍 요 로 움 ,\n성공, 권력 등 은 그 상 품 에 부 여 된 이 미 지 이다. 사 람 들 은 상 품 의\n구 입 과 사 용 을 통해 자 신 을 돋보이게 하며 동시에 사회적 지 위 와\n위 세 를 드 러 내 고 자 한다. 하지만 실 제 로 는 욕 구 의 체 계 를 발 생 시 키고\n관 리 하 는 생산 질 서 의 지 배 를 받고 있다. 그 결과 사 람 들 은\n자 율 성 과 창 의 성 을 박 탈 당하여 사 물 과 같은 존 재 가 된다.\n(0) 현 대 인 은 소비 활동 과 정 에서 주 체 성 을 상 실 하 게 되는가?\n(3) 현 대 인 은 생산 질 서 에 좌 우 되지 않는 소비 활 동 을 하는가?\n(3) 현 대 인 은 소 비 를 통해 사회적 지 위 를 과 시 하고자 하는가?\n(4) 현대 사 회 에 서 소 비 의 대 상 은 상 품 의 이 미 지 에 불 과 한 가?\n(5) 현대 사 회 에서 광고 매 체 는 상 품 을 기 호 로 서 전 달 하는가?",
+    "stem": "다음 서양 사 상 가 가 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?",
+    "passage": "현대 사 회 의 사 람 들 은 상 품 을 소 비 한 다고 생 각 하지만 정작\n소 비 하는 것은 상 품 의 기 호 (828) 와 상 품 이 지니고 있는\n이 미 지 이다. 광고 속에 나오는 상 품 이 기 호 라면 행복, 풍 요 로 움 ,\n성공, 권력 등 은 그 상 품 에 부 여 된 이 미 지 이다. 사 람 들 은 상 품 의\n구 입 과 사 용 을 통해 자 신 을 돋보이게 하며 동시에 사회적 지 위 와\n위 세 를 드 러 내 고 자 한다. 하지만 실 제 로 는 욕 구 의 체 계 를 발 생 시 키고\n관 리 하 는 생산 질 서 의 지 배 를 받고 있다. 그 결과 사 람 들 은\n자 율 성 과 창 의 성 을 박 탈 당하여 사 물 과 같은 존 재 가 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "현 대 인 은 소비 활동 과 정 에서 주 체 성 을 상 실 하 게 되는가?"
+      },
+      {
+        "number": 2,
+        "text": "현 대 인 은 생산 질 서 에 좌 우 되지 않는 소비 활 동 을 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "현 대 인 은 소 비 를 통해 사회적 지 위 를 과 시 하고자 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "현대 사 회 에 서 소 비 의 대 상 은 상 품 의 이 미 지 에 불 과 한 가?"
+      },
+      {
+        "number": 5,
+        "text": "현대 사 회 에서 광고 매 체 는 상 품 을 기 호 로 서 전 달 하는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.928,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:41+00:00",
+    "qa_flags": []
+  }
+}

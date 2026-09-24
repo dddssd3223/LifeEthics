@@ -1,0 +1,73 @@
+{
+  "id": "2021_JUNE_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 85,
+    "question_number": 1,
+    "exam_key": "2021_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      1057,
+      1740,
+      2192
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_JUNE_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. (가), ( 나 ) 의 입 장 으로 가장 적절한 것은?\n(가) 유 리 학 은 일 상 생활 속 에 서 제 기 되는 생명, 환경 등과 관련된\n다양한 도덕적 문 제 에 도덕 원 리 를 적 용 하여 실 천 적 인 지 침 을\n제 공 하는 것을 주된 목 표 로 삼아야 한다.\n(나) 윤 리 학 은 도덕적 언어, 즉 ' 좋 다 ', “ 옮 다 ' 와 같은 단 어 들의\n쓰 임 을 명 확 하게 규 명 하고, 도덕적 언 어 들 로 구성된 문 장 의\n의 미 에 대한 철학적 분 석 을 주된 목 표 로 삼아야 한다.\n0) (가): 윤 리 학 의 핵심 과 제 는 삶 의 구체적인 도덕 문 제 의 해 결 이다.\n(9) (가): 윤 리 학 의 핵심 과 제 는 도덕적 추 리 와 논증 방 법 의 연 구 이다.\n8) (나): 윤 리 학 의 핵심 과 제 는 도덕적 관 행 에 대한 인 과 적 서 술 이다.\n0) (나): 윤 리 학 의 핵심 과 제 는 경험적 연 구 를 통한 도 덕 성 의 검 중이다\n069) (가), (나): 윤 리 학 의 핵심 과 제 는 보 편 적 인 도덕 법 칙 의 정 립 이다.",
+    "stem": "(가), ( 나 ) 의 입 장 으로 가장 적절한 것은?",
+    "passage": "(가) 유 리 학 은 일 상 생활 속 에 서 제 기 되는 생명, 환경 등과 관련된\n다양한 도덕적 문 제 에 도덕 원 리 를 적 용 하여 실 천 적 인 지 침 을\n제 공 하는 것을 주된 목 표 로 삼아야 한다.\n(나) 윤 리 학 은 도덕적 언어, 즉 ' 좋 다 ', “ 옮 다 ' 와 같은 단 어 들의\n쓰 임 을 명 확 하게 규 명 하고, 도덕적 언 어 들 로 구성된 문 장 의\n의 미 에 대한 철학적 분 석 을 주된 목 표 로 삼아야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 윤 리 학 의 핵심 과 제 는 삶 의 구체적인 도덕 문 제 의 해 결 이다."
+      },
+      {
+        "number": 2,
+        "text": "(가): 윤 리 학 의 핵심 과 제 는 도덕적 추 리 와 논증 방 법 의 연 구 이다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 윤 리 학 의 핵심 과 제 는 도덕적 관 행 에 대한 인 과 적 서 술 이다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 윤 리 학 의 핵심 과 제 는 경험적 연 구 를 통한 도 덕 성 의 검 중이다"
+      },
+      {
+        "number": 5,
+        "text": "069) (가), (나): 윤 리 학 의 핵심 과 제 는 보 편 적 인 도덕 법 칙 의 정 립 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.909,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:51+00:00",
+    "qa_flags": []
+  }
+}

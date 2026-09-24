@@ -1,0 +1,73 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 150,
+    "question_number": 9,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2035,
+      3148,
+      3351
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n시민 불 복 좋은 법 이나 정 부 의 정 책 에 변 혁 을 가져올 목 적 으로\n행 해 지 는, 공 공 적이고 비 폭 력 적 이 며 양 심 적 이기는 하지만 법 에\n반하는 정치적 행 위 이다. 시민 불 종 복 을 정 당 화 함에 있어 어떤\n개인적 도덕 원 칙 이나 종교적 교 설이 아닌 공 유 된 정 의 관 에\n의 거 해야 한다.\n0) 시민 불 복 종 을 실 행 함에 있어 개 인 은 양 심 에 근 거 할 수 는 없다\n(0) 시민 불 복 종 의 대 상 이 되는 법 이 부 정 의하지 않을 수 는 없다\n(3) 정 의 의 원 칙 을 위 반 한 법 이 시민 불 복 종 의 대 상 이 아닐 수 는 없다.\n0) 거의 정 의 로운 사 회 에서 부 정 의한 법 은 법적 구 속 력 을 지 널 수 없다.\n(9) 법 에 대한 중 실 성의 한계 내 에 서 행해진 시민 불 복 종 은 위 법 일 수 없다",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "시민 불 복 좋은 법 이나 정 부 의 정 책 에 변 혁 을 가져올 목 적 으로\n행 해 지 는, 공 공 적이고 비 폭 력 적 이 며 양 심 적 이기는 하지만 법 에\n반하는 정치적 행 위 이다. 시민 불 종 복 을 정 당 화 함에 있어 어떤\n개인적 도덕 원 칙 이나 종교적 교 설이 아닌 공 유 된 정 의 관 에\n의 거 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "시민 불 복 종 을 실 행 함에 있어 개 인 은 양 심 에 근 거 할 수 는 없다"
+      },
+      {
+        "number": 2,
+        "text": "시민 불 복 종 의 대 상 이 되는 법 이 부 정 의하지 않을 수 는 없다"
+      },
+      {
+        "number": 3,
+        "text": "정 의 의 원 칙 을 위 반 한 법 이 시민 불 복 종 의 대 상 이 아닐 수 는 없다."
+      },
+      {
+        "number": 4,
+        "text": "거의 정 의 로운 사 회 에서 부 정 의한 법 은 법적 구 속 력 을 지 널 수 없다."
+      },
+      {
+        "number": 5,
+        "text": "법 에 대한 중 실 성의 한계 내 에 서 행해진 시민 불 복 종 은 위 법 일 수 없다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.902,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:28+00:00",
+    "qa_flags": []
+  }
+}

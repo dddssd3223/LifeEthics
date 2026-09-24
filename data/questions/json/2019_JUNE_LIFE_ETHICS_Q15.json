@@ -1,0 +1,73 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 63,
+    "question_number": 15,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      2985,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. 다음 사 상 가 의 입 장 에서 < 문 제 상 황 > 속 에게 제 시 할 주 언 으로\n가장 적절한 것은?\n우 리 는 다른 사 람 과 어 울 리 며 하는 행 위 들 에 의해 올바른 사 람 이\n되거나 옮 지 못한 사 람 이 된다. 또한 위 험 에 당 면 해 무 서 워 하거나\n태 연 한 마 음 을 지니는 태 도 에 따라 비겁한 사 람 이나 용감한 사 람 이\n되는 것이다. 결국 도덕적 덕은 본 성 적 으로 타 고 나는 것이 아니라\n지 속 된 습 관 의 결 과 로 생긴다.\n< 문 제 상 황 >\n는 온라인 쇼핑몰 회 사 에서 홈페이지 보안 시스템 책임자\n이다. 어느 날 직장 상 사 가 에게 고객 의 부당 거래가 의 심 이\n된다며 의 개인 정 보 를 요 구 하였다. 그러나 회 사 는 어떤 경우\n에도 고 객 의 개인 정 보 를 최 우 선 으 로 보 호 하겠다고 고 객 들 과\n약 속 한 상 태 이다. 이에 는 어떻게 처 신 해야 할지 고 민 하고 있\n01 시회 구 성 원 으로서 갖추어야 할 훌륭한 인 품 에 비추어 판 단 하세요.\n) 개 인 의 권 익 이 회 사 와 공 동 체 의 이 익 보다 중 요 함 을 고 려 하세요.\n@ 선 희 지 에 서 비롯된 의무 의 식 에 의해 상 사 의 요 구 에 응 하 세 요 .\n0 개인 정 보 를 공 개 할 때 발생할 결 과 의 유 용 성 을 측 정 해 판 단 하세요.\n5) 어떤 상 황 에서도 예외 없어 고 객 과 의 약 속 을 지 키 도록 하세요.",
+    "stem": "다음 사 상 가 의 입 장 에서 < 문 제 상 황 > 속 에게 제 시 할 주 언 으로 가장 적절한 것은?",
+    "passage": "우 리 는 다른 사 람 과 어 울 리 며 하는 행 위 들 에 의해 올바른 사 람 이\n되거나 옮 지 못한 사 람 이 된다. 또한 위 험 에 당 면 해 무 서 워 하거나\n태 연 한 마 음 을 지니는 태 도 에 따라 비겁한 사 람 이나 용감한 사 람 이\n되는 것이다. 결국 도덕적 덕은 본 성 적 으로 타 고 나는 것이 아니라\n지 속 된 습 관 의 결 과 로 생긴다.\n< 문 제 상 황 >\n는 온라인 쇼핑몰 회 사 에서 홈페이지 보안 시스템 책임자\n이다. 어느 날 직장 상 사 가 에게 고객 의 부당 거래가 의 심 이\n된다며 의 개인 정 보 를 요 구 하였다. 그러나 회 사 는 어떤 경우\n에도 고 객 의 개인 정 보 를 최 우 선 으 로 보 호 하겠다고 고 객 들 과\n약 속 한 상 태 이다. 이에 는 어떻게 처 신 해야 할지 고 민 하고 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "시회 구 성 원 으로서 갖추어야 할 훌륭한 인 품 에 비추어 판 단 하세요."
+      },
+      {
+        "number": 2,
+        "text": "개 인 의 권 익 이 회 사 와 공 동 체 의 이 익 보다 중 요 함 을 고 려 하세요."
+      },
+      {
+        "number": 3,
+        "text": "선 희 지 에 서 비롯된 의무 의 식 에 의해 상 사 의 요 구 에 응 하 세 요 ."
+      },
+      {
+        "number": 4,
+        "text": "개인 정 보 를 공 개 할 때 발생할 결 과 의 유 용 성 을 측 정 해 판 단 하세요."
+      },
+      {
+        "number": 5,
+        "text": "어떤 상 황 에서도 예외 없어 고 객 과 의 약 속 을 지 키 도록 하세요."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.892,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:37:54+00:00",
+    "qa_flags": []
+  }
+}

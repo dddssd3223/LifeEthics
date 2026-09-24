@@ -1,0 +1,73 @@
+{
+  "id": "2016_CSAT_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 36,
+    "question_number": 17,
+    "exam_key": "2016_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      2002,
+      1739,
+      3401
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_CSAT_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다음 서양 사 상 가 의 주 장 으로 옮 지 않은 것은? [3 점 ]\n사회 계 약 에 기 초 하여 하 나 의 국 가 가 건 립 되 듯 이, 국제 관 계 도\n국 가 들이 자 발 적 으로 결 성 한 연맹 체 제 에 기초한 국 제 법 을 통해\n평화 상 태 에 들어설 수 있다. 이 상 태 에서만 국 민 의 모든 퀸 리나\n국 가 들의 소 유 가 확 정 적 인 것으로 인 정 되고 참된 평화 상 태 가\n될 수 있다. 이러한 연 맹 의 이 념 은 모든 국 가 로 확 산 되어야 하며,\n영원한 평 화 로의 지속적인 접 근 은 인간 및 국 가 의 의 무 로서,\n그리고 퀸 리에 기초한 과 제 로서 성 립 될 수 있다.\n(01) 국제적 사회 계 약 을 통해 연맹 체 제 를 단일 국 가 로 전 환 해야 한다.\n(3) 개별 국 가 의 시 민 적 정치 체 제 는 공 화 적 체 제 를 갖추어야 한다.\n(3) 연맹 체 제 의 단 계 에서도 개별 국 가 의 주 권 은 인 정 되어야 한다.\n(0) 세계 시 민 법 은 인 류 의 평 화 적 인 교류 조 건 에 한 정 되 어야 한다.\n(5) 연 맹 의 확 산 을 통해 국제 사 회 는 자연 상 태 를 벗어나야 한다.",
+    "stem": "다음 서양 사 상 가 의 주 장 으로 옮 지 않은 것은? [3 점 ]",
+    "passage": "사회 계 약 에 기 초 하여 하 나 의 국 가 가 건 립 되 듯 이, 국제 관 계 도\n국 가 들이 자 발 적 으로 결 성 한 연맹 체 제 에 기초한 국 제 법 을 통해\n평화 상 태 에 들어설 수 있다. 이 상 태 에서만 국 민 의 모든 퀸 리나\n국 가 들의 소 유 가 확 정 적 인 것으로 인 정 되고 참된 평화 상 태 가\n될 수 있다. 이러한 연 맹 의 이 념 은 모든 국 가 로 확 산 되어야 하며,\n영원한 평 화 로의 지속적인 접 근 은 인간 및 국 가 의 의 무 로서,\n그리고 퀸 리에 기초한 과 제 로서 성 립 될 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "국제적 사회 계 약 을 통해 연맹 체 제 를 단일 국 가 로 전 환 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "개별 국 가 의 시 민 적 정치 체 제 는 공 화 적 체 제 를 갖추어야 한다."
+      },
+      {
+        "number": 3,
+        "text": "연맹 체 제 의 단 계 에서도 개별 국 가 의 주 권 은 인 정 되어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "세계 시 민 법 은 인 류 의 평 화 적 인 교류 조 건 에 한 정 되 어야 한다."
+      },
+      {
+        "number": 5,
+        "text": "연 맹 의 확 산 을 통해 국제 사 회 는 자연 상 태 를 벗어나야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.919,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:55+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 18,
+    "question_number": 10,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2901,
+      2999,
+      4301
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 서양 사상가 갑 , 을 의 입 장 에 대한 적절한 설 명 만을 < 보 기 > 에 서\n있는 대로 고른 것은? |[3 점 ]\n갑 : 인 간 은 노 동 을 통해 자 기 의 본 질 을 실 현 하고자 한다. 그\n러나 자 본 주 의 하에서는 노 동 의 본 질 이 왜 곡 된다. 노동자\n는 생 계 유 지 를 위해 자 신 의 노 동 을 자 본 가 에게 팔아야\n하기 때문에 생 산 을 위한 도 구 로 전 락 한다,\n을: 인 간 은 구 원 을 예 정 해 놓은 신의 부 르 심 [ 검 습 ] 에 노 동 을\n통해 응 답 해야 한다. 왜냐하면 신은 여러 가지 삶 의 양식\n( 빠 곡 ) 들 을 구 분 해 놓 음 으로써 각 개 인 이 해야 할 일 을\n정해 두 었 기 때 문 이 다.\n(보기 >\nㄱ . 갑 은 인간 소 외 의 극 복 을 위해 사회적 분 업 을 강 조 한 다.\nㄴ . 을 은 노 동 을 통하여 이웃 사 랑 을 실천할 것을 강 조 한 다.\nㄷ . 갑 은 을과 달리 노 동 을 통한 사유 재산 축 적 을 중 시 한다.\n2. 갑 , 을 은 노 동 이 가진 생계 수단 이상의 가 치 를 중 시 한다.\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄴ , 큰\n(0) ㄱ , ㄷ , 2 (6) ㄴ , ㄷ , 2",
+    "stem": "서양 사상가 갑 , 을 의 입 장 에 대한 적절한 설 명 만을 < 보 기 > 에 서 있는 대로 고른 것은? |[3 점 ]",
+    "passage": "갑 : 인 간 은 노 동 을 통해 자 기 의 본 질 을 실 현 하고자 한다. 그\n러나 자 본 주 의 하에서는 노 동 의 본 질 이 왜 곡 된다. 노동자\n는 생 계 유 지 를 위해 자 신 의 노 동 을 자 본 가 에게 팔아야\n하기 때문에 생 산 을 위한 도 구 로 전 락 한다,\n을: 인 간 은 구 원 을 예 정 해 놓은 신의 부 르 심 [ 검 습 ] 에 노 동 을\n통해 응 답 해야 한다. 왜냐하면 신은 여러 가지 삶 의 양식\n( 빠 곡 ) 들 을 구 분 해 놓 음 으로써 각 개 인 이 해야 할 일 을\n정해 두 었 기 때 문 이 다.\n(보기 >\nㄱ . 갑 은 인간 소 외 의 극 복 을 위해 사회적 분 업 을 강 조 한 다.\nㄴ . 을 은 노 동 을 통하여 이웃 사 랑 을 실천할 것을 강 조 한 다.\nㄷ . 갑 은 을과 달리 노 동 을 통한 사유 재산 축 적 을 중 시 한다.\n2. 갑 , 을 은 노 동 이 가진 생계 수단 이상의 가 치 를 중 시 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.889,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:35:55+00:00",
+    "qa_flags": []
+  }
+}

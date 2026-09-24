@@ -1,0 +1,73 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 15,
+    "question_number": 12,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1629,
+      1592,
+      3190
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 갑 , 을 의 예 술 관 에 대한 적절한 설 명 만을 < 보 기 > 에 서 있는 대로\n고른 것은? [3 점 ]\n갑 : 음 악 의 근본 요 소 는 화 음 이며, 음 악 의 본 질 은 리 듬 이다,\n음 악 은 실제 세 계 에 대한 표 현 이나 묘 사 가 아니다. 음 악 의\n형 식 은 음 자 체 의 결 합 이며, 음 악 미는 독자적인 것으로서\n음 과 음 의 예술적 결 합 에 달려 있을 뿐이다.\n을: 음 악 은 노랫말, 선율, 리 듬 으로 이루어져 있다. 음 악 에서\n노 렛 말이 중 심 이 되며, 선 율 과 리 듬 은 노 렛 맡을 따라야\n한다. 좋은 음 악 의 노 랫 말 은 덕 을 지닌 사 람 의 용 기 와\n절 제 를 모 방 해야 한다.\n< 보 기 >\nㄱ . 갑 은 음 악 이 외 재적 가 치 를 추 구 해 서는 안 된다고 본다.\nㄴ . 을 은 음 악 이 올바른 폼 성의 도 아 에 기 여 해 야 한다고 본다.\nㄷ . 갑 은 을과 달리 음 악 이 도덕적 평 가 의 대 상 이 아니라고 본다.\n2. 갑 , 을 은 음 악 에서 내 용 보다 형 식 이 더 중 요 하다고 본다.\n(62) ㄱ , ㄴ (2) ㄱ , 2 (3) ㄷ , 르\n(0)0 ㄱ , ㄴ , ㄷ (66) ㄴ , ㄷ , 2",
+    "stem": "갑 , 을 의 예 술 관 에 대한 적절한 설 명 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 음 악 의 근본 요 소 는 화 음 이며, 음 악 의 본 질 은 리 듬 이다,\n음 악 은 실제 세 계 에 대한 표 현 이나 묘 사 가 아니다. 음 악 의\n형 식 은 음 자 체 의 결 합 이며, 음 악 미는 독자적인 것으로서\n음 과 음 의 예술적 결 합 에 달려 있을 뿐이다.\n을: 음 악 은 노랫말, 선율, 리 듬 으로 이루어져 있다. 음 악 에서\n노 렛 말이 중 심 이 되며, 선 율 과 리 듬 은 노 렛 맡을 따라야\n한다. 좋은 음 악 의 노 랫 말 은 덕 을 지닌 사 람 의 용 기 와\n절 제 를 모 방 해야 한다.\n< 보 기 >\nㄱ . 갑 은 음 악 이 외 재적 가 치 를 추 구 해 서는 안 된다고 본다.\nㄴ . 을 은 음 악 이 올바른 폼 성의 도 아 에 기 여 해 야 한다고 본다.\nㄷ . 갑 은 을과 달리 음 악 이 도덕적 평 가 의 대 상 이 아니라고 본다.\n2. 갑 , 을 은 음 악 에서 내 용 보다 형 식 이 더 중 요 하다고 본다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , 2"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "0 ㄱ , ㄴ , ㄷ"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.899,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:01+00:00",
+    "qa_flags": []
+  }
+}

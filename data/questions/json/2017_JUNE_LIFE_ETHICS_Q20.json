@@ -1,0 +1,75 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 40,
+    "question_number": 20,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2524,
+      2999,
+      4056
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 감 , 을 의 입 장 에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?\n갑 : 예술 세 계 에서는 어떤 거 짓 말 도 허 용 된다. 중요한 것은 오차\n없는 진 실 이 아니라 아름다운 거 짓 이다. 아름다운 것에서\n추악한 의 미 를 발 견 하는 사 람 은 타락한 사 람 이다. 아름다운\n것에서 아름다운 의 미 를 발 견 하는 사 람 은 교양 있는 사 람 이다.\n을: 최고의 예 술 은 질 서 와 사 랑 을 통해 구 현 되며, 반 항 적 이고\n저급한 피 조 물 을 거 룩 하 게 만든다. 예 술 의 목 적 은 인 간 의\n종 교 를 강 화 하고, 인 간 의 윤리적 상 태 를 완 전 하게 만드는 데\n있다. 예 술 은 이런 일 들 을 물 질 적 으로 구 현 하는 것이다.\n< 보 기 >\nㄱ . 같은 예 술 의 본 질 을 오직 예술 안에서 찾아야 한다고 본다.\nㄴ . 을 은 예 술 이 이 상 과 현 실 의 분 러 를 강 조 해 야 한다고 본다.\nㄷ . 을 은 도덕적 목 적 이 예술 작 품 으로 구 현 되어야 한다고 본다.\n2. 갑 , 을 은 예 술 이 공 동 체 의 질서 유 지 에 기 여 해 야 한다고 본다.\n060) ㄱ , ㄴㄴ (2)0 ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 그",
+    "stem": "감 , 을 의 입 장 에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "갑 : 예술 세 계 에서는 어떤 거 짓 말 도 허 용 된다. 중요한 것은 오차\n없는 진 실 이 아니라 아름다운 거 짓 이다. 아름다운 것에서\n추악한 의 미 를 발 견 하는 사 람 은 타락한 사 람 이다. 아름다운\n것에서 아름다운 의 미 를 발 견 하는 사 람 은 교양 있는 사 람 이다.\n을: 최고의 예 술 은 질 서 와 사 랑 을 통해 구 현 되며, 반 항 적 이고\n저급한 피 조 물 을 거 룩 하 게 만든다. 예 술 의 목 적 은 인 간 의\n종 교 를 강 화 하고, 인 간 의 윤리적 상 태 를 완 전 하게 만드는 데\n있다. 예 술 은 이런 일 들 을 물 질 적 으로 구 현 하는 것이다.\n< 보 기 >\nㄱ . 같은 예 술 의 본 질 을 오직 예술 안에서 찾아야 한다고 본다.\nㄴ . 을 은 예 술 이 이 상 과 현 실 의 분 러 를 강 조 해 야 한다고 본다.\nㄷ . 을 은 도덕적 목 적 이 예술 작 품 으로 구 현 되어야 한다고 본다.\n2. 갑 , 을 은 예 술 이 공 동 체 의 질서 유 지 에 기 여 해 야 한다고 본다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "060) ㄱ , ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "0 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 그"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.899,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:05+00:00",
+    "qa_flags": []
+  }
+}

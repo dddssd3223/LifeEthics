@@ -1,0 +1,75 @@
+{
+  "id": "2022_CSAT_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 108,
+    "question_number": 19,
+    "exam_key": "2022_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2650
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_CSAT_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장\n적절한 것은? [3 점 ]\n갑 : 우 리 가 하는 원 조 의 역 할 은 고 통 받는 사 회 가 만 민 들의\n사 회 의 완전한 성 원 이 되도록 돕는 것이다. 그리고\n그들이 미 래 의 경 로 를 정할 수 있도록 하는 것이다.\n을: 우 리 의 풍 요 로 움 을 우리 사 회 의 시 민 에게만 나누어\n(가) 주는 것은 잘 못 이다. 이익 평등 고 려 의 원 칙 에 따라\n혜 택 을 가장 크게 낼 수 있는 곳에 사용해야 한다.\n병 : 우 리 는 최소 국가 안에서 삶 을 선 택 하 고 목 표 를\n실현할 수 있다. 이 과 정 에서 우 리 는 같은 존 엄 성 을\n지닌 다른 개 인 들의 자발적인 협 동 의 도 움 을 받는다.\n범 례\nㅡ > : 비 판 의 방향\n스 ~\\ : 비 판 의 내용\n(나) 섯 나시. 예시\n년\n. @-……@\n< 쇼 는 감 이 을 에게 제 기 할\n- 수 있는 비 판 임 .\n0 &: 원 조 의 중단 지 점 을 두는 것은 원조 목 적 에 위 배 됨을 간 과 한다.\n2) 8: 원조 대 상 을 선 정 할 때 상대적 빈 곤 은 고려할 필 요 가 없 음 을 간 과 한다.\n2) 0, 8: 자 신 의 이 웃 을 먼저 돕는 것이 정당한 경 우 가 있 음 을 간 과 한다.\n4) 1: 자 선 을 행하지 않는 것이 비 난 의 대 상 이 될 수 없 음 을 간 과 한다.\n(51 7: 원조 대 상 국 이 자 국 의 부 정 의 를 교 정 하도록 도와야 함 을 간 과 한다.",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 우 리 가 하는 원 조 의 역 할 은 고 통 받는 사 회 가 만 민 들의\n사 회 의 완전한 성 원 이 되도록 돕는 것이다. 그리고\n그들이 미 래 의 경 로 를 정할 수 있도록 하는 것이다.\n을: 우 리 의 풍 요 로 움 을 우리 사 회 의 시 민 에게만 나누어\n(가) 주는 것은 잘 못 이다. 이익 평등 고 려 의 원 칙 에 따라\n혜 택 을 가장 크게 낼 수 있는 곳에 사용해야 한다.\n병 : 우 리 는 최소 국가 안에서 삶 을 선 택 하 고 목 표 를\n실현할 수 있다. 이 과 정 에서 우 리 는 같은 존 엄 성 을\n지닌 다른 개 인 들의 자발적인 협 동 의 도 움 을 받는다.\n범 례\nㅡ > : 비 판 의 방향\n스 ~\\ : 비 판 의 내용\n(나) 섯 나시. 예시\n년\n. @-……@\n< 쇼 는 감 이 을 에게 제 기 할\n- 수 있는 비 판 임 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": "&: 원 조 의 중단 지 점 을 두는 것은 원조 목 적 에 위 배 됨을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "8: 원조 대 상 을 선 정 할 때 상대적 빈 곤 은 고려할 필 요 가 없 음 을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "0, 8: 자 신 의 이 웃 을 먼저 돕는 것이 정당한 경 우 가 있 음 을 간 과 한다."
+      },
+      {
+        "number": 4,
+        "text": "1: 자 선 을 행하지 않는 것이 비 난 의 대 상 이 될 수 없 음 을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": "1 7: 원조 대 상 국 이 자 국 의 부 정 의 를 교 정 하도록 도와야 함 을 간 과 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.881,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:47+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 72,
+    "question_number": 20,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2546,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 다음 신문 칼 럼 의 입 장 으로 가장 적절한 것은?\n(2 신 문 00000 년 (7() 월 (7(〉 일\n칼럼\n공 용 어 와 공 통 의 문 화 를 강 조 할 경우 오히려 국가 내 집 단 을 다 수 와 소 수 로\n갈 라 놓 아 소수 집 단 이 다 수 에 압 도 당하게 된다. 통 합 을 위해서는 첫째, 우리\n사 회 의 다 수 가 오랫동안 공유해 온 관 행 과 규 범 을 고 수 하지 않 으 려 는 태 도 가\n필 요 하다. 둘째, 이 주 민 에게 기본적 시 민 권 은 보 장 하되 관 습 과 신앙 및 삶 의\n양 식 의 통 일 까 지 요 구 해 서는 안 된다. 그들의 집단적 문 화 를 표현할 여 지 를\n확 보 해 줘야 하는 것이다. 통 합 은 몇 세 대 에 걸쳐 진 행 된 다는 것을 유 념 해야\n한다. 국가적 유 대 감 을 증 진 시키는 통 합 의 실행 가능한 방 법 은 이 주 민 의\n정 체 성 을 국가 전 체 의 정 체 성 에 종 속 시키는 것이 아니라 수 용 하는 것이다.\n…( 후 략 ).\n1 통합 과 정 에서 우리 사 회 의 전통적 관 행 이 변하지 않도록 해야 한다.\n2) 공용어 사 용 을 의 무 화 해야 국가적 유 대 감 이 증 진 됨을 유 념 해야 한다,\n6 이 주 민 의 고 유 한 문화적 특 수 성 을 유지할 기 회 를 보 장 해 야 한다.\n4 동 화 가 신 속 하게 추 진 되어야 통합 실 행 이 가 능 함 을 유 념 해야 한다.\n05: 이 주 민 의 살의 양식 변 화 가 그들의 시민권 보 장 보다 선 행 되어야 한다.",
+    "stem": "다음 신문 칼 럼 의 입 장 으로 가장 적절한 것은?",
+    "passage": "(2 신 문 00000 년 (7() 월 (7(〉 일\n칼럼\n공 용 어 와 공 통 의 문 화 를 강 조 할 경우 오히려 국가 내 집 단 을 다 수 와 소 수 로\n갈 라 놓 아 소수 집 단 이 다 수 에 압 도 당하게 된다. 통 합 을 위해서는 첫째, 우리\n사 회 의 다 수 가 오랫동안 공유해 온 관 행 과 규 범 을 고 수 하지 않 으 려 는 태 도 가\n필 요 하다. 둘째, 이 주 민 에게 기본적 시 민 권 은 보 장 하되 관 습 과 신앙 및 삶 의\n양 식 의 통 일 까 지 요 구 해 서는 안 된다. 그들의 집단적 문 화 를 표현할 여 지 를\n확 보 해 줘야 하는 것이다. 통 합 은 몇 세 대 에 걸쳐 진 행 된 다는 것을 유 념 해야\n한다. 국가적 유 대 감 을 증 진 시키는 통 합 의 실행 가능한 방 법 은 이 주 민 의\n정 체 성 을 국가 전 체 의 정 체 성 에 종 속 시키는 것이 아니라 수 용 하는 것이다.\n…( 후 략 ).",
+    "choices": [
+      {
+        "number": 1,
+        "text": "통합 과 정 에서 우리 사 회 의 전통적 관 행 이 변하지 않도록 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "공용어 사 용 을 의 무 화 해야 국가적 유 대 감 이 증 진 됨을 유 념 해야 한다,"
+      },
+      {
+        "number": 3,
+        "text": "이 주 민 의 고 유 한 문화적 특 수 성 을 유지할 기 회 를 보 장 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "동 화 가 신 속 하게 추 진 되어야 통합 실 행 이 가 능 함 을 유 념 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "이 주 민 의 살의 양식 변 화 가 그들의 시민권 보 장 보다 선 행 되어야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:22+00:00",
+    "qa_flags": []
+  }
+}

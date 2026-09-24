@@ -1,0 +1,73 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 123,
+    "question_number": 13,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3212,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 다 음 을 주장한 사 상 가 의 입 장 에서 < 문 제 상 황 > 속 에게 제 시 할\n조 언 으로 가장 적절한 것은? [3 점 ]\n인 류 의 존 속 은 부정적 방 식 으로 강력해진 기술 문 명 의 시 대 에\n있어서 우리 모 두 의 일차적 책 임 이다. 현재 우리 손 에 달려 있는\n지구의 생 명 은 그 자 체 로 우 리 의 보 호 를 요청할 권 리 를 가지고\n있다. 이 요 청 은 미래 세 대 에게도 해 당 된다.\n< 문 제 상 황 >\n는 핵 분 열 을 유 도 할 수 있는 지 식 과 기 술 의 권 위 자 인데,\n정 부 로 부터 핵무기 개 발 을 요 청 받았다. ㅅ 는 핵 무 기 를 개발할\n것인지 고 민 하고 있\n0 인 류 의 존 속 을 위해 과학 기 술 의 힘 을 억 제 해야 합 을 생 각 하라.\n2 과학 기 술 의 장기적 결 과 의 위 험 성 보다 단기적 효 과 를 생 각 하라.\n@ 객관적 사 실 을 다루는 과학 기 술 이 유 리 의 나 침 반 임을 생 각 하라.\n4 환경 파 괴 는 과학 기 술 의 빌 전 을 위한 불가피한 대 가 임을 생 각 하라.\n6 도 구 적 이 성 이 과학 기 술 의 개 발 과 활 용 을 주 도 해야 합 을 생 각 하라.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 에서 < 문 제 상 황 > 속 에게 제 시 할 조 언 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "인 류 의 존 속 은 부정적 방 식 으로 강력해진 기술 문 명 의 시 대 에\n있어서 우리 모 두 의 일차적 책 임 이다. 현재 우리 손 에 달려 있는\n지구의 생 명 은 그 자 체 로 우 리 의 보 호 를 요청할 권 리 를 가지고\n있다. 이 요 청 은 미래 세 대 에게도 해 당 된다.\n< 문 제 상 황 >\n는 핵 분 열 을 유 도 할 수 있는 지 식 과 기 술 의 권 위 자 인데,\n정 부 로 부터 핵무기 개 발 을 요 청 받았다. ㅅ 는 핵 무 기 를 개발할\n것인지 고 민 하고 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인 류 의 존 속 을 위해 과학 기 술 의 힘 을 억 제 해야 합 을 생 각 하라."
+      },
+      {
+        "number": 2,
+        "text": "과학 기 술 의 장기적 결 과 의 위 험 성 보다 단기적 효 과 를 생 각 하라."
+      },
+      {
+        "number": 3,
+        "text": "객관적 사 실 을 다루는 과학 기 술 이 유 리 의 나 침 반 임을 생 각 하라."
+      },
+      {
+        "number": 4,
+        "text": "환경 파 괴 는 과학 기 술 의 빌 전 을 위한 불가피한 대 가 임을 생 각 하라."
+      },
+      {
+        "number": 5,
+        "text": "도 구 적 이 성 이 과학 기 술 의 개 발 과 활 용 을 주 도 해야 합 을 생 각 하라."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:32+00:00",
+    "qa_flags": []
+  }
+}

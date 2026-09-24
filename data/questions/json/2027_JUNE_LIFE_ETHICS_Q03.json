@@ -1,0 +1,75 @@
+{
+  "id": "2027_JUNE_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 153,
+    "question_number": 3,
+    "exam_key": "2027_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1057,
+      3149,
+      2320
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_JUNE_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 그 림 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은?\n예 술 의 목 표 는 아름다움 자 체 만을 드러내는 것이며,\n예 술 가 는 아름다운 것들을 창 조 하는 사 람 입니다.\n그러나 비 평 가 는 작 품 에서 받은 인 상 을 아 름 다 움 이\n아닌 다른 소 재 로 바꾸어 놓는 잘 못 을 저 지 릅니다.\n반면, 교 양 인 은 작 품 에서 아 름 다 움 만을 발 견 합니다.\n도 덕 적 인 책 이나 비 도 덕 적 인 책 은 존 재 하지 않습니다.\n잘 쓰인 책 과 형 편 없이 쓰인 책만 존재할 뿐입니다.\n예 술 가 는 모든 것을 표현할 수 있습니다. 사 상 과\n언 어 도 예 술 가 의 도 구 에 불 과 하며, 덕과 악 덕 도 예 술 의\n소 재 일 뿐입니다. 예 술 가 에게 있어 윤리적 공 감 은\n진부한 양 식 의 답 습 일 뿐 이 므로 용 납 될 수 없습니다.\n넌 흑 스 쁘 수 없슴\n0) 예 술 가 는 도덕적 삶 을 작 품 의 소 재 로 삼 아 서 는 안 된다.\n(0) 예 술 가 의 윤리적 공 감 은 예술적 창 의 성 의 발 현 을 저 해 한다.\n9) 예술 작 품 에 대한 어떠한 가치 판 단 도 허 용 되 어 서 는 안 된다.\n0) 예술 작 품 의 아 름 다 움 을 작품 내 에 서 찾으려 해서는 안 된다.\n(09 예 술 의 목 표 는 아 름 다 움 을 통해 도덕적 인 상 을 전 달 하는 것이다.",
+    "stem": "그 림 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은?",
+    "passage": "예 술 의 목 표 는 아름다움 자 체 만을 드러내는 것이며,\n예 술 가 는 아름다운 것들을 창 조 하는 사 람 입니다.\n그러나 비 평 가 는 작 품 에서 받은 인 상 을 아 름 다 움 이\n아닌 다른 소 재 로 바꾸어 놓는 잘 못 을 저 지 릅니다.\n반면, 교 양 인 은 작 품 에서 아 름 다 움 만을 발 견 합니다.\n도 덕 적 인 책 이나 비 도 덕 적 인 책 은 존 재 하지 않습니다.\n잘 쓰인 책 과 형 편 없이 쓰인 책만 존재할 뿐입니다.\n예 술 가 는 모든 것을 표현할 수 있습니다. 사 상 과\n언 어 도 예 술 가 의 도 구 에 불 과 하며, 덕과 악 덕 도 예 술 의\n소 재 일 뿐입니다. 예 술 가 에게 있어 윤리적 공 감 은\n진부한 양 식 의 답 습 일 뿐 이 므로 용 납 될 수 없습니다.\n넌 흑 스 쁘 수 없슴",
+    "choices": [
+      {
+        "number": 1,
+        "text": "예 술 가 는 도덕적 삶 을 작 품 의 소 재 로 삼 아 서 는 안 된다."
+      },
+      {
+        "number": 2,
+        "text": "예 술 가 의 윤리적 공 감 은 예술적 창 의 성 의 발 현 을 저 해 한다."
+      },
+      {
+        "number": 3,
+        "text": "예술 작 품 에 대한 어떠한 가치 판 단 도 허 용 되 어 서 는 안 된다."
+      },
+      {
+        "number": 4,
+        "text": "예술 작 품 의 아 름 다 움 을 작품 내 에 서 찾으려 해서는 안 된다."
+      },
+      {
+        "number": 5,
+        "text": "9 예 술 의 목 표 는 아 름 다 움 을 통해 도덕적 인 상 을 전 달 하는 것이다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:35+00:00",
+    "qa_flags": []
+  }
+}

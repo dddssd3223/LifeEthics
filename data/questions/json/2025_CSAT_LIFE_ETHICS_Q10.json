@@ -1,0 +1,76 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 142,
+    "question_number": 10,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3192,
+      3148,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른\n것은? [3 점 ]\n갑 : 자 연 은 신이 세 계 를 창 조 하여 다스리는 기 예 이다. 이 자 연 을\n인 간 의 기 예 로 모 방 하여 인공적 인 격 을 만들어 낼 수 있다.\n이것이 국 가 라고 불리는 위대한 리 바 이 어 던 이다.\n을: 사 람 들 이 사 회 에 들어가는 목 적 은 재 산 을 안전하게 향유\n하는 것이며, 이를 위한 주요한 수 단 이 사 회 에서 확 립 된\n법 이다. 최 초 의 실 정 법 은 입 법 권 을 확 립 하는 것이다.\n< 보 기 >\nㄱ . 갑 : 절대 군 주 는 모는 인 간 의 사회 계약 체 결 과 이 행 을 강 제 한다.\nㄴ . 갑 : 사회 계약 이 후 에 군 주 와 시 민 은 자 연 법 을 준 수 해야 한다.\nㄷ . 을: 자연 상 태 는 어떠한 불 평 등 도 없는 대체로 평 화 로운\n상 태 이다.\n2. 감과 을: 자연 상 태 의 모든 인 간 은 동일한 자 연 권 을 가진다.\n0) ㅋㅋ, ㄴ (000 ㄱ , ㄷ 03) ㄴ , ㄷ 04) ㄴ , 르 060 ㄷ , 르",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 자 연 은 신이 세 계 를 창 조 하여 다스리는 기 예 이다. 이 자 연 을\n인 간 의 기 예 로 모 방 하여 인공적 인 격 을 만들어 낼 수 있다.\n이것이 국 가 라고 불리는 위대한 리 바 이 어 던 이다.\n을: 사 람 들 이 사 회 에 들어가는 목 적 은 재 산 을 안전하게 향유\n하는 것이며, 이를 위한 주요한 수 단 이 사 회 에서 확 립 된\n법 이다. 최 초 의 실 정 법 은 입 법 권 을 확 립 하는 것이다.\n< 보 기 >\nㄱ . 갑 : 절대 군 주 는 모는 인 간 의 사회 계약 체 결 과 이 행 을 강 제 한다.\nㄴ . 갑 : 사회 계약 이 후 에 군 주 와 시 민 은 자 연 법 을 준 수 해야 한다.\nㄷ . 을: 자연 상 태 는 어떠한 불 평 등 도 없는 대체로 평 화 로운\n상 태 이다.\n2. 감과 을: 자연 상 태 의 모든 인 간 은 동일한 자 연 권 을 가진다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㅋㅋ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=10261",
+      "vector_lines=1731"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.794,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:26+00:00",
+    "qa_flags": []
+  }
+}

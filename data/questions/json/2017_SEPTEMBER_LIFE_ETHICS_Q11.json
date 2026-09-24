@@ -1,0 +1,77 @@
+{
+  "id": "2017_SEPTEMBER_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 43,
+    "question_number": 11,
+    "exam_key": "2017_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      501,
+      1592,
+      1716
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_SEPTEMBER_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 그 림 의 강 연 자가 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?\n“ 기 업 은 자유 시 장 에서 이윤 극대화 이 외 의 사회적 책 임 을 지 ㅅ\n않아도 된 다 .” 라 는 주 장 은 시장 실 패 를 통해 그 부 당 성 이 입 증 될 [^\n수 있습니다. 시장 실 패 의 대표적 사 례 는 기업 활 동 으로 인 흔\n환 경 오 염 과 같은 부정적 외 부 효 과 입니다. 이에 따른 문 제 의 핵 심 은\n환 경 오 염 의 처리 비 용 을 당 사 자 인 기 업 이 아니라 일반 시 민 이니\n미래 세대 같은 제 삼 자 가 부 담 해야 한다는 사 실 입니다. 그러니\n이는 분명 잘 못 입니다. 윤리적 관 점 에서 볼 때, 부정적 외 부 효과 발 생 으\n책 임 은 해당 기 업 이 져야 합니다. 설령 이윤이 감 소 하더라도 기 업 은\n사회적 문 제 에 대한 적극적 책 임 을 지는 것이 마 땅 합니다.\nㄱㄱㄱ - ㄱ ㅁ\n(1) 기 업 은 외 부 효과 방 지 를 위해 이윤 극대화 활 동 에 전 념 해야 하는가?\n(3) 기 업 은 깨끗한 공 기 와 같은 공 공 재 에 대한 책 무 를 인 정 해 야 하는가?\n(3) 기 업 은 미래 세 대 의 생 존 과 삶 의 질 문 제 에 관 싶을 을 기울여야 하는가?\n(4) 기 업 은 공 공 선 을 위해 이윤 추 구 에 대한 제 약 을 승 인 해야 하는가?\n(5) 기 업 은 시장 실 패 가 지역 사 회 에 불 이 익 을 초 래 한다고 보아야 하는가?",
+    "stem": "그 림 의 강 연 자가 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?",
+    "passage": "“ 기 업 은 자유 시 장 에서 이윤 극대화 이 외 의 사회적 책 임 을 지 ㅅ\n않아도 된 다 .” 라 는 주 장 은 시장 실 패 를 통해 그 부 당 성 이 입 증 될 [^\n수 있습니다. 시장 실 패 의 대표적 사 례 는 기업 활 동 으로 인 흔\n환 경 오 염 과 같은 부정적 외 부 효 과 입니다. 이에 따른 문 제 의 핵 심 은\n환 경 오 염 의 처리 비 용 을 당 사 자 인 기 업 이 아니라 일반 시 민 이니\n미래 세대 같은 제 삼 자 가 부 담 해야 한다는 사 실 입니다. 그러니\n이는 분명 잘 못 입니다. 윤리적 관 점 에서 볼 때, 부정적 외 부 효과 발 생 으\n책 임 은 해당 기 업 이 져야 합니다. 설령 이윤이 감 소 하더라도 기 업 은\n사회적 문 제 에 대한 적극적 책 임 을 지는 것이 마 땅 합니다.\nㄱㄱㄱ - ㄱ ㅁ",
+    "choices": [
+      {
+        "number": 1,
+        "text": "기 업 은 외 부 효과 방 지 를 위해 이윤 극대화 활 동 에 전 념 해야 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "기 업 은 깨끗한 공 기 와 같은 공 공 재 에 대한 책 무 를 인 정 해 야 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "기 업 은 미래 세 대 의 생 존 과 삶 의 질 문 제 에 관 싶을 을 기울여야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "기 업 은 공 공 선 을 위해 이윤 추 구 에 대한 제 약 을 승 인 해야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "기 업 은 시장 실 패 가 지역 사 회 에 불 이 익 을 초 래 한다고 보아야 하는가?"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=3040",
+      "vector_lines=3765"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.918,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:11+00:00",
+    "qa_flags": []
+  }
+}

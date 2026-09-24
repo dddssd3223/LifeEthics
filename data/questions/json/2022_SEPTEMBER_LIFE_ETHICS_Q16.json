@@ -1,0 +1,73 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 104,
+    "question_number": 16,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1989
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다 음 을 주장한 사 상 가 의 입 장 에서 < 사 례 > 속 학생 ㅅ 에 게 해 줄\n수 있는 조 언 으로 가장 적절한 것은? [3 점 ]\n군 자 는 화 합 하 지 만 [31 주 체 를 잃지 않고 남 들 과 같 아 지 지 [101\n않으며, 소 인 은 주 체 를 잃 어 버 리고 남 들 과 같 아 지며 화 합 하지\n않는다. 군 자 는 두루 포 용 하 고 [ 뻐 ] 파 벌 을 이 루 지 [84] 않으며,\n소 인 은 파 벌 을 이루고 두루 포 용 하지 않는\n< 사 례 >\n학생 쇼 는 다른 문 화 권 에서 온 친 구 의 독특한 행 동 이 비도덕적\n이라고 생 각 하지는 않지만 지 낮 설 게 느껴진다. 그래서\n학생 쇼 는 그 친 구 를 어떻게 대 해 야 할지 고 민 하고 있\n00 그 천 구 가 우리나라 문 화 에 동 화 되도록 설 득 해 보세요.\n2 그 친 구 의 문 화 를 이 해 하는 태 도 로 조화롭게 지 내 세요.\n6 친하게 지낼 경우 연 게 되는 이 익 을 계 산 하여 행 동 하세요.\n0 다 수 가 즐기는 문 화 가 우 월 하다는 생 각 을 갖고 행 동 하세요.\n5 선 악 의 분 별 없이 그 친 구 의 행 동 을 모두 포 용 하도록 하세요.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 에서 < 사 례 > 속 학생 ㅅ 에 게 해 줄 수 있는 조 언 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "군 자 는 화 합 하 지 만 [31 주 체 를 잃지 않고 남 들 과 같 아 지 지 [101\n않으며, 소 인 은 주 체 를 잃 어 버 리고 남 들 과 같 아 지며 화 합 하지\n않는다. 군 자 는 두루 포 용 하 고 [ 뻐 ] 파 벌 을 이 루 지 [84] 않으며,\n소 인 은 파 벌 을 이루고 두루 포 용 하지 않는\n< 사 례 >\n학생 쇼 는 다른 문 화 권 에서 온 친 구 의 독특한 행 동 이 비도덕적\n이라고 생 각 하지는 않지만 지 낮 설 게 느껴진다. 그래서\n학생 쇼 는 그 친 구 를 어떻게 대 해 야 할지 고 민 하고 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "그 천 구 가 우리나라 문 화 에 동 화 되도록 설 득 해 보세요."
+      },
+      {
+        "number": 2,
+        "text": "그 친 구 의 문 화 를 이 해 하는 태 도 로 조화롭게 지 내 세요."
+      },
+      {
+        "number": 3,
+        "text": "친하게 지낼 경우 연 게 되는 이 익 을 계 산 하여 행 동 하세요."
+      },
+      {
+        "number": 4,
+        "text": "다 수 가 즐기는 문 화 가 우 월 하다는 생 각 을 갖고 행 동 하세요."
+      },
+      {
+        "number": 5,
+        "text": "선 악 의 분 별 없이 그 친 구 의 행 동 을 모두 포 용 하도록 하세요."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.894,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:36+00:00",
+    "qa_flags": []
+  }
+}

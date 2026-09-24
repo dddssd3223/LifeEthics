@@ -1,0 +1,76 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 144,
+    "question_number": 18,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      628,
+      3148,
+      1641
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은?\n시민 불 복 종 을 정 당 화 할 때 어떤 개인적 도덕 원 칙 이나\n종교적 교 설이 우리 주 장 을 지 지 해 준다고 해서 그것에 의거\n해서는 한 된다. 시민 불 복 종 의 근 거 가 오직 개 인 이나 집 단 의\n이 익 에만 기 초 할 수 없다는 것은 말할 필 요 도 없다. 그 대신\n시민 불 복 종 은 공 공 적 정 의 관 에 의 거 하게 된다.\n0 소 수 자 가 지닌 정 의 관 은 시민 불 복 종 의 근 거 가 될 수 없다.\n3) 차 등 의 원 칙 에 근거한 법 은 시민 불 복 종 의 대 상 이 될 수 있다.\n6) 준 법 의 의 무 는 기본적 자 유 를 방 어 할 권 리 와 상 충 할 수 없다,\n0) 시민 불 복 종 의 대 상 은 기본적 자 유 의 심각한 위 반 에 국 한 된 다,\n5 양심적 거 부 에 대한 국 가 의 규 제 는 시민 불 복 종 의 대 상 이 될 수 없다,",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은?",
+    "passage": "시민 불 복 종 을 정 당 화 할 때 어떤 개인적 도덕 원 칙 이나\n종교적 교 설이 우리 주 장 을 지 지 해 준다고 해서 그것에 의거\n해서는 한 된다. 시민 불 복 종 의 근 거 가 오직 개 인 이나 집 단 의\n이 익 에만 기 초 할 수 없다는 것은 말할 필 요 도 없다. 그 대신\n시민 불 복 종 은 공 공 적 정 의 관 에 의 거 하게 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "소 수 자 가 지닌 정 의 관 은 시민 불 복 종 의 근 거 가 될 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "차 등 의 원 칙 에 근거한 법 은 시민 불 복 종 의 대 상 이 될 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "준 법 의 의 무 는 기본적 자 유 를 방 어 할 권 리 와 상 충 할 수 없다,"
+      },
+      {
+        "number": 4,
+        "text": "시민 불 복 종 의 대 상 은 기본적 자 유 의 심각한 위 반 에 국 한 된 다,"
+      },
+      {
+        "number": 5,
+        "text": "양심적 거 부 에 대한 국 가 의 규 제 는 시민 불 복 종 의 대 상 이 될 수 없다,"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=9620",
+      "vector_lines=1515"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.823,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:14+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2023_SEPTEMBER_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 114,
+    "question_number": 7,
+    "exam_key": "2023_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1758,
+      1740,
+      3144
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_SEPTEMBER_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 감 이 을 에게 제 기 할 수 있는 비 판 으로 가장 적절한 것은?\n갑 : 과학자 집 단 에 필요한 것은 자연적 사 실 을 규 명 하는 과정\n에 서 의 내적 책 임 뿐이다. 과학자 집 단 에 외적 책 임 을 부과\n하면 연 구 의 법 위 가 확 대 되기 어렵다. 과학 연 구 는 과학적\n지 식 이 관 찰 과 일 치 하는지, 논리적 기 준 에 근 거 하 는 지 에\n기 초 해서 그 타 당 성 을 판 단 하면 된다.\n을 : 과학자 집 단 에는 내적 책 임 뿐만 아니라 외적 책 임 이 필요\n하다. 과학 연 구 에는 연 구 자 의 과거 경 협 이나 지식, 사회적\n기 대 가 반 영 되기 때문에 가 치 가 개 입 된다. 따라서 과학자\n집 단 은 자 신 의 과학 연 구 를 비 판 적 으로 성 찰 하고 해로운\n결 과 가 예 측 되는 연 구 에 대해 책임 있는 행 동 을 해야 한다.\n0 연구 대상 선 정 과 결과 활 용 에 가 치 가 반 영 된 다는 것을 간 과 한다.\n2) 연구 활 성 화 를 위해 사회적 책 임 을 강 조 해 서는 안 됨을 간 과 한다.\n@ 과학자 집 단 이 준 수 해야 하는 유 리 가 존 재 한다는 것을 간 과 한다.\n4 과 학 이 궁 극 적 으로 삶 의 질 향 상 을 지 향 한다는 것을 간 과 한다.\n5: 과학 연 구 에 사회적 필 요 와 정치적 목 적 이 개 입 될 수 있 음 을 간 과 한다.",
+    "stem": "감 이 을 에게 제 기 할 수 있는 비 판 으로 가장 적절한 것은?",
+    "passage": "갑 : 과학자 집 단 에 필요한 것은 자연적 사 실 을 규 명 하는 과정\n에 서 의 내적 책 임 뿐이다. 과학자 집 단 에 외적 책 임 을 부과\n하면 연 구 의 법 위 가 확 대 되기 어렵다. 과학 연 구 는 과학적\n지 식 이 관 찰 과 일 치 하는지, 논리적 기 준 에 근 거 하 는 지 에\n기 초 해서 그 타 당 성 을 판 단 하면 된다.\n을 : 과학자 집 단 에는 내적 책 임 뿐만 아니라 외적 책 임 이 필요\n하다. 과학 연 구 에는 연 구 자 의 과거 경 협 이나 지식, 사회적\n기 대 가 반 영 되기 때문에 가 치 가 개 입 된다. 따라서 과학자\n집 단 은 자 신 의 과학 연 구 를 비 판 적 으로 성 찰 하고 해로운\n결 과 가 예 측 되는 연 구 에 대해 책임 있는 행 동 을 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "연구 대상 선 정 과 결과 활 용 에 가 치 가 반 영 된 다는 것을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "연구 활 성 화 를 위해 사회적 책 임 을 강 조 해 서는 안 됨을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "과학자 집 단 이 준 수 해야 하는 유 리 가 존 재 한다는 것을 간 과 한다."
+      },
+      {
+        "number": 4,
+        "text": "과 학 이 궁 극 적 으로 삶 의 질 향 상 을 지 향 한다는 것을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": "과학 연 구 에 사회적 필 요 와 정치적 목 적 이 개 입 될 수 있 음 을 간 과 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.913,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:01+00:00",
+    "qa_flags": []
+  }
+}

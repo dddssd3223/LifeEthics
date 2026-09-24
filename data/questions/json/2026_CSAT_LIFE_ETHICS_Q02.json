@@ -1,0 +1,73 @@
+{
+  "id": "2026_CSAT_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 157,
+    "question_number": 2,
+    "exam_key": "2026_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      3074,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_CSAT_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]\n갑 : 우대 정 책 은 특정 약 자 들 에게만 유리한 기 회 를 제 공 하므로\n그 명 분 이 무 엇 이 든 개 인 의 성 취 가 아닌 다른 요 소 가 지위\n결 정 에 작 용 한다는 접 에 서 공 정 하지 않습니다.\n을: 물론 사회적 지 위 는 원 칙 적 으로 성 취 의 결 과 여야 합니다.\n하지만 우대 정 책 은 과거 차 별 을 받은 사회적 약 자 에게\n그 보 상 으로 유리한 기 회 를 제 공 하는 정당한 조 치 입니다.\n갑 : 아닙니다. 우대 정 책 은 과거 차 별 과 무 관 한 현 세 대 에 보 상 의\n책 임 을 지우고, 우대 정 책 의 대 상 이 아닌 사 람 들 의 기 회 가\n축 소 되는 또 다른 차 별 을 유 발 하게 됩니다.\n을 : 또 다른 차 별 은 사회적 합 의 와 세심한 정 책 으로 최 소 화 할 수\n있습니다. 우대 정 책 은 과 거 의 부당한 차 별 을 시 정 함으로써\n오히려 공정한 기 회 를 실 현 합니다,\n0) 우대 정 책 은 또 다른 차 별 을 유발할 수 있는가?\n2) 우대 정 책 으로써 기 회 의 공 정 을 실현할 수 있는가?\n3) 사회적 지위 분 배 에서 기 회 의 공 정 을 실 현 해야 하는가?\n0 우대 정 책 은 약 자 에게 유리한 기 회 를 제 공 할 수 있는가?\n69) 업 적 주 의 는 사회적 지위 분 배 의 정당한 원 칙 일 수 있는가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 우대 정 책 은 특정 약 자 들 에게만 유리한 기 회 를 제 공 하므로\n그 명 분 이 무 엇 이 든 개 인 의 성 취 가 아닌 다른 요 소 가 지위\n결 정 에 작 용 한다는 접 에 서 공 정 하지 않습니다.\n을: 물론 사회적 지 위 는 원 칙 적 으로 성 취 의 결 과 여야 합니다.\n하지만 우대 정 책 은 과거 차 별 을 받은 사회적 약 자 에게\n그 보 상 으로 유리한 기 회 를 제 공 하는 정당한 조 치 입니다.\n갑 : 아닙니다. 우대 정 책 은 과거 차 별 과 무 관 한 현 세 대 에 보 상 의\n책 임 을 지우고, 우대 정 책 의 대 상 이 아닌 사 람 들 의 기 회 가\n축 소 되는 또 다른 차 별 을 유 발 하게 됩니다.\n을 : 또 다른 차 별 은 사회적 합 의 와 세심한 정 책 으로 최 소 화 할 수\n있습니다. 우대 정 책 은 과 거 의 부당한 차 별 을 시 정 함으로써\n오히려 공정한 기 회 를 실 현 합니다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "우대 정 책 은 또 다른 차 별 을 유발할 수 있는가?"
+      },
+      {
+        "number": 2,
+        "text": "우대 정 책 으로써 기 회 의 공 정 을 실현할 수 있는가?"
+      },
+      {
+        "number": 3,
+        "text": "사회적 지위 분 배 에서 기 회 의 공 정 을 실 현 해야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "우대 정 책 은 약 자 에게 유리한 기 회 를 제 공 할 수 있는가?"
+      },
+      {
+        "number": 5,
+        "text": "업 적 주 의 는 사회적 지위 분 배 의 정당한 원 칙 일 수 있는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.899,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:42:05+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2021_CSAT_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 93,
+    "question_number": 1,
+    "exam_key": "2021_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      1057,
+      1742,
+      2412
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_CSAT_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 에 들어갈 진 술 로 가장 적절한 것은?\n나는 윤 리 학 이 행 위 의 근 거 가 되는 도덕적 윈 리 를 탐 구 하기\n보다는 도덕적 논 의 에서 사 용 되 는 용 어 의 의 미 를 밝히고 추 론 의\n규 칙 을 분 석 해 야 한다고 생 각 한 다. 그런데 어떤 사 람 은 윤 리 학 이\n사회 ㆍ 문 화적 변 화 와 과학 기 술 의 발 달 로 인해 발 생 하는 구체적\n윤리 문 제 에 대한 해결책 탑 구 에 주 력 해 야 한다고 주 장 한 다.\n나는 이러한 주 장 이 에 고 생 각 한 다.\n0 도덕 문제 탐 구 에 사회 ㆍ 자연 과학적 지 식 이 필 요 함 을 간 과 한다\n2) 도덕 문제 해 결 보다 도덕 논 증 의 타당성 분 석 이 중 요 함 을 간 과 한다\n3) 도덕 현 상 은 과 학 적 으로 기 술 해야 할 사 실 의 집 합 이 이 님 을 간 과 한다\n4 도덕 문제 해 결 에는 행 위 의 선 악 을 판 단 하는 도덕 원 리 가 필 요 함 을\n간 과 한다\n5 도덕 이 론 의 연 구 만으로는 삶 의 구체적 문제 해 결 에 한 계 가 있 음 을\n간 과 한다",
+    "stem": "에 들어갈 진 술 로 가장 적절한 것은?",
+    "passage": "나는 윤 리 학 이 행 위 의 근 거 가 되는 도덕적 윈 리 를 탐 구 하기\n보다는 도덕적 논 의 에서 사 용 되 는 용 어 의 의 미 를 밝히고 추 론 의\n규 칙 을 분 석 해 야 한다고 생 각 한 다. 그런데 어떤 사 람 은 윤 리 학 이\n사회 ㆍ 문 화적 변 화 와 과학 기 술 의 발 달 로 인해 발 생 하는 구체적\n윤리 문 제 에 대한 해결책 탑 구 에 주 력 해 야 한다고 주 장 한 다.\n나는 이러한 주 장 이 에 고 생 각 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "도덕 문제 탐 구 에 사회 ㆍ 자연 과학적 지 식 이 필 요 함 을 간 과 한다"
+      },
+      {
+        "number": 2,
+        "text": "도덕 문제 해 결 보다 도덕 논 증 의 타당성 분 석 이 중 요 함 을 간 과 한다"
+      },
+      {
+        "number": 3,
+        "text": "도덕 현 상 은 과 학 적 으로 기 술 해야 할 사 실 의 집 합 이 이 님 을 간 과 한다"
+      },
+      {
+        "number": 4,
+        "text": "도덕 문제 해 결 에는 행 위 의 선 악 을 판 단 하는 도덕 원 리 가 필 요 함 을 간 과 한다"
+      },
+      {
+        "number": 5,
+        "text": "도덕 이 론 의 연 구 만으로는 삶 의 구체적 문제 해 결 에 한 계 가 있 음 을 간 과 한다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:10+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 27,
+    "question_number": 15,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1713,
+      3275,
+      3281,
+      4570
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q15.png",
+    "raw_text": "16. 다음 가상 대담 속의 에 들어갈 말로 가장 적절한 것은?\n표 현 의 자 유 와 관 련 하여 공 리 의 관 점 으로 ||| 당연히 존 중 해야 합니다. 그 소수 의 견 이\n설 명 하 셨 는 데 요 , 진 리 에 대해 이 의 를 ||| 옮 을 경우 인 류 는 오 류 를 수정할 기 회 를\n제 기 하는 소 수 의 의 견 도 존 중 해야 한다는 ||| 잃게 되기 때 문 입니다.\n주 장 에 대해서 어떻게 생 각 하 십니까?\n하지만 그 소수 의 견 이 옮 지 않다면 불필요한 ||| 설 령 그 의 견 이 옮 지 않다고 할 지 라 도 논 쟁 을\n일 이 아닐까요? 펼치는 과 정 에서, 인 류 는 @\n0) 다 수 의 의 견 에 대한 복 종 의 필 요 성 을 알게 됩니다.\n(2) 기 존 의 진 리 가 지닌 가 치 와 의 의 를 재 확 인 하 게 됩니다.\n(3) 다 수 뿐만 아니라 소 수 마 저 동 의 해야 진 리 가 됨을 알게 됩니다.\n(4) 다 수 에 의해 확 립 된 의 견 이 진 리 의 표 준 임을 재 확 인 하게 됩니다.\n(5) 사회적 유용성 차 원 에서 표 현 의 자 유 를 제 한 해야 함 을 알게 됩니다.",
+    "stem": "다음 가상 대담 속의 에 들어갈 말로 가장 적절한 것은?",
+    "passage": "표 현 의 자 유 와 관 련 하여 공 리 의 관 점 으로 ||| 당연히 존 중 해야 합니다. 그 소수 의 견 이\n설 명 하 셨 는 데 요 , 진 리 에 대해 이 의 를 ||| 옮 을 경우 인 류 는 오 류 를 수정할 기 회 를\n제 기 하는 소 수 의 의 견 도 존 중 해야 한다는 ||| 잃게 되기 때 문 입니다.\n주 장 에 대해서 어떻게 생 각 하 십니까?\n하지만 그 소수 의 견 이 옮 지 않다면 불필요한 ||| 설 령 그 의 견 이 옮 지 않다고 할 지 라 도 논 쟁 을\n일 이 아닐까요? 펼치는 과 정 에서, 인 류 는 @",
+    "choices": [
+      {
+        "number": 1,
+        "text": "다 수 의 의 견 에 대한 복 종 의 필 요 성 을 알게 됩니다."
+      },
+      {
+        "number": 2,
+        "text": "기 존 의 진 리 가 지닌 가 치 와 의 의 를 재 확 인 하 게 됩니다."
+      },
+      {
+        "number": 3,
+        "text": "다 수 뿐만 아니라 소 수 마 저 동 의 해야 진 리 가 됨을 알게 됩니다."
+      },
+      {
+        "number": 4,
+        "text": "다 수 에 의해 확 립 된 의 견 이 진 리 의 표 준 임을 재 확 인 하게 됩니다."
+      },
+      {
+        "number": 5,
+        "text": "사회적 유용성 차 원 에서 표 현 의 자 유 를 제 한 해야 함 을 알게 됩니다."
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.827,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:35+00:00",
+    "qa_flags": []
+  }
+}

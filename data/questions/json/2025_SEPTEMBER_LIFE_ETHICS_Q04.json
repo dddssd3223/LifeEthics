@@ -1,0 +1,73 @@
+{
+  "id": "2025_SEPTEMBER_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 137,
+    "question_number": 4,
+    "exam_key": "2025_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1057,
+      3149,
+      3223
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_SEPTEMBER_LIFE_ETHICS_Q04.png",
+    "raw_text": "4.\n다음 토 론 의 핵심 갱 점 으로 가장 적절한 것은? [3 점 ]\n갑 : 최신 유 행 을 반 영 하여 빠르게 옷 을 제 작 하고 유 통 하는 소비\n양 식 인 패 스 트 패 션 은 소 비 자 의 기 호 를 충 족 해 줄 수 있지만\n심각한 환경 오염 문 제 를 야 기 하고 있습니다.\n을: 동 의 합니다. 물론 패 스 트 패 션 이 소 비 자 의 욕 구 를 충 족 해\n주 기 는 합니다. 그럼에도 환 경 을 생 각 하면 패 스 트 패션 제품\n생 산 을 막을 수밖에 없습니다.\n갑 ： 아닙니다. 패 스 트 패션 기 업 에 환경 부 담 금 을 부 과 하는 정 도 으\n규 제 는 필 수 적 이지만 제품 생 산 까 지 막는 것은 소 비 자 의\n선 택 권 을 침 해 하는 과도한 규 제 입니다.\n을: 소비자 선 택 권 이 침 해 되는 것은 사 실 이지만 환경 문 제 를\n해 결 하기 위해서는 환경 부 담 금 을 부 과 하는 것 뿐 아니라\n패 스 트 패션 제품 생산 자 체 를 못 하도록 해야 합니다.\n01) 패 스 트 패 션 제품 생 산 을 전 면 적 으로 금 지 해야 하는가?\n(0) 패 스 트 패 션 은 심각한 환경 오염 문 제 를 야 기 할 수 있는가?\n(3) 패 스 트 패션 제 품 을 생 산 하 는 기 업 에 대한 규 제 가 필요한가?\n0) 패 스 트 패 션 은 유 행 에 민감한 소 비 자 의 욕 구 를 충 족 해 주는가?\n(5) 패 스 트 패 션 제품 생 산 을 막는 것은 소 비 자 의 선 택 권 을 침 해 하 는가?",
+    "stem": "다음 토 론 의 핵심 갱 점 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 최신 유 행 을 반 영 하여 빠르게 옷 을 제 작 하고 유 통 하는 소비\n양 식 인 패 스 트 패 션 은 소 비 자 의 기 호 를 충 족 해 줄 수 있지만\n심각한 환경 오염 문 제 를 야 기 하고 있습니다.\n을: 동 의 합니다. 물론 패 스 트 패 션 이 소 비 자 의 욕 구 를 충 족 해\n주 기 는 합니다. 그럼에도 환 경 을 생 각 하면 패 스 트 패션 제품\n생 산 을 막을 수밖에 없습니다.\n갑 ： 아닙니다. 패 스 트 패션 기 업 에 환경 부 담 금 을 부 과 하는 정 도 으\n규 제 는 필 수 적 이지만 제품 생 산 까 지 막는 것은 소 비 자 의\n선 택 권 을 침 해 하는 과도한 규 제 입니다.\n을: 소비자 선 택 권 이 침 해 되는 것은 사 실 이지만 환경 문 제 를\n해 결 하기 위해서는 환경 부 담 금 을 부 과 하는 것 뿐 아니라\n패 스 트 패션 제품 생산 자 체 를 못 하도록 해야 합니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "패 스 트 패 션 제품 생 산 을 전 면 적 으로 금 지 해야 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "패 스 트 패 션 은 심각한 환경 오염 문 제 를 야 기 할 수 있는가?"
+      },
+      {
+        "number": 3,
+        "text": "패 스 트 패션 제 품 을 생 산 하 는 기 업 에 대한 규 제 가 필요한가?"
+      },
+      {
+        "number": 4,
+        "text": "패 스 트 패 션 은 유 행 에 민감한 소 비 자 의 욕 구 를 충 족 해 주는가?"
+      },
+      {
+        "number": 5,
+        "text": "패 스 트 패 션 제품 생 산 을 막는 것은 소 비 자 의 선 택 권 을 침 해 하 는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.926,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:55+00:00",
+    "qa_flags": []
+  }
+}

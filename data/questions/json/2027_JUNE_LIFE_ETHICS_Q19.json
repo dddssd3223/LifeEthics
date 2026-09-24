@@ -1,0 +1,77 @@
+{
+  "id": "2027_JUNE_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 156,
+    "question_number": 19,
+    "exam_key": "2027_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2372
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_JUNE_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른\n것은? [3 점 ]\n갑 : 원 조 의 궁극적 목 적 은 고 통 받는 사 회 들이 자 유 와 평 등 을\n확 립 하고 그들 스스로 미 래 의 경 로 를 결정할 수 있도록\n돕는 것이다. 이 목 적 을 넘 어 서 면 원 조 가 중 단 될 수 있다.\n을: 우 리 는 도 덕 적 으로 중요한 다른 일 을 희 생 하지 않고 나쁜\n일 을 막을 수 있다면 마땅히 그렇게 해야 한다. 부 유 한\n사 람 들 은 절대 빈 곤 에 처한 사 람 들 을 도울 의 무 를 가진다.\n< 보 기 >\n- 갑 : 원조 주 체 인 사 회 가 모두 질서 정연한 사 회 인 것은 아니다.\nㄴ . 갑 : 원조 대 상 은 오직 정치 제 도 가 확 립 되지 않은 사 회 뿐이다.\nㄷ . 을 : 원조 주 체 와 대 상 의 행 복 을 모두 증 진 하는 원 조 는 가 능 하 다\n르 . 갑과 을: 원 조 의 결 과 를 고 려 하여 원조 대 상 을 결 정 해 야 한다.\n0700 0976 6 9042 662",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 원 조 의 궁극적 목 적 은 고 통 받는 사 회 들이 자 유 와 평 등 을\n확 립 하고 그들 스스로 미 래 의 경 로 를 결정할 수 있도록\n돕는 것이다. 이 목 적 을 넘 어 서 면 원 조 가 중 단 될 수 있다.\n을: 우 리 는 도 덕 적 으로 중요한 다른 일 을 희 생 하지 않고 나쁜\n일 을 막을 수 있다면 마땅히 그렇게 해야 한다. 부 유 한\n사 람 들 은 절대 빈 곤 에 처한 사 람 들 을 도울 의 무 를 가진다.\n< 보 기 >\n- 갑 : 원조 주 체 인 사 회 가 모두 질서 정연한 사 회 인 것은 아니다.\nㄴ . 갑 : 원조 대 상 은 오직 정치 제 도 가 확 립 되지 않은 사 회 뿐이다.\nㄷ . 을 : 원조 주 체 와 대 상 의 행 복 을 모두 증 진 하는 원 조 는 가 능 하 다\n르 . 갑과 을: 원 조 의 결 과 를 고 려 하여 원조 대 상 을 결 정 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.905,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:56:29+00:00",
+    "qa_flags": []
+  }
+}

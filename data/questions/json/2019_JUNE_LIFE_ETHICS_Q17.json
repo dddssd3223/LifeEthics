@@ -1,0 +1,73 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 64,
+    "question_number": 17,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1952,
+      1742,
+      3324
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 갑 , 을, 병 사 상 가 들의 입 장 에 대한 설 명 으로 옮 은 것은? [3 점 ]\n갑 ：: 경제적 여 유 가 있는 사 람 이라면 고 통 에 빠진 사 람 들 을 위해\n소득 중 일 부 는 기 부 해야 한다. 원 조 함으로써 우리 자 신 에게\n다른 더 큰 피 해 가 생기지 않는 한 마땅히 원 조 해 야 한다.\n을 : 개 인 이 정 당 하게 취득한 재 산 의 배타적 소 유 권 을 타 인 의\n삶 과 행 복 을 명 목 으 로 침 해 해서는 안 된다. 원 조 는 개 인 의\n자유로운 선 택 의 영 역 이다.\n병 ： 인 권 이 보 장 되고 민주적 의사 결 정 이 제 도 화 된 사 회 의 구성원\n이라면 해외 원 조 를 반 대 할 이 유 가 없다. 원 조 는 고 통 받는\n사 회 의 자 유 와 평등 확 립 을 목 적 으로 삼아야 한다.\n0 갑 은 모는 개 인 의 원조 의 무 를 규 정 하는 보편 원 리 는 없다고 본다.\n6) 을 은 해외 원 조 를 최소 국 가 가 강 제 해 야 하는 의 무 라고 본다.\n(3) 병 은 정 의 의 원 칙 이 확 립 된 자원 빈 곤 국 은 원조 대 성 이 이 니 라 고 본다.\n0) 갑 , 병 은 국제 기 구 를 통한 원 조 만이 정 당 화 될 수 있다고 본다.\n(65) 을, 병 은 국가 간 부의 격차 해소 후 에 는 원조 의 무 가 없다고 본다.",
+    "stem": "갑 , 을, 병 사 상 가 들의 입 장 에 대한 설 명 으로 옮 은 것은? [3 점 ]",
+    "passage": "갑 ：: 경제적 여 유 가 있는 사 람 이라면 고 통 에 빠진 사 람 들 을 위해\n소득 중 일 부 는 기 부 해야 한다. 원 조 함으로써 우리 자 신 에게\n다른 더 큰 피 해 가 생기지 않는 한 마땅히 원 조 해 야 한다.\n을 : 개 인 이 정 당 하게 취득한 재 산 의 배타적 소 유 권 을 타 인 의\n삶 과 행 복 을 명 목 으 로 침 해 해서는 안 된다. 원 조 는 개 인 의\n자유로운 선 택 의 영 역 이다.\n병 ： 인 권 이 보 장 되고 민주적 의사 결 정 이 제 도 화 된 사 회 의 구성원\n이라면 해외 원 조 를 반 대 할 이 유 가 없다. 원 조 는 고 통 받는\n사 회 의 자 유 와 평등 확 립 을 목 적 으로 삼아야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 모는 개 인 의 원조 의 무 를 규 정 하는 보편 원 리 는 없다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 해외 원 조 를 최소 국 가 가 강 제 해 야 하는 의 무 라고 본다."
+      },
+      {
+        "number": 3,
+        "text": "병 은 정 의 의 원 칙 이 확 립 된 자원 빈 곤 국 은 원조 대 성 이 이 니 라 고 본다."
+      },
+      {
+        "number": 4,
+        "text": "갑 , 병 은 국제 기 구 를 통한 원 조 만이 정 당 화 될 수 있다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "을, 병 은 국가 간 부의 격차 해소 후 에 는 원조 의 무 가 없다고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:01+00:00",
+    "qa_flags": []
+  }
+}

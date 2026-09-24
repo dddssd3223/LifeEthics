@@ -1,0 +1,77 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 102,
+    "question_number": 7,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1896,
+      1740,
+      3142
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 다 음 을 주장한 사 상 가 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서\n고른 것은?\n본래 인 간 은 자유롭고 평 등 하고 독립된 존 재 이므로 자 신 의\n동의 없이 다른 사 람 의 정 치 퀸 력 에 복 종 할 수 없다. 어떤 사 람 이\n자 신 의 자 유 를 포 기 하고 시민 사 회 의 구 속 을 받 아 들 이 는 유일한\n방 법 은, 자 신 의 재 산 을 보 호 하고 다른 사 람 들 과 상 호 간 에 안전한\n삶 을 영 위 하기 위해서 공 동 체 를 결 성 하 기 로 합 의 하는 것이다,\n< 보 기 >\n-. 국 가 는 가족 공동체 의 석 이 전 제 된 정치적 공 동 체 여야 한다.\nㄴ . 국 가 는 개 인 의 기본권 보 장 을 목 적 으로 계 약 에 의해 수 림 된다.\nㄷ . 국 가 는 인 간 의 정치적 본 성 으로 형 성 되는 자연적 공 동 체 이다.\n2. 국 가 는 시민 모 두 에게 동등한 자 유 와 권 리 를 보 장 해 야 한다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "본래 인 간 은 자유롭고 평 등 하고 독립된 존 재 이므로 자 신 의\n동의 없이 다른 사 람 의 정 치 퀸 력 에 복 종 할 수 없다. 어떤 사 람 이\n자 신 의 자 유 를 포 기 하고 시민 사 회 의 구 속 을 받 아 들 이 는 유일한\n방 법 은, 자 신 의 재 산 을 보 호 하고 다른 사 람 들 과 상 호 간 에 안전한\n삶 을 영 위 하기 위해서 공 동 체 를 결 성 하 기 로 합 의 하는 것이다,\n< 보 기 >\n-. 국 가 는 가족 공동체 의 석 이 전 제 된 정치적 공 동 체 여야 한다.\nㄴ . 국 가 는 개 인 의 기본권 보 장 을 목 적 으로 계 약 에 의해 수 림 된다.\nㄷ . 국 가 는 인 간 의 정치적 본 성 으로 형 성 되는 자연적 공 동 체 이다.\n2. 국 가 는 시민 모 두 에게 동등한 자 유 와 권 리 를 보 장 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:54:14+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2025_JUNE_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 133,
+    "question_number": 2,
+    "exam_key": "2025_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      2213,
+      1740,
+      3490
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_JUNE_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. ( 가 ) 의 주 장 을 (나) 그 림 으로 나타낼 때, (에 대한 반 론 의 근 거 로\n가장 적절한 것은?\n| 인공 임신 중 절 은 태 아 의 생 명 을 중 단 시켜 인 간 으로서의\n생 명 퀸 을 침 해 하므로 허 용 되 어 서 는 안 된다.\n대 전 제 | 아 가 의 생 명 권 을 침 해 하는\n도브\n소 전 제 오\n기 행 위 는 허 용 되 어 서 는 안 된다.\n(나)\n결론\n인공 임신 중 절 은 허 용 되 어 서 는 안 된다.\n0 태 아 는 잠재적 인 간 이므로 생 명 에 대한 권 리 를 지닌다.\n2 배아, 태아, 성 인 은 유 전 적 으 로 동일한 종 의 구 성 원 이다.\n8 태 아 는 인 간 이지만 생 명 권 이 외 의 퀸 리 를 지니지 않는다.\n0 태 아 는 임신부 신 제 의 일 부 이지 인 간 으 로 는 간 주 될 수 없다.\n5 태 아 는 인 간 의 생 명 권 을 갖지만 임 신 부 의 선 택 권 이 우 선 한다.",
+    "stem": "( 가 ) 의 주 장 을 (나) 그 림 으로 나타낼 때, (에 대한 반 론 의 근 거 로 가장 적절한 것은?",
+    "passage": "| 인공 임신 중 절 은 태 아 의 생 명 을 중 단 시켜 인 간 으로서의\n생 명 퀸 을 침 해 하므로 허 용 되 어 서 는 안 된다.\n대 전 제 | 아 가 의 생 명 권 을 침 해 하는\n도브\n소 전 제 오\n기 행 위 는 허 용 되 어 서 는 안 된다.\n(나)\n결론\n인공 임신 중 절 은 허 용 되 어 서 는 안 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "태 아 는 잠재적 인 간 이므로 생 명 에 대한 권 리 를 지닌다."
+      },
+      {
+        "number": 2,
+        "text": "배아, 태아, 성 인 은 유 전 적 으 로 동일한 종 의 구 성 원 이다."
+      },
+      {
+        "number": 3,
+        "text": "태 아 는 인 간 이지만 생 명 권 이 외 의 퀸 리 를 지니지 않는다."
+      },
+      {
+        "number": 4,
+        "text": "태 아 는 임신부 신 제 의 일 부 이지 인 간 으 로 는 간 주 될 수 없다."
+      },
+      {
+        "number": 5,
+        "text": "태 아 는 인 간 의 생 명 권 을 갖지만 임 신 부 의 선 택 권 이 우 선 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.86,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:45+00:00",
+    "qa_flags": []
+  }
+}

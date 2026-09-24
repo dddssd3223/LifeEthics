@@ -1,0 +1,73 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 55,
+    "question_number": 13,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      1880
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q13.png",
+    "raw_text": "18. 다음 동양 사 상 가 의 입 장 으로 가장 적절한 것은?\nㅇ 만약 백 성 에게 살아갈 수 있는 일정한 재 산 이나 생 업 18061 이\n없으면 순 수 하고 변 함 없는 마 음 16.64 을 유 지 하기 어려우며,\n그러한 마 음 이 없으면 편 벽 되고 악 해질 것이다.\n0 사 람 은 남 에게 차마 하지 못하는 마 음 [ ㅅ 2/4 이 있다,\n그러한 선한 마 음 은 직업 활 동 을 통해 확 충 될 수 있다.\n예 를 들어 갑 웃을 만드는 사 람 은 날마다 자 신 이 만든 갑옷\n으로 사람 살리는 일 에 관 심 을 갖게 되니 선한 마 음 을 지켜\n나갈 수 있다. 그러므로 직 업 을 선 텍 할 때에는 신 중 하지\n아니할 수 없다.\n(0) 직 업 을 선택할 때 생 계 유 지 의 문 제 는 중 요 하 지 않\n(3) 직 업 의 역할 분 담 은 공 동 체 의 발 전 을 위해 없어져야 한다.\n(3) 직업 선 택 의 기 준 에서 경제적 보 상 을 가장 중 시 해야 한다.\n(4) 직 업 을 선택할 때에는 인 격 에 미치는 영 향 을 고려해야 한다.\n(5) 직업 선 택 에서 사회적 기 여 보다 개 인 의 출 세 를 더 중 시 해야 한다.",
+    "stem": "다음 동양 사 상 가 의 입 장 으로 가장 적절한 것은?",
+    "passage": "ㅇ 만약 백 성 에게 살아갈 수 있는 일정한 재 산 이나 생 업 18061 이\n없으면 순 수 하고 변 함 없는 마 음 16.64 을 유 지 하기 어려우며,\n그러한 마 음 이 없으면 편 벽 되고 악 해질 것이다.\n0 사 람 은 남 에게 차마 하지 못하는 마 음 [ ㅅ 2/4 이 있다,\n그러한 선한 마 음 은 직업 활 동 을 통해 확 충 될 수 있다.\n예 를 들어 갑 웃을 만드는 사 람 은 날마다 자 신 이 만든 갑옷\n으로 사람 살리는 일 에 관 심 을 갖게 되니 선한 마 음 을 지켜\n나갈 수 있다. 그러므로 직 업 을 선 텍 할 때에는 신 중 하지\n아니할 수 없다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "직 업 을 선택할 때 생 계 유 지 의 문 제 는 중 요 하 지 않"
+      },
+      {
+        "number": 2,
+        "text": "직 업 의 역할 분 담 은 공 동 체 의 발 전 을 위해 없어져야 한다."
+      },
+      {
+        "number": 3,
+        "text": "직업 선 택 의 기 준 에서 경제적 보 상 을 가장 중 시 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "직 업 을 선택할 때에는 인 격 에 미치는 영 향 을 고려해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "직업 선 택 에서 사회적 기 여 보다 개 인 의 출 세 를 더 중 시 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.911,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:40+00:00",
+    "qa_flags": []
+  }
+}

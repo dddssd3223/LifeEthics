@@ -1,0 +1,76 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 2,
+    "question_number": 6,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1592,
+      2769
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 그림 ( 나 ) 는 어떤 서양 사 상 가 의 글 이다. 이 사 상 가 의 입 장 에서\n( 가 ) 의 몰 음 에 대한 대 답 으로 가장 적절한 것은?\n지구 상에는 국 가 들 사 이 의 전 쟁 이 끊임없이 발 생 하\n(가) | 고 있다. 이러한 전 쟁 을 방 지 하고 세계 평 화 를 실 현 하\n기 위한 현실적 방 안 은 무엇일까?\n제 2 장\n-| 제 1 항 . 모든 국 가 의 시 민 적 정치\n- .. 으 스 、 | | 체 제 는 공화 정 체 이어야 한다.\n이 시 민 적 체 제 는 원초적 계 약 의 이 념 으로부터\n도 출 할 있고, 모든 법 률 상의 입 법 이 근 거 해\n고글 은 ㄱㄱ ^\n야만 하는 공 화 제 이다.\nㅜ | | 제 항 . 국 제 법 은 자유로운 국가\n(나)\n…| | 들의 연방 체 제 에 기 초 해야 한다. )\n: 시\n제 3 항 . 세계 시 민 법 은 보편적 우호\n의 추 구 를 목 표 로 삼아야 한다\n가\n(01) 전 세 계 를 통 치 하는 민 주 적 인 세계 공 화 국 을 수 립 해 야 한다.\n(3) 국제 사 회 의 갈 등 을 해 결 하기 위한 국 제 기 구 를 창 설 해야 한다.\n(3) 강대국 간에 서로 견 제 할 수 있는 세력 균 형 을 정 립 해 야 한다.\n(4) 전쟁 방 지 를 위해 국 제 법 을 폐 지 하고 자 연 법 을 강 화 해 야 한다.\n(5) 세계 평 화 를 실 현 하기 위해 개별 국 가 의 권 력 을 폐 지 해야 한다.",
+    "stem": "그림 ( 나 ) 는 어떤 서양 사 상 가 의 글 이다. 이 사 상 가 의 입 장 에서 ( 가 ) 의 몰 음 에 대한 대 답 으로 가장 적절한 것은?",
+    "passage": "지구 상에는 국 가 들 사 이 의 전 쟁 이 끊임없이 발 생 하\n(가) | 고 있다. 이러한 전 쟁 을 방 지 하고 세계 평 화 를 실 현 하\n기 위한 현실적 방 안 은 무엇일까?\n제 2 장\n-| 제 1 항 . 모든 국 가 의 시 민 적 정치\n- .. 으 스 、 | | 체 제 는 공화 정 체 이어야 한다.\n이 시 민 적 체 제 는 원초적 계 약 의 이 념 으로부터\n도 출 할 있고, 모든 법 률 상의 입 법 이 근 거 해\n고글 은 ㄱㄱ ^\n야만 하는 공 화 제 이다.\nㅜ | | 제 항 . 국 제 법 은 자유로운 국가\n(나)\n…| | 들의 연방 체 제 에 기 초 해야 한다. )\n: 시\n제 3 항 . 세계 시 민 법 은 보편적 우호\n의 추 구 를 목 표 로 삼아야 한다\n가",
+    "choices": [
+      {
+        "number": 1,
+        "text": "전 세 계 를 통 치 하는 민 주 적 인 세계 공 화 국 을 수 립 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "국제 사 회 의 갈 등 을 해 결 하기 위한 국 제 기 구 를 창 설 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "강대국 간에 서로 견 제 할 수 있는 세력 균 형 을 정 립 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "전쟁 방 지 를 위해 국 제 법 을 폐 지 하고 자 연 법 을 강 화 해 야 한다."
+      },
+      {
+        "number": 5,
+        "text": "세계 평 화 를 실 현 하기 위해 개별 국 가 의 권 력 을 폐 지 해야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=97",
+      "vector_lines=83"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.898,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:31+00:00",
+    "qa_flags": []
+  }
+}

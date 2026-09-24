@@ -1,0 +1,75 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 10,
+    "question_number": 8,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      1904
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 에 들어갈 내 용 으로 가장 적절한 것은? [3 점 ]\n국제 관계 이 론 을 ()(〉 주 의, 주의, 스 스 주 의 로 구 분 하여\n= ㅎㅎ ~\n그 특 징 을 설 명 할 수 있다.\n1. (2( 주 의\n* 법 률 적 ㆍ 도덕적 수 단 을 통한 국제 사 회 의 갈등 조 정 을 중 시 한 다.\nㆍ 중 심 개념: 집단 안보, 국제법, 국 제 기구\n2. 니 디 주의\n. @\n* 중 심 개념: 국가 안보, 자력 구제, 세력 균형\n3. 스 스 주의\nㆍ 국 가 정 체 성 의 구 성 을 통한 국제 관 계 의 변화 가 능 성 을 강 조 한 다.\nㆍ 중 심 개념: 규범, 인식, 상호 작용\n03 군 사 력 의 증 강 과 동 맹 을 통한 국제 분 쟁 의 억 지 를 강 조 한 다.\n9) 개별 국 가 를 규 제 하는 세계 정 부 를 통한 분쟁 해 결 을 중 시 한다.\n@ 국가 사 이 의 힘 과 그 분 포 보다는 관 념 적 인 요 인 을 강 주 한다.\n@ 민주적 법치 국 가 의 확 산 을 통한 국제 평 화 의 실 현 을 중 시 한다.\n(9) 퀸 력 의 극 대 화 와 국가 이 익 보다는 국가 간 협 력 을 우 선 시 한다.",
+    "stem": "에 들어갈 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "국제 관계 이 론 을 ()(〉 주 의, 주의, 스 스 주 의 로 구 분 하여\n= ㅎㅎ ~\n그 특 징 을 설 명 할 수 있다.\n1. (2( 주 의\n* 법 률 적 ㆍ 도덕적 수 단 을 통한 국제 사 회 의 갈등 조 정 을 중 시 한 다.\nㆍ 중 심 개념: 집단 안보, 국제법, 국 제 기구\n2. 니 디 주의\n. @\n* 중 심 개념: 국가 안보, 자력 구제, 세력 균형\n3. 스 스 주의\nㆍ 국 가 정 체 성 의 구 성 을 통한 국제 관 계 의 변화 가 능 성 을 강 조 한 다.\nㆍ 중 심 개념: 규범, 인식, 상호 작용",
+    "choices": [
+      {
+        "number": 1,
+        "text": "군 사 력 의 증 강 과 동 맹 을 통한 국제 분 쟁 의 억 지 를 강 조 한 다."
+      },
+      {
+        "number": 2,
+        "text": "개별 국 가 를 규 제 하는 세계 정 부 를 통한 분쟁 해 결 을 중 시 한다."
+      },
+      {
+        "number": 3,
+        "text": "국가 사 이 의 힘 과 그 분 포 보다는 관 념 적 인 요 인 을 강 주 한다."
+      },
+      {
+        "number": 4,
+        "text": "민주적 법치 국 가 의 확 산 을 통한 국제 평 화 의 실 현 을 중 시 한다."
+      },
+      {
+        "number": 5,
+        "text": "퀸 력 의 극 대 화 와 국가 이 익 보다는 국가 간 협 력 을 우 선 시 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.882,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:50+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2021_SEPTEMBER_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 91,
+    "question_number": 11,
+    "exam_key": "2021_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2028
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_SEPTEMBER_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 갑 , 을 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은?\n각기 다른 재 료 들이 섞여 각자 고 유 의 국 수 가 주된 내 용 둘 이 지만 다양한\n맛 을 지키면서 하 나 의 샐 러 드 가 되 듯 이, 고 명 들이 첨 가 됨으로써 맛 이 풍 부 해\n한 국 가 나 사회 안에서 다양한 문 화 를 지듯이, 한 국 가 나 사회 안에서 다양한\n인 정 하여 각자 자 신 들 의 생활 방 식 을 독자적 이질적인 문 화 를 허 용 함으로써 문화적\n으로 추 구 하며 조 화 를 이룰 수 있습니다. 역 동 성 을 증 진 할 수 있습니다.\n< 보 기 >\nㄱ . 갑 : 다양한 문 화 가 서로 대 등 하게 조 화 를 이루어야 한다.\nㄴ . 을: 각 문 화 가 정 체 성 을 유 지 하 면서 조 화 를 이루어야 한다.\nㄷ . 갑 , 을: 주류 문 화 를 중 심 으로 문화 간 공 존 을 추 구 해 야 한다.\n르 . 갑 , 을: 서로 다른 문 화 에 대해 관 용 의 자 세 를 견 지 해야 한다.\n0) ㄱㄱ, ㄴ (00) ㄱ , ㄷ (3) ㄷ , 큰\n04) 7, ㄴ , 큰 06) ㄴ , ㄷ , 르\n” ”",
+    "stem": "갑 , 을 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "각기 다른 재 료 들이 섞여 각자 고 유 의 국 수 가 주된 내 용 둘 이 지만 다양한\n맛 을 지키면서 하 나 의 샐 러 드 가 되 듯 이, 고 명 들이 첨 가 됨으로써 맛 이 풍 부 해\n한 국 가 나 사회 안에서 다양한 문 화 를 지듯이, 한 국 가 나 사회 안에서 다양한\n인 정 하여 각자 자 신 들 의 생활 방 식 을 독자적 이질적인 문 화 를 허 용 함으로써 문화적\n으로 추 구 하며 조 화 를 이룰 수 있습니다. 역 동 성 을 증 진 할 수 있습니다.\n< 보 기 >\nㄱ . 갑 : 다양한 문 화 가 서로 대 등 하게 조 화 를 이루어야 한다.\nㄴ . 을: 각 문 화 가 정 체 성 을 유 지 하 면서 조 화 를 이루어야 한다.\nㄷ . 갑 , 을: 주류 문 화 를 중 심 으로 문화 간 공 존 을 추 구 해 야 한다.\n르 . 갑 , 을: 서로 다른 문 화 에 대해 관 용 의 자 세 를 견 지 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 큰 ” ”"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.894,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:05+00:00",
+    "qa_flags": []
+  }
+}

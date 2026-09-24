@@ -1,0 +1,75 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 4,
+    "question_number": 20,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      1919,
+      2999,
+      4056
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. (가) 사 상 의 입 장 에서 볼 때, 퍼즐 ( 나 ) 의 세로 날 말 (&) 에 대\n한 옮 은 설 명 만 을 < 보 기 > 에 서 있는 대로 고른 것은?\n(가) 임 금 은 임 금 다 워 야 하고, 신 하 는 신 하 다 워 야 하며,\n어 버 이 는 어 버 이 다 워야 하고, 자 식 은 자 식 다 워야 한다,\n(^)\n(08)\n(나) | [가로 열쇠]\n(4): 사적인 것 보다 공적인 것을 우 선 한다는 의 미 의\n사자 성어,\n08): 나와 남이 다르지 않다는 의 식 에서 나온 불 교 의\n' 사 랑 ' .\n[세로 열쇠]\n(6): 0 개념.\n< 보 기 〉\nㄱ . 학 문 과 수 양 을 통해 대 의 명 분 을 구 현 하고자 하였다.\nㄴ . 개인적 이 익 보다 공 동 체 에 대한 책 임 을 우 선 시 하였다.\nㄷ . 의리 정 신 에 입 각 하여 충 서 (8#) 의 태 도 를 비 간 하였다.\n2. 백 성 과 더불어 즐 거 움 을 나누는 정 치 를 이 상 으로 여겼다.\n(0) ㄱ , ㄷ (2) ㄱ , 큰 (3) ㄴ , ㄷ\n(00 )0 ㄱ , ㄴ , 2 (66) ㄴ , ㄷ , 2",
+    "stem": "(가) 사 상 의 입 장 에서 볼 때, 퍼즐 ( 나 ) 의 세로 날 말 (&) 에 대 한 옮 은 설 명 만 을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "(가) 임 금 은 임 금 다 워 야 하고, 신 하 는 신 하 다 워 야 하며,\n어 버 이 는 어 버 이 다 워야 하고, 자 식 은 자 식 다 워야 한다,\n(^)\n(08)\n(나) | [가로 열쇠]\n(4): 사적인 것 보다 공적인 것을 우 선 한다는 의 미 의\n사자 성어,\n08): 나와 남이 다르지 않다는 의 식 에서 나온 불 교 의\n' 사 랑 ' .\n[세로 열쇠]\n(6): 0 개념.\n< 보 기 〉\nㄱ . 학 문 과 수 양 을 통해 대 의 명 분 을 구 현 하고자 하였다.\nㄴ . 개인적 이 익 보다 공 동 체 에 대한 책 임 을 우 선 시 하였다.\nㄷ . 의리 정 신 에 입 각 하여 충 서 (8#) 의 태 도 를 비 간 하였다.\n2. 백 성 과 더불어 즐 거 움 을 나누는 정 치 를 이 상 으로 여겼다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , 큰"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "0 )0 ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.877,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:37+00:00",
+    "qa_flags": []
+  }
+}

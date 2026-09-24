@@ -1,0 +1,77 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 142,
+    "question_number": 9,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      3192
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 퓨 현할 때,\nㅅ ~]1) 에 해 당 하 는 적절한 진 술 만 을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 이 성 이 없는 존 재 자 들 은 단지 수 단 으로서 상대적 가치\n만을 갖지만, 모든 이성적 존 재 자 들 은 수 단 으 로 서 만이\n아니라 항상 동시에 목 적 으로 대 우 받아야 한다.\n을 : 오로지 경제적 이 익 에 바 탕 을 둔 보전 체 계 는 절 망 적 일\n( 가 )| 정도로 편 향 되어 있어 대지 공 동 체 의 필수적인 수많은\n유 수 들을 절 멸 시키는 경 향 이 있다.\n병 : 고 동 과 쾌 락 을 느낄 수 있는 능 력 은 어떤 존 재 의 고 통 을\n다른 존 재 의 동일한 고 통 과 평 등 하게 계 산 하기 위한\n요 구 의 전제 조 건 이다.\n< 범 례 >\n스 : 감 만의 입장\n12 : 병 만의 입장\n(나)\n(:: 을 과 병 만의 공통 입장\n1 : 갑 과 을과 병 의 공통 입장\n< 보 기 >\nㄱ . 4: 도덕적 행위 주 체 성 은 도덕적 지위 결 정 의 유일한 요 잇 이다.\nㄴ . 2: 동 몰 의 고 통 에 대한 동 정 심 은 도덕적 의 무 에 어긋나지 않는\n=. (:: 쾌 고 감 수 능 력 이 있는 모든 존 재 에 대한 종 치 별 주 의 는 부 당 하다\n2. 1: 지 연 물 을 피 괴 하는 있 간 의 행 위 가 도 덕 적 으로 허 용 될 수 있다\n0) ㄱ , ㄴ (000 ㄱ , 큰 06) ㄴ , ㄷ\n04 ㄱ 7, ㄷ , 료 0690 ㄴ , ㄷ , 료",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 퓨 현할 때, ㅅ ~]1) 에 해 당 하 는 적절한 진 술 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 이 성 이 없는 존 재 자 들 은 단지 수 단 으로서 상대적 가치\n만을 갖지만, 모든 이성적 존 재 자 들 은 수 단 으 로 서 만이\n아니라 항상 동시에 목 적 으로 대 우 받아야 한다.\n을 : 오로지 경제적 이 익 에 바 탕 을 둔 보전 체 계 는 절 망 적 일\n( 가 )| 정도로 편 향 되어 있어 대지 공 동 체 의 필수적인 수많은\n유 수 들을 절 멸 시키는 경 향 이 있다.\n병 : 고 동 과 쾌 락 을 느낄 수 있는 능 력 은 어떤 존 재 의 고 통 을\n다른 존 재 의 동일한 고 통 과 평 등 하게 계 산 하기 위한\n요 구 의 전제 조 건 이다.\n< 범 례 >\n스 : 감 만의 입장\n12 : 병 만의 입장\n(나)\n(:: 을 과 병 만의 공통 입장\n1 : 갑 과 을과 병 의 공통 입장\n< 보 기 >\nㄱ . 4: 도덕적 행위 주 체 성 은 도덕적 지위 결 정 의 유일한 요 잇 이다.\nㄴ . 2: 동 몰 의 고 통 에 대한 동 정 심 은 도덕적 의 무 에 어긋나지 않는\n=. (:: 쾌 고 감 수 능 력 이 있는 모든 존 재 에 대한 종 치 별 주 의 는 부 당 하다\n2. 1: 지 연 물 을 피 괴 하는 있 간 의 행 위 가 도 덕 적 으로 허 용 될 수 있다",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , 큰"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ 7, ㄷ , 료"
+      },
+      {
+        "number": 5,
+        "text": "0690 ㄴ , ㄷ , 료"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=13033",
+      "vector_lines=2007"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.775,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:10+00:00",
+    "qa_flags": []
+  }
+}

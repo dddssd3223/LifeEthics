@@ -1,0 +1,7 @@
+pymupdf>=1.24
+pillow>=10
+numpy>=1.26
+scipy>=1.11
+imagehash>=4.3
+pytest>=8
+# 시스템 패키지: tesseract-ocr, tesseract-ocr-kor  (apt-get install -y tesseract-ocr tesseract-ocr-kor)

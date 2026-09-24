@@ -1,0 +1,73 @@
+{
+  "id": "2027_JUNE_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 153,
+    "question_number": 5,
+    "exam_key": "2027_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3487,
+      3149,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_JUNE_LIFE_ETHICS_Q05.png",
+    "raw_text": "6. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n이 성 을 지닌 인 간 의 권 력 은 그 자 체 로 책 임 을 동 반 한다. 이는\n예 전 부터 인간 상호 간의 영 역 에서는 자 명 한 일 이었다. 오늘날\n책 임 이 기 존 의 범 위 를 넘어서서 생 태 계 와 인간 종 족 의 미래\n생 존 까지 포 괄 하게 된 것은 인간 권 력 의 확 장 과 연 관 이 있다.\n인 간 의 권 력 이 인간 스 스 로 에게 불 행 이 되지 않도록 자발적\n통 제 를 통해 권 력 을 제 어 할 수 있는 윤 리 학 이 요 청 된다.\n1 권 력 의 종 류 와 범 위 에 따라 책 임 의 종 류 와 범 위 가 결 정 된 다.\n2 선 의 로 실 행 된 행 위 의 결 과 에 대해서는 책 임 이 부 과 되지 않는다.\n3 권 력 이 초래할 결 과 의 불 확 실 성 에서 당 위 를 도 출 해 서는 안 된다.\n0 미래 세 대 의 존 속 은 현 세 대 의 권 력 을 규 제 할 근 거 가 될 수 없다.\n5 인간 상호 간 책 임 을 인 간 과 자연 상호 간 책 임 으로 확 장 해야 한다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "이 성 을 지닌 인 간 의 권 력 은 그 자 체 로 책 임 을 동 반 한다. 이는\n예 전 부터 인간 상호 간의 영 역 에서는 자 명 한 일 이었다. 오늘날\n책 임 이 기 존 의 범 위 를 넘어서서 생 태 계 와 인간 종 족 의 미래\n생 존 까지 포 괄 하게 된 것은 인간 권 력 의 확 장 과 연 관 이 있다.\n인 간 의 권 력 이 인간 스 스 로 에게 불 행 이 되지 않도록 자발적\n통 제 를 통해 권 력 을 제 어 할 수 있는 윤 리 학 이 요 청 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "권 력 의 종 류 와 범 위 에 따라 책 임 의 종 류 와 범 위 가 결 정 된 다."
+      },
+      {
+        "number": 2,
+        "text": "선 의 로 실 행 된 행 위 의 결 과 에 대해서는 책 임 이 부 과 되지 않는다."
+      },
+      {
+        "number": 3,
+        "text": "권 력 이 초래할 결 과 의 불 확 실 성 에서 당 위 를 도 출 해 서는 안 된다."
+      },
+      {
+        "number": 4,
+        "text": "미래 세 대 의 존 속 은 현 세 대 의 권 력 을 규 제 할 근 거 가 될 수 없다."
+      },
+      {
+        "number": 5,
+        "text": "인간 상호 간 책 임 을 인 간 과 자연 상호 간 책 임 으로 확 장 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:56+00:00",
+    "qa_flags": []
+  }
+}

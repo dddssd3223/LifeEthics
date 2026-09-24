@@ -1,0 +1,74 @@
+{
+  "source_of_truth": "「(2022개정) 초·중등학교 교육과정 [별책7] 사회과」 통합사회1·통합사회2 (reference/curriculum/2022개정_사회과_별책7.pdf)",
+  "previous_phase2c_keep": 261,
+  "audited": 261,
+  "KEEP": 106,
+  "DROP": 155,
+  "review_required": 94,
+  "review_required_by_decision": {
+    "DROP": 53,
+    "KEEP": 41
+  },
+  "keep_by_standard_any_evidence": {
+    "10통사1-05-02 생활공간과 사회": 25,
+    "10통사1-04-04 문화와 다양성": 22,
+    "10통사2-04-02 세계화와 평화": 16,
+    "10통사2-03-02 시장경제와 지속가능발전": 15,
+    "10통사2-04-03 세계화와 평화": 14,
+    "10통사2-01-01 인권보장과 헌법": 12,
+    "10통사2-02-03 사회정의와 불평등": 10,
+    "10통사2-01-02 인권보장과 헌법": 10,
+    "10통사1-04-02 문화와 다양성": 6,
+    "10통사2-05-03 미래와 지속가능한 삶": 5,
+    "10통사2-05-02 미래와 지속가능한 삶": 5,
+    "10통사2-04-01 세계화와 평화": 4,
+    "10통사2-02-02 사회정의와 불평등": 4,
+    "10통사2-02-01 사회정의와 불평등": 4,
+    "10통사2-01-03 인권보장과 헌법": 3,
+    "10통사1-03-02 자연환경과 인간": 2,
+    "10통사1-04-03 문화와 다양성": 2,
+    "10통사2-03-01 시장경제와 지속가능발전": 1
+  },
+  "keep_by_primary_standard": {
+    "10통사1-05-02 생활공간과 사회": 20,
+    "10통사1-04-04 문화와 다양성": 15,
+    "10통사2-03-02 시장경제와 지속가능발전": 15,
+    "10통사2-04-03 세계화와 평화": 14,
+    "10통사2-04-02 세계화와 평화": 10,
+    "10통사2-01-02 인권보장과 헌법": 8,
+    "10통사2-01-01 인권보장과 헌법": 5,
+    "10통사2-02-03 사회정의와 불평등": 5,
+    "10통사2-04-01 세계화와 평화": 4,
+    "10통사2-02-02 사회정의와 불평등": 4,
+    "10통사1-03-02 자연환경과 인간": 2,
+    "10통사2-01-03 인권보장과 헌법": 2,
+    "10통사1-04-03 문화와 다양성": 2
+  },
+  "keep_evidence_type_counts": {
+    "EXPLANATION": 103,
+    "STANDARD_TEXT": 83,
+    "CONTENT_ELEMENT": 19,
+    "APPLICATION_CONSIDERATION": 1
+  },
+  "drop_by_reason": {
+    "PHIL_JUSTICE: detailed philosopher knowledge (justice: Rawls/Nozick etc.)": 39,
+    "IR_THEORY: international relations / war ethics / Kant perpetual peace details": 32,
+    "ENV_DETAIL: detailed environmental ethics (Singer/Regan/Taylor/Leopold/Kant)": 26,
+    "CD_DETAIL: detailed civil disobedience theory (Rawls/Singer/Thoreau)": 22,
+    "PUNISH: detailed punishment theory (Kant/Beccaria/Rousseau/Bentham)": 21,
+    "INFO_ETHICS: information ethics (ownership, cyber self, discourse ethics)": 8,
+    "OTHER_OUT_OF_SCOPE: other out-of-scope content": 6,
+    "OCCUPATIONAL_ETHICS: occupational ethics": 1
+  },
+  "qa": {
+    "A_phase2c_keep_equals_audit_input": true,
+    "B_keep_plus_drop_equals_input": true,
+    "C_duplicate_ids": 0,
+    "D_all_previous_keep": true,
+    "E_non_keep_contamination": 0,
+    "F_keep_without_evidence": 0,
+    "G_drop_without_exclusion_reason": 0
+  },
+  "method": "Phase 2C KEEP 261문항을 선지 포함 원문으로 20~30문항 batch(pilot 30 → 나머지 231) 판독, 공식 교육과정 MASTER(성취기준·해설·고려 사항·내용 요소)와 대조한 의미 판정. 외부 API 0회, 신규 OCR 없음.",
+  "note": "기존 Phase 2C 판정·FINAL_TRANSFER는 변경하지 않은 별도 audit layer."
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 21,
+    "question_number": 5,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      3135,
+      2999,
+      4303
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q05.png",
+    "raw_text": "5. (가) 사 상 의 입 장 에서 긍 정 의 대 답 을, (나) 사 상 의 입 장 에서\n부 정 의 대 답 을 할 질 문 으로 옮 은 것은?\n(가) 모든 퀸 력 은 국 민 의 동 의 에서 나와야 한다는 주 권 재민\n(\\688) 의 원 리 를 따라야 한다. 국 민 으로부터 권 력 을\n위 임 받은 정부 관 리 자 들은 국 민 을 위한 봉 사 자 이다.\n그들은 어떤 경 우 에도 국 민 에게 책 임 을 진다,\n(나) 하 늘 이 보시는 것은 우리 백 성 을 통해서 보시고, 하 늘 이\n들으시는 것은 우리 백 성 을 통해서 들 으 신다. 이처럼\n하 늘 과 백 성 은 통하는 것이니 땅 을 다스리는 자는 백 성 을\n공 경 해야 한다.\n(0) 민생 안 정 과 인간 존 중 의 가치 실 현 을 중 시 하 는가?\n(3) 민의 ( 뽀 끌 ) 를 정 치 에 반 영 할 수 있는 통 로 를 중 시 하는가?\n(3) 통치 권 력 의 정 당 성 을 피 치 자의 의 사 ( 끔 뽀 ) 에 서 찾아야 하는가?\n(4) 통 치 자 는 도 덕 성 을 바 탕 으로 피 치 자를 위한 정 치 를 해야 하는가?\n(5) 피 치 자는 통 치 자 를 정 기 적 으 로 교 체 할 수 있는 권 리 를 지 니 는 가?",
+    "stem": "(가) 사 상 의 입 장 에서 긍 정 의 대 답 을, (나) 사 상 의 입 장 에서 부 정 의 대 답 을 할 질 문 으로 옮 은 것은?",
+    "passage": "(가) 모든 퀸 력 은 국 민 의 동 의 에서 나와야 한다는 주 권 재민\n(\\688) 의 원 리 를 따라야 한다. 국 민 으로부터 권 력 을\n위 임 받은 정부 관 리 자 들은 국 민 을 위한 봉 사 자 이다.\n그들은 어떤 경 우 에도 국 민 에게 책 임 을 진다,\n(나) 하 늘 이 보시는 것은 우리 백 성 을 통해서 보시고, 하 늘 이\n들으시는 것은 우리 백 성 을 통해서 들 으 신다. 이처럼\n하 늘 과 백 성 은 통하는 것이니 땅 을 다스리는 자는 백 성 을\n공 경 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "민생 안 정 과 인간 존 중 의 가치 실 현 을 중 시 하 는가?"
+      },
+      {
+        "number": 2,
+        "text": "민의 ( 뽀 끌 ) 를 정 치 에 반 영 할 수 있는 통 로 를 중 시 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "통치 권 력 의 정 당 성 을 피 치 자의 의 사 ( 끔 뽀 ) 에 서 찾아야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "통 치 자 는 도 덕 성 을 바 탕 으로 피 치 자를 위한 정 치 를 해야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "피 치 자는 통 치 자 를 정 기 적 으 로 교 체 할 수 있는 권 리 를 지 니 는 가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.905,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:36:05+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 65,
+    "question_number": 4,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1775,
+      1057,
+      3148,
+      3077
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 다음 가상 대 담 의 사 상 가 가 지 지 할 입 장 으로 적 절 하지 않은\n것은? [3 점 ]\n선 생 님 께 서는 좋은 벗은 마 음 이 굳 건 하여 예 , 그렇습니다. 완전한 우 애 는 사람\n잘 못 을 하지 않지만, 나쁜 이들은 자주 됨 됨 이 를 사 랑 하 여 서 로 를 즐 검게 합니다.\n변 하 기 에 굳건한 마 음 이 없다고 말씀 이러한 우 애 는 서 로 에게 사 랑 받을 만 함 을\n하셨습니다. 보여 주어야 합니다.\n완전한 우 애 를 위해서는 시 간 과 친 교 가 쾌 락 을 위한 우 애 도 서 로 에게 즐 거 움 을\n필 요 하겠군요. 그렇다면 쾌 락 을 위한 줍니다. 하지만 그들의 우 애 는 즐 거 움 이\n우 애 는 어 떻 습니까? 목 적 이기에 즐 거 움 이 사라지면 소 멸 할\n) 수밖에 없습니다.\n3| -\n1 캐 락 을 위한 우 애 나 완전한 우애 모두 서 로 에게 즐 거 움 을 준다.\n2) 유 덕 하지 못한 사 람 은 다른 사 람 과 더불어 우 애 를 나눌 수 없다.\n좋은 벗은 서 로 에게 멋 멋 하지 못한 행 위 를 요 구 하지 않는다.\n41 쾌 락 을 위한 우 애 는 서로 즐 거 움 을 주는 한 에서만 지속될 수 있\n5 완전한 우 애 만이 서 로 의 선한 성품 때문에 서로 사랑하는 것이다.",
+    "stem": "다음 가상 대 담 의 사 상 가 가 지 지 할 입 장 으로 적 절 하지 않은 것은? [3 점 ]",
+    "passage": "선 생 님 께 서는 좋은 벗은 마 음 이 굳 건 하여 예 , 그렇습니다. 완전한 우 애 는 사람\n잘 못 을 하지 않지만, 나쁜 이들은 자주 됨 됨 이 를 사 랑 하 여 서 로 를 즐 검게 합니다.\n변 하 기 에 굳건한 마 음 이 없다고 말씀 이러한 우 애 는 서 로 에게 사 랑 받을 만 함 을\n하셨습니다. 보여 주어야 합니다.\n완전한 우 애 를 위해서는 시 간 과 친 교 가 쾌 락 을 위한 우 애 도 서 로 에게 즐 거 움 을\n필 요 하겠군요. 그렇다면 쾌 락 을 위한 줍니다. 하지만 그들의 우 애 는 즐 거 움 이\n우 애 는 어 떻 습니까? 목 적 이기에 즐 거 움 이 사라지면 소 멸 할\n) 수밖에 없습니다.\n3| -",
+    "choices": [
+      {
+        "number": 1,
+        "text": "캐 락 을 위한 우 애 나 완전한 우애 모두 서 로 에게 즐 거 움 을 준다."
+      },
+      {
+        "number": 2,
+        "text": "유 덕 하지 못한 사 람 은 다른 사 람 과 더불어 우 애 를 나눌 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "좋은 벗은 서 로 에게 멋 멋 하지 못한 행 위 를 요 구 하지 않는다."
+      },
+      {
+        "number": 4,
+        "text": "쾌 락 을 위한 우 애 는 서로 즐 거 움 을 주는 한 에서만 지속될 수 있"
+      },
+      {
+        "number": 5,
+        "text": "완전한 우 애 만이 서 로 의 선한 성품 때문에 서로 사랑하는 것이다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.901,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:04+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 72,
+    "question_number": 19,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2546
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 다음 대 화 에서 스 승 의 입 장 으로 가장 적절한 것은? [3 점 ]\n스승님, 옛 성 현 께서 자 기 보다 못한 대개 사 람 은 자 기 보 다 못한 자 와\n사 람 을 친 구 로 삼지 말라. 고 하셨으니 벗 하 기 를 좋 아 하 고 자 기 보 다 나은\n자 기 보다 못한 사 람 과 는 사귀지 말아야 자는 피하기 마 련 이니 이를 일러 하신\n하는지요? 말 씀 일 따 름 이지. 선한 이만 가려\n벗 하려 한다면 이는 곧 치 우 침 이니라.\n그렇다면 악한 이와 떠 친 구 가 선 하 면 본 받고 악 하면 고쳐\n사 귀 다 휠 쓸 려 그 속에 빠져 줘야 할 것이니, 선 함 과 악 함 은 모두\n들면 어 찌 합니까? 스 승 이다. 만일 악 에 휠 쓸 려 빠져\n들 어 가 기 만 한다면, 학 문 은 무엇\n때문에 하는 것인가!\n0 학 문 을 통해 친구 관 계 를 인 격 적 으로 발 전 시켜 나가야 한다.\n2) 행 실 이 바르지 못한 벗 과 의 교 제 에서는 아무것도 배울 바가 없다.\n@ 자 기 보다 선한 사 람 만을 가려서 사귀는 것은 치 우 침 이 아니다.\n0 선한 마 음 을 지 키 려 는 이는 사 람 을 두루 사귀는 것을 삼가야 한다.\n5 옛 성 현 의 가 르 침 을 현 재 의 인 간 관 계 에 적 용 하지 말아야 한다.",
+    "stem": "다음 대 화 에서 스 승 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "스승님, 옛 성 현 께서 자 기 보다 못한 대개 사 람 은 자 기 보 다 못한 자 와\n사 람 을 친 구 로 삼지 말라. 고 하셨으니 벗 하 기 를 좋 아 하 고 자 기 보 다 나은\n자 기 보다 못한 사 람 과 는 사귀지 말아야 자는 피하기 마 련 이니 이를 일러 하신\n하는지요? 말 씀 일 따 름 이지. 선한 이만 가려\n벗 하려 한다면 이는 곧 치 우 침 이니라.\n그렇다면 악한 이와 떠 친 구 가 선 하 면 본 받고 악 하면 고쳐\n사 귀 다 휠 쓸 려 그 속에 빠져 줘야 할 것이니, 선 함 과 악 함 은 모두\n들면 어 찌 합니까? 스 승 이다. 만일 악 에 휠 쓸 려 빠져\n들 어 가 기 만 한다면, 학 문 은 무엇\n때문에 하는 것인가!",
+    "choices": [
+      {
+        "number": 1,
+        "text": "학 문 을 통해 친구 관 계 를 인 격 적 으로 발 전 시켜 나가야 한다."
+      },
+      {
+        "number": 2,
+        "text": "행 실 이 바르지 못한 벗 과 의 교 제 에서는 아무것도 배울 바가 없다."
+      },
+      {
+        "number": 3,
+        "text": "자 기 보다 선한 사 람 만을 가려서 사귀는 것은 치 우 침 이 아니다."
+      },
+      {
+        "number": 4,
+        "text": "선한 마 음 을 지 키 려 는 이는 사 람 을 두루 사귀는 것을 삼가야 한다."
+      },
+      {
+        "number": 5,
+        "text": "옛 성 현 의 가 르 침 을 현 재 의 인 간 관 계 에 적 용 하지 말아야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.905,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:21+00:00",
+    "qa_flags": []
+  }
+}

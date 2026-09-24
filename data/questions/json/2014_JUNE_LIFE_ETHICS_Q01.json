@@ -1,0 +1,76 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 1,
+    "question_number": 1,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      881,
+      1594,
+      2641
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 에 들어갈 내 용 으로 가장 적절한 것은?\n수 업 ㅣ 규범 윤 리 학 을 ()( 윤리학, [ ㅣ | 윤 리 학 으로\n목 표 | 구 분 하여 그 특 징 을 설 명 할 수 있다.\n1. (> 윤리학\nㆍ 도 덕 성 에 대한 이론적 분 석 과 정 당 화 를 다룬다.\n< 예 > 덕 윤리, 의 무 론적 윤리, 목 적 론적 윤리 등\n그 | 3.[ | 윤리학\n@\n< 예 > 생태 윤리, 생명 윤리, 정보 윤리 등\n(01) 도덕적 추 론 의 규 칙 을 검 토 하 는 데 중 점 을 둔다.\n(3) 보 편 적 인 도덕 법 칙 의 규 명 을 핵심 과 제 로 삼는다.\n(3) 윤리적 관 습 에 대한 객관적 조사 및 서 술 을 중 시 한다.\n@ 도덕 언 어 의 분 석 을 윤 리 학 적 탐 구 의 본 질 로 간 주 한다,\n(5) 현실적 도덕 문 제 의 구체적인 해결책 모 색 을 중 시 한다.",
+    "stem": "에 들어갈 내 용 으로 가장 적절한 것은?",
+    "passage": "수 업 ㅣ 규범 윤 리 학 을 ()( 윤리학, [ ㅣ | 윤 리 학 으로\n목 표 | 구 분 하여 그 특 징 을 설 명 할 수 있다.\n1. (> 윤리학\nㆍ 도 덕 성 에 대한 이론적 분 석 과 정 당 화 를 다룬다.\n< 예 > 덕 윤리, 의 무 론적 윤리, 목 적 론적 윤리 등\n그 | 3.[ | 윤리학\n@\n< 예 > 생태 윤리, 생명 윤리, 정보 윤리 등",
+    "choices": [
+      {
+        "number": 1,
+        "text": "도덕적 추 론 의 규 칙 을 검 토 하 는 데 중 점 을 둔다."
+      },
+      {
+        "number": 2,
+        "text": "보 편 적 인 도덕 법 칙 의 규 명 을 핵심 과 제 로 삼는다."
+      },
+      {
+        "number": 3,
+        "text": "윤리적 관 습 에 대한 객관적 조사 및 서 술 을 중 시 한다."
+      },
+      {
+        "number": 4,
+        "text": "도덕 언 어 의 분 석 을 윤 리 학 적 탐 구 의 본 질 로 간 주 한다,"
+      },
+      {
+        "number": 5,
+        "text": "현실적 도덕 문 제 의 구체적인 해결책 모 색 을 중 시 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=16"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.89,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:29+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 3,
+    "question_number": 13,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      1885
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]\n갑 : 흉 악 범 으로 밝혀진 사 람 의 신 상 을 언 론 에 공 개 하는 것은\n시 민 의 알 권 리 를 존 중 하기 위한 것 입니다.\n을: 물론 그렇습니다. 하지만 언 론 의 신상 공 개 는 시 민 의 알\n권 리 를 내세워 개 인 의 사생활 침해 등 인격권 헤 손 의 문\n제 를 발 생 시 킴 니 다.\n갑 : 그 렇 기 는 하지만 흥 악 범의 신상 공 개 를 통해 병 죄 를 예\n방 할 수 있다는 점 에서 시 민 의 알 권 리 가 더 중 요 합니다.\n을: 신상 공 개 가 범죄 예 방 에 효 과 가 있 기 는 하지만, 개 인 의\n인 격 권 을 보 호 하는 것이 더 중 요 하 기 때문에 결코 정당화\n될 수 3 없습니다.\n03 사생활 침 해 가 개 인 의 인 격 퀸 훼 손 에 해 당 하는가?\n@@) ㅎ 악 범의 신상 공 개 는 범죄 예 방 에 효 과 가 있는가?\n@@) ㅎ 악 범의 신상 공 개 는 개 인 의 사 생 활 을 침 해 하는가?\n@ 시 민 의 알 권 리 를 위해 개 인 의 인 격 퀸 을 훼 손 해도 되는가?\n9) 홍 악 법 의 신상 공 개 는 시 민 의 알 권 리 를 존 중 하는 것인가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 흉 악 범 으로 밝혀진 사 람 의 신 상 을 언 론 에 공 개 하는 것은\n시 민 의 알 권 리 를 존 중 하기 위한 것 입니다.\n을: 물론 그렇습니다. 하지만 언 론 의 신상 공 개 는 시 민 의 알\n권 리 를 내세워 개 인 의 사생활 침해 등 인격권 헤 손 의 문\n제 를 발 생 시 킴 니 다.\n갑 : 그 렇 기 는 하지만 흥 악 범의 신상 공 개 를 통해 병 죄 를 예\n방 할 수 있다는 점 에서 시 민 의 알 권 리 가 더 중 요 합니다.\n을: 신상 공 개 가 범죄 예 방 에 효 과 가 있 기 는 하지만, 개 인 의\n인 격 권 을 보 호 하는 것이 더 중 요 하 기 때문에 결코 정당화\n될 수 3 없습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "사생활 침 해 가 개 인 의 인 격 퀸 훼 손 에 해 당 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "ㅎ 악 범의 신상 공 개 는 범죄 예 방 에 효 과 가 있는가?"
+      },
+      {
+        "number": 3,
+        "text": "ㅎ 악 범의 신상 공 개 는 개 인 의 사 생 활 을 침 해 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "시 민 의 알 권 리 를 위해 개 인 의 인 격 퀸 을 훼 손 해도 되는가?"
+      },
+      {
+        "number": 5,
+        "text": "홍 악 법 의 신상 공 개 는 시 민 의 알 권 리 를 존 중 하는 것인가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.863,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:35+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 52,
+    "question_number": 17,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1989,
+      1740,
+      3456
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 갑 , 을, 병 사 상 가 들의 입 장 으로 옮 은 것은?\n갑 : 전 쟁 이 끝난 후 잠시 평 화 가 찾 아 와 도 국 가 들은 더욱 강 화 된\n재 무 장 과 적대 정 책 을 세운다. 이런 악 순 환 을 막기 위해\n국가 간의 항 구 적 인 평화 조 약 이 요 구 된 다.\n을: 전 쟁 은 정치적 목 적 을 위한 여러 수단 중 하 나 이 며 , 다른\n수 단 에 의한 정 책 의 연 속 일 뿐이다. 불가능한 평 화 를\n얻 으 려고 지금 얻을 수 있는 승 리 를 놓치는 것은 어 리 석 다 .\n병 : 전 쟁 은 찬 양 되 어 서 는 안 되지만, 도덕적 제 약 을 전 제 로\n최고의 합법적 권 위 에 의해 선 포 되는 경 우 와 나를 지키기\n위해 적을 죽이지 않으면 안 되는 경 우 에는 허 용 될 수 있다.\n0) 갑 : 항구적 평 화 는 국가 간의 세력 균 형 으로 실 현 되어야 한다.\n(3) 을: 전 쟁 은 항구적 평 화 를 이루기 위한 최 후 의 정치적 수 단 이 다.\n(3) 병 : 자 국 의 방 어 를 위한 불가피한 전 쟁 은 도 덕 적 으로 허 용 된다.\n@) 갑 , 을: 전 쟁 은 인 간 의 생 명 과 자 유 권 을 보 장 할 때 정 의 롭다.\n(5) 을, 병 : 전 쟁 은 국가 이 익 을 극 대 화 하기 위한 정치적 행 위 이다.",
+    "stem": "갑 , 을, 병 사 상 가 들의 입 장 으로 옮 은 것은?",
+    "passage": "갑 : 전 쟁 이 끝난 후 잠시 평 화 가 찾 아 와 도 국 가 들은 더욱 강 화 된\n재 무 장 과 적대 정 책 을 세운다. 이런 악 순 환 을 막기 위해\n국가 간의 항 구 적 인 평화 조 약 이 요 구 된 다.\n을: 전 쟁 은 정치적 목 적 을 위한 여러 수단 중 하 나 이 며 , 다른\n수 단 에 의한 정 책 의 연 속 일 뿐이다. 불가능한 평 화 를\n얻 으 려고 지금 얻을 수 있는 승 리 를 놓치는 것은 어 리 석 다 .\n병 : 전 쟁 은 찬 양 되 어 서 는 안 되지만, 도덕적 제 약 을 전 제 로\n최고의 합법적 권 위 에 의해 선 포 되는 경 우 와 나를 지키기\n위해 적을 죽이지 않으면 안 되는 경 우 에는 허 용 될 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 항구적 평 화 는 국가 간의 세력 균 형 으로 실 현 되어야 한다."
+      },
+      {
+        "number": 2,
+        "text": "을: 전 쟁 은 항구적 평 화 를 이루기 위한 최 후 의 정치적 수 단 이 다."
+      },
+      {
+        "number": 3,
+        "text": "병 : 자 국 의 방 어 를 위한 불가피한 전 쟁 은 도 덕 적 으로 허 용 된다."
+      },
+      {
+        "number": 4,
+        "text": "갑 , 을: 전 쟁 은 인 간 의 생 명 과 자 유 권 을 보 장 할 때 정 의 롭다."
+      },
+      {
+        "number": 5,
+        "text": "을, 병 : 전 쟁 은 국가 이 익 을 극 대 화 하기 위한 정치적 행 위 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.927,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:32+00:00",
+    "qa_flags": []
+  }
+}

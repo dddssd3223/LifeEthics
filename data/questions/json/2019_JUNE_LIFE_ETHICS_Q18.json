@@ -1,0 +1,75 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 64,
+    "question_number": 18,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3324,
+      1742,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 그 림 은 서양 사상가 갑 , 을 의 가상 대 화 이다. 갑 , 을 의 입 장 으로\n올지 않은 것은?\n전 쟁 의 완전 종 식 과 영구 평 화 는 도덕적 전쟁 종 식 만으로 평 화 가 보 장 되 지\n입 법 의 최고 자 리 에 위치한 이 성 이 않습니다. 진정한 평 화 는 직접적,\n명 령 하는 의 무 입니다. 영구 평 화 를 실현 구조적, 문화적 폭 력 을 예 방 함으로써\n하기 위해 모든 전쟁 수 단 의 금 지 와 국가 ㅣ | 가 능 합니다. 이를 위해 억 압 과 착 취 의\n간 연 맹 의 확 장 이 필 요 합 니다. 구 조 를 시급히 개 선 해 야 합니다.\n을 ~ 내\n00 갑 : 개 별 국 가 의 주 권 을 인 정 하면서 영원한 평 화 를 실 현 해야 힌다.\n2 갑 : 국 제 법 을 통해 국가 간 우 호 와 시 민 의 자 유 를 증 진 해야 한다.\n8) 을 : 편견 극 복 을 위한 교 육 은 적극적 평 화 를 실 현 하는 방 법 이다.\n4) 을 : 직접적 쪽 력 을 제 거 함으로써 인간 존 업 실 현 의 조 건 이 완 비 된다.\n69) 갑 , 을: 평 화 의 실 현 을 위해서는 정치 제 도 의 개 선 이 필 수 적 이다.",
+    "stem": "그 림 은 서양 사상가 갑 , 을 의 가상 대 화 이다. 갑 , 을 의 입 장 으로 올지 않은 것은?",
+    "passage": "전 쟁 의 완전 종 식 과 영구 평 화 는 도덕적 전쟁 종 식 만으로 평 화 가 보 장 되 지\n입 법 의 최고 자 리 에 위치한 이 성 이 않습니다. 진정한 평 화 는 직접적,\n명 령 하는 의 무 입니다. 영구 평 화 를 실현 구조적, 문화적 폭 력 을 예 방 함으로써\n하기 위해 모든 전쟁 수 단 의 금 지 와 국가 ㅣ | 가 능 합니다. 이를 위해 억 압 과 착 취 의\n간 연 맹 의 확 장 이 필 요 합 니다. 구 조 를 시급히 개 선 해 야 합니다.\n을 ~ 내",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 개 별 국 가 의 주 권 을 인 정 하면서 영원한 평 화 를 실 현 해야 힌다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 국 제 법 을 통해 국가 간 우 호 와 시 민 의 자 유 를 증 진 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 편견 극 복 을 위한 교 육 은 적극적 평 화 를 실 현 하는 방 법 이다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 직접적 쪽 력 을 제 거 함으로써 인간 존 업 실 현 의 조 건 이 완 비 된다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 평 화 의 실 현 을 위해서는 정치 제 도 의 개 선 이 필 수 적 이다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.901,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:37:55+00:00",
+    "qa_flags": []
+  }
+}

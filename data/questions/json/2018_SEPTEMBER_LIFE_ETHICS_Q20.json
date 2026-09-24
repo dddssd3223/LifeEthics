@@ -1,0 +1,75 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 56,
+    "question_number": 20,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2023,
+      2999,
+      4056
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q20.png",
+    "raw_text": "90. 다음 글 의 입 장 에서 볼 때, < 가 상 대 담 > 의 에 들어갈 말로\n가장 적절한 것은? [3 전 ]\n관 용 은 문화적 편 견 과 차 별 의 문 제 를 극 복 하기 위해서\n필 요 하 다. 그러나 타 인 의 불 의 한 행 위 에 무 관 심 하 거나 도덕적\n악 을 참는 것은 관 용 이 아니다. 인 류 의 보편적 가 치 에 반하는\n것 들 에 대해서는 불 관 용 할 수 있어야 한다. 즉 , 개 인 의 자유권,\n생 명 권 과 같은 권 리 에 대한 침 해 는 용 인 되 어 서 는 안 된다. 모든\n인 간 은 자 신 이 원하는 삶 을 자유롭게 선택할 수 있는 권 리 가\n있으며 그 누구도 개 인 의 자 유 를 박 탈 할 수 없다.\n< 가 상 대담 >\n전문가: 이제는 우 리 나 라 도 다문화 사 회 로 가고 있습니다.\n따라서 다른 문 화 에 대해 관 용 의 자 세 를 가져야 합니다.\n리포터: 그렇다면 이런 문 화 도 관 용 의 대 상 이 되나요? 외 국 에서\n이 민 을 온 어떤 가 족 은 여 자 는 교 육 받을 필 요 가 없다고\n해서 어린 딸 을 학 교 에 보내지 않았어요. 더군다나\n딸 이 성 인 이 되어 외 출 을 하고 싶어 하는데도 집 밖으로\n나가지 못하게 해요.\n전문가: 그런 문 화 는 배\n(01) 부 모 의 고 유 한 권 리 를 존 중 한 것이므로 용 인 해야 합니다.\n(3) 자 녀 의 기본적 권 리 를 침 해 하므로 용 인 해서는 안 됩니다.\n(3) 심각한 인권 침 해 가 아 니 므 로 고 유 한 문 화 로 용 인 해야 합니다.\n(4) 종 교 의 계 율 과 전 통 을 충 실 하게 따른 것이므로 용 인 해야 합니다.\n(5) 다문화 사회 구 성 원 들의 연 대 감 을 저 해 하므로 용 인 해서는 안 됩니다.",
+    "stem": "다음 글 의 입 장 에서 볼 때, < 가 상 대 담 > 의 에 들어갈 말로 가장 적절한 것은? [3 전 ]",
+    "passage": "관 용 은 문화적 편 견 과 차 별 의 문 제 를 극 복 하기 위해서\n필 요 하 다. 그러나 타 인 의 불 의 한 행 위 에 무 관 심 하 거나 도덕적\n악 을 참는 것은 관 용 이 아니다. 인 류 의 보편적 가 치 에 반하는\n것 들 에 대해서는 불 관 용 할 수 있어야 한다. 즉 , 개 인 의 자유권,\n생 명 권 과 같은 권 리 에 대한 침 해 는 용 인 되 어 서 는 안 된다. 모든\n인 간 은 자 신 이 원하는 삶 을 자유롭게 선택할 수 있는 권 리 가\n있으며 그 누구도 개 인 의 자 유 를 박 탈 할 수 없다.\n< 가 상 대담 >\n전문가: 이제는 우 리 나 라 도 다문화 사 회 로 가고 있습니다.\n따라서 다른 문 화 에 대해 관 용 의 자 세 를 가져야 합니다.\n리포터: 그렇다면 이런 문 화 도 관 용 의 대 상 이 되나요? 외 국 에서\n이 민 을 온 어떤 가 족 은 여 자 는 교 육 받을 필 요 가 없다고\n해서 어린 딸 을 학 교 에 보내지 않았어요. 더군다나\n딸 이 성 인 이 되어 외 출 을 하고 싶어 하는데도 집 밖으로\n나가지 못하게 해요.\n전문가: 그런 문 화 는 배",
+    "choices": [
+      {
+        "number": 1,
+        "text": "부 모 의 고 유 한 권 리 를 존 중 한 것이므로 용 인 해야 합니다."
+      },
+      {
+        "number": 2,
+        "text": "자 녀 의 기본적 권 리 를 침 해 하므로 용 인 해서는 안 됩니다."
+      },
+      {
+        "number": 3,
+        "text": "심각한 인권 침 해 가 아 니 므 로 고 유 한 문 화 로 용 인 해야 합니다."
+      },
+      {
+        "number": 4,
+        "text": "종 교 의 계 율 과 전 통 을 충 실 하게 따른 것이므로 용 인 해야 합니다."
+      },
+      {
+        "number": 5,
+        "text": "다문화 사회 구 성 원 들의 연 대 감 을 저 해 하므로 용 인 해서는 안 됩니다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.922,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:43+00:00",
+    "qa_flags": []
+  }
+}

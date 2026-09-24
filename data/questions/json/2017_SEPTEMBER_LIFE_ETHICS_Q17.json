@@ -1,0 +1,73 @@
+{
+  "id": "2017_SEPTEMBER_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 44,
+    "question_number": 17,
+    "exam_key": "2017_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1888,
+      1592,
+      3335
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_SEPTEMBER_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 갑 , 을 의 입 장 에 대한 설 명 으로 옮 은 것은? [3 점 ]\n갑 : 비 종교적 인 간 은 성 현 (9880 의 시 대 에서 세 속 의 시 대 로 전환\n되는 과 정 의 결 과 물 이다. 종교적 인 간 에게 자 연 은 성 스 러 움\n으로 상 징 화 된 추 월 적 존 재 의 창 조 물 이다. 성 화 ( 뿌 ([) 된\n자연 안에서 인 간 은 도덕적 위 기 를 극 복 할 수 있다.\n을: 자 연 적 이고 물 리 적 인 세계 너 머 에는 아무것도 없고 관찰\n가능한 자 연 의 배 후 에 숨어 있는 초 자 연 적 인 창조적 지 성 은\n없다. 자 연 은 물 리 학 으로 설 명 이 가 능 하 며 인 간 의 윤리적\n행위 역시 자연 선 택 의 결 과 로 설 명 할 수 있다.\n03 갑 은 종 교 가 인 간 의 실 리 적인 필 요 에 의해 만 들 어 졌다고 본다.\n@ 갑 은 비 종교적 인 간 이 자 연 을 성스러운 것으로 잔 주 한다고 본다,\n(8) 을 은 초 월 적 존 재 를 전 제 하지 않아도 자 연 을 설 명 할 수 있다고 본다.\n@ 을 은 과 학 이 인 간 의 윤리적 행 위 의 원 인 을 설 명 할 수 없다고 본다.\n(9) 갑 , 을 은 초 월 적 신이 자 연 을 통해 자 신 의 존 재 를 드 러 낸 다 고 본다.",
+    "stem": "갑 , 을 의 입 장 에 대한 설 명 으로 옮 은 것은? [3 점 ]",
+    "passage": "갑 : 비 종교적 인 간 은 성 현 (9880 의 시 대 에서 세 속 의 시 대 로 전환\n되는 과 정 의 결 과 물 이다. 종교적 인 간 에게 자 연 은 성 스 러 움\n으로 상 징 화 된 추 월 적 존 재 의 창 조 물 이다. 성 화 ( 뿌 ([) 된\n자연 안에서 인 간 은 도덕적 위 기 를 극 복 할 수 있다.\n을: 자 연 적 이고 물 리 적 인 세계 너 머 에는 아무것도 없고 관찰\n가능한 자 연 의 배 후 에 숨어 있는 초 자 연 적 인 창조적 지 성 은\n없다. 자 연 은 물 리 학 으로 설 명 이 가 능 하 며 인 간 의 윤리적\n행위 역시 자연 선 택 의 결 과 로 설 명 할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 종 교 가 인 간 의 실 리 적인 필 요 에 의해 만 들 어 졌다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "갑 은 비 종교적 인 간 이 자 연 을 성스러운 것으로 잔 주 한다고 본다,"
+      },
+      {
+        "number": 3,
+        "text": "을 은 초 월 적 존 재 를 전 제 하지 않아도 자 연 을 설 명 할 수 있다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "을 은 과 학 이 인 간 의 윤리적 행 위 의 원 인 을 설 명 할 수 없다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 초 월 적 신이 자 연 을 통해 자 신 의 존 재 를 드 러 낸 다 고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.893,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:13+00:00",
+    "qa_flags": []
+  }
+}

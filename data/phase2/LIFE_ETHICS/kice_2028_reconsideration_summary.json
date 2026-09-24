@@ -1,0 +1,91 @@
+{
+  "phase2c_keep": 261,
+  "curriculum_explicit_core": 106,
+  "reconsidered": 155,
+  "RESTORE": 30,
+  "REMAIN_DROP": 125,
+  "FINAL_CONTENT_ASSETS": 136,
+  "review_required": {
+    "reconsidered_total": 67,
+    "restore": 21,
+    "remain_drop": 46,
+    "final_index": 62
+  },
+  "restore_breakdown": {
+    "Q4_environment": 1,
+    "Q14_civil_disobedience": 10,
+    "Q15_rawls_nozick": 12,
+    "Q16_punishment": 6,
+    "Q18_peace_violence": 1,
+    "other_kice_sample": 0,
+    "curriculum_reinterpretation": 0
+  },
+  "restore_by_basis": {
+    "KICE_SAMPLE_CONFIRMED": 30
+  },
+  "restore_by_match_depth": {
+    "CLOSE": 14,
+    "DIRECT": 16
+  },
+  "by_audit_drop_category": {
+    "PHIL_JUSTICE": {
+      "reconsidered": 39,
+      "restore": 12,
+      "remain_drop": 27
+    },
+    "IR_THEORY": {
+      "reconsidered": 32,
+      "restore": 1,
+      "remain_drop": 31
+    },
+    "ENV_DETAIL": {
+      "reconsidered": 26,
+      "restore": 1,
+      "remain_drop": 25
+    },
+    "CD_DETAIL": {
+      "reconsidered": 22,
+      "restore": 10,
+      "remain_drop": 12
+    },
+    "PUNISH": {
+      "reconsidered": 21,
+      "restore": 6,
+      "remain_drop": 15
+    },
+    "INFO_ETHICS": {
+      "reconsidered": 8,
+      "restore": 0,
+      "remain_drop": 8
+    },
+    "OTHER_OUT_OF_SCOPE": {
+      "reconsidered": 6,
+      "restore": 0,
+      "remain_drop": 6
+    },
+    "OCCUPATIONAL_ETHICS": {
+      "reconsidered": 1,
+      "restore": 0,
+      "remain_drop": 1
+    }
+  },
+  "qa": {
+    "A_core_plus_reconsidered_equals_phase2c_keep": true,
+    "B_restore_plus_remain_equals_reconsidered": true,
+    "C_final_equals_core_plus_restore": true,
+    "D_duplicate_ids": 0,
+    "E_core_missing_from_index": 0,
+    "F_restore_missing_from_index": 0,
+    "G_non_drop_contamination": 0,
+    "H_restore_without_evidence": 0,
+    "I_drop_without_reason": 0,
+    "J_existing_files_modified": 0
+  },
+  "sources": {
+    "A": "reference/curriculum/2022개정_사회과_별책7.pdf (MASTER: integrated_social_official_scope.json)",
+    "B": "reference/2028_예시문항_안내.pdf ([별첨] 2028학년도 대학수학능력시험 예시문항 안내)",
+    "C": "reference/2028_통합사회_예시문항.pdf (28예시 25문항)"
+  },
+  "method": "감사 DROP 155문항만 선지 포함 원문으로 20~30문항 batch 판독. 28예시 Q4/Q14/Q15/Q16/Q18이 실제 요구하는 깊이(kice_2028_sample_depth_reference.json)와 정답 판별에 필요한 깊이를 비교해 RESTORE/DROP 판정. 사상가 등장만으로 선택 과목 세부를 확장하지 않음. CORE 106은 재판정하지 않음. 외부 API 0회, 신규 OCR 없음.",
+  "note": "SOURCE B의 공식 해설은 Q1·Q2·Q12·Q13·Q17·Q23에만 있고 Q4·Q14·Q15·Q16·Q18은 부록의 성취기준 연결만 제공되어, 해당 문항의 요구 깊이는 SOURCE C 문항 원문(발문·제시문·선지)에서 도출함. 기존 Phase 1/2/Audit/DB/FINAL_TRANSFER는 변경하지 않음."
+}

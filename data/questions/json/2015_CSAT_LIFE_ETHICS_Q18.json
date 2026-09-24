@@ -1,0 +1,73 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 24,
+    "question_number": 18,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3267,
+      1593,
+      4301
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 다음 글 에서 추 론 할 수 있는 국제 관계 이 론 의 입 장 에 대한\n설 명 으로 가장 적절한 것은? [3 점 ]\n전 쟁 을 말하면서 전 쟁 의 비 참 함 을 나 열 하는 것은 의 미 가\n없다. 누구도 무지 때문에 전 쟁 을 벌이는 것이 아니라 싸우는\n것이 이 억 이 될 것이라 생 각 하기 때문에 공 포 심 이 들어도\n전 쟁 을 피 하 지 않는 것이다. 국 가 는 전 쟁 을 통한 이 억 이 전 쟁 에\n따른 손 실 보다 크다고 생각할 경 우 에는 전 쟁 의 위 험 을 기꺼이\n감 수 한다.\n0) 강 제 력 을 가진 세계 정부 수 립 을 통한 분 쟁 의 해 결 을 강 조 한 다.\n3) 보 편 적 인 국제 규 범 을 통한 국가 간의 분쟁 해 결 을 강 조 한 다.\n8) 국 익 을 극 대 화 하려는 국가 정 책 이 분 쟁 의 원 인 임을 강 조 한 다.\n0 전 쟁 을 도 덕 의 문 제 로 간 주 하여 협 상 을 통한 해 결 을 강 조 한 다.\n6 서로 다른 문명 간의 이해 부 족 에서 전 쟁 이 비 롯 됨을 강 조 한 다.",
+    "stem": "다음 글 에서 추 론 할 수 있는 국제 관계 이 론 의 입 장 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "전 쟁 을 말하면서 전 쟁 의 비 참 함 을 나 열 하는 것은 의 미 가\n없다. 누구도 무지 때문에 전 쟁 을 벌이는 것이 아니라 싸우는\n것이 이 억 이 될 것이라 생 각 하기 때문에 공 포 심 이 들어도\n전 쟁 을 피 하 지 않는 것이다. 국 가 는 전 쟁 을 통한 이 억 이 전 쟁 에\n따른 손 실 보다 크다고 생각할 경 우 에는 전 쟁 의 위 험 을 기꺼이\n감 수 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "강 제 력 을 가진 세계 정부 수 립 을 통한 분 쟁 의 해 결 을 강 조 한 다."
+      },
+      {
+        "number": 2,
+        "text": "보 편 적 인 국제 규 범 을 통한 국가 간의 분쟁 해 결 을 강 조 한 다."
+      },
+      {
+        "number": 3,
+        "text": "국 익 을 극 대 화 하려는 국가 정 책 이 분 쟁 의 원 인 임을 강 조 한 다."
+      },
+      {
+        "number": 4,
+        "text": "전 쟁 을 도 덕 의 문 제 로 간 주 하여 협 상 을 통한 해 결 을 강 조 한 다."
+      },
+      {
+        "number": 5,
+        "text": "서로 다른 문명 간의 이해 부 족 에서 전 쟁 이 비 롯 됨을 강 조 한 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.918,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:36:06+00:00",
+    "qa_flags": []
+  }
+}

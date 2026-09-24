@@ -1,0 +1,73 @@
+{
+  "id": "2025_SEPTEMBER_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 138,
+    "question_number": 6,
+    "exam_key": "2025_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2100
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_SEPTEMBER_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 갑 , 을 사 상 가 들 중 적어도 한 사 람 이 긍 정 할 진 술 로 적절한 것 만 을\n< 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]\n갑 : 인 간 은 생명 공 동 체 의 한 구 성 원 에 지나지 않는다. 대지\n윤 리 는 인 간 의 역 할 을 생명 공 동 체 의 정 복 자 에서 평범한\n구 성 원 으로 변 화 시킨다.\n을 : 인 간 은 쟁 명이 있는 일부 피 조 물 을 폭 력 적 으로 다 루 어 서는\n안 된다. 왜냐하면 그것은 인 간 의 자기 자 신 에 대한 의 무 에\n배 치 되기 때 문 이 다.\n< 보 기 >\nㄱ . 인 간 은 토 지 를 단지 자 원 으 로 만 이 용 해 서 는 안 된다.\nㄴ . 생명 없는 존 재 의 파 괴 가 도 덕 적 으로 정당한 경 우 는 없다.\nㄷ . 자 연 에 속 하 면서 권 리 를 가질 수 있는 개별 존 재 가 있\n2. 자신 이 외 의 존 재 에 대한 도덕적 의 무 는 성립 불 가 능 하다.\n0) ㄱㄱ, ㄴ (00) ㄱ , ㄷ 03) ㄴ , 큰\n0 1, =, 르 05) 느 , =, 르",
+    "stem": "갑 , 을 사 상 가 들 중 적어도 한 사 람 이 긍 정 할 진 술 로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 인 간 은 생명 공 동 체 의 한 구 성 원 에 지나지 않는다. 대지\n윤 리 는 인 간 의 역 할 을 생명 공 동 체 의 정 복 자 에서 평범한\n구 성 원 으로 변 화 시킨다.\n을 : 인 간 은 쟁 명이 있는 일부 피 조 물 을 폭 력 적 으로 다 루 어 서는\n안 된다. 왜냐하면 그것은 인 간 의 자기 자 신 에 대한 의 무 에\n배 치 되기 때 문 이 다.\n< 보 기 >\nㄱ . 인 간 은 토 지 를 단지 자 원 으 로 만 이 용 해 서 는 안 된다.\nㄴ . 생명 없는 존 재 의 파 괴 가 도 덕 적 으로 정당한 경 우 는 없다.\nㄷ . 자 연 에 속 하 면서 권 리 를 가질 수 있는 개별 존 재 가 있\n2. 자신 이 외 의 존 재 에 대한 도덕적 의 무 는 성립 불 가 능 하다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, =, 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.892,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:56+00:00",
+    "qa_flags": []
+  }
+}

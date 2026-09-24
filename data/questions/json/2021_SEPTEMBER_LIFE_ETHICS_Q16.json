@@ -1,0 +1,73 @@
+{
+  "id": "2021_SEPTEMBER_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 92,
+    "question_number": 16,
+    "exam_key": "2021_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1935
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_SEPTEMBER_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. (가), (나) 사 상 의 입 장 으로 가장 적절한 것은? [3 점 ]\n(가) 요즘 사 람 들 은 조 문 할 때, 자기 부 모 나 자 식 이 죽은 것과\n마찬가지로 애 통 해 한다. 그러나 죽 음 을 애 통 해 하는\n행 위 는 자연스러운 도 ( 골 ) 의 본 성 을 배 반 하는 것으로,\n자 신 이 받은 본 성 을 망 각 한 것이다.\n(나) 세상 사 람 들 의 생 사 ( 쑤 까 ) 는 중대한 일 인 데 , 그 대 들 은 하루\n종일 공 양 ( 쌈 졸 ) 하 면서 다음 생 의 복 00) 만 을 구하려 하고,\n생 사 의 굴 레 를 끊 으 려고 하지 않는다. 그 대 들은 자 신 의 본성\n[ 법 \\ 뽀 에 대해 여전히 미 혹 하다.\n0) (가): 죽 음 은 다음 생으로 이어지는 윤 회 (@00) 의 과 정 이다.\n9) (가): 죽 음 은 자 연 의 과 정 이지만 마 망 히 애 도 해 야 하는 일 이다.\n6) (나): 죽 음 은 기 (8/ 가 모 였 다 가 홀 어 진 자연스러운 현 상 이다.\n@) (나): 죽 음 은 깨 달 음 을 통해 벗어나야 할 고 통 들 중 하나이다.\n69) (가), (나): 음 죽 은 괴로운 인간 삶 에서 벗어난 지 극 한 경 지 이다.",
+    "stem": "(가), (나) 사 상 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "(가) 요즘 사 람 들 은 조 문 할 때, 자기 부 모 나 자 식 이 죽은 것과\n마찬가지로 애 통 해 한다. 그러나 죽 음 을 애 통 해 하는\n행 위 는 자연스러운 도 ( 골 ) 의 본 성 을 배 반 하는 것으로,\n자 신 이 받은 본 성 을 망 각 한 것이다.\n(나) 세상 사 람 들 의 생 사 ( 쑤 까 ) 는 중대한 일 인 데 , 그 대 들 은 하루\n종일 공 양 ( 쌈 졸 ) 하 면서 다음 생 의 복 00) 만 을 구하려 하고,\n생 사 의 굴 레 를 끊 으 려고 하지 않는다. 그 대 들은 자 신 의 본성\n[ 법 \\ 뽀 에 대해 여전히 미 혹 하다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 죽 음 은 다음 생으로 이어지는 윤 회 (@00) 의 과 정 이다."
+      },
+      {
+        "number": 2,
+        "text": "(가): 죽 음 은 자 연 의 과 정 이지만 마 망 히 애 도 해 야 하는 일 이다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 죽 음 은 기 (8/ 가 모 였 다 가 홀 어 진 자연스러운 현 상 이다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 죽 음 은 깨 달 음 을 통해 벗어나야 할 고 통 들 중 하나이다."
+      },
+      {
+        "number": 5,
+        "text": "(가), (나): 음 죽 은 괴로운 인간 삶 에서 벗어난 지 극 한 경 지 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.883,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:08+00:00",
+    "qa_flags": []
+  }
+}

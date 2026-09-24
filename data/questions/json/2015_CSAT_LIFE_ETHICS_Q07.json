@@ -1,0 +1,73 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 22,
+    "question_number": 7,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3047,
+      1593,
+      4300
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. (가) 사 상 의 관 점 에서 볼 때, ( 나 ) 의 에 대한 옮 은 설 명 만을\n< 보 기 > 에 서 있는 대로 고른 것은? |3 점 ]\n공 손 하 라 . 그것이 곧 인 ({-) 의 실 천 이다. 관 대 하 라 .\n(가) | 그것 역시 인의 실 천 이 다. 공 손 하면 부끄러운 일 을 당하\n지 않을 것이고 관 대 하면 많은 사 람 들 을 얻을 것이다.\n| ㅁ | 은 / 는 동 기 간 ( 디 80) 에 지켜야 할 도 리 로, 서\n(나) | 로 를 공 경 [8] 하 는 것이다. 뼈 와 살 은 비록 나 뉘 었으나 본\n래 한 기 운 에서 태 어 났 으 00 」 을 / 를 실 천 해 야 한다.\n< 보 기 >\nㄱ . 항 렬 (77 씨 ) 을 달 리 하는 사 람 을 믿 음 으로 대하는 것이다.\nㄴ . 의 (38) 가 상 함 이 없이 서로 잘 못 을 깨 우 치 도 록 하는 것이다.\nㄷ . 사회적 장 유 (30) 관 계 에 서 지켜야 할 도 리 의 토 대 가 된다.\n2. 서 로 를 공 경 하여 부 모 에 대한 효 ( 주 ) 를 실 천 하는 길이 된다.\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄷ , 르\n(0 ) ㄱ , ㄴ , 2 (6) ㄴ , ㄷ , 2",
+    "stem": "(가) 사 상 의 관 점 에서 볼 때, ( 나 ) 의 에 대한 옮 은 설 명 만을 < 보 기 > 에 서 있는 대로 고른 것은? |3 점 ]",
+    "passage": "공 손 하 라 . 그것이 곧 인 ({-) 의 실 천 이다. 관 대 하 라 .\n(가) | 그것 역시 인의 실 천 이 다. 공 손 하면 부끄러운 일 을 당하\n지 않을 것이고 관 대 하면 많은 사 람 들 을 얻을 것이다.\n| ㅁ | 은 / 는 동 기 간 ( 디 80) 에 지켜야 할 도 리 로, 서\n(나) | 로 를 공 경 [8] 하 는 것이다. 뼈 와 살 은 비록 나 뉘 었으나 본\n래 한 기 운 에서 태 어 났 으 00 」 을 / 를 실 천 해 야 한다.\n< 보 기 >\nㄱ . 항 렬 (77 씨 ) 을 달 리 하는 사 람 을 믿 음 으로 대하는 것이다.\nㄴ . 의 (38) 가 상 함 이 없이 서로 잘 못 을 깨 우 치 도 록 하는 것이다.\nㄷ . 사회적 장 유 (30) 관 계 에 서 지켜야 할 도 리 의 토 대 가 된다.\n2. 서 로 를 공 경 하여 부 모 에 대한 효 ( 주 ) 를 실 천 하는 길이 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": ") ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.858,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:36:05+00:00",
+    "qa_flags": []
+  }
+}

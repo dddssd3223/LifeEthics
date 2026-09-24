@@ -1,0 +1,73 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 10,
+    "question_number": 10,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      3266,
+      2999,
+      4300
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 에 들어갈 내 용 으로 가장 적절한 것은?\n나는 좋은 음 악 이라면 유 덕 한 사 람 의 용 기 와 절 제 를 모 방 해야\n한다고 생 각 한 다. 왜냐하면 예 술 에 내 재 된 미 (%) 는 우 리 의\n정 신 을 구 상 하게 해 주기 때 문 이 다. 그런데 어떤 사 상 가 는\n\" 지 ( 를 ) 가 도 덕 적 이라든가 혹은 비 도 덕 적 이라고 말하는 것은\n정 삼 각 형 은 도 덕 적 이고 이 등 변 삼 각 형 은 비 도 덕 적 이라고\n말하는 것과 마찬가지로 무 의 미 하 다 .\" 라 고 주 장 한 다. 나는\n이 사 상 가 의 견 해 에 대해 | 3 고 생 각 한 다.\n0 예 술 이 인 간 과 사 회 에 미치는 영 향 력 을 간 과 하고 있다\n(3) 예 술 이 도덕적 평 가 에서 자 유 로 워야 함 을 간 과 하고 있다\n8) 예 술 의 극 치 가 도 덕 의 극 치 와 서로 통 함 을 강 조 하고 있다\n@ 예 술 은 예술 그 자 체 를 위해 존 재 해야 함 을 간 과 하고 있다\n6) 예 술 이 미 ( 쫓 ) 보 다 선 ( 뽑 ) 을 추 구 해 야 함 을 강 조 하고 있다",
+    "stem": "에 들어갈 내 용 으로 가장 적절한 것은?",
+    "passage": "나는 좋은 음 악 이라면 유 덕 한 사 람 의 용 기 와 절 제 를 모 방 해야\n한다고 생 각 한 다. 왜냐하면 예 술 에 내 재 된 미 (%) 는 우 리 의\n정 신 을 구 상 하게 해 주기 때 문 이 다. 그런데 어떤 사 상 가 는\n\" 지 ( 를 ) 가 도 덕 적 이라든가 혹은 비 도 덕 적 이라고 말하는 것은\n정 삼 각 형 은 도 덕 적 이고 이 등 변 삼 각 형 은 비 도 덕 적 이라고\n말하는 것과 마찬가지로 무 의 미 하 다 .\" 라 고 주 장 한 다. 나는\n이 사 상 가 의 견 해 에 대해 | 3 고 생 각 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "예 술 이 인 간 과 사 회 에 미치는 영 향 력 을 간 과 하고 있다"
+      },
+      {
+        "number": 2,
+        "text": "예 술 이 도덕적 평 가 에서 자 유 로 워야 함 을 간 과 하고 있다"
+      },
+      {
+        "number": 3,
+        "text": "예 술 의 극 치 가 도 덕 의 극 치 와 서로 통 함 을 강 조 하고 있다"
+      },
+      {
+        "number": 4,
+        "text": "예 술 은 예술 그 자 체 를 위해 존 재 해야 함 을 간 과 하고 있다"
+      },
+      {
+        "number": 5,
+        "text": "예 술 이 미 ( 쫓 ) 보 다 선 ( 뽑 ) 을 추 구 해 야 함 을 강 조 하고 있다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.898,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:51+00:00",
+    "qa_flags": []
+  }
+}

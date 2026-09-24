@@ -1,0 +1,73 @@
+{
+  "id": "2025_JUNE_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 135,
+    "question_number": 15,
+    "exam_key": "2025_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3076,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_JUNE_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는\n대로 고른 것은? [3 점 ]\n갑 : 무 지 의 베일 속에 있는 당 사 자 들은 어떤 종 류 의 특정 사 실 을\n알지 못한다고 가 정 된다. 각 자 는 사 회 에서 자 기 의 지 위 나\n계 층 을 모르며, 천부적 자산, 능력, 지능, 체력 등 을 어떻게\n타 고 나는지 자 신 의 운 수 를 모른다.\n을: 소 유 몰 에 서 의 정의 이 론 의 일반적 개 요 를 말하자면, 한 사람\n의 소 유 물 은 취 득 과 이 전 에 서 의 정 의 의 원리 또는 불 의 의\n교 정 의 원 리 에 의해 그 소 유 물 에 대한 권 리 를 부 여 받았으면\n정당한 것이다.\n< 보 기 >\nㄱ . 갑 : 정 의 로운 분배 결 과 로 생긴 불 평 등 은 조 정 의 대 상 이 아니다.\nㄴ . 갑 : 사회 구성원 모 두 의 협 력 을 가 능 하 게 하는 분 배 만이 정 당 하다\nㄷ . 을: 부 정 의한 분 배 의 교정 외에 국 가 의 역 할 을 허 용 해선 안 된다.\n르 . 갑과 을: 분배 정 의 의 목 표 는 개 인 의 자 유 와 기본적 필요 보 장 에 있다\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄷ , 큰\n040 ㄱ 7, ㄴ , 르 06) ㄴ , ㄷ , 큰",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 무 지 의 베일 속에 있는 당 사 자 들은 어떤 종 류 의 특정 사 실 을\n알지 못한다고 가 정 된다. 각 자 는 사 회 에서 자 기 의 지 위 나\n계 층 을 모르며, 천부적 자산, 능력, 지능, 체력 등 을 어떻게\n타 고 나는지 자 신 의 운 수 를 모른다.\n을: 소 유 몰 에 서 의 정의 이 론 의 일반적 개 요 를 말하자면, 한 사람\n의 소 유 물 은 취 득 과 이 전 에 서 의 정 의 의 원리 또는 불 의 의\n교 정 의 원 리 에 의해 그 소 유 물 에 대한 권 리 를 부 여 받았으면\n정당한 것이다.\n< 보 기 >\nㄱ . 갑 : 정 의 로운 분배 결 과 로 생긴 불 평 등 은 조 정 의 대 상 이 아니다.\nㄴ . 갑 : 사회 구성원 모 두 의 협 력 을 가 능 하 게 하는 분 배 만이 정 당 하다\nㄷ . 을: 부 정 의한 분 배 의 교정 외에 국 가 의 역 할 을 허 용 해선 안 된다.\n르 . 갑과 을: 분배 정 의 의 목 표 는 개 인 의 자 유 와 기본적 필요 보 장 에 있다",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ 7, ㄴ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.895,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:02+00:00",
+    "qa_flags": []
+  }
+}

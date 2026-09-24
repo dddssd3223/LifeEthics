@@ -1,0 +1,75 @@
+{
+  "id": "2021_CSAT_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 96,
+    "question_number": 17,
+    "exam_key": "2021_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1884,
+      1740,
+      3079
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_CSAT_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 그 림 의 강 연 자가 긍 정 의 대 답 을 할 질 문 으로 가장 적절한 것은\n타 인 의 존 경 을 얻고 유 지 하기 위해서는 부나 권 력 을 |\n획 득 하는 것 만 으 로 는 충 분 하지 않습니다. 부나 권 력 은\n타 인 에게 증 거 로 드러나는 한 에서만 존 경 이 부 여 되기\n때 문 입니다. 극 빈 층 을 포함한 사 회 의 어떤 계 층 도\n관 례 적인 과시 소 비 를 하지 않는 경 우 는 없습니다.\n자기 보존 본 능 을 제 외 하 고 는 경 쟁 적 인 비교 성 향 이\n가장 강 력 하고 지속적인 경제적 동 기 입니다. 그래서\n겉으로 있어 보이는 체 하 려고 허 세 가 다하는 마지막\n순 간 까지 비 참 할 정 도 의 옹 색 과 불 편 조차도 참 아 낼\n것 입니다.\n닛\n0) 과시 소 비 로부터 자유로운 사회 계 층 이 존 재 하 는가?\n(0) 타 인 과 의 비교 성 향 이 인 간 의 허 영 심 을 제 한 하는가?\n3) 자 본 을 축 적 하는 것 만 으 로 도 타 인 의 존 경 을 얻을 수 있는가?\n0 과시 소 비 는 자 신 의 지 위 를 드 러 내 기 위한 방 편 으로 행 해 지 는가?\n(9) 경 쟁 적 인 비교 성 향 은 자기 보존 본 능 보다 강력한 경제적 동 기 인가?\nㄴㄴ ㄴㅇ",
+    "stem": "그 림 의 강 연 자가 긍 정 의 대 답 을 할 질 문 으로 가장 적절한 것은",
+    "passage": "타 인 의 존 경 을 얻고 유 지 하기 위해서는 부나 권 력 을 |\n획 득 하는 것 만 으 로 는 충 분 하지 않습니다. 부나 권 력 은\n타 인 에게 증 거 로 드러나는 한 에서만 존 경 이 부 여 되기\n때 문 입니다. 극 빈 층 을 포함한 사 회 의 어떤 계 층 도\n관 례 적인 과시 소 비 를 하지 않는 경 우 는 없습니다.\n자기 보존 본 능 을 제 외 하 고 는 경 쟁 적 인 비교 성 향 이\n가장 강 력 하고 지속적인 경제적 동 기 입니다. 그래서\n겉으로 있어 보이는 체 하 려고 허 세 가 다하는 마지막\n순 간 까지 비 참 할 정 도 의 옹 색 과 불 편 조차도 참 아 낼\n것 입니다.\n닛",
+    "choices": [
+      {
+        "number": 1,
+        "text": "과시 소 비 로부터 자유로운 사회 계 층 이 존 재 하 는가?"
+      },
+      {
+        "number": 2,
+        "text": "타 인 과 의 비교 성 향 이 인 간 의 허 영 심 을 제 한 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "자 본 을 축 적 하는 것 만 으 로 도 타 인 의 존 경 을 얻을 수 있는가?"
+      },
+      {
+        "number": 4,
+        "text": "과시 소 비 는 자 신 의 지 위 를 드 러 내 기 위한 방 편 으로 행 해 지 는가?"
+      },
+      {
+        "number": 5,
+        "text": "경 쟁 적 인 비교 성 향 은 자기 보존 본 능 보다 강력한 경제적 동 기 인가? ㄴㄴ ㄴㅇ"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.913,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:45:24+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2016_CSAT_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 35,
+    "question_number": 14,
+    "exam_key": "2016_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1763,
+      658,
+      3145,
+      2318
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_CSAT_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다음 사 상 가 가 부 정 의 대 답 을 할 질 문 으로 옮 은 것은? |3 점 ]\n최 초 의 정당한 취득 행 위 에 이어 자발적인 교환 행 위 로\n재 산 의 정당한 이 전 (6 삐 ) 이 잇 따 르 게 된다면, 사 람 들 이 정확히\n자 신 의 것 만 을 소 유 하게 되는 정당한 결 과 가 나온다. 하지만\n현 실 의 역 사 는 강 자 가 약 자 의 소 유 물 을 빼앗아 온 역 사 이기도\n하다. 따라서 그간 부 당 하게 발생한 이 전 들을 보 상 함으로써\n교 정 이 이 루 어 지 게 해야 한다. 이상의 내 용 을 하 나 의 원 칙 으로\n표 현 하면, 각 자 는 자 신 이 선택한 대로 주고, 각 자 는 자 신 이\n선 택 받은 대로 받는다. 가 된다.\n(1) 최소 국 가 만이 유 일 하 게 정 의 로 운 국 가 인가?\n(23) 근로 소 득 에 대한 과 세 는 강제 노 동 과 동 등 한 가 ?\n(3) 나의 천부적 재 능 은 공동 자 산 이 아니라 나의 소 유 인가?\n(4) 모든 우 연 성 이 배 제 된 상 태 에서 계 약 이 이루어져야 하는가?\n(5) 사회적 약 자 를 위한 분 배 는 오직 개 인 의 자 유 에 맡겨야 하는가?",
+    "stem": "다음 사 상 가 가 부 정 의 대 답 을 할 질 문 으로 옮 은 것은? |3 점 ]",
+    "passage": "최 초 의 정당한 취득 행 위 에 이어 자발적인 교환 행 위 로\n재 산 의 정당한 이 전 (6 삐 ) 이 잇 따 르 게 된다면, 사 람 들 이 정확히\n자 신 의 것 만 을 소 유 하게 되는 정당한 결 과 가 나온다. 하지만\n현 실 의 역 사 는 강 자 가 약 자 의 소 유 물 을 빼앗아 온 역 사 이기도\n하다. 따라서 그간 부 당 하게 발생한 이 전 들을 보 상 함으로써\n교 정 이 이 루 어 지 게 해야 한다. 이상의 내 용 을 하 나 의 원 칙 으로\n표 현 하면, 각 자 는 자 신 이 선택한 대로 주고, 각 자 는 자 신 이\n선 택 받은 대로 받는다. 가 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "최소 국 가 만이 유 일 하 게 정 의 로 운 국 가 인가?"
+      },
+      {
+        "number": 2,
+        "text": "근로 소 득 에 대한 과 세 는 강제 노 동 과 동 등 한 가 ?"
+      },
+      {
+        "number": 3,
+        "text": "나의 천부적 재 능 은 공동 자 산 이 아니라 나의 소 유 인가?"
+      },
+      {
+        "number": 4,
+        "text": "모든 우 연 성 이 배 제 된 상 태 에서 계 약 이 이루어져야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "사회적 약 자 를 위한 분 배 는 오직 개 인 의 자 유 에 맡겨야 하는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.913,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:53+00:00",
+    "qa_flags": []
+  }
+}

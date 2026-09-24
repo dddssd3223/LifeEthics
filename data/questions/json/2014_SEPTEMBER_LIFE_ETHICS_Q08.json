@@ -1,0 +1,79 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 6,
+    "question_number": 8,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      501,
+      2999,
+      1919
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 그 림 은 수행 평가 문 제 와 학생 답 안 이다. 학생 담 안의 ㄱ ㅠ ~0 ㅁ 중\n옮 지 않은 것은?\n6 ㄴ _\n수행 평가\n@ 문제: 다음 사 상 의 입 장 에서 효 ( 추 ) 에 대해 서 술 하시오.\n어 버 이 를 사랑하는 사 람 은 남을 미 워 하 지 아니하고, 어 버 이 를\n공 경 하는 사 람 은 남을 업 신 여 기지 않는다. 효 ( 추 ) 는 인 (<:) 의\n근 본 이다.\n@ 학생 답안\n위 의 사 상 에 따르면, ㅇ 요 는 부 모 에 대한 보 은 ( 해 툰 ) 과 존 경 의 마 음 으 로\n모든 행 실 의 근 본 [ 법 ㅜ ㅠ . 주 | 이 다. 이러한 요 의 정 신 은 가족 윤 리 와 사회 윤 리 의\n기 반 이 된다. 예 를 들어, 4 동 기 잔 ( 띠 워 뻐 ) 에 우애 있게 지내는 것도\n요 의 정신과 상 통 하 며 , @ 다른 사 람 의 부 모 를 사랑하는 것도 효 의 정신\n에서 비롯된다. 요 를 실 천 하 는 데 있어서는, @ 몸 을 세워 이 릅 을 떨 치 는\n것 [ 포 특 @ 온 ] 을 요 의 출 발 점 으로, 몸 을 훼 손 하 지 않는 것 1※# 못 8] 을\n요 의 마 십 으 로 삼아야 안다. 또한 @ 요 는 부 모 에 대한 자 식 의 마땅한\n도 리 로서 부 모 가 돌아가신 후에도 계속 이 1 어 져야 한다.\n00 00 8 06) = 00 8) 69) 2",
+    "stem": "그 림 은 수행 평가 문 제 와 학생 답 안 이다. 학생 담 안의 ㄱ ㅠ ~0 ㅁ 중 옮 지 않은 것은?",
+    "passage": "6 ㄴ _\n수행 평가\n@ 문제: 다음 사 상 의 입 장 에서 효 ( 추 ) 에 대해 서 술 하시오.\n어 버 이 를 사랑하는 사 람 은 남을 미 워 하 지 아니하고, 어 버 이 를\n공 경 하는 사 람 은 남을 업 신 여 기지 않는다. 효 ( 추 ) 는 인 (<:) 의\n근 본 이다.\n@ 학생 답안\n위 의 사 상 에 따르면, ㅇ 요 는 부 모 에 대한 보 은 ( 해 툰 ) 과 존 경 의 마 음 으 로\n모든 행 실 의 근 본 [ 법 ㅜ ㅠ . 주 | 이 다. 이러한 요 의 정 신 은 가족 윤 리 와 사회 윤 리 의\n기 반 이 된다. 예 를 들어, 4 동 기 잔 ( 띠 워 뻐 ) 에 우애 있게 지내는 것도\n요 의 정신과 상 통 하 며 , @ 다른 사 람 의 부 모 를 사랑하는 것도 효 의 정신\n에서 비롯된다. 요 를 실 천 하 는 데 있어서는, @ 몸 을 세워 이 릅 을 떨 치 는\n것 [ 포 특 @ 온 ] 을 요 의 출 발 점 으로, 몸 을 훼 손 하 지 않는 것 1※# 못 8] 을\n요 의 마 십 으 로 삼아야 안다. 또한 @ 요 는 부 모 에 대한 자 식 의 마땅한\n도 리 로서 부 모 가 돌아가신 후에도 계속 이 1 어 져야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(0"
+      },
+      {
+        "number": 2,
+        "text": "8"
+      },
+      {
+        "number": 3,
+        "text": "="
+      },
+      {
+        "number": 4,
+        "text": "8)"
+      },
+      {
+        "number": 5,
+        "text": "2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=3403",
+      "vector_lines=5500"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.83,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 3, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows_clustered",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:50:18+00:00",
+    "qa_flags": []
+  }
+}

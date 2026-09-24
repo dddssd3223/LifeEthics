@@ -1,0 +1,73 @@
+{
+  "id": "2025_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 134,
+    "question_number": 8,
+    "exam_key": "2025_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3209,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n오늘날 문화 산 업 은 개 인 과 사회 전 체 를 획 일 화 시키고 있\n문화 산 업 은 인간 주 체 로부터 인식 대 상 을 구 성 하는 등 력 을\n빼앗아 간다. 고 객 에 대한 문화 산 업 의 가장 큰 봉 사 는 빼앗긴\n인 간 의 그러한 능 력 을 대신해 주는 것이다. 은 밀 하게 작 동 하는\n문화 산 업 은 인 간 의 의 식 을 언제든지 조 작 할 수 있다. 문화\n산 업 이 문화 상 품 의 소비 촉 진 과 이윤 증 대 를 위해 소 비 자 들의\n선 택 지 를 이미 다 분 류 해 놓 았 기 때문에, 소 비 자 가 주 체 적 으로\n분 류 할 수 있는 문화 상 품 은 더 이상 남아 있지 않다. 오늘날\n모든 사 람 의 문화 활 동 은 문화 산 업 이 구 축 한 거대한 경제\n메 커 니 즘 에 붙 들 려 있을 수밖에 없다.\n0) 꾼 화 산 업 은 소비 주 체 의 등 동적 인식 등 력 을 무 력 화 한 다.\n오늘날 문화 산 업 은 사 회 의 다 양 성 을 증 진 하는 데 기 여 한 다.\n3) 현 대 인 의 문화 활 동 은 문화 산 업 의 영 향 으로부터 벗어나 있다.\n@) 소 비 자 의 주 체 성 은 문화 산 업 의 은밀한 작동 방 식 에 의해 강 화 된다.\n(9) 꾼 화 산 업 은 상업적 이 윤 과 무 관 하게 소 비 자 를 위해 상 품 을 분 뮤 한다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "오늘날 문화 산 업 은 개 인 과 사회 전 체 를 획 일 화 시키고 있\n문화 산 업 은 인간 주 체 로부터 인식 대 상 을 구 성 하는 등 력 을\n빼앗아 간다. 고 객 에 대한 문화 산 업 의 가장 큰 봉 사 는 빼앗긴\n인 간 의 그러한 능 력 을 대신해 주는 것이다. 은 밀 하게 작 동 하는\n문화 산 업 은 인 간 의 의 식 을 언제든지 조 작 할 수 있다. 문화\n산 업 이 문화 상 품 의 소비 촉 진 과 이윤 증 대 를 위해 소 비 자 들의\n선 택 지 를 이미 다 분 류 해 놓 았 기 때문에, 소 비 자 가 주 체 적 으로\n분 류 할 수 있는 문화 상 품 은 더 이상 남아 있지 않다. 오늘날\n모든 사 람 의 문화 활 동 은 문화 산 업 이 구 축 한 거대한 경제\n메 커 니 즘 에 붙 들 려 있을 수밖에 없다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "꾼 화 산 업 은 소비 주 체 의 등 동적 인식 등 력 을 무 력 화 한 다."
+      },
+      {
+        "number": 2,
+        "text": "오늘날 문화 산 업 은 사 회 의 다 양 성 을 증 진 하는 데 기 여 한 다."
+      },
+      {
+        "number": 3,
+        "text": "현 대 인 의 문화 활 동 은 문화 산 업 의 영 향 으로부터 벗어나 있다."
+      },
+      {
+        "number": 4,
+        "text": "소 비 자 의 주 체 성 은 문화 산 업 의 은밀한 작동 방 식 에 의해 강 화 된다."
+      },
+      {
+        "number": 5,
+        "text": "꾼 화 산 업 은 상업적 이 윤 과 무 관 하게 소 비 자 를 위해 상 품 을 분 뮤 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.905,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:01+00:00",
+    "qa_flags": []
+  }
+}

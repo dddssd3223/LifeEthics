@@ -1,0 +1,73 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 56,
+    "question_number": 19,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      2023
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]\n갑 : 유 전 적 질 병 을 치 료 하기 위한 유전자 치 료 는 크게 체세포\n치 료 와 생 식 선 치 료 로 구 분 됩니다. 이러한 유전자 치 료 만이\n유 전 적 질 병 에 대한 근본적인 해 결 책 입니다.\n을: 동 의 합 니다. 다만 체세포 치 료 는 환자 개 인 의 신체 세 포 에\n영 향 을 주므로 허 용 되지만, 생 식 선 치 료 는 개 인 은 물론\n후 세 대 에 게 까 지 영 향 을 주므로 금 지 되 어야 합니다.\n갑 : 아닙니다. 그러한 체세포 치 료 뿐 만 아니라 생 식 선 치 료 까지\n허 용 해야 합니다. 왜냐하면 유전자 치 료 의 효 과 가 후 세 대 로\n이어져 인류 전 체 의 행 복 에 기여할 수 있기 때 문 입니다.\n을: 그렇지 않습니다. 생 식 선 치 료 는 변 경 되지 않은 유 전 자 를\n가질 후 세 대의 권 리 를 침 해 하며, 유 전 적 다 양 성 을 감 소 시켜\n인 듀 의 생 존 마저 위 협 할 수 있습니다.\n(01) 생 식 선 치 료 가 유전자 치 료 의 범 주 에 포 함 되는가?\n(3) 유전자 치 료 는 유 전 적 질 병 에 대한 근본적 해 결 책 인가?\n(3) 생 석 선 치 료 는 개 인 뿐만 아니라 후 세 대 에 영 향 을 주는가?\n(4) 유 전 적 질 병 의 치 료 를 위해 생 식 선 치 료 를 허 용 해 야 하는가?\n후 세 대 에 영 향 을 주지 않는 유전자 치 료 를 허 용 해야 하는가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 유 전 적 질 병 을 치 료 하기 위한 유전자 치 료 는 크게 체세포\n치 료 와 생 식 선 치 료 로 구 분 됩니다. 이러한 유전자 치 료 만이\n유 전 적 질 병 에 대한 근본적인 해 결 책 입니다.\n을: 동 의 합 니다. 다만 체세포 치 료 는 환자 개 인 의 신체 세 포 에\n영 향 을 주므로 허 용 되지만, 생 식 선 치 료 는 개 인 은 물론\n후 세 대 에 게 까 지 영 향 을 주므로 금 지 되 어야 합니다.\n갑 : 아닙니다. 그러한 체세포 치 료 뿐 만 아니라 생 식 선 치 료 까지\n허 용 해야 합니다. 왜냐하면 유전자 치 료 의 효 과 가 후 세 대 로\n이어져 인류 전 체 의 행 복 에 기여할 수 있기 때 문 입니다.\n을: 그렇지 않습니다. 생 식 선 치 료 는 변 경 되지 않은 유 전 자 를\n가질 후 세 대의 권 리 를 침 해 하며, 유 전 적 다 양 성 을 감 소 시켜\n인 듀 의 생 존 마저 위 협 할 수 있습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "생 식 선 치 료 가 유전자 치 료 의 범 주 에 포 함 되는가?"
+      },
+      {
+        "number": 2,
+        "text": "유전자 치 료 는 유 전 적 질 병 에 대한 근본적 해 결 책 인가?"
+      },
+      {
+        "number": 3,
+        "text": "생 석 선 치 료 는 개 인 뿐만 아니라 후 세 대 에 영 향 을 주는가?"
+      },
+      {
+        "number": 4,
+        "text": "유 전 적 질 병 의 치 료 를 위해 생 식 선 치 료 를 허 용 해 야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "후 세 대 에 영 향 을 주지 않는 유전자 치 료 를 허 용 해야 하는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.928,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:43+00:00",
+    "qa_flags": []
+  }
+}

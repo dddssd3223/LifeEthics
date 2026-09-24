@@ -1,0 +1,73 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 152,
+    "question_number": 17,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2090,
+      1740,
+      3352
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n행 위 를 못하게 막는 공 포 가 아니라 핵 위 를 하도록 북 우는 돋\n공 포 가 바로 책 임 의 본질적 속 성 이다. 두 려 위 해 야 할 것이\n먼 미 래 에 일 어 날 수록, 그 빵 식이 낮 설 수 록 우 러 는 더 많은\n상 상 력 과 예민한 감 수 성 을 동 원 해 야만 한다. 공 포 를 탐 지 하는\n발 견 술 은 우 리 에게 특별한 도덕적 관 십 을 불 러 일으킨다. 새로운\n윤 리 는 선의 표 상 만큼이나 악의 표 상 을 필 요 로 한다.\n0 인 간 이 고 안 한 기 술 의 영 향 력 은 예 상 된 결 과 를 넘 어 설 수 없다.\n2) 책 임 의 범 위 는 과학 기 술 이 발 달 하면서 협 소 해질 수밖에 없다.\n(6) 새로운 윤 리 의 대 상 은 공 포 를 일으키는 것 들 에 한 정 되지 않는다.\n@) 모든 생 명 체 는 다른 생 명 체 를 보 호 할 책 임 을 지닐 수밖에 없다.\n6) 비 의도적 결 과 에 대한 책 임 은 어떤 주 체 에도 귀 속 되지 않는다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "행 위 를 못하게 막는 공 포 가 아니라 핵 위 를 하도록 북 우는 돋\n공 포 가 바로 책 임 의 본질적 속 성 이다. 두 려 위 해 야 할 것이\n먼 미 래 에 일 어 날 수록, 그 빵 식이 낮 설 수 록 우 러 는 더 많은\n상 상 력 과 예민한 감 수 성 을 동 원 해 야만 한다. 공 포 를 탐 지 하는\n발 견 술 은 우 리 에게 특별한 도덕적 관 십 을 불 러 일으킨다. 새로운\n윤 리 는 선의 표 상 만큼이나 악의 표 상 을 필 요 로 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인 간 이 고 안 한 기 술 의 영 향 력 은 예 상 된 결 과 를 넘 어 설 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "책 임 의 범 위 는 과학 기 술 이 발 달 하면서 협 소 해질 수밖에 없다."
+      },
+      {
+        "number": 3,
+        "text": "새로운 윤 리 의 대 상 은 공 포 를 일으키는 것 들 에 한 정 되지 않는다."
+      },
+      {
+        "number": 4,
+        "text": "모든 생 명 체 는 다른 생 명 체 를 보 호 할 책 임 을 지닐 수밖에 없다."
+      },
+      {
+        "number": 5,
+        "text": "비 의도적 결 과 에 대한 책 임 은 어떤 주 체 에도 귀 속 되지 않는다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.91,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:32+00:00",
+    "qa_flags": []
+  }
+}

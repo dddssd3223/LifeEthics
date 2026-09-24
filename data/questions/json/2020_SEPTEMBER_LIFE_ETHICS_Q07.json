@@ -1,0 +1,73 @@
+{
+  "id": "2020_SEPTEMBER_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 78,
+    "question_number": 7,
+    "exam_key": "2020_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1896,
+      1740,
+      3351
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_SEPTEMBER_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는\n대로 고른 것은? [3 점 ]\n갑 : 시민 불 복 종 은 거의 정 의 로운 사 회 에서 그 체 제 의 합 법 성 을\n인 정 하는 시 민 들 에 의해서만 생 겨 난 다. 그것은 개 인 이나\n집 단 의 이 익 이 아니라 다 수 의 정 의 감 에 근 거 해야 한다.\n을: 우 리 는 먼저 인 간 이어야 하고, 그다음 국 민 이어야 한다.\n법 이 형 평 성 보다는 독 단 에 치우쳐 있다고 판 단 된다면,\n우 리 는 순순히 따르지 말고 양 심 에 따라 저 항 해야 한다.\n< 보 기 >\n- ㄱ . 갑 : 시민 불 복 종 은 민주 헌 법 의 의 도 에 어긋나는 항 거 이다.\nㄴ . 갑 : 정의 원 칙 도 시민 불 복 종 의 대 상 에서 제 외 되지 않는다.\nㄷ . 을 : 법 보다 정 의 에 대한 존 경 심 을 함 양 하는 것이 바 람 직 하다.\n2. 갑 , 을 : 시민 불 복 종 은 위법 행 위 이지만 하 나 의 권 리 이다.\n00 ㄱ 7, ㄴ 9 ㄴ ㄷ 8) ㄷ , 르\n04) 7, ㄴ , 큰 06) 7, ㄷ , 르\n” ”",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 시민 불 복 종 은 거의 정 의 로운 사 회 에서 그 체 제 의 합 법 성 을\n인 정 하는 시 민 들 에 의해서만 생 겨 난 다. 그것은 개 인 이나\n집 단 의 이 익 이 아니라 다 수 의 정 의 감 에 근 거 해야 한다.\n을: 우 리 는 먼저 인 간 이어야 하고, 그다음 국 민 이어야 한다.\n법 이 형 평 성 보다는 독 단 에 치우쳐 있다고 판 단 된다면,\n우 리 는 순순히 따르지 말고 양 심 에 따라 저 항 해야 한다.\n< 보 기 >\n- ㄱ . 갑 : 시민 불 복 종 은 민주 헌 법 의 의 도 에 어긋나는 항 거 이다.\nㄴ . 갑 : 정의 원 칙 도 시민 불 복 종 의 대 상 에서 제 외 되지 않는다.\nㄷ . 을 : 법 보다 정 의 에 대한 존 경 심 을 함 양 하는 것이 바 람 직 하다.\n2. 갑 , 을 : 시민 불 복 종 은 위법 행 위 이지만 하 나 의 권 리 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ 7, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 큰 ” ”"
+      },
+      {
+        "number": 5,
+        "text": "7, ㄷ , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.883,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:35+00:00",
+    "qa_flags": []
+  }
+}

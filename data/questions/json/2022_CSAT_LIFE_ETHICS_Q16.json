@@ -1,0 +1,73 @@
+{
+  "id": "2022_CSAT_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 108,
+    "question_number": 16,
+    "exam_key": "2022_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1913
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_CSAT_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다 음 을 주장한 사 싱 가 의 입 장 으로 적 절 하지 않은 것은?\n집 은 인 간 이 사는 체험 공 간 의 구체적인 중 심 이며, 이런\n중 심 을 창 조 해 야 하는 과 제 는 거 주 함으로써 실 현 된다. 거 주 한다는\n것은 특정한 자 리 에 속하여 뿌 리 를 내리고 그 곳 을 집 으 로\n삼 는 다 는 뜻 이 다. 특히 거 주 는 분 리 된 안 전 하 고 편안한 영역,\n즉 인 간 이 위 협 적 인 외부 세 계 로 부터 도 피 할 수 있는 집 이라는\n개인 공 간 을 갖고 있 음 을 뜻 한 다. 인 간 의 참다운 삶 을 위한 거 주 는\n인 간 이 자 신 의 존 재 를 쏟 아 부어 온전히 노 력 해 야 만 얻을 수\n있고 실현할 수 있다.\n0 인 간 은 인 간 다운 삶 을 살기 위해 편 안 함 의 영 역 을 필 요 로 한다.\n2 거 주 는 주어지는 것이 아니라 각 별 한 노 력 을 통해 이루어진다.\n8 집 은 인 간 이 거 주 하는 공 간 이며 개 인 이 활 동 하는 세 계 의 중 심 이다.\n9 거주 공 간 의 소 유 는 참다운 인 간 의 삶 을 위한 필 요 충 분 조 건 이다.\n6 인 간 은 거 주 를 통해 외 부 의 위 협 에서 벗어나 안 정 을 얻을 수 있",
+    "stem": "다 음 을 주장한 사 싱 가 의 입 장 으로 적 절 하지 않은 것은?",
+    "passage": "집 은 인 간 이 사는 체험 공 간 의 구체적인 중 심 이며, 이런\n중 심 을 창 조 해 야 하는 과 제 는 거 주 함으로써 실 현 된다. 거 주 한다는\n것은 특정한 자 리 에 속하여 뿌 리 를 내리고 그 곳 을 집 으 로\n삼 는 다 는 뜻 이 다. 특히 거 주 는 분 리 된 안 전 하 고 편안한 영역,\n즉 인 간 이 위 협 적 인 외부 세 계 로 부터 도 피 할 수 있는 집 이라는\n개인 공 간 을 갖고 있 음 을 뜻 한 다. 인 간 의 참다운 삶 을 위한 거 주 는\n인 간 이 자 신 의 존 재 를 쏟 아 부어 온전히 노 력 해 야 만 얻을 수\n있고 실현할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인 간 은 인 간 다운 삶 을 살기 위해 편 안 함 의 영 역 을 필 요 로 한다."
+      },
+      {
+        "number": 2,
+        "text": "거 주 는 주어지는 것이 아니라 각 별 한 노 력 을 통해 이루어진다."
+      },
+      {
+        "number": 3,
+        "text": "집 은 인 간 이 거 주 하는 공 간 이며 개 인 이 활 동 하는 세 계 의 중 심 이다."
+      },
+      {
+        "number": 4,
+        "text": "거주 공 간 의 소 유 는 참다운 인 간 의 삶 을 위한 필 요 충 분 조 건 이다."
+      },
+      {
+        "number": 5,
+        "text": "인 간 은 거 주 를 통해 외 부 의 위 협 에서 벗어나 안 정 을 얻을 수 있"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.91,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:46+00:00",
+    "qa_flags": []
+  }
+}

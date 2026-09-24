@@ -1,0 +1,73 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 32,
+    "question_number": 18,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3196,
+      1592,
+      4299
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 다음 서양 사 상 가 의 주 장 으로 옮 은 것은?\n세계 평 화 는 받는 것이 아니라 성 취 해야 하는 것이다. 평 화 란\n모든 전 쟁 의 종 결 을 의 미 하므로 그 앞에 영원한 이라는 수식\n를 붙이는 것은 용 어 의 중 복 일 따 름 이다. 평 화 는 도덕적 입법\n의 최고 자 리 에 위치한 이 성 이 명 령 하는 보편적 의 무 이다. 국가\n들은 서 로 를 하 나 의 인 격 체 로 대 하 고, 무 력 과 기 만 을 근 절 해\n평 화 를 예 비 해야 한다. 공 화 국 으로 전 환 한 계 몽 된 자유 국가\n들이 연 방 을 결 성 하고, 호 혜 적인 질 서 를 수 립 함 으로써 평 화 를\n확 정 해야 한다.\n0) 자유 국 가 들 간의 연방 단 계 에 서 세계 정 부 를 수 립 해야 한다.\n(3) 세계 시 민 법 은 보편적 우호 조 건 을 규 정 하는 데 국 한 되어야 한다.\n(3) 도덕적 입 법 의 한 계 를 세계 정 부 의 강 제 력 으로 보 완 해야 한다.\n(4) 세계 평 화 의 정 착 을 위해 개별 국 가 의 주 권 은 폐 지 되어야 한다.\n(5) 세계 평 화 는 실 제 로 는 불 가 능 하나 정치적 의 무 로 설 정 해 야 한다.",
+    "stem": "다음 서양 사 상 가 의 주 장 으로 옮 은 것은?",
+    "passage": "세계 평 화 는 받는 것이 아니라 성 취 해야 하는 것이다. 평 화 란\n모든 전 쟁 의 종 결 을 의 미 하므로 그 앞에 영원한 이라는 수식\n를 붙이는 것은 용 어 의 중 복 일 따 름 이다. 평 화 는 도덕적 입법\n의 최고 자 리 에 위치한 이 성 이 명 령 하는 보편적 의 무 이다. 국가\n들은 서 로 를 하 나 의 인 격 체 로 대 하 고, 무 력 과 기 만 을 근 절 해\n평 화 를 예 비 해야 한다. 공 화 국 으로 전 환 한 계 몽 된 자유 국가\n들이 연 방 을 결 성 하고, 호 혜 적인 질 서 를 수 립 함 으로써 평 화 를\n확 정 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "자유 국 가 들 간의 연방 단 계 에 서 세계 정 부 를 수 립 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "세계 시 민 법 은 보편적 우호 조 건 을 규 정 하는 데 국 한 되어야 한다."
+      },
+      {
+        "number": 3,
+        "text": "도덕적 입 법 의 한 계 를 세계 정 부 의 강 제 력 으로 보 완 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "세계 평 화 의 정 착 을 위해 개별 국 가 의 주 권 은 폐 지 되어야 한다."
+      },
+      {
+        "number": 5,
+        "text": "세계 평 화 는 실 제 로 는 불 가 능 하나 정치적 의 무 로 설 정 해 야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.927,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:46+00:00",
+    "qa_flags": []
+  }
+}

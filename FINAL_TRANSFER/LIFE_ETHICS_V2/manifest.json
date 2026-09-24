@@ -1,0 +1,26 @@
+{
+  "package": "LIFE_ETHICS_FINAL_TRANSFER_V2",
+  "subject": "LIFE_ETHICS",
+  "selection_source": "data/phase2/LIFE_ETHICS/final_content_asset_index.jsonl",
+  "total_questions": 136,
+  "composition": {
+    "CURRICULUM_EXPLICIT_CORE": 106,
+    "KICE_2028_RESTORED": 30
+  },
+  "review_required_count": 62,
+  "official_answer_null_count": 136,
+  "image_count": 136,
+  "selection_history": {
+    "phase2c_keep": 261,
+    "official_curriculum_core": 106,
+    "kice_2028_restored": 30,
+    "final": 136
+  },
+  "files": {
+    "questions": "questions.jsonl",
+    "spreadsheet": "questions.xlsx",
+    "images": "images/"
+  },
+  "notes": "stem/passage/choices/question_text는 Phase 1 OCR(보조). 원문 Source of Truth는 images/<question_id>.png. official_answer는 Phase 1 값 그대로(null은 추론 없이 유지). V1(FINAL_TRANSFER/LIFE_ETHICS)과 별도 패키지.",
+  "status": "FROZEN"
+}

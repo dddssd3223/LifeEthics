@@ -1,0 +1,77 @@
+{
+  "id": "2022_CSAT_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 106,
+    "question_number": 10,
+    "exam_key": "2022_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3142,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_CSAT_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 갑 , 을 사 상 가 들 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른\n것은? [3 점 ]\n갑 : 노 동 자 들 에게 그들이 소유 권 리 를 갖는 것들을 주지 않는\n분배 행 위 는 정 의 롭 지 못하다. 그런데 소유 권 리 는 과 거 의\n상 황 이나 사 람 들 의 과거 행 위 에 근 거 하 기 때문에 분 배 적\n정 의 는 역사적 원 리 에 따라야 한다.\n을: 기본적 자 유 들은 서로 상 충 할 수 있기에 조 정 되어야 하지만,\n가능한 한 가장 광 범 위 하게 보 장 되어야 한다. 하지만 최소\n수 혜 자 에게 이 익 이 되고 직 위 와 직 책 의 기 회 가 공 정 하다면\n재산 및 소 득 의 분 배 는 균등할 필 요 가 없다.\n< 보 기 >\nㄱ . 감 : 도덕적 공 과 (0088 에 따른 소유 권 리 의 불 평 등 은 정 의 롭다.\n. 을 : 차등 원 칙 은 모든 성 원 을 고려한 상호 이 익 의 원 칙 이다.\nㄷ . 을: 기본적 자 유 는 절 대 적 이기에 각 개 인 에게 평 등 해야 한다.\n르 . 갑 을: 개 인 은 자 신 의 유리한 천부적 자 산 을 소 유 할 권 한 을 갖는다.\n0700 0976 6 9042 662",
+    "stem": "갑 , 을 사 상 가 들 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 노 동 자 들 에게 그들이 소유 권 리 를 갖는 것들을 주지 않는\n분배 행 위 는 정 의 롭 지 못하다. 그런데 소유 권 리 는 과 거 의\n상 황 이나 사 람 들 의 과거 행 위 에 근 거 하 기 때문에 분 배 적\n정 의 는 역사적 원 리 에 따라야 한다.\n을: 기본적 자 유 들은 서로 상 충 할 수 있기에 조 정 되어야 하지만,\n가능한 한 가장 광 범 위 하게 보 장 되어야 한다. 하지만 최소\n수 혜 자 에게 이 익 이 되고 직 위 와 직 책 의 기 회 가 공 정 하다면\n재산 및 소 득 의 분 배 는 균등할 필 요 가 없다.\n< 보 기 >\nㄱ . 감 : 도덕적 공 과 (0088 에 따른 소유 권 리 의 불 평 등 은 정 의 롭다.\n. 을 : 차등 원 칙 은 모든 성 원 을 고려한 상호 이 익 의 원 칙 이다.\nㄷ . 을: 기본적 자 유 는 절 대 적 이기에 각 개 인 에게 평 등 해야 한다.\n르 . 갑 을: 개 인 은 자 신 의 유리한 천부적 자 산 을 소 유 할 권 한 을 갖는다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:47+00:00",
+    "qa_flags": []
+  }
+}

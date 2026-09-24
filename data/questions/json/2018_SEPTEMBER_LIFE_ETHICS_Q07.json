@@ -1,0 +1,73 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 54,
+    "question_number": 7,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2041,
+      1592,
+      3328
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. (가) 사 상 의 업 장 에서 볼 때, ( 나 ) 의 에 대한 설 명 으로 가장\n적절한 것은?\n어 진 [(-] 사 람 만이 능히 사 람 을 좋 아 하 고 미 위 할 수\n있으며, 자 신 이 서 고 자 할 때 남도 서게 해 주고 자 신 이\n(가)\n목 적 을 이루고자 할 때 남도 이루게 해 준다. 따라서 자 신 이\n하기 싫은 일은 남 에게도 시키지 말아야 한 다 [8].\n| ㅠ | 은 / 는 나와 더불어 한 몸 과 같은 존 재 이며,\n(나) 사 람 의 손 과 발 처럼 서로 아끼고 도 와 주는 관 계 이다\n[ 주 모 > 콜 ]. 상 대 방 이 좋지 못한 행 실 을 하면 마땅히\n정 성 을 다해 충 고 해서 올바른 도 리 를 깨 닫 도록 해야 한다.\n03 서로 간에 자 애 ( 챙 ※) 와 효 도 를 실 천 해 야 하는 관 계 이다.\n@ 계 약 을 바 탕 으로 서로 이 익 을 추 구 하는 사회적 관 계 이다.\n(9) 동 기 간 (81608) 으 로서 사랑과 공 경 을 실 천 해 야 하는 관 계 이다.\n@ 가깝게 오래 사 퀸 벗 로서 으 우 정 을 중 시 하는 선 텍 적 관 계 이다.\n69) 삶 의 동 반 자 인 배 우 자 로서 서로 정 조 를 지켜야 하는 관 계 이다.",
+    "stem": "(가) 사 상 의 업 장 에서 볼 때, ( 나 ) 의 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "어 진 [(-] 사 람 만이 능히 사 람 을 좋 아 하 고 미 위 할 수\n있으며, 자 신 이 서 고 자 할 때 남도 서게 해 주고 자 신 이\n(가)\n목 적 을 이루고자 할 때 남도 이루게 해 준다. 따라서 자 신 이\n하기 싫은 일은 남 에게도 시키지 말아야 한 다 [8].\n| ㅠ | 은 / 는 나와 더불어 한 몸 과 같은 존 재 이며,\n(나) 사 람 의 손 과 발 처럼 서로 아끼고 도 와 주는 관 계 이다\n[ 주 모 > 콜 ]. 상 대 방 이 좋지 못한 행 실 을 하면 마땅히\n정 성 을 다해 충 고 해서 올바른 도 리 를 깨 닫 도록 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "서로 간에 자 애 ( 챙 ※) 와 효 도 를 실 천 해 야 하는 관 계 이다."
+      },
+      {
+        "number": 2,
+        "text": "계 약 을 바 탕 으로 서로 이 익 을 추 구 하는 사회적 관 계 이다."
+      },
+      {
+        "number": 3,
+        "text": "동 기 간 (81608) 으 로서 사랑과 공 경 을 실 천 해 야 하는 관 계 이다."
+      },
+      {
+        "number": 4,
+        "text": "가깝게 오래 사 퀸 벗 로서 으 우 정 을 중 시 하는 선 텍 적 관 계 이다."
+      },
+      {
+        "number": 5,
+        "text": "삶 의 동 반 자 인 배 우 자 로서 서로 정 조 를 지켜야 하는 관 계 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.882,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:37+00:00",
+    "qa_flags": []
+  }
+}

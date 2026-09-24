@@ -1,0 +1,75 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 32,
+    "question_number": 20,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2150,
+      2999,
+      4056
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. (가) 사 상 의 관 점 에서 볼 때, 퍼즐 ( 나 ) 의 세로 날 말 (&) 에 대한\n설 명 으로 옮 은 것은? [3 점 ]\n친 애 하는 자는 인 자 ((_ 쯤 ) 가 아니다. 하 늘 을 시 간 으\n구 분 하는 자는 현 자 ( 탈 끔 ) 가 아니다. 이 ( 제 ) 와 해 ( 톰 ) 를\n(가)\n구 별 하 는 자는 군 자 ( 갑 ㅜ ) 가 아니다. 명 성 을 좋아 참된\n자 기 를 잃은 자는 선 비 [+:] 가 아니다.\n(&)\n(03)\n[가로 열쇠]\n(나)\n(&): 엘 리 아 데가 제 시 한 성 스 러 움 의 드 러 남 이라는 개념\n08): ' 자 신을 수 양 하고 다른 사 람 을 편 안 하게 함 ' 을\n뜻 하 는 사 자 성어\n[세로 열쇠]\n(6): 이이\n00 좌 망 (4 음 ) 을 통하여 일 체 의 분별 의 식 에서 벗어난 존 재 이다.\n(3) 지 혜 를 갖추고 자 비 를 베풀어 중 생 (※%6) 을 제 도 하는 존 재 이다,\n(8) 사 욕 을 이기고 예 (08 로 돌아가 도덕적 인 격 을 완성한 존 재 이다,\n@) 덕과 형 벌 을 병 행 하여 왕 도 (33#) 의 이 상 을 구 현 하는 존 재 이다.\n6) 허 심 ( 뜰 \" 에 서 깨어나 모든 망 상 과 번 뇌 로부터 초월한 존 재 이다.",
+    "stem": "(가) 사 상 의 관 점 에서 볼 때, 퍼즐 ( 나 ) 의 세로 날 말 (&) 에 대한 설 명 으로 옮 은 것은? [3 점 ]",
+    "passage": "친 애 하는 자는 인 자 ((_ 쯤 ) 가 아니다. 하 늘 을 시 간 으\n구 분 하는 자는 현 자 ( 탈 끔 ) 가 아니다. 이 ( 제 ) 와 해 ( 톰 ) 를\n(가)\n구 별 하 는 자는 군 자 ( 갑 ㅜ ) 가 아니다. 명 성 을 좋아 참된\n자 기 를 잃은 자는 선 비 [+:] 가 아니다.\n(&)\n(03)\n[가로 열쇠]\n(나)\n(&): 엘 리 아 데가 제 시 한 성 스 러 움 의 드 러 남 이라는 개념\n08): ' 자 신을 수 양 하고 다른 사 람 을 편 안 하게 함 ' 을\n뜻 하 는 사 자 성어\n[세로 열쇠]\n(6): 이이",
+    "choices": [
+      {
+        "number": 1,
+        "text": "좌 망 (4 음 ) 을 통하여 일 체 의 분별 의 식 에서 벗어난 존 재 이다."
+      },
+      {
+        "number": 2,
+        "text": "지 혜 를 갖추고 자 비 를 베풀어 중 생 (※%6) 을 제 도 하는 존 재 이다,"
+      },
+      {
+        "number": 3,
+        "text": "사 욕 을 이기고 예 (08 로 돌아가 도덕적 인 격 을 완성한 존 재 이다,"
+      },
+      {
+        "number": 4,
+        "text": "덕과 형 벌 을 병 행 하여 왕 도 (33#) 의 이 상 을 구 현 하는 존 재 이다."
+      },
+      {
+        "number": 5,
+        "text": "허 심 ( 뜰 \" 에 서 깨어나 모든 망 상 과 번 뇌 로부터 초월한 존 재 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.843,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:47+00:00",
+    "qa_flags": []
+  }
+}

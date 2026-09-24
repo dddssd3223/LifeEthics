@@ -1,0 +1,75 @@
+{
+  "id": "2022_JUNE_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 99,
+    "question_number": 12,
+    "exam_key": "2022_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2257,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_JUNE_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으 로 탐 구 하 고자\n할 때, 4~1) 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로\n고른 것은? [3 점 ]\n갑 : 국 가 는 개 잇 의 권 리 를 침 해 하지 않는 최소 국 가 이어야\n한다. 국 가 는 시 민 들 에게 다른 사 람 들 을 돕 도록 강제적\n수 단 을 사 용 해 서는 안 된다.\n을 : 원 조 의 의 무 는 구 통 받는 사 회 가 질서 정연한 사 회 가\n( 가 )| 될 수 있도록 돕는 것이다. 그러나 국내 사 희 에 적용\n되는 정 의 의 원 칙 이 국제 사 회 에 적용될 이 유 는 없다.\n병 : 자 국 민 을 돕는 것이 원 조 하는 것 보 다 더 효율적인\n경 우 도 있다. 그러나 이것이 다른 나라 사 람 의 이 익 을\n평 등 하 게 고 려 하지 않아도 된다는 것을 의 미 하지는 않는다\n사상가 갑 , 을, 병 의 < 범 례 >\n인 장 을 탐 구 한다 : 출발 조건\n번 으 르 ㅁ [내 ㆍ : 판단 내용\nㅡ : 판단 방향\n< 아니요 : 0” 그: 사 상 가 의 입장\n(나) 며\n예\n예\n예 예\n'\n< 보 기 >\nㄱ . ㅅ &: 모든 원 조 는 원조 주 체 의 사적 소 유 권 을 침 해 하는가?\nㄴ . 2: 원 조 는 자원 분 포 의 우 연 성의 결 과 를 조 정 하 려는 것인가?\nㄷ . (;: 원 조 를 중 단 할 수 있는 명확한 목 표 를 규 정 해야 하는가?\n르 . 1): 원 조 는 비용 대비 편 익 을 계 산 하여 이루어져야 하는가?\n0) ㄱ ㄴ (000 ㄴ , ㄷ 03) ㄷ , 르\n04) 7, ㄴ , 2 06) 7, ㄷ , 르",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으 로 탐 구 하 고자 할 때, 4~1) 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 국 가 는 개 잇 의 권 리 를 침 해 하지 않는 최소 국 가 이어야\n한다. 국 가 는 시 민 들 에게 다른 사 람 들 을 돕 도록 강제적\n수 단 을 사 용 해 서는 안 된다.\n을 : 원 조 의 의 무 는 구 통 받는 사 회 가 질서 정연한 사 회 가\n( 가 )| 될 수 있도록 돕는 것이다. 그러나 국내 사 희 에 적용\n되는 정 의 의 원 칙 이 국제 사 회 에 적용될 이 유 는 없다.\n병 : 자 국 민 을 돕는 것이 원 조 하는 것 보 다 더 효율적인\n경 우 도 있다. 그러나 이것이 다른 나라 사 람 의 이 익 을\n평 등 하 게 고 려 하지 않아도 된다는 것을 의 미 하지는 않는다\n사상가 갑 , 을, 병 의 < 범 례 >\n인 장 을 탐 구 한다 : 출발 조건\n번 으 르 ㅁ [내 ㆍ : 판단 내용\nㅡ : 판단 방향\n< 아니요 : 0” 그: 사 상 가 의 입장\n(나) 며\n예\n예\n예 예\n'\n< 보 기 >\nㄱ . ㅅ &: 모든 원 조 는 원조 주 체 의 사적 소 유 권 을 침 해 하는가?\nㄴ . 2: 원 조 는 자원 분 포 의 우 연 성의 결 과 를 조 정 하 려는 것인가?\nㄷ . (;: 원 조 를 중 단 할 수 있는 명확한 목 표 를 규 정 해야 하는가?\n르 . 1): 원 조 는 비용 대비 편 익 을 계 산 하여 이루어져야 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "7, ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.874,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:27+00:00",
+    "qa_flags": []
+  }
+}

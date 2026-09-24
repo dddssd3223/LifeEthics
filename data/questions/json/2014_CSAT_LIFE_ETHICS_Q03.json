@@ -1,0 +1,73 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 9,
+    "question_number": 3,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      875,
+      2999,
+      2094
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q03.png",
+    "raw_text": "9. 다음 글 에서 추 론 할 수 있는 언 론 인 의 바람직한 태 도 로 가장\n적절한 것은?\n언 론 인 이 사전 보도 금 지 의 약 속 을 위 반 하여 경 쟁 사 보다\n먼저 특종 기 사 를 보 도 한 다면 그는 일 시 적 으로 명 성 을 얻을 수\n있다. 또한 언 론 인 은 취재 과 정 에서 얻은 정 보 를 사실 그대로\n보 도 하 기 는 하지만 보도 이 전 에 그 정 보 를 이용해 부당한\n이 익 을 얻을 수도 있다. 그러나 이러한 행 위 들 은 언 론 인 에\n대한 시 민 의 신 뢰 를 약 화 시키며 언 론 의 존재 이 유 를 상 실 하 게\n하는 원 인 으로 작 용 한다.\n0) 시 민 들 의 다양한 의 견 을 균형 있게 보 도 해 야 한다.\n(2) 취재, 편집 및 보 도 에 있어서 자 율 성 을 확 보 해 야 한다.\n(3) 오보로 인한 피 해 자 에게 반 론 의 기 회 를 부 여 해 야 한다.\n(4) 객관적인 사 실 과 주관적인 의 견 을 구 분 하여 보 도 해야 한다.\n(5) 붙 공 정한 행 위 를 통해 사 익 을 추 구 하 지 않도록 유 의 해야 한다.",
+    "stem": "다음 글 에서 추 론 할 수 있는 언 론 인 의 바람직한 태 도 로 가장 적절한 것은?",
+    "passage": "언 론 인 이 사전 보도 금 지 의 약 속 을 위 반 하여 경 쟁 사 보다\n먼저 특종 기 사 를 보 도 한 다면 그는 일 시 적 으로 명 성 을 얻을 수\n있다. 또한 언 론 인 은 취재 과 정 에서 얻은 정 보 를 사실 그대로\n보 도 하 기 는 하지만 보도 이 전 에 그 정 보 를 이용해 부당한\n이 익 을 얻을 수도 있다. 그러나 이러한 행 위 들 은 언 론 인 에\n대한 시 민 의 신 뢰 를 약 화 시키며 언 론 의 존재 이 유 를 상 실 하 게\n하는 원 인 으로 작 용 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "시 민 들 의 다양한 의 견 을 균형 있게 보 도 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "취재, 편집 및 보 도 에 있어서 자 율 성 을 확 보 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "오보로 인한 피 해 자 에게 반 론 의 기 회 를 부 여 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "객관적인 사 실 과 주관적인 의 견 을 구 분 하여 보 도 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "붙 공 정한 행 위 를 통해 사 익 을 추 구 하 지 않도록 유 의 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.924,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:47+00:00",
+    "qa_flags": []
+  }
+}

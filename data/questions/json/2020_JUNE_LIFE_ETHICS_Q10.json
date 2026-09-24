@@ -1,0 +1,73 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 74,
+    "question_number": 10,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3240,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는\n대로 고른 것은?\n갑 ： 원 조 는 빈 곤 으로 고 통 을 받고 있는 전 세계 사 람 들 을 위해\n자 신 의 소 득 의 일 부 를 나누어 주는 것이다. 우 리 는 모든\n존 재 의 이 익 을 평 등 하게 고 려 하 여 원 조 를 해야 한다.\n을 : 원 조 의 목 적 은 불리한 여 건 으로 인해 고 통 을 받고 있는 사 회 를\n질서 정연한 만 민 들의 사 회 로 편 입 시켜 자 유 와 평 등 을 확립\n하도록 도 와 주는 것이다.\n< 보 기 >\nㄱ . 감 : 공 리 의 원 리 에 따라 인 류 의 부가 균등할 때 끼지 원 조 해야 힌다.\nㄴ . 갑 : 원 조 의 결 과 로 모는 사 람 이 경제적 이 익 을 얻 어 야 만 한다.\nㄷ . 을: 자 립 적 인 정의 시 회 는 빈 곤 해도 원조 대 상 에서 제 외 될 수 있다\n르 . 갑 , 을 : 해외 원 조 는 자 선 의 차 원 을 넘어 윤리적 의 무 가 된다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄷ , 큰\n0400 ㄱ 7, ㄴ , 르 06) ㄴ , ㄷ , 큰",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 ： 원 조 는 빈 곤 으로 고 통 을 받고 있는 전 세계 사 람 들 을 위해\n자 신 의 소 득 의 일 부 를 나누어 주는 것이다. 우 리 는 모든\n존 재 의 이 익 을 평 등 하게 고 려 하 여 원 조 를 해야 한다.\n을 : 원 조 의 목 적 은 불리한 여 건 으로 인해 고 통 을 받고 있는 사 회 를\n질서 정연한 만 민 들의 사 회 로 편 입 시켜 자 유 와 평 등 을 확립\n하도록 도 와 주는 것이다.\n< 보 기 >\nㄱ . 감 : 공 리 의 원 리 에 따라 인 류 의 부가 균등할 때 끼지 원 조 해야 힌다.\nㄴ . 갑 : 원 조 의 결 과 로 모는 사 람 이 경제적 이 익 을 얻 어 야 만 한다.\nㄷ . 을: 자 립 적 인 정의 시 회 는 빈 곤 해도 원조 대 상 에서 제 외 될 수 있다\n르 . 갑 , 을 : 해외 원 조 는 자 선 의 차 원 을 넘어 윤리적 의 무 가 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "0400 ㄱ 7, ㄴ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.887,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:24+00:00",
+    "qa_flags": []
+  }
+}

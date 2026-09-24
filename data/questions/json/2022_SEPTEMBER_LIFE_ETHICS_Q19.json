@@ -1,0 +1,75 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 104,
+    "question_number": 19,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2711
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 감 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장\n적절한 것은? [3 점 ]\n갑 : 사 형 은 살 인 에 상 응 하는 보 복 을 위한 것이다. 또한\n사 형 은 인 간 성 을 해치는 죄 책 감 으 로부터 사 형 수 를\n해 방 시켜 준다.\n을: 사 형 은 한 순 간 에 강렬한 인 상 만을 줄 뿐이다. 반면,\n(가) 종신 노 역 형 은 더 큰 공 포 를 안겨 주므로 인간 정 신 에\n미치는 효 과 가 사 형 에 비해 크다.\n병 : 사 형 은 죄 인 을 적 으 로 간 주 하 는 것으로서, 그에 대한\n재 판 과 판 결 은 그가 더 이상 국 가 의 구 성 원 이 아니\n라는 증 명 이자 선 고 이다.\n< 범 례 >\nㅡ > : 비 판 의 방향\n스 ~ : 비 판 의 대용\n(나) 2 다 < 예 시 >\n녀\n. 0\n< 쇼 는 감 이 을 에게 제 기 할\nㅜㅠ” 수 있는 비 판 임 .\n0) 6, (:: 형 벌 이 주는 공 포 는 강 도 보다 지 속 성 에서 나 옴 을 간 과 한다.\n(2) 2: 종신 노 역 형 이 범 죄 자 를 목 적 으로 대 우 하는 형 벌 임을 간 과 한다.\n(3) 1): 사 형 은 시 민 의 범죄 의 욕 을 전혀 억 제 할 수 없 음 을 간 과 한 다.\n04) : 사 형 은 시 민 들 의 생 명 을 지키기 위해 실 행 되는 형 벌 임을 간 과 한다.\n(5) : 범 죄 자 를 처 벌 하는 것은 그가 처 벌 을 의 욕 했기 때 문 임을 간 과 한다.",
+    "stem": "( 가 ) 의 감 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 사 형 은 살 인 에 상 응 하는 보 복 을 위한 것이다. 또한\n사 형 은 인 간 성 을 해치는 죄 책 감 으 로부터 사 형 수 를\n해 방 시켜 준다.\n을: 사 형 은 한 순 간 에 강렬한 인 상 만을 줄 뿐이다. 반면,\n(가) 종신 노 역 형 은 더 큰 공 포 를 안겨 주므로 인간 정 신 에\n미치는 효 과 가 사 형 에 비해 크다.\n병 : 사 형 은 죄 인 을 적 으 로 간 주 하 는 것으로서, 그에 대한\n재 판 과 판 결 은 그가 더 이상 국 가 의 구 성 원 이 아니\n라는 증 명 이자 선 고 이다.\n< 범 례 >\nㅡ > : 비 판 의 방향\n스 ~ : 비 판 의 대용\n(나) 2 다 < 예 시 >\n녀\n. 0\n< 쇼 는 감 이 을 에게 제 기 할\nㅜㅠ” 수 있는 비 판 임 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": "6, (:: 형 벌 이 주는 공 포 는 강 도 보다 지 속 성 에서 나 옴 을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "2: 종신 노 역 형 이 범 죄 자 를 목 적 으로 대 우 하는 형 벌 임을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "1): 사 형 은 시 민 의 범죄 의 욕 을 전혀 억 제 할 수 없 음 을 간 과 한 다."
+      },
+      {
+        "number": 4,
+        "text": ": 사 형 은 시 민 들 의 생 명 을 지키기 위해 실 행 되는 형 벌 임을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": ": 범 죄 자 를 처 벌 하는 것은 그가 처 벌 을 의 욕 했기 때 문 임을 간 과 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.882,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:38+00:00",
+    "qa_flags": []
+  }
+}

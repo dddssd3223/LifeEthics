@@ -1,0 +1,75 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 22,
+    "question_number": 9,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      1506,
+      2999,
+      2854
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 그 림 의 강 연 자가 지 지 할 주 장 만을 < 보 기 > 에 서 있는 대로 고른\n것은?\n기 업 의 주된 목 적 이 이윤 추 구 라는 점 은 변 함 없는\n사 실 입니다. 그렇지만 기 업 은 전체 사 회 의 일 원 으로서\n사회 구 성 원 들 없이는 이 윤 을 창 출 할 수 없다는 사 실 에\n주 목 해야 합니다. 기 업 은 지역 복지 사업, 사회적 약 지에 대한\n경제적 지원 등과 같은 사회적 책 임 을 이 행 해야 합니다.\n이를 통해 기 업 은 사 회 로부터 많은 신 뢰 를 얻 음 으로써\n기 업 의 주된 목 적 을 효과적으로 달 성 할 수 있을 것 입니다.\n< 보 기 >\nㄱ . 기 업 은 취약 계 층 의 삶 의 수준 향 상 에 관 심 을 가져야 한다,\nㄴ . 기 업 은 사 회 로부터 얻은 이 윤 의 환원 방 안 을 모 색 해야 한다.\nㄷ . 기 업 은 사 회 에 의 존 하지 않는 자기 완 결 적 조 직 이어야 한다.\n2. 기 업 은 이윤 증 대 를 위 해 서 라도 공익 활 동 을 수 행 해 야 한다.\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄷ , 르\n(0 ) ㄱ , ㄴ , 2 (66) ㄴ , ㄷ , 2",
+    "stem": "그 림 의 강 연 자가 지 지 할 주 장 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "기 업 의 주된 목 적 이 이윤 추 구 라는 점 은 변 함 없는\n사 실 입니다. 그렇지만 기 업 은 전체 사 회 의 일 원 으로서\n사회 구 성 원 들 없이는 이 윤 을 창 출 할 수 없다는 사 실 에\n주 목 해야 합니다. 기 업 은 지역 복지 사업, 사회적 약 지에 대한\n경제적 지원 등과 같은 사회적 책 임 을 이 행 해야 합니다.\n이를 통해 기 업 은 사 회 로부터 많은 신 뢰 를 얻 음 으로써\n기 업 의 주된 목 적 을 효과적으로 달 성 할 수 있을 것 입니다.\n< 보 기 >\nㄱ . 기 업 은 취약 계 층 의 삶 의 수준 향 상 에 관 심 을 가져야 한다,\nㄴ . 기 업 은 사 회 로부터 얻은 이 윤 의 환원 방 안 을 모 색 해야 한다.\nㄷ . 기 업 은 사 회 에 의 존 하지 않는 자기 완 결 적 조 직 이어야 한다.\n2. 기 업 은 이윤 증 대 를 위 해 서 라도 공익 활 동 을 수 행 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": ") ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.898,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:17+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "subject": "LIFE_ETHICS",
+  "source_questions": 800,
+  "selected_questions": 261,
+  "selection_rule": "Phase2C final_decision == KEEP",
+  "excluded": {
+    "MECHANISM_ONLY": 85,
+    "DROP": 115,
+    "NOT_CANDIDATE": 339
+  },
+  "files": {
+    "questions": "questions.jsonl",
+    "spreadsheet": "LIFE_ETHICS_FINAL_TRANSFER.xlsx",
+    "images": "images/"
+  },
+  "image_count": 261,
+  "official_answers_linked": 0,
+  "notes": "question_text/choices는 Phase 1 OCR. 원문 확인은 images/<question_id>.png. 공식 정답표 미연결 문항의 official_answer는 null(추론 없음).",
+  "status": "FINAL"
+}

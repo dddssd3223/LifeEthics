@@ -1,0 +1,75 @@
+{
+  "id": "2025_JUNE_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 134,
+    "question_number": 6,
+    "exam_key": "2025_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1804
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_JUNE_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 그 림 의 강 연 자가 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?\n사 람 들 은 금전적 능 력 으로 명 성 을 얻 으 려 하지만 금전적\n능 력 만으로는 명 성 을 얻 기 에 충 분 하지 않습니다. 그래서\n좋은 명 성 을 얻고 유 지 하기 위한 수 단 으로 과 시 적 소 비 를 합니다.\n이 수 단 은 사회 계 층 의 밑 바 닥 까 지 위 력 을 발 휘 합니다.\n소 비 의 근본 동 기 는 차별적 비 교 에 떠 른 경 쟁 입니다. 그래서\n각 계 층 은 자 신 의 상위 계 층 을 동 경 하고 소비 행 위 를 모 방 하며\n이를 통해 같은 계층 사 람 들 과 의 경 쟁 에서 앞서 나 가 려 고\n합니다. 심 지 어 는 물 질 적 으로 결 펌 상 태 에 있는 계 층 에서도\n이러한 욕구 충 족 을 위해 마 지 막 까 지 허 세 를 부 립 니다.\n\\\n01 과 시 적 소 비 는 명 성 을 얻기 위한 수 단 으로 행 해 지 는가?\n2 과 시 적 소 비 의 욕 구 는 사 회 의 최하위 계 층 에서도 나 타 나 는 가?\n@ 동일 계층 내 에 서 의 경 쟁 심 은 과 시 적 소 비 의 동 기 가 될 수 있는가?\n4 상위 계 층 의 소비 행 위 는 하위 계 층 의 소비 행 위 에 영 향 을 주는가?\n8 명 성 의 옥 팡 을 추 구 하기 위해서는 물질적 풍 요 가 전 제 되어야만 하는가?",
+    "stem": "그 림 의 강 연 자가 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?",
+    "passage": "사 람 들 은 금전적 능 력 으로 명 성 을 얻 으 려 하지만 금전적\n능 력 만으로는 명 성 을 얻 기 에 충 분 하지 않습니다. 그래서\n좋은 명 성 을 얻고 유 지 하기 위한 수 단 으로 과 시 적 소 비 를 합니다.\n이 수 단 은 사회 계 층 의 밑 바 닥 까 지 위 력 을 발 휘 합니다.\n소 비 의 근본 동 기 는 차별적 비 교 에 떠 른 경 쟁 입니다. 그래서\n각 계 층 은 자 신 의 상위 계 층 을 동 경 하고 소비 행 위 를 모 방 하며\n이를 통해 같은 계층 사 람 들 과 의 경 쟁 에서 앞서 나 가 려 고\n합니다. 심 지 어 는 물 질 적 으로 결 펌 상 태 에 있는 계 층 에서도\n이러한 욕구 충 족 을 위해 마 지 막 까 지 허 세 를 부 립 니다.\n\\",
+    "choices": [
+      {
+        "number": 1,
+        "text": "과 시 적 소 비 는 명 성 을 얻기 위한 수 단 으로 행 해 지 는가?"
+      },
+      {
+        "number": 2,
+        "text": "과 시 적 소 비 의 욕 구 는 사 회 의 최하위 계 층 에서도 나 타 나 는 가?"
+      },
+      {
+        "number": 3,
+        "text": "동일 계층 내 에 서 의 경 쟁 심 은 과 시 적 소 비 의 동 기 가 될 수 있는가?"
+      },
+      {
+        "number": 4,
+        "text": "상위 계 층 의 소비 행 위 는 하위 계 층 의 소비 행 위 에 영 향 을 주는가?"
+      },
+      {
+        "number": 5,
+        "text": "명 성 의 옥 팡 을 추 구 하기 위해서는 물질적 풍 요 가 전 제 되어야만 하는가?"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:47+00:00",
+    "qa_flags": []
+  }
+}

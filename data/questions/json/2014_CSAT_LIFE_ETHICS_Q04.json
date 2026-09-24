@@ -1,0 +1,73 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 9,
+    "question_number": 4,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      2094,
+      2999,
+      3166
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 다음 전통 의 례 에 대한 설 명 으로 가장 적절한 것은?\n채 소 와 과 일 을 차려 놓고 술 잔 에 술 을 따라 그 릇 에 부은 다음\n두 번 절 한 다 [06008081. 이것은 신 령 을 맞 이 하는 예 (08) 이 다.\n…( 중 략 )… 부 모 의 얼 굴 빛 과 음 성 을 잊 어 서 는 안 되며 그\n마 음 과 뜻 을 늘 간 직 해야 한다. 이것은 자기 몸 이 다할 때 까 지\n부 모 의 이 름 을 욕 되게 하지 않으려 하기 때 문 이 다. 그러므로\n군 자 는 한평생 상 (98) 중에 있다고 한다.\n0 부 모 로부터 자 립 하여 한 가 정 을 이루는 의 례 이다.\n(3) 능 력 과 덕망 있는 자를 관 직 에 추 천 하는 의 례 이다.\n@) 성 인 (&/\\) 으 로서 새 이 름 [을 부 여 받는 의 례 이다.\n@ 자 신 의 근 원 을 확 인 하고 공 경 을 표 현 하는 의 례 이다.\n6) 마 을 의 수 호 신 에게 가 족 의 안 녕 을 기 원 하는 의 례 이다,",
+    "stem": "다음 전통 의 례 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "채 소 와 과 일 을 차려 놓고 술 잔 에 술 을 따라 그 릇 에 부은 다음\n두 번 절 한 다 [06008081. 이것은 신 령 을 맞 이 하는 예 (08) 이 다.\n…( 중 략 )… 부 모 의 얼 굴 빛 과 음 성 을 잊 어 서 는 안 되며 그\n마 음 과 뜻 을 늘 간 직 해야 한다. 이것은 자기 몸 이 다할 때 까 지\n부 모 의 이 름 을 욕 되게 하지 않으려 하기 때 문 이 다. 그러므로\n군 자 는 한평생 상 (98) 중에 있다고 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "부 모 로부터 자 립 하여 한 가 정 을 이루는 의 례 이다."
+      },
+      {
+        "number": 2,
+        "text": "능 력 과 덕망 있는 자를 관 직 에 추 천 하는 의 례 이다."
+      },
+      {
+        "number": 3,
+        "text": "성 인 (&/\\) 으 로서 새 이 름 [을 부 여 받는 의 례 이다."
+      },
+      {
+        "number": 4,
+        "text": "자 신 의 근 원 을 확 인 하고 공 경 을 표 현 하는 의 례 이다."
+      },
+      {
+        "number": 5,
+        "text": "마 을 의 수 호 신 에게 가 족 의 안 녕 을 기 원 하는 의 례 이다,"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:48+00:00",
+    "qa_flags": []
+  }
+}

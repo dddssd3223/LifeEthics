@@ -1,0 +1,73 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 51,
+    "question_number": 11,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      658,
+      1740,
+      1965
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 갑 , 을 의 입 장 으로 가장 적절한 것은?\n갑 : 정보 리 터 러시\" 는 정보 접근 능 력 과 정보 수용 능 력 을\n가리킨다. 정보 격 차 는 주로 그러한 능 력 들의 차 이 로 인해\n발 생 하므로, 이를 해 결 하기 위해 정보 약 자 에게 정보 접근\n및 수용 능 력 을 제 공 하는 정보 복 지 가 보 장 되어야 한다.\n을: 정보 리 터 러시\" 는 정보 매 체 의 쌍 방 향 성 이 강 화 됨에 따라\n접근 및 수용 능력 이외에 정보 생산 능 력 까 지도 포 함 해야\n한다. 정보 격 차 는 주로 정보 생산 능 력 의 차 이 에 기 인 하므로\n정보 생산 능 력 을 제 공 하는 정보 복 지 가 보 장 되어야 한다.\n(01) 갑 : 정보 약 자 에게는 정보 접근 등 력 만을 제 공 해 야 한다.\n(3) 갑 : 정보 격 차 의 주된 원 인 은 정보 생 산 력 의 차 이 에 있다.\n(3) 을: 정보 복 지 의 핵심 과 제 는 정보 기 기 의 평 등 한 분 배 이다.\n(4) 을: 정보 약 자 가 정보 생 산 에 서 소 외 되 지 않도록 해야 한다.\n(5) 감 , 을: 정보 리 터 러 시 는 접근 및 수용 능 력 에 국 한 되어야 한다.",
+    "stem": "갑 , 을 의 입 장 으로 가장 적절한 것은?",
+    "passage": "갑 : 정보 리 터 러시\" 는 정보 접근 능 력 과 정보 수용 능 력 을\n가리킨다. 정보 격 차 는 주로 그러한 능 력 들의 차 이 로 인해\n발 생 하므로, 이를 해 결 하기 위해 정보 약 자 에게 정보 접근\n및 수용 능 력 을 제 공 하는 정보 복 지 가 보 장 되어야 한다.\n을: 정보 리 터 러시\" 는 정보 매 체 의 쌍 방 향 성 이 강 화 됨에 따라\n접근 및 수용 능력 이외에 정보 생산 능 력 까 지도 포 함 해야\n한다. 정보 격 차 는 주로 정보 생산 능 력 의 차 이 에 기 인 하므로\n정보 생산 능 력 을 제 공 하는 정보 복 지 가 보 장 되어야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 정보 약 자 에게는 정보 접근 등 력 만을 제 공 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 정보 격 차 의 주된 원 인 은 정보 생 산 력 의 차 이 에 있다."
+      },
+      {
+        "number": 3,
+        "text": "을: 정보 복 지 의 핵심 과 제 는 정보 기 기 의 평 등 한 분 배 이다."
+      },
+      {
+        "number": 4,
+        "text": "을: 정보 약 자 가 정보 생 산 에 서 소 외 되 지 않도록 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "감 , 을: 정보 리 터 러 시 는 접근 및 수용 능 력 에 국 한 되어야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.923,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:30+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 60,
+    "question_number": 18,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3207,
+      1592,
+      4299
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 사상가 갑 , 을 의 입 장 으로 가장 적절한 것은? [3 점 ]\n갑 : 자 원 은 한 정 되어 있기에 최 대 의 이 익 이 산 출 될 수 있는 곳에\n사 용 되 는 것이 적 절 하다. 풍 요 한 사 회 의 시 민 들 만 풍 요 로 움 을\n누리는 것은 부 당 하다. 인류 전 체 의 이익 증 진 을 위해 절대\n빈 곤 으로 고 통 받는 사 회 의 사 람 들 을 원 조 해야 한다.\n을: 자 원 이 부 족 하다고 해서 질서 정연한 사 회 가 될 수 없는 경 우 는\n거의 없다. 어떤 사 회 가 질서 정연한 사 회 가 되는 결정적\n요 인 은 자 원 의 수 준 보다는 정치 문 화 이다. 불리한 여 건 으 로\n고 통 받는 사 회 가 정치 문 화 를 바 꾸 도록 원 조 해야 한다.\n0 갑 : 원 조 를 위해서 풍 요 한 사 회 의 자 원 을 활 용 해서는 안 된다.\n(3) 갑 : 중요한 사 회 의 시 민 들 은 원조 대 상 에서 모두 제 외 되어야 한다.\n(8) 을 : 자 원 이 부족한 국 가 만을 원조 대 상 으로 간 주 해 서는 안 된다.\n@) 을 : 정 의 의 제 3 윈 적에 따라 국가 간 자 원 을 재 분 배 해야 한다.\n9) 갑 , 을 : 공 리 의 원 러 를 국제적 차 원 으로 확대 적 용 해서는 안 된다.",
+    "stem": "사상가 갑 , 을 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 자 원 은 한 정 되어 있기에 최 대 의 이 익 이 산 출 될 수 있는 곳에\n사 용 되 는 것이 적 절 하다. 풍 요 한 사 회 의 시 민 들 만 풍 요 로 움 을\n누리는 것은 부 당 하다. 인류 전 체 의 이익 증 진 을 위해 절대\n빈 곤 으로 고 통 받는 사 회 의 사 람 들 을 원 조 해야 한다.\n을: 자 원 이 부 족 하다고 해서 질서 정연한 사 회 가 될 수 없는 경 우 는\n거의 없다. 어떤 사 회 가 질서 정연한 사 회 가 되는 결정적\n요 인 은 자 원 의 수 준 보다는 정치 문 화 이다. 불리한 여 건 으 로\n고 통 받는 사 회 가 정치 문 화 를 바 꾸 도록 원 조 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 원 조 를 위해서 풍 요 한 사 회 의 자 원 을 활 용 해서는 안 된다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 중요한 사 회 의 시 민 들 은 원조 대 상 에서 모두 제 외 되어야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 자 원 이 부족한 국 가 만을 원조 대 상 으로 간 주 해 서는 안 된다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 정 의 의 제 3 윈 적에 따라 국가 간 자 원 을 재 분 배 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 공 리 의 원 러 를 국제적 차 원 으로 확대 적 용 해서는 안 된다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.914,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:52+00:00",
+    "qa_flags": []
+  }
+}

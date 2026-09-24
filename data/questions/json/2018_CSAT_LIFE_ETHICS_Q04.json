@@ -1,0 +1,73 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 57,
+    "question_number": 4,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      886,
+      2999,
+      3128
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 갑 , 을 의 사상적 입 장 에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?\n갑 : 지 인 ( 조 ㅅ ) 은 무 위 (\\ 들 ) 하 다. 도 ( 꼴 ) 에 는 시 작 도 끝도\n없지만 만 물 에는 죽 음 도 있고 삶 도 있다. 근 본 에서 보자면\n삶 이 란 기 () 가 모인 것이다.\n을: 이것이 있기 때문에 저 것 이 있다. 이를 일컬어 인 연 법\n(040223) 이 라고 한다. 삶이 있으므로 눔 음 과 죽 음 이 있고,\n삶 을 떠 나 서 는 눔 음 과 죽 음 도 없다.\n< 보 기 >\nㄱ . 갑 : 죽 음 은 기가 모이고 홀 어 지는 과 정 의 일 부 임을 강 조 한 다.\nㄴ . 갑 : 죽 음 에 대한 성 찰 과 애 도 ( 묘 뽀 ) 의 의 무 를 강 조 한 다.\nㄷ . 을: 연기 (6892) 에 대한 깨 달 음 을 추 구 하는 삶 을 강 조 한 다.\n르 . 갑 , 을: 삶 과 죽 음 을 분 별 하여 고 통 에서 벗어날 것을 강 조 한 다.\n060) ㄱ , ㄴㄴ (2) ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 그",
+    "stem": "갑 , 을 의 사상적 입 장 에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "갑 : 지 인 ( 조 ㅅ ) 은 무 위 (\\ 들 ) 하 다. 도 ( 꼴 ) 에 는 시 작 도 끝도\n없지만 만 물 에는 죽 음 도 있고 삶 도 있다. 근 본 에서 보자면\n삶 이 란 기 () 가 모인 것이다.\n을: 이것이 있기 때문에 저 것 이 있다. 이를 일컬어 인 연 법\n(040223) 이 라고 한다. 삶이 있으므로 눔 음 과 죽 음 이 있고,\n삶 을 떠 나 서 는 눔 음 과 죽 음 도 없다.\n< 보 기 >\nㄱ . 갑 : 죽 음 은 기가 모이고 홀 어 지는 과 정 의 일 부 임을 강 조 한 다.\nㄴ . 갑 : 죽 음 에 대한 성 찰 과 애 도 ( 묘 뽀 ) 의 의 무 를 강 조 한 다.\nㄷ . 을: 연기 (6892) 에 대한 깨 달 음 을 추 구 하는 삶 을 강 조 한 다.\n르 . 갑 , 을: 삶 과 죽 음 을 분 별 하여 고 통 에서 벗어날 것을 강 조 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "060) ㄱ , ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 그"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.851,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:45+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 56,
+    "question_number": 17,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1812,
+      1592,
+      3192
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 갑 , 을 사 상 가 들 모 두 가 부 정 의 대 답 을 할 질 문 으로 옮 은 것은? [3 점 ]\n법 은 공 공 의 이 익 을 지 향 하는 일반 의 지 를 | | 법 은 특수 의 사 의 총 합 인 일반 의 사 를\n반 영 해야 합니다. 누 구 든 지 자 신 의 생 명 을 | | 대 표 합 니다. 인 간 은 자 신 을 죽일 권 리 가\n지키기 위해 생 명 의 위 험 을 무 릅 쓸 권 리 를 | | 없는 이상, 그 권 리 를 사 회 에 양 도 할 수\n갖 습니다. 사회 계 약 을 파 괴 한 살 인 범 은 | | 없습니다. 사 형 은 한 시 민 의 존 재 를\n도덕적 인 격 이 아닌 공 중 의 적 으 로 사 형 에 | | 파 괴 하 는 부적절한 전쟁 행 위 이므로\n처 해 져야 합니다. 종신 노 역 형 으로 대 체 되어야 합니다.\n식 2\n이 ~ 다 2\n00 형 벌 은 최대 다 수 의 최대 행 복 을 지 향 해야 하는가?\n3 살 인 법 에 대한 사형 선 고 에 동 의 하는 것은 정 당 한 가?\n9) 사 형 은 종신 노 역 형 에 비해 범죄 억 제 력 이 열 등 한 가?\n@ 사 형 은 사회 계 약 에 부 합 하지 않는 부당한 형 별 인가?\n6) 사 형 은 살 인 범 의 인간 존 엄 성 을 존 중 하는 형 벌 인가?",
+    "stem": "갑 , 을 사 상 가 들 모 두 가 부 정 의 대 답 을 할 질 문 으로 옮 은 것은? [3 점 ]",
+    "passage": "법 은 공 공 의 이 익 을 지 향 하는 일반 의 지 를 | | 법 은 특수 의 사 의 총 합 인 일반 의 사 를\n반 영 해야 합니다. 누 구 든 지 자 신 의 생 명 을 | | 대 표 합 니다. 인 간 은 자 신 을 죽일 권 리 가\n지키기 위해 생 명 의 위 험 을 무 릅 쓸 권 리 를 | | 없는 이상, 그 권 리 를 사 회 에 양 도 할 수\n갖 습니다. 사회 계 약 을 파 괴 한 살 인 범 은 | | 없습니다. 사 형 은 한 시 민 의 존 재 를\n도덕적 인 격 이 아닌 공 중 의 적 으 로 사 형 에 | | 파 괴 하 는 부적절한 전쟁 행 위 이므로\n처 해 져야 합니다. 종신 노 역 형 으로 대 체 되어야 합니다.\n식 2\n이 ~ 다 2",
+    "choices": [
+      {
+        "number": 1,
+        "text": "형 벌 은 최대 다 수 의 최대 행 복 을 지 향 해야 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "살 인 법 에 대한 사형 선 고 에 동 의 하는 것은 정 당 한 가?"
+      },
+      {
+        "number": 3,
+        "text": "사 형 은 종신 노 역 형 에 비해 범죄 억 제 력 이 열 등 한 가?"
+      },
+      {
+        "number": 4,
+        "text": "사 형 은 사회 계 약 에 부 합 하지 않는 부당한 형 별 인가?"
+      },
+      {
+        "number": 5,
+        "text": "사 형 은 살 인 범 의 인간 존 엄 성 을 존 중 하는 형 벌 인가?"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=12"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:42+00:00",
+    "qa_flags": []
+  }
+}

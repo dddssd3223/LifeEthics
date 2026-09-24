@@ -1,0 +1,73 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 50,
+    "question_number": 9,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      658,
+      3147,
+      2565
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 갑 , 을 이 < 사 례 > 에 대해 취할 입 장 으로 적 절 하 지 않은 것은?\n갑 : 소수 집단 우대 정 책 은 소 수 자 들이 받은 과 거 의 차 별 을\n보 상 하기 위한 것이다. 이러한 정 책 은 기 회 의 재 조 정 을\n통해 실질적인 정 의 를 구현할 뿐만 아니라 사 회 의 다 양 성 을\n확 보 하여 사회 발 전 에 기여할 수 있다.\n을: 소수 집단 우대 정 책 은 노 력 이나 업 적 과 는 무 관 하게\n소 수 자 에게 과도한 혜 택 을 주는 것이다. 이러한 정 책 은\n일반 사 람 들 의 본질적 퀸 리 를 침 해 하거나 그들의 기 회 를\n박 탈 함으로써 또 다른 차 별 을 낭 을 수 있다,\n< 사 례 >\n유럽계 미국인 & 는 미 국 의 8 의과 대 학 에 지 원 했다. 그런데\n이 대 학 은 소수 집단 학 생 의 수 를 늘리기 위해 입학 정 원 의\n16% 를 그 들 에게 할 당 하는 규 정 을 두고 있었다. 는 우수한\n입 학 시험 성 적 에도 불 구 하고 불 합 격 했다. 이에 는 학 교 를\n상대로 소 송 을 제 기 했다.\n0) 갑 : 입학 정 원 에서 소 수 자 의 몸 을 할 당 하는 것은 정 당 하다.\n(3) 갑 : 소 수 자 를 우 대 하는 입학 정 책 은 실질적 평 등 을 실 현 한다.\n(3) 을: 과 거 의 차 별 을 보 상 하는 입학 정 책 은 공정 경 쟁 을 해친다.\n(4) 을: 소 수 자 의 입 학 을 위해 다른 지 원 자 에게 해 를 끼 쳐 서는 안 된다.\n(5) 갑 , 을: 소 수 자 를 우 대 하는 입학 정 책 은 부당한 역 차 별 을 심 화 시킨다.",
+    "stem": "갑 , 을 이 < 사 례 > 에 대해 취할 입 장 으로 적 절 하 지 않은 것은?",
+    "passage": "갑 : 소수 집단 우대 정 책 은 소 수 자 들이 받은 과 거 의 차 별 을\n보 상 하기 위한 것이다. 이러한 정 책 은 기 회 의 재 조 정 을\n통해 실질적인 정 의 를 구현할 뿐만 아니라 사 회 의 다 양 성 을\n확 보 하여 사회 발 전 에 기여할 수 있다.\n을: 소수 집단 우대 정 책 은 노 력 이나 업 적 과 는 무 관 하게\n소 수 자 에게 과도한 혜 택 을 주는 것이다. 이러한 정 책 은\n일반 사 람 들 의 본질적 퀸 리 를 침 해 하거나 그들의 기 회 를\n박 탈 함으로써 또 다른 차 별 을 낭 을 수 있다,\n< 사 례 >\n유럽계 미국인 & 는 미 국 의 8 의과 대 학 에 지 원 했다. 그런데\n이 대 학 은 소수 집단 학 생 의 수 를 늘리기 위해 입학 정 원 의\n16% 를 그 들 에게 할 당 하는 규 정 을 두고 있었다. 는 우수한\n입 학 시험 성 적 에도 불 구 하고 불 합 격 했다. 이에 는 학 교 를\n상대로 소 송 을 제 기 했다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 입학 정 원 에서 소 수 자 의 몸 을 할 당 하는 것은 정 당 하다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 소 수 자 를 우 대 하는 입학 정 책 은 실질적 평 등 을 실 현 한다."
+      },
+      {
+        "number": 3,
+        "text": "을: 과 거 의 차 별 을 보 상 하는 입학 정 책 은 공정 경 쟁 을 해친다."
+      },
+      {
+        "number": 4,
+        "text": "을: 소 수 자 의 입 학 을 위해 다른 지 원 자 에게 해 를 끼 쳐 서는 안 된다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 소 수 자 를 우 대 하는 입학 정 책 은 부당한 역 차 별 을 심 화 시킨다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.91,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:28+00:00",
+    "qa_flags": []
+  }
+}

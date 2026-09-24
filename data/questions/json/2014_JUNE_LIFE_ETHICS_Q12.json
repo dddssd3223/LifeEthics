@@ -1,0 +1,76 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 3,
+    "question_number": 12,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2850,
+      1592,
+      4301
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 그 림 의 4~) 에 들어갈 옮 은 질 문 만을 < 보 기 > 에 서 있는 대로\n고른 것은? [3 점 ]\n범 례\n동양 사 상 의 도가\n이상적 인 간 상 을 <> : 한단 내용\n탐 구 한 다 ~ : 판단 방향\n0000 : 이상적 인간상\n닛 그\n아니요\n예\n아니요\n00000\" >\n예 예 예\n사 욕 을 극 복 하 고 일 체 중 생 을 무 위 자 연 에\n예 ()#) 를 실 천 하 는 사람 ㅣ | 제 도 (#%) 하 는 사람 순 응 하는 사람\n< 보 기 >\nㄱ . &: 심 재 (1.#) 를 통해 일 체 의 구 속 에서 벗 어 나 려 하는가?\nㄴ . 8: 수 기 ({》 근 ) 를 통해 치 인 ( ㅅ ) 을 실 현 하 려고 하는가?\nㄷ . 0: 삼 독 (= 콜 ) 을 제 거 하 여 자 신 의 본 성 을 깨 치 려 하는가?\n2 . 1): 인 위 를 버리고 상 선 약 수 ([ 끔 40) 의 도 를 따 르 려 하는가?\n0) ㄱ , ㄴ (2) ㄱ , 2 (3) ㄴ , ㄷ\n00 ㄱ , ㄷ , 르 (66) ㄴ , ㄷ ,",
+    "stem": "그 림 의 4~) 에 들어갈 옮 은 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "범 례\n동양 사 상 의 도가\n이상적 인 간 상 을 <> : 한단 내용\n탐 구 한 다 ~ : 판단 방향\n0000 : 이상적 인간상\n닛 그\n아니요\n예\n아니요\n00000\" >\n예 예 예\n사 욕 을 극 복 하 고 일 체 중 생 을 무 위 자 연 에\n예 ()#) 를 실 천 하 는 사람 ㅣ | 제 도 (#%) 하 는 사람 순 응 하는 사람\n< 보 기 >\nㄱ . &: 심 재 (1.#) 를 통해 일 체 의 구 속 에서 벗 어 나 려 하는가?\nㄴ . 8: 수 기 ({》 근 ) 를 통해 치 인 ( ㅅ ) 을 실 현 하 려고 하는가?\nㄷ . 0: 삼 독 (= 콜 ) 을 제 거 하 여 자 신 의 본 성 을 깨 치 려 하는가?\n2 . 1): 인 위 를 버리고 상 선 약 수 ([ 끔 40) 의 도 를 따 르 려 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , 2"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄷ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ ,"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=12",
+      "vector_lines=68"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.814,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:34+00:00",
+    "qa_flags": []
+  }
+}

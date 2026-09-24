@@ -1,0 +1,73 @@
+{
+  "id": "2026_CSAT_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 159,
+    "question_number": 14,
+    "exam_key": "2026_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2065,
+      3148,
+      3352
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_CSAT_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n0 부 귀 는 사 람 들 이 바라는 것이지만 정당한 방 법 으로 얻은\n것이 아니면 누 려 서는 안 된다. 빈 천은 사 람 들 이 싫어하는\n것이지만 부당한 방 법 으로 벗 어 나 려 해서는 안 된다. 인 (을\n버리고 어찌 군 자 라 이 름 할 수 있겠는가?\n0 백 성 을 법과 제 도 로 이끌고 형 벌 로 다 스 리 면 , 백 성 은 형 벌 을\n피 하 려 고 만 하고 부 끄 러 워 할 줄 모르게 된다. 덕 으로 이끌고\n예 (08) 로 다 스 리 면 백 성 은 부 끄 러 워 할 줄 알고 또한 자 신 의\n잘 못 을 바 로 잡으려 한다.\n01 군 자 는 의 로 움 [보다 이 로 움 [ 취 ] 을 우 선 해서는 안 된다.\n2 빈 천을 벗어나 부 귀 를 누리는 사 람 은 군 자 가 될 수 없다.\n@ 인 은 군 자 의 내 면 적 인 덕 목 이므로 다 스 림 의 근 본 이 될 수 없다.\n0) 욕 망 을 극 복 하 괴 빼 더 이 름 을 높이는 것은 인과 예 에 어긋난다.\n5 백성 스스로 잘 못 을 깨닫게 하려면 형 벌 로 다 스 릴 수밖에 없다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "0 부 귀 는 사 람 들 이 바라는 것이지만 정당한 방 법 으로 얻은\n것이 아니면 누 려 서는 안 된다. 빈 천은 사 람 들 이 싫어하는\n것이지만 부당한 방 법 으로 벗 어 나 려 해서는 안 된다. 인 (을\n버리고 어찌 군 자 라 이 름 할 수 있겠는가?\n0 백 성 을 법과 제 도 로 이끌고 형 벌 로 다 스 리 면 , 백 성 은 형 벌 을\n피 하 려 고 만 하고 부 끄 러 워 할 줄 모르게 된다. 덕 으로 이끌고\n예 (08) 로 다 스 리 면 백 성 은 부 끄 러 워 할 줄 알고 또한 자 신 의\n잘 못 을 바 로 잡으려 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "군 자 는 의 로 움 [보다 이 로 움 [ 취 ] 을 우 선 해서는 안 된다."
+      },
+      {
+        "number": 2,
+        "text": "빈 천을 벗어나 부 귀 를 누리는 사 람 은 군 자 가 될 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "인 은 군 자 의 내 면 적 인 덕 목 이므로 다 스 림 의 근 본 이 될 수 없다."
+      },
+      {
+        "number": 4,
+        "text": "욕 망 을 극 복 하 괴 빼 더 이 름 을 높이는 것은 인과 예 에 어긋난다."
+      },
+      {
+        "number": 5,
+        "text": "백성 스스로 잘 못 을 깨닫게 하려면 형 벌 로 다 스 릴 수밖에 없다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.895,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:50+00:00",
+    "qa_flags": []
+  }
+}

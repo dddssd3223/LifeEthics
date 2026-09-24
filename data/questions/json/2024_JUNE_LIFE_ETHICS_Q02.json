@@ -1,0 +1,73 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 121,
+    "question_number": 2,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      2171,
+      1740,
+      3343
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은?\n갑 : 인 의 예 지 (-3808) 는 바 깥 에서부터 나 에게 녹 아 들어 온\n것이 아니라 내가 본 래 부터 지니고 있는 것이다. 다만 생각\n하지 않았을 뿐이다.\n을 : 항상 백 성 들 로 하여금 피 와 욕 심 이 없게 해야 하고, 피 가\n있는 자가 있다고 하더라도 감히 무언가 하지 못하게 해야\n한다. 무 위 (0688) 하 면 다 스 리 지 못할 것이 없다.\n0) 갑 : 서 () 의 실 천 을 통해 진정한 인 간 다 움 [(-] 을 이룰 수 있다.\n2) 감 : 군 자 는 항 산 (08&)| 있어야만 항 심 (18.6) 을 유지할 수 있다.\n(3) 을 : 백 성 의 수 를 늘리면 자연스럽게 무 위 의 다 스 림 을 이룰 수 있\n@) 을: 진정한 자 유 를 위해 만 물 의 근 원 인 도 ( 콜 ) 에 서 벗어나야 한다.\n69) 갑과 을: 옮 고 그 름 을 가릴 줄 아는 마 음 으로 사 욕 을 제 거 해 야 한다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은?",
+    "passage": "갑 : 인 의 예 지 (-3808) 는 바 깥 에서부터 나 에게 녹 아 들어 온\n것이 아니라 내가 본 래 부터 지니고 있는 것이다. 다만 생각\n하지 않았을 뿐이다.\n을 : 항상 백 성 들 로 하여금 피 와 욕 심 이 없게 해야 하고, 피 가\n있는 자가 있다고 하더라도 감히 무언가 하지 못하게 해야\n한다. 무 위 (0688) 하 면 다 스 리 지 못할 것이 없다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 서 () 의 실 천 을 통해 진정한 인 간 다 움 [(-] 을 이룰 수 있다."
+      },
+      {
+        "number": 2,
+        "text": "감 : 군 자 는 항 산 (08&)| 있어야만 항 심 (18.6) 을 유지할 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 백 성 의 수 를 늘리면 자연스럽게 무 위 의 다 스 림 을 이룰 수 있"
+      },
+      {
+        "number": 4,
+        "text": "을: 진정한 자 유 를 위해 만 물 의 근 원 인 도 ( 콜 ) 에 서 벗어나야 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을: 옮 고 그 름 을 가릴 줄 아는 마 음 으로 사 욕 을 제 거 해 야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.877,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:18+00:00",
+    "qa_flags": []
+  }
+}

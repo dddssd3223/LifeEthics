@@ -1,0 +1,73 @@
+{
+  "id": "2020_CSAT_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 82,
+    "question_number": 6,
+    "exam_key": "2020_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      3306
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_CSAT_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]\n갑 : 몸 의 소 유 권 은 자 신 에게 있고 장기 이 식 이 생 명 을 살릴 수\n있지만, 장기 기 증 의 권 리 는 허 용 될 수 없습니다. 장 기 는\n몸 의 부 분 이고 몸 은 인간 존 엄 성 의 토 대 이기 때 문 입니다.\n을: 몸 은 인간 존 엄 성 에 있어서 중 요 합니다. 그러나 몸 자 체 와\n몸 의 부 분 은 구 분 돼야 합니다. 몸 자 체 와 달리 몸 의 부 분 은\n자 발 적 으로 기 증 하면 존 엄 성 에 아무 지 장 이 없습니다.\n갑 : 전 체 도 부 분 으로 이 루 어 지 므로 몸 자 체 와 몸 의 부 분 은\n분 될 수 없습니다. 따라서 장 기 의 이 식 은 존 엄 성 에\n영 향 을 좁 니다. 또한 기 중 의 허 용 은 존 엄 성 을 훼 손 하는\n장기 매 매 의 위 험 을 초 래 합니다.\n을: 물론 존 엄 성 을 훼 손 하는 장기 매 매 는 허 용 될 수 없습니다.\n하지만 우 리 가 가진 몸 의 소 유 권 은 장 기 를 기 증 할 자기\n결 정 권 을 당연히 함 의 합니다. 이러한 자기 결 정 권 은 생 명 을\n살릴 수 있으며, 존 엄 성 을 훼 손 하지 않습니다.\n0 장기 이 식 이 생 명 을 살릴 수 있는가?\n2 장기 매 패는 윤 리 적 으로 혀 용 가능한가?\n@ 개 인 은 자기 몸 에 대한 소 유 권 을 갖 는 가?\n9 몸 자 체 는 인간 존 엄 성 의 중요한 토 대 인가?\n6 개 인 은 자 신 의 장 기 를 기 증 할 자 유 를 지 니 는 가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 몸 의 소 유 권 은 자 신 에게 있고 장기 이 식 이 생 명 을 살릴 수\n있지만, 장기 기 증 의 권 리 는 허 용 될 수 없습니다. 장 기 는\n몸 의 부 분 이고 몸 은 인간 존 엄 성 의 토 대 이기 때 문 입니다.\n을: 몸 은 인간 존 엄 성 에 있어서 중 요 합니다. 그러나 몸 자 체 와\n몸 의 부 분 은 구 분 돼야 합니다. 몸 자 체 와 달리 몸 의 부 분 은\n자 발 적 으로 기 증 하면 존 엄 성 에 아무 지 장 이 없습니다.\n갑 : 전 체 도 부 분 으로 이 루 어 지 므로 몸 자 체 와 몸 의 부 분 은\n분 될 수 없습니다. 따라서 장 기 의 이 식 은 존 엄 성 에\n영 향 을 좁 니다. 또한 기 중 의 허 용 은 존 엄 성 을 훼 손 하는\n장기 매 매 의 위 험 을 초 래 합니다.\n을: 물론 존 엄 성 을 훼 손 하는 장기 매 매 는 허 용 될 수 없습니다.\n하지만 우 리 가 가진 몸 의 소 유 권 은 장 기 를 기 증 할 자기\n결 정 권 을 당연히 함 의 합니다. 이러한 자기 결 정 권 은 생 명 을\n살릴 수 있으며, 존 엄 성 을 훼 손 하지 않습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "장기 이 식 이 생 명 을 살릴 수 있는가?"
+      },
+      {
+        "number": 2,
+        "text": "장기 매 패는 윤 리 적 으로 혀 용 가능한가?"
+      },
+      {
+        "number": 3,
+        "text": "개 인 은 자기 몸 에 대한 소 유 권 을 갖 는 가?"
+      },
+      {
+        "number": 4,
+        "text": "몸 자 체 는 인간 존 엄 성 의 중요한 토 대 인가?"
+      },
+      {
+        "number": 5,
+        "text": "개 인 은 자 신 의 장 기 를 기 증 할 자 유 를 지 니 는 가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.919,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:44+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2017_SEPTEMBER_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 43,
+    "question_number": 13,
+    "exam_key": "2017_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3198,
+      1592,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_SEPTEMBER_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 갑 , 을 사 상 가 들의 입 장 으로 옮 지 않은 것은? |3 점 ]\n갑 : 만 민 들의 사 회 의 기본 구 조 에서 일단 원 조 의 의 무 가 충족\n되고 모든 만 민 이 자 유 주 의 적 정 부 나 적정 수 준 의 정부 가\n작 동 하는 상 황 에 이르게 되면, 상이한 만민 간의 평균적 부의\n차 이 를 다시 좁 혀 야 할 이 유 는 없다.\n을: 기 아 의 원 인 은 인구 과 잉 이 아니라 가난한 나라 사 람 들 에\n대한 무 관 십 이 다. 선진국 사 람 들 은 기 아 로 고 통 받는 사 람 들 과\n자 신 들 의 이 익 관 심 을 등 등 하게 고 려 하여 넘쳐 나는 식 량 을\n원 조 함 으로써 인류 전 체 의 행 복 을 증 진 시켜야 한다.\n03 갑 : 모든 국 가 의 복지 및 부의 준 수 을 일 치 시킬 필 요 는 없다,\n(3) 갑 : 인 퀸 을 강 조 하는 것은 빈 곤 과 기아 문제 해 결 에 도 움 이 된다.\n9) 을: 사회 내 부 조 와 해외 원조 사 이 에 본질적인 차 이 는 없다,\n@) 을: 윈 조는 그 결 과 와 무 관 하게 빈 곤 자 들 에 대한 관 심 의 실 천 이다.\n9) 갑 , 을: 절대 빈곤 해 결 을 위한 원 조 는 보편적 의 무 로 간 주 해 야 한다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 옮 지 않은 것은? |3 점 ]",
+    "passage": "갑 : 만 민 들의 사 회 의 기본 구 조 에서 일단 원 조 의 의 무 가 충족\n되고 모든 만 민 이 자 유 주 의 적 정 부 나 적정 수 준 의 정부 가\n작 동 하는 상 황 에 이르게 되면, 상이한 만민 간의 평균적 부의\n차 이 를 다시 좁 혀 야 할 이 유 는 없다.\n을: 기 아 의 원 인 은 인구 과 잉 이 아니라 가난한 나라 사 람 들 에\n대한 무 관 십 이 다. 선진국 사 람 들 은 기 아 로 고 통 받는 사 람 들 과\n자 신 들 의 이 익 관 심 을 등 등 하게 고 려 하여 넘쳐 나는 식 량 을\n원 조 함 으로써 인류 전 체 의 행 복 을 증 진 시켜야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 모든 국 가 의 복지 및 부의 준 수 을 일 치 시킬 필 요 는 없다,"
+      },
+      {
+        "number": 2,
+        "text": "갑 : 인 퀸 을 강 조 하는 것은 빈 곤 과 기아 문제 해 결 에 도 움 이 된다."
+      },
+      {
+        "number": 3,
+        "text": "을: 사회 내 부 조 와 해외 원조 사 이 에 본질적인 차 이 는 없다,"
+      },
+      {
+        "number": 4,
+        "text": "을: 윈 조는 그 결 과 와 무 관 하게 빈 곤 자 들 에 대한 관 심 의 실 천 이다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 절대 빈곤 해 결 을 위한 원 조 는 보편적 의 무 로 간 주 해 야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.903,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:37:03+00:00",
+    "qa_flags": []
+  }
+}

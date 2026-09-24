@@ -1,0 +1,73 @@
+{
+  "id": "2026_JUNE_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 146,
+    "question_number": 9,
+    "exam_key": "2026_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2545
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_JUNE_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 다음 사 상 가 의 관 점 에서 < 문 제 상 황 > 속 에게 제 시 할 조 언 으로\n가장 적절한 것은?\n의 사 소 통 적 합리성 개 넘은 담론 참 여 자 들의 생 각 을 강제 없이\n합 의 하는 논 증 적 대 화 를 가 능 하 게 한다. 그 과 정 에서 담론\n참 여 자 들은 주관적인 견 해 를 극 복 하고, 이 성 에 따라 수 긍 한\n공 동 의 확 신 으로 삶 의 상호 주 관 성 을 확 인 하게 된다.\n< 문 제 상 황 >\n고등학교 학급 회장 ㅅ 는 졸업 앨 범 을 제작할 것 인 지 의 여 부 를\n두고 학급 회 의 를 진행할 예 정 이다. 이 주 제 를 둘러싼 찬반 의 견 의\n대 립 을 원만히 해 결 하기 위해, ㅅ 는 급 우 들 에게 어떤 회의 규 칙 을\n안 내 할지 고민 중이다.\n0) 상 대 방 의 주 장 에 대한 비 판 을 지 양 해 야 함 을 안 내 하 세요.\n(2) 개인적 이 익 이나 신 념 을 주 장 해서는 안 됨을 안 내 하세요.\n(3) 오류 가 능 성 이 있는 주 장 을 제 기 할 수 없 음 을 안 내 하세요.\n0) 담론 참여자 모 두 가 합의한 의 견 에 따라야 함 을 안 내 하세요.\n069) 이미 합의한 결 론 에 대해 재 논 의 해 서는 안 됨을 안 내 하 세요.",
+    "stem": "다음 사 상 가 의 관 점 에서 < 문 제 상 황 > 속 에게 제 시 할 조 언 으로 가장 적절한 것은?",
+    "passage": "의 사 소 통 적 합리성 개 넘은 담론 참 여 자 들의 생 각 을 강제 없이\n합 의 하는 논 증 적 대 화 를 가 능 하 게 한다. 그 과 정 에서 담론\n참 여 자 들은 주관적인 견 해 를 극 복 하고, 이 성 에 따라 수 긍 한\n공 동 의 확 신 으로 삶 의 상호 주 관 성 을 확 인 하게 된다.\n< 문 제 상 황 >\n고등학교 학급 회장 ㅅ 는 졸업 앨 범 을 제작할 것 인 지 의 여 부 를\n두고 학급 회 의 를 진행할 예 정 이다. 이 주 제 를 둘러싼 찬반 의 견 의\n대 립 을 원만히 해 결 하기 위해, ㅅ 는 급 우 들 에게 어떤 회의 규 칙 을\n안 내 할지 고민 중이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "상 대 방 의 주 장 에 대한 비 판 을 지 양 해 야 함 을 안 내 하 세요."
+      },
+      {
+        "number": 2,
+        "text": "개인적 이 익 이나 신 념 을 주 장 해서는 안 됨을 안 내 하세요."
+      },
+      {
+        "number": 3,
+        "text": "오류 가 능 성 이 있는 주 장 을 제 기 할 수 없 음 을 안 내 하세요."
+      },
+      {
+        "number": 4,
+        "text": "담론 참여자 모 두 가 합의한 의 견 에 따라야 함 을 안 내 하세요."
+      },
+      {
+        "number": 5,
+        "text": "069) 이미 합의한 결 론 에 대해 재 논 의 해 서는 안 됨을 안 내 하 세요."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.92,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:19+00:00",
+    "qa_flags": []
+  }
+}

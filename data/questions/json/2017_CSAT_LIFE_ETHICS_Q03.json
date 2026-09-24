@@ -1,0 +1,73 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 45,
+    "question_number": 3,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      881,
+      2999,
+      2178
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q03.png",
+    "raw_text": "8. ( 가 ) 의 주 장 을 (나) 그 림 으로 나타낼 때, 에 대한 반 론 의\n근 거 로 가장 적절한 것은?\n인 위 적 으로 동일한 유전 형 질 을 가진 동 물 을 만들어 내는\n(가) | 동물 복 제 는 종 의 다 양 성 을 훼 손 한 다. 따라서 동물 복 제 는\n허 용 되 어 서 는 안 된다.\n종 의 다 양 성 을 훼 손 하는\n대 전 제 + | 소 전제 @\n행 위 는 허 용 되 어 서 는 안 된다.\n(나) +\n동물 복 제 는 허 용 되 어 서 는\n결론\n안 된다.\n(1) 동물 복 제 는 동일한 유전 형 질 을 가진 동 물 을 생 산 한 다.\n(3) 동물 복 제 는 멸종 위 기 의 동 물 을 보 전 하는 방 법 을 제 공 한다.\n(3) 동물 복 제 는 인위적 유전자 조 작 으로 종 의 다 양 성 을 훼 손 한 다.\n(4) 동물 복 제 는 인 간 의 존 엄 성 을 침 해 하 는 인간 복 제 로 진 행 된 다.\n(5) 동물 복 제 는 인 간 의 권 익 을 위한 특정 종 만 으로 생 태 계 를 재 편 한 다.",
+    "stem": "( 가 ) 의 주 장 을 (나) 그 림 으로 나타낼 때, 에 대한 반 론 의 근 거 로 가장 적절한 것은?",
+    "passage": "인 위 적 으로 동일한 유전 형 질 을 가진 동 물 을 만들어 내는\n(가) | 동물 복 제 는 종 의 다 양 성 을 훼 손 한 다. 따라서 동물 복 제 는\n허 용 되 어 서 는 안 된다.\n종 의 다 양 성 을 훼 손 하는\n대 전 제 + | 소 전제 @\n행 위 는 허 용 되 어 서 는 안 된다.\n(나) +\n동물 복 제 는 허 용 되 어 서 는\n결론\n안 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "동물 복 제 는 동일한 유전 형 질 을 가진 동 물 을 생 산 한 다."
+      },
+      {
+        "number": 2,
+        "text": "동물 복 제 는 멸종 위 기 의 동 물 을 보 전 하는 방 법 을 제 공 한다."
+      },
+      {
+        "number": 3,
+        "text": "동물 복 제 는 인위적 유전자 조 작 으로 종 의 다 양 성 을 훼 손 한 다."
+      },
+      {
+        "number": 4,
+        "text": "동물 복 제 는 인 간 의 존 엄 성 을 침 해 하 는 인간 복 제 로 진 행 된 다."
+      },
+      {
+        "number": 5,
+        "text": "동물 복 제 는 인 간 의 권 익 을 위한 특정 종 만 으로 생 태 계 를 재 편 한 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.914,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:16+00:00",
+    "qa_flags": []
+  }
+}

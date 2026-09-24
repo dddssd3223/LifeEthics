@@ -1,0 +1,73 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 50,
+    "question_number": 7,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2124,
+      1740,
+      3426
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]\n결 혼 은 당사자 간의 애 착 과 계 약 에서 출 발 한다. 가 족 은 하 나 의\n인 격 이며 인 륨 적 정 신 이다. 부 부 는 사 랑 의 감 정 으로 실 체 적\n통 일 을 이루고 자 녀 를 통해 객 관 성 을 지닌 결 합 의 전 체 를 이 문 다.\n부 모 는 자 녀 를 통해 자 신 들 의 사 랑 을 느끼게 된다. 한편 자 녀 가\n법적 인 격 과 자 신 의 재 산 을 갖추어 가 정 을 꾸 릴 자 격 이 생길 때\n가 족 의 해 체 가 시 작 된 다.\n< 보 기 >〉\nㄱ . 가 족 은 부 모 와 자 식 이 결 합 된 인 격 적 인 공 동 계 이다.\nㄴ . 어린 자 녀 는 부 모 가 간 섭 할 수 없는 개별적 존 재 이다.\nㄷ . 부 부 는 자 신 들 의 자 녀 를 통해 진정한 사 랑 을 경 험 한 다.\n2. 결 혼 은 남녀 간의 법적 계 약 이 아니라 얘 착 으로 성 립 한다.\n(0) ㄱ , ㄷ (2) ㄱ , (3) ㄴ , 큰\n(0) ㄱ , ㄴ , ㄷ (66) ㄴ , ㄷ , 2",
+    "stem": "다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "결 혼 은 당사자 간의 애 착 과 계 약 에서 출 발 한다. 가 족 은 하 나 의\n인 격 이며 인 륨 적 정 신 이다. 부 부 는 사 랑 의 감 정 으로 실 체 적\n통 일 을 이루고 자 녀 를 통해 객 관 성 을 지닌 결 합 의 전 체 를 이 문 다.\n부 모 는 자 녀 를 통해 자 신 들 의 사 랑 을 느끼게 된다. 한편 자 녀 가\n법적 인 격 과 자 신 의 재 산 을 갖추어 가 정 을 꾸 릴 자 격 이 생길 때\n가 족 의 해 체 가 시 작 된 다.\n< 보 기 >〉\nㄱ . 가 족 은 부 모 와 자 식 이 결 합 된 인 격 적 인 공 동 계 이다.\nㄴ . 어린 자 녀 는 부 모 가 간 섭 할 수 없는 개별적 존 재 이다.\nㄷ . 부 부 는 자 신 들 의 자 녀 를 통해 진정한 사 랑 을 경 험 한 다.\n2. 결 혼 은 남녀 간의 법적 계 약 이 아니라 얘 착 으로 성 립 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ,"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄴ , ㄷ"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.909,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:28+00:00",
+    "qa_flags": []
+  }
+}

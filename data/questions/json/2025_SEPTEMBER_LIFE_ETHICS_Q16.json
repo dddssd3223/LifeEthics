@@ -1,0 +1,77 @@
+{
+  "id": "2025_SEPTEMBER_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 140,
+    "question_number": 16,
+    "exam_key": "2025_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2104
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_SEPTEMBER_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른\n것은? [3 점 ]\n갑 : 사 람 이 되어서 인 (<-) 하 지 못하면 예 0@) 를 지 킨 들 무 엿\n하겠는가? 사 람 이 되어서 인 하 지 끗 하면 음 악 1%&| 을 한들\n부 엿 하겠는가? 예 는 사 치 스 럽 기 보 다 검소한 것이 낮 다.\n을 : 나 라 는 작고 백 성 은 적 으 니 [~0 브 띠 이들은 음 식 을 달게\n먹고 옷 은 꾸 멈 없이 임 으 며 편안히 살 아 간 다. 이웃 나 라 에서\n닭 과 개의 울 음 소 리 가 들 려 도 평생 오고 갈 일 이 없다.\n< 보 기 >\nㄱ . 갑 ：: 충 서 (\\#@) 를 통한 인의 확 장 은 천 하 의 도 ( 클 ) 를 이루게 한다\nㄴ . 을: 성 인 ( ㅅ ) 의 다 스 림 은 백 성 을 저절로 소 박 하게 한다.\nㄷ . 을: 무 위 (@ 쓸 ) 의 삶 을 통해 타고난 본 성 을 변 화 시켜야 한다.\n르 . 갑과 을 : 분 별 적 지 혜 를 빌 휘 하 여 도덕 질 서 를 확 립 해야 한다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 사 람 이 되어서 인 (<-) 하 지 못하면 예 0@) 를 지 킨 들 무 엿\n하겠는가? 사 람 이 되어서 인 하 지 끗 하면 음 악 1%&| 을 한들\n부 엿 하겠는가? 예 는 사 치 스 럽 기 보 다 검소한 것이 낮 다.\n을 : 나 라 는 작고 백 성 은 적 으 니 [~0 브 띠 이들은 음 식 을 달게\n먹고 옷 은 꾸 멈 없이 임 으 며 편안히 살 아 간 다. 이웃 나 라 에서\n닭 과 개의 울 음 소 리 가 들 려 도 평생 오고 갈 일 이 없다.\n< 보 기 >\nㄱ . 갑 ：: 충 서 (\\#@) 를 통한 인의 확 장 은 천 하 의 도 ( 클 ) 를 이루게 한다\nㄴ . 을: 성 인 ( ㅅ ) 의 다 스 림 은 백 성 을 저절로 소 박 하게 한다.\nㄷ . 을: 무 위 (@ 쓸 ) 의 삶 을 통해 타고난 본 성 을 변 화 시켜야 한다.\n르 . 갑과 을 : 분 별 적 지 혜 를 빌 휘 하 여 도덕 질 서 를 확 립 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.843,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:55:46+00:00",
+    "qa_flags": []
+  }
+}

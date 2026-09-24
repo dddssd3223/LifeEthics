@@ -1,0 +1,75 @@
+{
+  "id": "2021_SEPTEMBER_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 90,
+    "question_number": 10,
+    "exam_key": "2021_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2387,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_SEPTEMBER_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때,\n쇼 ~1) 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n[3 점 ]\n감 : 이 세 상 에 는 육 체 와 영 혼 이라는 두 가지 실 체 가 있다.\n물질적 육 체 와 비 물질적 영 혼 의 혼 합 체인 인 간 과 달리,\n동 물 은 의 식 이 없는 기 계 일 뿐이다.\n을: 일부 포 유 동 물 은 삶 의 주 체 가 될 수 있다. 그들은\n자 신 의 미 래 에 대한 감각 등 을 바 탕 으로 자 신 의 욕 망 과\n(가)\n목 적 을 추 구 하기 위해 행 위 할 등 력 을 갖 추 었기 때 문 이 다.\n병 : 대 지 의 이 용 을 경제적 관 점 만이 아니라 윤리적 관점\n에서도 고 찰 해야 한다. 어떤 것이 생명 공 동 체 의 온 전 성 ,\n안정성, 아 름 다 움 의 보 전 에 기 여 한 다면 그것은 옮 고,\n그렇지 않다면 그 르 다.\n< 범 례 >\n스 : 갑 만의 입장\n(나)\n8: 을 만의 입장\n(: 병 만의 입장\n10: 을과 병 만의 공통 입장\n< 보 기 >\nㄱ . ㅅ : 동 물 을 자 원 으 로 사 용 하는 것이 금 지 되 지 는 않는다.\nㄴ . 2: 사유 능력 여 부 로 어떤 존 재 의 도덕적 지 위 가 결 정 되지 않는\nㄷㄷ. (;: 살아 있는 모든 개 체 는 도덕적 고려 대상인 공 동 체 의 일 원 이다.\n2. 10: 생 명 에 대한 권 리 는 인 간 에게 한정된 특수한 권 리 가 아니다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄷ , 큰\n040 ㄱ 7, ㄴ , 르 06) ㄴ , ㄷ , 큰",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때, 쇼 ~1) 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "감 : 이 세 상 에 는 육 체 와 영 혼 이라는 두 가지 실 체 가 있다.\n물질적 육 체 와 비 물질적 영 혼 의 혼 합 체인 인 간 과 달리,\n동 물 은 의 식 이 없는 기 계 일 뿐이다.\n을: 일부 포 유 동 물 은 삶 의 주 체 가 될 수 있다. 그들은\n자 신 의 미 래 에 대한 감각 등 을 바 탕 으로 자 신 의 욕 망 과\n(가)\n목 적 을 추 구 하기 위해 행 위 할 등 력 을 갖 추 었기 때 문 이 다.\n병 : 대 지 의 이 용 을 경제적 관 점 만이 아니라 윤리적 관점\n에서도 고 찰 해야 한다. 어떤 것이 생명 공 동 체 의 온 전 성 ,\n안정성, 아 름 다 움 의 보 전 에 기 여 한 다면 그것은 옮 고,\n그렇지 않다면 그 르 다.\n< 범 례 >\n스 : 갑 만의 입장\n(나)\n8: 을 만의 입장\n(: 병 만의 입장\n10: 을과 병 만의 공통 입장\n< 보 기 >\nㄱ . ㅅ : 동 물 을 자 원 으 로 사 용 하는 것이 금 지 되 지 는 않는다.\nㄴ . 2: 사유 능력 여 부 로 어떤 존 재 의 도덕적 지 위 가 결 정 되지 않는\nㄷㄷ. (;: 살아 있는 모든 개 체 는 도덕적 고려 대상인 공 동 체 의 일 원 이다.\n2. 10: 생 명 에 대한 권 리 는 인 간 에게 한정된 특수한 권 리 가 아니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ 7, ㄴ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.881,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:05+00:00",
+    "qa_flags": []
+  }
+}

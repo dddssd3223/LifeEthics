@@ -1,0 +1,75 @@
+{
+  "id": "2024_SEPTEMBER_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 127,
+    "question_number": 12,
+    "exam_key": "2024_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2035,
+      1740,
+      3423
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_SEPTEMBER_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 다음 가상 편 지 를 쓴 사 상 가 의 입 장 으로 가장 적절한 것은\n~\n(2<2 에 게\n지난 편 지 에서 자 네 는 요즘 만나는 이성 친 구 를 진정한 사 랑 의 대 상 으로\n여 겨 도 되는지 물 었 지 . 내 생 각 은 이 러 하 네 . 자 네 는 사 랑 이 영 흔 의 힘 이자\n활 동 이라는 사 실 을 잘 모르는 것 같 더 군 . 사 랑 은 상 대 의 성 장 과 행 복 에 대한\n갈 망 이고 보호, 존경, 책임, 이 해 를 의 미 한다네. 사 랑 은 능 동 적 인 활 동 으로\n인 간 의 고 립 을 극 복 하게 하면서도 각 자 의 특 성 을 유지할 수 있게 하는 힘 이라네.\n단지 적절한 사 랑 의 대 상 을 찾 기 만 한다고 해서 사 랑 이 완 성 되는 것은 아 니 라 네 .\n그것은 그 림 을 그리는 방 법 을 배우지 않은 체 좋은 대 상 을 고르는 것 만 으로\n아름다운 그 림 이 저절로 그 려 지 지 않는 것과 같네. 세상에 노력 없이 얻어지는\n것은 없는 법 이 네 . 사 랑 도 그 렇 다 네 . 우선 제대로 사랑하는 방 법 을 배워야\n한다네. …( 후 략 ).\n01 참된 사 랑 은 사 랑 의 대 상 과 하 나 가 될 때 느끼는 영속적 감 정 이다\n2) 참된 시 랑 의 궁극적 목 적 은 자 신 이 사랑할 대 상 을 찾아내는 일 이다.\n8) 참된 사 랑 은 자 신 의 관 접 에서 이 해 한 상 대 의 입 장 을 따르는 것이다.\n4) 참된 시 랑 은 수동적 감 정 으로서 자 신 의 의 지 와 무 관 하게 다가온다.\n5) 참된 사 랑 은 삶 의 기 술 처럼 학 습 과 노 력 으로 계 발 되는 기 술 이다.",
+    "stem": "다음 가상 편 지 를 쓴 사 상 가 의 입 장 으로 가장 적절한 것은",
+    "passage": "~\n(2<2 에 게\n지난 편 지 에서 자 네 는 요즘 만나는 이성 친 구 를 진정한 사 랑 의 대 상 으로\n여 겨 도 되는지 물 었 지 . 내 생 각 은 이 러 하 네 . 자 네 는 사 랑 이 영 흔 의 힘 이자\n활 동 이라는 사 실 을 잘 모르는 것 같 더 군 . 사 랑 은 상 대 의 성 장 과 행 복 에 대한\n갈 망 이고 보호, 존경, 책임, 이 해 를 의 미 한다네. 사 랑 은 능 동 적 인 활 동 으로\n인 간 의 고 립 을 극 복 하게 하면서도 각 자 의 특 성 을 유지할 수 있게 하는 힘 이라네.\n단지 적절한 사 랑 의 대 상 을 찾 기 만 한다고 해서 사 랑 이 완 성 되는 것은 아 니 라 네 .\n그것은 그 림 을 그리는 방 법 을 배우지 않은 체 좋은 대 상 을 고르는 것 만 으로\n아름다운 그 림 이 저절로 그 려 지 지 않는 것과 같네. 세상에 노력 없이 얻어지는\n것은 없는 법 이 네 . 사 랑 도 그 렇 다 네 . 우선 제대로 사랑하는 방 법 을 배워야\n한다네. …( 후 략 ).",
+    "choices": [
+      {
+        "number": 1,
+        "text": "참된 사 랑 은 사 랑 의 대 상 과 하 나 가 될 때 느끼는 영속적 감 정 이다"
+      },
+      {
+        "number": 2,
+        "text": "참된 시 랑 의 궁극적 목 적 은 자 신 이 사랑할 대 상 을 찾아내는 일 이다."
+      },
+      {
+        "number": 3,
+        "text": "참된 사 랑 은 자 신 의 관 접 에서 이 해 한 상 대 의 입 장 을 따르는 것이다."
+      },
+      {
+        "number": 4,
+        "text": "참된 시 랑 은 수동적 감 정 으로서 자 신 의 의 지 와 무 관 하게 다가온다."
+      },
+      {
+        "number": 5,
+        "text": "참된 사 랑 은 삶 의 기 술 처럼 학 습 과 노 력 으로 계 발 되는 기 술 이다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:46:41+00:00",
+    "qa_flags": []
+  }
+}

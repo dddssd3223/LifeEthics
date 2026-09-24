@@ -1,0 +1,79 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 144,
+    "question_number": 20,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2872,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 다음 대 화 에서 감 , 을 의 입 장 으로 가장 적절한 것은?\n통 일 은 민족 내 부 의 경직된 이념 대 립 에서 통 일 은 남북한 경제 통 합 으로 상 호 보 완 적인\n벗어나 사 상 과 양 심 의 자 유 를 신 장 합니다. 시너지 효 과 를 극 대 화 합니다. 또한 분단\n또한 분단 비 용 을 해 소 해 이를 사회적 비 용 을 해 소 해 이를 한반도 전 체 의 새로운\n약 자 들의 인 간 다운 삶 의 권리 보 장 과 양극화 ㅣ ㅣ 성장 동 력 을 창 출 하는 재 원 으로 전 환 합니다.\n완 화 를 위한 복지 재 원 으로 전 환 합니다. 다만 이러한 편 익 이 통일 비 용 보다 적을 수\n분단 상 태 에서는 이러한 편 익 이 불 가 능 하므로 있으므로 통 일 은 꼭 실 현 해 야 할 과 제 라고\n통 일 은 꼭 실 현 해야 할 과 제 입니다. 할 수 는 없습니다.\n0) 갑 : 사 회 경제적 불평등 완 화 는 통 일 의 근 거 에 포함될 수 없다.\n(2) 갑 : 통 일 의 근 거 는 보편적 권 리 가 아니라 민족 통합 자 체 에 있다.\n0) 을 : 통일 비 용 이 증 가 하더라도 통 일 의 당 위 성 이 약 화 될 수 는 없\n0) 을 : 통일 비 용 9| 남북 경제 통 합 의 기대 효 과 를 초 과 할 가 능 성 은 없다.\n(66) 갑과 을 : 분단 비용 해 소 와 통일 편 익 을 통 일 의 근 거 로 고려해야 한다.",
+    "stem": "다음 대 화 에서 감 , 을 의 입 장 으로 가장 적절한 것은?",
+    "passage": "통 일 은 민족 내 부 의 경직된 이념 대 립 에서 통 일 은 남북한 경제 통 합 으로 상 호 보 완 적인\n벗어나 사 상 과 양 심 의 자 유 를 신 장 합니다. 시너지 효 과 를 극 대 화 합니다. 또한 분단\n또한 분단 비 용 을 해 소 해 이를 사회적 비 용 을 해 소 해 이를 한반도 전 체 의 새로운\n약 자 들의 인 간 다운 삶 의 권리 보 장 과 양극화 ㅣ ㅣ 성장 동 력 을 창 출 하는 재 원 으로 전 환 합니다.\n완 화 를 위한 복지 재 원 으로 전 환 합니다. 다만 이러한 편 익 이 통일 비 용 보다 적을 수\n분단 상 태 에서는 이러한 편 익 이 불 가 능 하므로 있으므로 통 일 은 꼭 실 현 해 야 할 과 제 라고\n통 일 은 꼭 실 현 해야 할 과 제 입니다. 할 수 는 없습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 사 회 경제적 불평등 완 화 는 통 일 의 근 거 에 포함될 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 통 일 의 근 거 는 보편적 권 리 가 아니라 민족 통합 자 체 에 있다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 통일 비 용 이 증 가 하더라도 통 일 의 당 위 성 이 약 화 될 수 는 없"
+      },
+      {
+        "number": 4,
+        "text": "을 : 통일 비 용 9| 남북 경제 통 합 의 기대 효 과 를 초 과 할 가 능 성 은 없다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을 : 분단 비용 해 소 와 통일 편 익 을 통 일 의 근 거 로 고려해야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=6043",
+      "vector_lines=938"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.825,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:15+00:00",
+    "qa_flags": []
+  }
+}

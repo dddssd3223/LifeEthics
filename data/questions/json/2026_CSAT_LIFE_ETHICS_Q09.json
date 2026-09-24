@@ -1,0 +1,73 @@
+{
+  "id": "2026_CSAT_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 158,
+    "question_number": 9,
+    "exam_key": "2026_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2000,
+      3148,
+      3350
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_CSAT_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n시민 복 불 종 은 거의 정 의 로운 사 회 의 자유롭고 평 등 한 사람들\n사 이 에서 사회 협 동 체 의 원 칙 이 존 중 되지 않고 있 음 을 선 언 하는\n행 위 이다. 이는 신 중 하고 양 심 적 인 신 념 의 표 현 이기 때문에\n공개 석 상 에서 이루어지는 비 폭 력 적 행 위 이다. 시민 불 복 종 은\n브 근 76 ㄴ\n경 고 나 훈 계 일 수 는 있어도 위 협 일 수 는 없다,\n0) 시민 불 복 종 이 빈번한 국 가 의 체 제 가 부 정 의 할 수 는 없다.\n2) 시민 불 복 종 은 정치적 원 칙 에 근 거 해 정 당 화 되 어 서 는 안 된다.\n3) 시민 불 복 종 은 법 에 대한 충 실 성 을 볼 가 피 하 게 거 부 하 는 위법\n행 위 이다.\n0) 거의 정 의 로운 사 회 에는 헌법 원 칙 에 대한 의 도 적 인 위 반 은\n존 재 하지 않는다.\n069 지민 불 복 종 의 대 상 이 되는 법 은 불 복 종 이 가져올 무 질 서 의\n가 능 성 에 근 거 해 정 해 진 다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "시민 복 불 종 은 거의 정 의 로운 사 회 의 자유롭고 평 등 한 사람들\n사 이 에서 사회 협 동 체 의 원 칙 이 존 중 되지 않고 있 음 을 선 언 하는\n행 위 이다. 이는 신 중 하고 양 심 적 인 신 념 의 표 현 이기 때문에\n공개 석 상 에서 이루어지는 비 폭 력 적 행 위 이다. 시민 불 복 종 은\n브 근 76 ㄴ\n경 고 나 훈 계 일 수 는 있어도 위 협 일 수 는 없다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "시민 불 복 종 이 빈번한 국 가 의 체 제 가 부 정 의 할 수 는 없다."
+      },
+      {
+        "number": 2,
+        "text": "시민 불 복 종 은 정치적 원 칙 에 근 거 해 정 당 화 되 어 서 는 안 된다."
+      },
+      {
+        "number": 3,
+        "text": "시민 불 복 종 은 법 에 대한 충 실 성 을 볼 가 피 하 게 거 부 하 는 위법 행 위 이다."
+      },
+      {
+        "number": 4,
+        "text": "거의 정 의 로운 사 회 에는 헌법 원 칙 에 대한 의 도 적 인 위 반 은 존 재 하지 않는다."
+      },
+      {
+        "number": 5,
+        "text": "지민 불 복 종 의 대 상 이 되는 법 은 불 복 종 이 가져올 무 질 서 의 가 능 성 에 근 거 해 정 해 진 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.905,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:47+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 10,
+    "question_number": 6,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1592,
+      2410
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. ( 가 ) 의 근대 서양 사상가 갑 , 을 의 주 장 을 ( 나 ) 의 학생 발 표 로\n요 약 할 때, 4, 에 들어갈 적절한 내 용 을 < 보 기 > 에 서 고른 것은?\n[3 점 ]\n갑 : 모든 인 간 은 쟁 명의 위 혐 을 무 릅 쓰 고 라도 자 신 의\n생 명 을 보 전 하려고 한다. 그 누구도 살 해 당 하 기 를\n원하지 않기 때문에 각 자 는 자 신 의 생명 보 전 을 목적\n으로 삼는 계 약 에 동 의 한다. 그래서 각 자 는 자 신 을\n( 가 )| 공 동 체 에 양 도 하여 일 반 의 지 의 감독 아 래 에 둔다.\n을: 형 벌 은 동 등 성의 원 리 에 따라 병 죄 자가 병 죄 를\n저 질 렸 다 는 이 유 로 만 그 에 게 가 해 져야 한다. 그\n누구도 결코 타 인 의 의 도 를 실 현 하기 위한 수 단 으로\n취 급 되 어 서 는 안 된다.\n학생: 갑 은 “사형 제 도 는 | 쇼 「|\" 라 고 주 장 합니다.\n(나)\n학 생 ?: 을 은 “사형 제 도 는 | 8 |\" 라 고 주 장 합니다.\n< 보 기 >\nㄱ . 벌 죄 자 로 부터 시 민 의 안 전 을 지키기 위해 존 치 되어야 한다.\nㄴ . 범 죄 자 도 생 명 에 대한 권 러 를 지 니 므로 폐 지 되어야 한다.\nㄷ . 범 죄 에 상 응 한 처 벌 이 이루어질 수 있도록 존 치 되어야 한다.\n2 . 별 죄 자도 교 화 를 통해 변 화 될 수 있으므로 폐 지 되어야 한다.\n소오 소 8\n(1) ㄱ ㄴ (2) ㄱ ㄷ\n(3) ㄴ ㄷ (4) ㄴ 근\n(6) ㄷ 른",
+    "stem": "( 가 ) 의 근대 서양 사상가 갑 , 을 의 주 장 을 ( 나 ) 의 학생 발 표 로 요 약 할 때, 4, 에 들어갈 적절한 내 용 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 모든 인 간 은 쟁 명의 위 혐 을 무 릅 쓰 고 라도 자 신 의\n생 명 을 보 전 하려고 한다. 그 누구도 살 해 당 하 기 를\n원하지 않기 때문에 각 자 는 자 신 의 생명 보 전 을 목적\n으로 삼는 계 약 에 동 의 한다. 그래서 각 자 는 자 신 을\n( 가 )| 공 동 체 에 양 도 하여 일 반 의 지 의 감독 아 래 에 둔다.\n을: 형 벌 은 동 등 성의 원 리 에 따라 병 죄 자가 병 죄 를\n저 질 렸 다 는 이 유 로 만 그 에 게 가 해 져야 한다. 그\n누구도 결코 타 인 의 의 도 를 실 현 하기 위한 수 단 으로\n취 급 되 어 서 는 안 된다.\n학생: 갑 은 “사형 제 도 는 | 쇼 「|\" 라 고 주 장 합니다.\n(나)\n학 생 ?: 을 은 “사형 제 도 는 | 8 |\" 라 고 주 장 합니다.\n< 보 기 >\nㄱ . 벌 죄 자 로 부터 시 민 의 안 전 을 지키기 위해 존 치 되어야 한다.\nㄴ . 범 죄 자 도 생 명 에 대한 권 러 를 지 니 므로 폐 지 되어야 한다.\nㄷ . 범 죄 에 상 응 한 처 벌 이 이루어질 수 있도록 존 치 되어야 한다.\n2 . 별 죄 자도 교 화 를 통해 변 화 될 수 있으므로 폐 지 되어야 한다.\n소오 소 8",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ 근"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 른"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.87,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_3rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:49+00:00",
+    "qa_flags": []
+  }
+}

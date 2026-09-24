@@ -1,0 +1,73 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 21,
+    "question_number": 3,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      883,
+      2999,
+      1925
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 다음 사 상 에서 강 조 하는 올바른 삶 의 태 도 로 가장 적절한 것은?\n가장 훌륭한 것은 물 처럼 되는 것이다. 물 은 온갖 것을 섬길\n뿐 , 그 것 들 과 다투는 일 이 없다. 물 은 모 두 가 싫어하는 낮은\n곳 을 향하여 흐 르 기 에 도 ( 래 ) 에 가장 가까운 것이다. 다투는\n일 이 없으니 나 무 람 받을 일도 없다.\n0) 집 착 에서 벗어나 무 욕 (※#0) 에 이르는 소박한 삶 을 추 구 한다.\n(2) 선천적 본 성 을 회 복 하 기 위해 예 (#) 에 따르는 삶 을 추 구 한다.\n(3) 자연 만 물 의 연 기 성 (08 또 ) 을 깨달아 자비로운 삶 을 추 구 한다.\n(4) 도 리 에 어긋나지 않도록 신 독 (083#) 을 실 천 하는 삶 을 추 구 한다.\n(5) 도덕적 본 성 의 확 충 을 위해 거 경 (158)) 을 실 천 하는 삶 을 추 구 한다.",
+    "stem": "다음 사 상 에서 강 조 하는 올바른 삶 의 태 도 로 가장 적절한 것은?",
+    "passage": "가장 훌륭한 것은 물 처럼 되는 것이다. 물 은 온갖 것을 섬길\n뿐 , 그 것 들 과 다투는 일 이 없다. 물 은 모 두 가 싫어하는 낮은\n곳 을 향하여 흐 르 기 에 도 ( 래 ) 에 가장 가까운 것이다. 다투는\n일 이 없으니 나 무 람 받을 일도 없다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "집 착 에서 벗어나 무 욕 (※#0) 에 이르는 소박한 삶 을 추 구 한다."
+      },
+      {
+        "number": 2,
+        "text": "선천적 본 성 을 회 복 하 기 위해 예 (#) 에 따르는 삶 을 추 구 한다."
+      },
+      {
+        "number": 3,
+        "text": "자연 만 물 의 연 기 성 (08 또 ) 을 깨달아 자비로운 삶 을 추 구 한다."
+      },
+      {
+        "number": 4,
+        "text": "도 리 에 어긋나지 않도록 신 독 (083#) 을 실 천 하는 삶 을 추 구 한다."
+      },
+      {
+        "number": 5,
+        "text": "도덕적 본 성 의 확 충 을 위해 거 경 (158)) 을 실 천 하는 삶 을 추 구 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.874,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:15+00:00",
+    "qa_flags": []
+  }
+}

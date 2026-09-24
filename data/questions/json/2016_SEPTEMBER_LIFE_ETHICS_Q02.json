@@ -1,0 +1,73 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 29,
+    "question_number": 2,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2918,
+      1594,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. 감은 부정, 을 은 긍 정 의 대 답 을 할 질 문 으로 옮 은 것은? [3 점 ]\n갑 : 부 모 는 자녀 출 산 에 있어 선 택 의 자 유 를 누 려 야 합니다.\n따라서 유 전 자 에 대한 치료 목 적 의 의학적 간 섭 은 물 론 이고\n유전자 개 량 을 위한 유전자 조 작 도 허 용 되어야 합니다.\n을: 유 전 자 에 대한 치료 목 적 의 의학적 간 섭 에는 찬 성 합니다.\n하지만 유전자 개 량 을 위한 유전자 조 작 은 어떠한 경우\n에도 허 용 되 어 서 는 안 됩니다.\n갑 : 아닙니다. 유전자 조 작 에 의해 개 량 된 능 력 을 갖고 태어난\n미래 세 대 는 더 많은 선 택 의 기 회 를 얻어 보다 자유로운\n삶 을 살게 될 것 입니다.\n을: 그렇지 않습니다. 그러한 우 생 학적 조 치 를 통해 미래\n세 대 가 동 의 하지 않은 삶 을 살도록 기 획 하는 것은 그 들 로\n부터 자 유 를 박 탈 하는 것 입니다.\n(1) 유 전 자 에 대한 어떠한 인위적인 개 입 도 금 지 되 어야 하는가?\n(8) 부 모 는 자녀 출 산 에 있어 자유로운 선 택 이 가 능 해 야 하는가?\n(3) 부 모 는 유전자 개 량 을 통해 미래 세 대 의 삶 을 기 획 해 야 하는가?\n4) 미래 세 대 의 능력 향 상 을 위한 우 생 학적 조 치 를 허 용 해야 하는가?\n(5) 유전자 조 작 을 통해 개 량 된 미래 세 대 는 자 유 를 박 탈 당 하 는 가?",
+    "stem": "감은 부정, 을 은 긍 정 의 대 답 을 할 질 문 으로 옮 은 것은? [3 점 ]",
+    "passage": "갑 : 부 모 는 자녀 출 산 에 있어 선 택 의 자 유 를 누 려 야 합니다.\n따라서 유 전 자 에 대한 치료 목 적 의 의학적 간 섭 은 물 론 이고\n유전자 개 량 을 위한 유전자 조 작 도 허 용 되어야 합니다.\n을: 유 전 자 에 대한 치료 목 적 의 의학적 간 섭 에는 찬 성 합니다.\n하지만 유전자 개 량 을 위한 유전자 조 작 은 어떠한 경우\n에도 허 용 되 어 서 는 안 됩니다.\n갑 : 아닙니다. 유전자 조 작 에 의해 개 량 된 능 력 을 갖고 태어난\n미래 세 대 는 더 많은 선 택 의 기 회 를 얻어 보다 자유로운\n삶 을 살게 될 것 입니다.\n을: 그렇지 않습니다. 그러한 우 생 학적 조 치 를 통해 미래\n세 대 가 동 의 하지 않은 삶 을 살도록 기 획 하는 것은 그 들 로\n부터 자 유 를 박 탈 하는 것 입니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "유 전 자 에 대한 어떠한 인위적인 개 입 도 금 지 되 어야 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "부 모 는 자녀 출 산 에 있어 자유로운 선 택 이 가 능 해 야 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "부 모 는 유전자 개 량 을 통해 미래 세 대 의 삶 을 기 획 해 야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "미래 세 대 의 능력 향 상 을 위한 우 생 학적 조 치 를 허 용 해야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "유전자 조 작 을 통해 개 량 된 미래 세 대 는 자 유 를 박 탈 당 하 는 가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.92,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:39+00:00",
+    "qa_flags": []
+  }
+}

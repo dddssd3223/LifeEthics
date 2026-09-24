@@ -1,0 +1,77 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 101,
+    "question_number": 2,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      2200,
+      1740,
+      3481
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. (가), ( 나 ) 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?\n(가) 이것이 있기 때문에 저 것 이 있고, 이것이 생기기 때문에\n저 것 이 생긴다. 이것이 없기 때문에 저 것 이 없고, 이것이\n사 라 지 기 때문에 저 것 이 사라진다. 이를 연 기 (088) 라 한다.\n(나) 인위적인 것을 멀 리 하고 분 별 적 지 혜 를 버리면 백 성 의\n이 익 이 백 배 가 된다. 인 ((-) 을 끊고 의 (36 를 버리면 백 성 이\n다시 효 도 하고 자 애 로 워 진다.\n< 보 기 >\nㄱ . (가): 고 정 불 변 의 실 체 가 있 음 을 깨 달 아 야 한다.\nㄴ . (가): 연 기 의 법 칙 을 깨달아 자 비 를 실 천 해 야 한다.\nㄷ . (나): 인 위 에 매 이지 않고 도 ( 콜 ) 에 따라야 한다.\n르 . (가), (나): 인 의 ((_8) 를 통해 도덕적 삶 을 추 구 해 야 한다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "(가), ( 나 ) 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "(가) 이것이 있기 때문에 저 것 이 있고, 이것이 생기기 때문에\n저 것 이 생긴다. 이것이 없기 때문에 저 것 이 없고, 이것이\n사 라 지 기 때문에 저 것 이 사라진다. 이를 연 기 (088) 라 한다.\n(나) 인위적인 것을 멀 리 하고 분 별 적 지 혜 를 버리면 백 성 의\n이 익 이 백 배 가 된다. 인 ((-) 을 끊고 의 (36 를 버리면 백 성 이\n다시 효 도 하고 자 애 로 워 진다.\n< 보 기 >\nㄱ . (가): 고 정 불 변 의 실 체 가 있 음 을 깨 달 아 야 한다.\nㄴ . (가): 연 기 의 법 칙 을 깨달아 자 비 를 실 천 해 야 한다.\nㄷ . (나): 인 위 에 매 이지 않고 도 ( 콜 ) 에 따라야 한다.\n르 . (가), (나): 인 의 ((_8) 를 통해 도덕적 삶 을 추 구 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.877,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:54:12+00:00",
+    "qa_flags": []
+  }
+}

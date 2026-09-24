@@ -1,0 +1,73 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 67,
+    "question_number": 11,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1742,
+      2409
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은?\n갑 : 인 간 을 대 상 으로 하는 유전자 조작 기 술 은 유 전 적 요 인 으로\n인한 질 빙 을 치료할 수 있기 때문에 허 용 되어야 합니다.\n질병 극 복 은 선 이기 때 문 입니다.\n을: 네 , 동 의 합니다. 하지만 치 료 를 넘어 우 생 학적 목 적 을 위한\n국가 차 원 의 유전자 조 작 은 인간 존 엄 성 에 대한 심각한\n위 협 이 될 수 있으므로 치료 목 적 에 한 정 되어야 합니다,\n갑 : 치 료 를 넘어선 국가 차 원 의 우 생 학 은 부 당 하지만 개인 차 원 은\n다릅니다. 외 모 에 대해 성 형 의 자 유 를 지 니 듯이, 우 리 는\n유전자 조 작 을 통해 자 질 을 강화할 수 있는 자 유 를 지 닙 니다\n을: 그렇지 않습니다. 자질 강 화 를 위한 유전자 조 작 은 고비용\n의 슬로 특정 계 층 만이 이용 가능해 생물학적 불 평 등 을 낳고\n이는 곧 사회적 불 평 등 을 심 화 시킬 것이므로 옮 지 않습니다.\n01 질병 치 료 를 위한 유전자 조 작 은 혀 용 되어야 하는가?\n2 치료 목 적 의 유전자 주 작 은 선 을 산 출 할 수 있는가?\n8 국 가 는 치 료 를 넘어선 우 생 학적 유전자 조 작 을 해도 되는가?\n0 유전자 조작 기 술 은 어떤 경 우 에도 허 용 되 어 서 는 안 되는가?\n5: 자질 강 화 를 위한 개인 차 원 의 유전자 조 작 은 허 용 되어야 하는가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은?",
+    "passage": "갑 : 인 간 을 대 상 으로 하는 유전자 조작 기 술 은 유 전 적 요 인 으로\n인한 질 빙 을 치료할 수 있기 때문에 허 용 되어야 합니다.\n질병 극 복 은 선 이기 때 문 입니다.\n을: 네 , 동 의 합니다. 하지만 치 료 를 넘어 우 생 학적 목 적 을 위한\n국가 차 원 의 유전자 조 작 은 인간 존 엄 성 에 대한 심각한\n위 협 이 될 수 있으므로 치료 목 적 에 한 정 되어야 합니다,\n갑 : 치 료 를 넘어선 국가 차 원 의 우 생 학 은 부 당 하지만 개인 차 원 은\n다릅니다. 외 모 에 대해 성 형 의 자 유 를 지 니 듯이, 우 리 는\n유전자 조 작 을 통해 자 질 을 강화할 수 있는 자 유 를 지 닙 니다\n을: 그렇지 않습니다. 자질 강 화 를 위한 유전자 조 작 은 고비용\n의 슬로 특정 계 층 만이 이용 가능해 생물학적 불 평 등 을 낳고\n이는 곧 사회적 불 평 등 을 심 화 시킬 것이므로 옮 지 않습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "질병 치 료 를 위한 유전자 조 작 은 혀 용 되어야 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "치료 목 적 의 유전자 주 작 은 선 을 산 출 할 수 있는가?"
+      },
+      {
+        "number": 3,
+        "text": "국 가 는 치 료 를 넘어선 우 생 학적 유전자 조 작 을 해도 되는가?"
+      },
+      {
+        "number": 4,
+        "text": "유전자 조작 기 술 은 어떤 경 우 에도 허 용 되 어 서 는 안 되는가?"
+      },
+      {
+        "number": 5,
+        "text": "자질 강 화 를 위한 개인 차 원 의 유전자 조 작 은 허 용 되어야 하는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.908,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:08+00:00",
+    "qa_flags": []
+  }
+}

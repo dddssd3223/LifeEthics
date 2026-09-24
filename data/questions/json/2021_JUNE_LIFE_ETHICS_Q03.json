@@ -1,0 +1,75 @@
+{
+  "id": "2021_JUNE_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 85,
+    "question_number": 3,
+    "exam_key": "2021_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      3396,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_JUNE_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 그 림 의 강 연 자가 긍 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?\n시 * … …\n인 간 에게 정해진 본 성 은 없습니다. 그럼에도 남 성 은\n운 명 적 인 여 성 성 이라는 속 임 수 로 여 성 을 지 배 하 고 강제\n했습니다. 여 성 의 자연스러운 출 산 마 저 사 회 는 모 성 의\n의 무 로 강 요 했습니다. 그러나 실 존 적인 인 간 은 타인\n으로부터 하찮은 존 재 로 취 급 되 면 반드시 자 기 의 주 권 을\n회 복 하려 합니다. 이때 여 성 은 남 성 의 지 배 에서 벗 어 나 려\n하고 남 성 은 계속 지 배 하려 하므로 갈 등 이 발 생 합니다.\n이 갈 등 은 남 성 과 여 성 이 자율적 존 재 로 서 동등한 관 계 임을\n인 정 하 고, 이것이 사회적 성 과 로 이어져 새로운 여 성 이\n탄 생 해야 끝 이 납니다.\n녹\n01 여 성 은 남 성 에게 헌 신 하려는 성 향 을 가지고 태 어 나 는가?\n2) 여 성 의 의 무 는 생물학적 특 성 에 의해 규 정 되어야 하는가?\n6 여 성 성은 남성 중 심 의 가 치 관 이 반영된 사회적 산 물 인가?\n9 여 성 은 수 동 적 인 삶 을 통해 실 존 적 자 유 를 회 복 해야 하는가?\n5) 여 성 의 남 성 에 대한 우 월 성 이 여 성 을 속 박 에서 해 방 시킬 수 있 는 기?",
+    "stem": "그 림 의 강 연 자가 긍 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?",
+    "passage": "시 * … …\n인 간 에게 정해진 본 성 은 없습니다. 그럼에도 남 성 은\n운 명 적 인 여 성 성 이라는 속 임 수 로 여 성 을 지 배 하 고 강제\n했습니다. 여 성 의 자연스러운 출 산 마 저 사 회 는 모 성 의\n의 무 로 강 요 했습니다. 그러나 실 존 적인 인 간 은 타인\n으로부터 하찮은 존 재 로 취 급 되 면 반드시 자 기 의 주 권 을\n회 복 하려 합니다. 이때 여 성 은 남 성 의 지 배 에서 벗 어 나 려\n하고 남 성 은 계속 지 배 하려 하므로 갈 등 이 발 생 합니다.\n이 갈 등 은 남 성 과 여 성 이 자율적 존 재 로 서 동등한 관 계 임을\n인 정 하 고, 이것이 사회적 성 과 로 이어져 새로운 여 성 이\n탄 생 해야 끝 이 납니다.\n녹",
+    "choices": [
+      {
+        "number": 1,
+        "text": "여 성 은 남 성 에게 헌 신 하려는 성 향 을 가지고 태 어 나 는가?"
+      },
+      {
+        "number": 2,
+        "text": "여 성 의 의 무 는 생물학적 특 성 에 의해 규 정 되어야 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "여 성 성은 남성 중 심 의 가 치 관 이 반영된 사회적 산 물 인가?"
+      },
+      {
+        "number": 4,
+        "text": "여 성 은 수 동 적 인 삶 을 통해 실 존 적 자 유 를 회 복 해야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "여 성 의 남 성 에 대한 우 월 성 이 여 성 을 속 박 에서 해 방 시킬 수 있 는 기?"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.905,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:52+00:00",
+    "qa_flags": []
+  }
+}

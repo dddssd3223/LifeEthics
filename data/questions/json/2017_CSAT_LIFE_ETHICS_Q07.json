@@ -1,0 +1,76 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 46,
+    "question_number": 7,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1724,
+      1593,
+      2962
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 그 림 의 강 연 자가 지 지 할 입 장 으로 적 절 하지 않은 것은? |3 점 ]\n지 금 까지 남 성 은 순 종 이 여 성 의 본 성 이라고 여 성 에게\n가르쳐 왔지만 누구도 남 녀 의 본 성 을 알 수 는 없습니다.\n남 성 과 여성 간 지 성 의 차 이 는 사회 환경 요 인 에 의해\n설 명 될 수 있습니다. 남 성 에 의한 여 성 의 법적 예 속 은\n본 질 적 으로 옮 지 않을 뿐 아니라 인 류 의 발 전 을 저 해 하는\n것 입니다. 여 성 으로 태어난 것이 사회적 지 위 를 결 정 하 고\n다양한 직 업 으 로 의 진 출 을 방 해 하 는 이 유 가 되 어 서 는\n안 됩니다. 재능 활용 기 회 를 가로막는 것은 개 인 적 으 로 는\n불 공 평 하고 사 회 적 으 로 는 손 실 이 기 때 문 입니다. 다른 사 람 의\n권 리 를 침 해 하지 않는 한, 여 성 이든 남 성 이든 개 인 의 선 택 은\n전적으로 그 자 신 에 게 맡겨야 합니다.\n(0) 여 성 을 예 속 시 키 는 수 단 으로 교 육 을 이 용 해 서는 안 된다.\n(3) 사회적 역 할 은 남 녀 의 본 성 에 따라 적 합 하 게 부 여 되어야 한다.\n(3) 여 성 의 분 별 력 이 근 본 적 으로 열 등 하다고 단 정 해 서는 안 된다.\n(4) 양성 평 등 은 전 인 류 에게 유 용 하므로 완 전 하게 보 장 해 야 한다.\n(5) 남 성 이 독 점 해 온 모든 직 업 을 여 성 에게 전면 개 방 해야 한다.",
+    "stem": "그 림 의 강 연 자가 지 지 할 입 장 으로 적 절 하지 않은 것은? |3 점 ]",
+    "passage": "지 금 까지 남 성 은 순 종 이 여 성 의 본 성 이라고 여 성 에게\n가르쳐 왔지만 누구도 남 녀 의 본 성 을 알 수 는 없습니다.\n남 성 과 여성 간 지 성 의 차 이 는 사회 환경 요 인 에 의해\n설 명 될 수 있습니다. 남 성 에 의한 여 성 의 법적 예 속 은\n본 질 적 으로 옮 지 않을 뿐 아니라 인 류 의 발 전 을 저 해 하는\n것 입니다. 여 성 으로 태어난 것이 사회적 지 위 를 결 정 하 고\n다양한 직 업 으 로 의 진 출 을 방 해 하 는 이 유 가 되 어 서 는\n안 됩니다. 재능 활용 기 회 를 가로막는 것은 개 인 적 으 로 는\n불 공 평 하고 사 회 적 으 로 는 손 실 이 기 때 문 입니다. 다른 사 람 의\n권 리 를 침 해 하지 않는 한, 여 성 이든 남 성 이든 개 인 의 선 택 은\n전적으로 그 자 신 에 게 맡겨야 합니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "여 성 을 예 속 시 키 는 수 단 으로 교 육 을 이 용 해 서는 안 된다."
+      },
+      {
+        "number": 2,
+        "text": "사회적 역 할 은 남 녀 의 본 성 에 따라 적 합 하 게 부 여 되어야 한다."
+      },
+      {
+        "number": 3,
+        "text": "여 성 의 분 별 력 이 근 본 적 으로 열 등 하다고 단 정 해 서는 안 된다."
+      },
+      {
+        "number": 4,
+        "text": "양성 평 등 은 전 인 류 에게 유 용 하므로 완 전 하게 보 장 해 야 한다."
+      },
+      {
+        "number": 5,
+        "text": "남 성 이 독 점 해 온 모든 직 업 을 여 성 에게 전면 개 방 해야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=12"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.923,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:18+00:00",
+    "qa_flags": []
+  }
+}

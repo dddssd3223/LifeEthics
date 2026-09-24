@@ -1,0 +1,76 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 31,
+    "question_number": 12,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1723,
+      1592,
+      3056
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 갑 , 을 의 입 장 에 대한 설 명 으로 옮 지 않은 것은? |[3 점 ]\n종 교 는 궁극적 의 미 와 가 치 를 다루고, 종 교 는 과 학 의 맹목적 환 상 과\n과 학 은 실험 영 역 에서 사 실 과 이 론 을 잘못된 절 대 성 을 정 화 하 고,\n다 룹 니다. 도 덕 과 과 학 이 서로 구분 과 학 은 종 교 의 오 류 와 미 신 을\n되지만 충 돌 하지 않고 각 각 의 영역 정 화 합니다. 이를 통해 과학과\n에서 제 역 할 을 하 듯 이, 종 교 와 과 학 의 종 교 는 서 로 를 더 넓은 세 계 로\n관 계 도 그 와 같습니다. 인 도 하 여 번 영 할 수 있습니다.\n~\n/\n0 감은 과 학 이 종 교 를, 종 교 가 과 학 을 규 제 하 지 않는다고 본다.\n(2) 을 은 종 교 와 과 학 이 상 보 적인 관 계 로 공 존 할 수 있다고 본다.\n(3) 갑 은 을과 달리 종교적 믿 음 이 과학적 사 실 에 의 존 한다고 본다.\n0 갑 , 을 은 한 영 역 의 지 식 만 가치 있다는 견 해 를 버려야 한다고 본다.\n0) 갑 , 을 은 종 교 와 과 학 이 서로 적대적인 관 계 가 아니라고 본다.",
+    "stem": "갑 , 을 의 입 장 에 대한 설 명 으로 옮 지 않은 것은? |[3 점 ]",
+    "passage": "종 교 는 궁극적 의 미 와 가 치 를 다루고, 종 교 는 과 학 의 맹목적 환 상 과\n과 학 은 실험 영 역 에서 사 실 과 이 론 을 잘못된 절 대 성 을 정 화 하 고,\n다 룹 니다. 도 덕 과 과 학 이 서로 구분 과 학 은 종 교 의 오 류 와 미 신 을\n되지만 충 돌 하지 않고 각 각 의 영역 정 화 합니다. 이를 통해 과학과\n에서 제 역 할 을 하 듯 이, 종 교 와 과 학 의 종 교 는 서 로 를 더 넓은 세 계 로\n관 계 도 그 와 같습니다. 인 도 하 여 번 영 할 수 있습니다.\n~\n/",
+    "choices": [
+      {
+        "number": 1,
+        "text": "감은 과 학 이 종 교 를, 종 교 가 과 학 을 규 제 하 지 않는다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 종 교 와 과 학 이 상 보 적인 관 계 로 공 존 할 수 있다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "갑 은 을과 달리 종교적 믿 음 이 과학적 사 실 에 의 존 한다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "갑 , 을 은 한 영 역 의 지 식 만 가치 있다는 견 해 를 버려야 한다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 종 교 와 과 학 이 서로 적대적인 관 계 가 아니라고 본다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=12"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.909,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:43+00:00",
+    "qa_flags": []
+  }
+}

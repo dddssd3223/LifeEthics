@@ -1,0 +1,31 @@
+{
+  "package": "LIFE_ETHICS_FINAL_TRANSFER_V3",
+  "subject": "LIFE_ETHICS",
+  "selection_source": "data/phase2/LIFE_ETHICS/final_logic_correction/final_content_asset_index_v3.jsonl",
+  "total_questions": 109,
+  "composition": {
+    "CURRICULUM_EXPLICIT_CORE": 99,
+    "KICE_2028_RESTORED": 10
+  },
+  "review_required_count": 42,
+  "official_answer_null_count": 109,
+  "image_count": 109,
+  "selection_history": {
+    "phase2c_keep": 261,
+    "official_curriculum_core": 106,
+    "kice_2028_restored": 30,
+    "final_v2": 136,
+    "logic_correction_targeted": 54,
+    "logic_correction_drop": 27,
+    "final_v3": 109
+  },
+  "previous_package": "FINAL_TRANSFER/LIFE_ETHICS_V2 (historical snapshot, freeze 99bc4a6)",
+  "files": {
+    "questions": "questions.jsonl",
+    "spreadsheet": "questions.xlsx",
+    "images": "images/",
+    "readme": "README.md"
+  },
+  "notes": "stem/passage/choices/question_text는 Phase 1 OCR(보조). 원문 Source of Truth는 images/<question_id>.png. official_answer는 Phase 1 값 그대로(LIFE_ETHICS Phase 1에 공식 정답 출처 없음, 추론 없이 null 유지).",
+  "status": "FROZEN_V3"
+}

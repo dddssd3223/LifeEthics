@@ -1,0 +1,78 @@
+{
+  "id": "2020_CSAT_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 83,
+    "question_number": 13,
+    "exam_key": "2020_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3202,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_CSAT_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 갑 , 을 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?\n갑 : 빅 브 라 더 0318 870016) 는 소설 속 존 재 로 , 사 회 를 철저히\n장 악 한다. 정보 통신 기 술 의 발 달 로 인해 개 인 은 사이버\n공 간 에서 ' 빅 브 라 더 ' 의 감 시 를 벗어나지 못해, 실질적인\n정치 참여 기 회 가 줄어들 위 험 성 이 커지고 있\n을: 아 고 라 (380789) 는 고대 아 테 네 의 광 장 으로, 자 유 민 들 은\n이 곳 에서 민 회 에 참 여 했다. 정보 통신 기 술 의 발 달 로 사이버\n공 간 이 아 고 라 와 같은 기 능 을 하면서 현 실 의 정책 결 정 에\n대해서도 시 민 의 정치 참 여 를 높이고 있다.\n< 보 기 >\nㄱ . 갑 : 사이버 공 간 에서는 사 생 활 권 과 익 명 성 이 보 장 된다.\nㄴ . 갑 : 정보 통신 기 술 은 보이지 않는 방 식 으로 개 인 을 통 제 한 다.\nㄷ . 을 : 사이버 공 간 은 직접 민 주 주 의 의 가 능 성 을 높이고 있다.\n르 . 갑 , 을: 정 보 화 가 진 전 됨에 따라 표 현 의 자 유 도 증 진 된다.\n076 976 @0 니 948 6562",
+    "stem": "갑 , 을 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "갑 : 빅 브 라 더 0318 870016) 는 소설 속 존 재 로 , 사 회 를 철저히\n장 악 한다. 정보 통신 기 술 의 발 달 로 인해 개 인 은 사이버\n공 간 에서 ' 빅 브 라 더 ' 의 감 시 를 벗어나지 못해, 실질적인\n정치 참여 기 회 가 줄어들 위 험 성 이 커지고 있\n을: 아 고 라 (380789) 는 고대 아 테 네 의 광 장 으로, 자 유 민 들 은\n이 곳 에서 민 회 에 참 여 했다. 정보 통신 기 술 의 발 달 로 사이버\n공 간 이 아 고 라 와 같은 기 능 을 하면서 현 실 의 정책 결 정 에\n대해서도 시 민 의 정치 참 여 를 높이고 있다.\n< 보 기 >\nㄱ . 갑 : 사이버 공 간 에서는 사 생 활 권 과 익 명 성 이 보 장 된다.\nㄴ . 갑 : 정보 통신 기 술 은 보이지 않는 방 식 으로 개 인 을 통 제 한 다.\nㄷ . 을 : 사이버 공 간 은 직접 민 주 주 의 의 가 능 성 을 높이고 있다.\n르 . 갑 , 을: 정 보 화 가 진 전 됨에 따라 표 현 의 자 유 도 증 진 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "1, ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "0 니"
+      },
+      {
+        "number": 4,
+        "text": "ㄴㄴ, 그"
+      },
+      {
+        "number": 5,
+        "text": "6562"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.899,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE2_TEXT_FROM_CELL_OCR",
+      "CHOICE4_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:45+00:00",
+    "qa_flags": []
+  }
+}

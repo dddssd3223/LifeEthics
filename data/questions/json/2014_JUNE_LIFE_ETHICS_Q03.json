@@ -1,0 +1,73 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 1,
+    "question_number": 3,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      881,
+      2999,
+      2176
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 다음 서양 사 상 가 의 주 장 으로 옮 은 것 만 을 < 보 기 > 에 서 있는\n대로 고른 것은? [3 점 ]\n개 인 들 간의 같 등 과 는 달리 집 단 들 간의 같 등 은 합리적인\n설 득 으로 해 결 되 기 가 매우 어렵다. 왜냐하면 어떤 집 단 이 다\n른 집 단 에 이 기 적 이지 않은 태 도 를 지 속 적 으로 유 지 하기 힘\n들기 때 문 이 다. 서로 경 쟁 하는 집 단 들은 자 신 의 현실적 이익\n을 결코 포 기 하려고 하지 않을 것이다.\n< 보 기 >\nㄱ . 개 인 의 도덕적 행 위 가 사회 구 조 의 도 덕 성 을 결 정 한 다.\nㄴ . 사회 문제 해 결 을 위한 개인적 양 심 의 역 할 을 부 정 한 다.\nㄷ . 사회 정 의 는 정책적 노 력 과 제도 개 선 을 통해 실 현 된 다.\n르 . 집 단 의 이기적 요 구 와 개 인 의 도덕성 간에 갈 등 이 존 재 한 다.\n0) ㄱ , ㄴ (2) ㄴ , ㄷ (3) ㄷ , 르\n(00 )0 ㄱ , ㄴ , 2 (6) ㄱ 7, ㄷ , 2",
+    "stem": "다음 서양 사 상 가 의 주 장 으로 옮 은 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "개 인 들 간의 같 등 과 는 달리 집 단 들 간의 같 등 은 합리적인\n설 득 으로 해 결 되 기 가 매우 어렵다. 왜냐하면 어떤 집 단 이 다\n른 집 단 에 이 기 적 이지 않은 태 도 를 지 속 적 으로 유 지 하기 힘\n들기 때 문 이 다. 서로 경 쟁 하는 집 단 들은 자 신 의 현실적 이익\n을 결코 포 기 하려고 하지 않을 것이다.\n< 보 기 >\nㄱ . 개 인 의 도덕적 행 위 가 사회 구 조 의 도 덕 성 을 결 정 한 다.\nㄴ . 사회 문제 해 결 을 위한 개인적 양 심 의 역 할 을 부 정 한 다.\nㄷ . 사회 정 의 는 정책적 노 력 과 제도 개 선 을 통해 실 현 된 다.\n르 . 집 단 의 이기적 요 구 와 개 인 의 도덕성 간에 갈 등 이 존 재 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "0 )0 ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄱ 7, ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.896,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:30+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 11,
+    "question_number": 15,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      3053,
+      2999,
+      4301
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. 다음 글 은 신문 사 설 이다. 에 들어갈 제 목 으로 가장 적절한\n것은? [3 점 ]\n(2(〉 일 보 (2(2(72(〉 년 (월 (일\n@\n오 늘 날 과 같은 정보 사 회 에서 정 보 는 물 이나 전 기 와 같이 인 간 이 생활\n하는 데 가장 필수적인 요 소 이다. 우 리 가 물 이나 전기 없이 며 칠 을 견디는\n것은 상당히 고 통 스 러운 일 이 다. 그래서 수 도 나 전기 요 금 을 감 당 하기\n어려운 사 람 에게 수 도 와 전 기 를 끊어 버리는 일은 비 인 도 적 인 처 사 로\n여겨진다. 이와 마찬가지로 정보 소외 계 층 은 정 보 를 소 유 하지 못하여\n상당한 고 통 을 느낄 것이며, 그들은 정보 시 회 에서 경 쟁 력 을 확 보 하지 못하여\n= ㄱ = ㅋㅋ\n사회적 약 자 로 머물게 될 것이다. …( 중 략 )… 인 간 은 누구나 인 간 답게 살 수\n있는 최 소 한 의 권 리 를 가지고 있다. 그러므로 정 부 는 그러한 시 민 의 권 리 를\n충 족 할 수 있는 방 안 을 마련해야 할 것이다.\n=\n0 정보 사 유 화 를 강 화 하여 새로운 정 보 의 산 출 에 힘써야 한다\n3) 정보 사 회 에 서 의 정보 격 차 를 완 화 하기 위해 노력해야 한다\n9) 국 가 의 독점적 정보 관 리 로부터 시 민 의 사 생 활 을 보 호 해야 한다\n@) 정보 소외 계 층 에 대한 복지 정 책 이 역 차 별 을 초 래 해서는 안 된다\n6) 정보 공 유 화로 인해 발생한 책 임 의 분산 문 제 를 해 결 해 야 한다",
+    "stem": "다음 글 은 신문 사 설 이다. 에 들어갈 제 목 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "(2(〉 일 보 (2(2(72(〉 년 (월 (일\n@\n오 늘 날 과 같은 정보 사 회 에서 정 보 는 물 이나 전 기 와 같이 인 간 이 생활\n하는 데 가장 필수적인 요 소 이다. 우 리 가 물 이나 전기 없이 며 칠 을 견디는\n것은 상당히 고 통 스 러운 일 이 다. 그래서 수 도 나 전기 요 금 을 감 당 하기\n어려운 사 람 에게 수 도 와 전 기 를 끊어 버리는 일은 비 인 도 적 인 처 사 로\n여겨진다. 이와 마찬가지로 정보 소외 계 층 은 정 보 를 소 유 하지 못하여\n상당한 고 통 을 느낄 것이며, 그들은 정보 시 회 에서 경 쟁 력 을 확 보 하지 못하여\n= ㄱ = ㅋㅋ\n사회적 약 자 로 머물게 될 것이다. …( 중 략 )… 인 간 은 누구나 인 간 답게 살 수\n있는 최 소 한 의 권 리 를 가지고 있다. 그러므로 정 부 는 그러한 시 민 의 권 리 를\n충 족 할 수 있는 방 안 을 마련해야 할 것이다.\n=",
+    "choices": [
+      {
+        "number": 1,
+        "text": "정보 사 유 화 를 강 화 하여 새로운 정 보 의 산 출 에 힘써야 한다"
+      },
+      {
+        "number": 2,
+        "text": "정보 사 회 에 서 의 정보 격 차 를 완 화 하기 위해 노력해야 한다"
+      },
+      {
+        "number": 3,
+        "text": "국 가 의 독점적 정보 관 리 로부터 시 민 의 사 생 활 을 보 호 해야 한다"
+      },
+      {
+        "number": 4,
+        "text": "정보 소외 계 층 에 대한 복지 정 책 이 역 차 별 을 초 래 해서는 안 된다"
+      },
+      {
+        "number": 5,
+        "text": "정보 공 유 화로 인해 발생한 책 임 의 분산 문 제 를 해 결 해 야 한다"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=309",
+      "vector_lines=18"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:53+00:00",
+    "qa_flags": []
+  }
+}

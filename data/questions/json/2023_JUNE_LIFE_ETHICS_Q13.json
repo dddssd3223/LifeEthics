@@ -1,0 +1,73 @@
+{
+  "id": "2023_JUNE_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 111,
+    "question_number": 13,
+    "exam_key": "2023_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3347,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_JUNE_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 다음 글 의 입 장 으로 적 절 하 지 않은 것은?\n산업 사 회 에서 유 한 계 급 은 사회적 명 성 의 측 면 에서 사회 구 조 의\n정 점 에 위치하고 그들의 생활 양 식 은 사 회 의 평가 기 준 이 된다.\n이 기 준 은 사회 구 조 의 가장 낮은 계 충 에 이 르 기 까 지 영 향 을 미친다.\n각 계 충 에 속하는 사 람 들 은 바로 위 계 층 에서 유 행 하는 생활 양 식 에\n가 까 워 지 고 자 온갖 노 력 을 기 울 이 기 때 문 이 다. 어떤 계 급 도, 즉\n아무리 빈 곤 한 계 급 이라도 관 례 적인 과 시 적 소 비 를 전혀 하지\n않을 수 는 없다. 명 성 을 얻기 위해서는 과 시 적 소 비 를 할 수밖에\n없으며, 과 시 적 소 비 를 하기 위해서는 부 ( 룰 ) 가 있어야 한다.\n01 과 시 적 소 비 로부터 완전히 자유로운 계 층 은 없다.\n빈 곤 한 계 층 의 소비 행 위 는 사회적 명 성 과 는 관 련 이 없다.\n6 산업 사 회 에서 명 성 을 얻기 위해서는 부를 필 요 로 한다.\n4 유 한 계 급 에게 과 시 적 소 비 는 명 성 을 획 득 하는 수 단 이다.\n5 사 회 에서 유 행 하는 생활 양 석은 유 한 계 급 에 의해 주 도 된다.",
+    "stem": "다음 글 의 입 장 으로 적 절 하 지 않은 것은?",
+    "passage": "산업 사 회 에서 유 한 계 급 은 사회적 명 성 의 측 면 에서 사회 구 조 의\n정 점 에 위치하고 그들의 생활 양 식 은 사 회 의 평가 기 준 이 된다.\n이 기 준 은 사회 구 조 의 가장 낮은 계 충 에 이 르 기 까 지 영 향 을 미친다.\n각 계 충 에 속하는 사 람 들 은 바로 위 계 층 에서 유 행 하는 생활 양 식 에\n가 까 워 지 고 자 온갖 노 력 을 기 울 이 기 때 문 이 다. 어떤 계 급 도, 즉\n아무리 빈 곤 한 계 급 이라도 관 례 적인 과 시 적 소 비 를 전혀 하지\n않을 수 는 없다. 명 성 을 얻기 위해서는 과 시 적 소 비 를 할 수밖에\n없으며, 과 시 적 소 비 를 하기 위해서는 부 ( 룰 ) 가 있어야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "과 시 적 소 비 로부터 완전히 자유로운 계 층 은 없다."
+      },
+      {
+        "number": 2,
+        "text": "빈 곤 한 계 층 의 소비 행 위 는 사회적 명 성 과 는 관 련 이 없다."
+      },
+      {
+        "number": 3,
+        "text": "산업 사 회 에서 명 성 을 얻기 위해서는 부를 필 요 로 한다."
+      },
+      {
+        "number": 4,
+        "text": "유 한 계 급 에게 과 시 적 소 비 는 명 성 을 획 득 하는 수 단 이다."
+      },
+      {
+        "number": 5,
+        "text": "사 회 에서 유 행 하는 생활 양 석은 유 한 계 급 에 의해 주 도 된다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.917,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:59+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 150,
+    "question_number": 7,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2631,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때,\n쇼 ~( 에 들어갈 질 문 으로 가장 적절한 것은? [3 점 ]\n갑 : 법 은 개 개 인 의 특수 의 사 의 총 체 인 일반 의 사 를 대표\n한다. 형 벌 은 범법 행 위 를 억 제 하 기 에 적절한 정 도 으\n가 흑 함 만을 지녀야 한다.\n0 | 으 : 형 벌 은 범죄자 자 신 이나 시민 사 회 를 위해서 어떤 다른\n선 을 촉 진 하기 위한 수 단 으로서는 가해질 수 없고,\n오직 범 죄 를 저 질 렸기 때문에 그 에 게 가 해 진 다.\n사상가 감 , 을 의 0”\n범 례\n입 장 을 탐 구 한다. 1: 흠 발 조건\nㅡ +: 판단 방향\n- 6 아니요 ㅠㅜ: 사 싱 가 의 입장\n(나) 에\n예 예\n번 번 = 르 번 =\n0) ㅅ : 범죄 예방 효 과 가 있는 형 벌 이 범 죄 에 상 응 한다면 그 형 벌 은\n항상 정 당 한 가?\n(2) 0: 공 리 를 극 대 화 하 는 형 벌 도 부당한 형 벌 이 될 수 있는가?\n(3) 2: 형 벌 이 가 혹 하 다면 그에 따른 사회 이 익 의 감 소 는 불 가 피 한 가?\n04) (@;: 형 벌 은 그 자 체 로 악 이지만 범 죄 자 의 인 격 을 존 중 하기 위해\n요 구 되 는가?\n66) @: 다른 한 사 람 에 대한 범 죄 는 둘 이상의 인 격 에 해 를 가하는\n것으로 간 주 될 수 있는가?",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, 쇼 ~( 에 들어갈 질 문 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 법 은 개 개 인 의 특수 의 사 의 총 체 인 일반 의 사 를 대표\n한다. 형 벌 은 범법 행 위 를 억 제 하 기 에 적절한 정 도 으\n가 흑 함 만을 지녀야 한다.\n0 | 으 : 형 벌 은 범죄자 자 신 이나 시민 사 회 를 위해서 어떤 다른\n선 을 촉 진 하기 위한 수 단 으로서는 가해질 수 없고,\n오직 범 죄 를 저 질 렸기 때문에 그 에 게 가 해 진 다.\n사상가 감 , 을 의 0”\n범 례\n입 장 을 탐 구 한다. 1: 흠 발 조건\nㅡ +: 판단 방향\n- 6 아니요 ㅠㅜ: 사 싱 가 의 입장\n(나) 에\n예 예\n번 번 = 르 번 =",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㅅ : 범죄 예방 효 과 가 있는 형 벌 이 범 죄 에 상 응 한다면 그 형 벌 은 항상 정 당 한 가?"
+      },
+      {
+        "number": 2,
+        "text": "0: 공 리 를 극 대 화 하 는 형 벌 도 부당한 형 벌 이 될 수 있는가?"
+      },
+      {
+        "number": 3,
+        "text": "2: 형 벌 이 가 혹 하 다면 그에 따른 사회 이 익 의 감 소 는 불 가 피 한 가?"
+      },
+      {
+        "number": 4,
+        "text": "(@;: 형 벌 은 그 자 체 로 악 이지만 범 죄 자 의 인 격 을 존 중 하기 위해 요 구 되 는가?"
+      },
+      {
+        "number": 5,
+        "text": "@: 다른 한 사 람 에 대한 범 죄 는 둘 이상의 인 격 에 해 를 가하는 것으로 간 주 될 수 있는가?"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.872,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:45+00:00",
+    "qa_flags": []
+  }
+}

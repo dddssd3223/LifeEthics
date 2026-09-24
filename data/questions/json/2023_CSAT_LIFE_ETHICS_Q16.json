@@ -1,0 +1,73 @@
+{
+  "id": "2023_CSAT_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 120,
+    "question_number": 16,
+    "exam_key": "2023_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1831
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_CSAT_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다 음 을 주장한 사 상 가 의 입 장 으로 적 절 하지 않은 것은?\n목 린 관 은 검 약 한 생 활 을 통해 청 렴 함 을 합 양 해야 하고, 청 령 함 을\n바 탕 으로 백 성 을 사 랑 해 야 한다. 만일 목 민 관 이 되었다고 의 복 과\n말 을 새로 장 만 하여 부 임 지로 가거나 부 입 지 에서도 함부로 행동\n하고 절 제 하지 꽃 한다면, 사 치 가 심 해 지 고 빛 이 늘 어 가면서\n탐 욕 스 러 워 질 것이다. 그렇다고 아 끼 기 만 하고 어려운 친 척 에게\n두루 베 풀 지 않으면 멀 어 지 게 될 것이다. 그러니 자 신 의 녹 봉 을\n아껴 주 변 의 곤 궁 함 을 보 살 피는 데 소 홈 하지 않아야 한다.\n(01) 공 직 자 는 애 민 정 신 을 바 탕 으로 국 민 에게 진 심 으로 봉 사 해 야 한다.\n(2) 공 직 자 는 곤 궁 한 친 척 을 도 우 려는 어진 마 음 조차 가 져 서 는 안 된다.\n3) 공 직 자 는 자 신 의 체 면 을 지 키 려 는 과도한 소 비 를 자 제 해 야 한다.\n0) 공 직 자 는 공무 수 행 을 위해 책 정 된 공 금 을 과다 지 출 해서는 안 된다.\n(9) 공 직 자 는 청 령 하기 위해 겪 소 하고 절 약 하는 태 도 를 가져야 한다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 적 절 하지 않은 것은?",
+    "passage": "목 린 관 은 검 약 한 생 활 을 통해 청 렴 함 을 합 양 해야 하고, 청 령 함 을\n바 탕 으로 백 성 을 사 랑 해 야 한다. 만일 목 민 관 이 되었다고 의 복 과\n말 을 새로 장 만 하여 부 임 지로 가거나 부 입 지 에서도 함부로 행동\n하고 절 제 하지 꽃 한다면, 사 치 가 심 해 지 고 빛 이 늘 어 가면서\n탐 욕 스 러 워 질 것이다. 그렇다고 아 끼 기 만 하고 어려운 친 척 에게\n두루 베 풀 지 않으면 멀 어 지 게 될 것이다. 그러니 자 신 의 녹 봉 을\n아껴 주 변 의 곤 궁 함 을 보 살 피는 데 소 홈 하지 않아야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "공 직 자 는 애 민 정 신 을 바 탕 으로 국 민 에게 진 심 으로 봉 사 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "공 직 자 는 곤 궁 한 친 척 을 도 우 려는 어진 마 음 조차 가 져 서 는 안 된다."
+      },
+      {
+        "number": 3,
+        "text": "공 직 자 는 자 신 의 체 면 을 지 키 려 는 과도한 소 비 를 자 제 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "공 직 자 는 공무 수 행 을 위해 책 정 된 공 금 을 과다 지 출 해서는 안 된다."
+      },
+      {
+        "number": 5,
+        "text": "공 직 자 는 청 령 하기 위해 겪 소 하고 절 약 하는 태 도 를 가져야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:15+00:00",
+    "qa_flags": []
+  }
+}

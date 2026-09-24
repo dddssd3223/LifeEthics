@@ -1,0 +1,75 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 71,
+    "question_number": 14,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      3070
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. ( 가 ) 의 사상가 갑 을, 병 의 입 장 을 (나) 그 림 으 로 탐 구 할 때, ㅅ ~10 에\n해 당 하는 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n갑 : 공산 사 회 가 도 래 하면 지배 계 급 의 이 익 을 대 변 하 던\n국 가 와 계급 착 취 의 역 사 는 끝나고 인 간 의 자유로운\n연 합 체 가 성 립 된 다.\n을: 재산 소유 민 주 주 의 는 시장 체 제 를 구 비 하 고 있으면서\n(가) 평 등 한 기본적 자 유 와 공정한 기회 균 등 을 이유로\n자본 소 유 의 분 산 을 시 도 한 다 .\n병 ： 최소 국 가 는 도 덕 적 으로 용 인 될 수 있는 방 법 에 의해\n발 생 하며, 자연 상 태 에서 개 인 이 갖고 있던 그 어떤\n권 리 도 침 해 하지 않는다.\n범 례\n사상가 갑 , 을, 병 의\n: 출발 조건\n입 장 을 탐 구 한다.\n< >: 판단 내용\n(나) 으 8 0\n예 예\n| 예 예\n< 보 기 >\nㄱ . ㅅㅅ: 능 력 에 따른 생산, 필 요 에 따른 분 배 를 지 향 해야 하는가?\nㄴ . 2: 사유 재 산 의 불 평 등 은 모 두 의 이 익 을 보 장 해 야만 정 당 한 가?\nㅁ , (:: 무 지 의 베일 속의 시 량 은 자키 이 익 에 대해 무 자 하고 무 관 삼 힌 가 ?\n르 . 1): 자유롭게 이 전 된 소 유 물 은 모두 교정 대 상 에서 제 외 되는가?\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄷ , 그\n04) 7, ㄴ , 큰 06 ㄴ , ㄷ , 크",
+    "stem": "( 가 ) 의 사상가 갑 을, 병 의 입 장 을 (나) 그 림 으 로 탐 구 할 때, ㅅ ~10 에 해 당 하는 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 공산 사 회 가 도 래 하면 지배 계 급 의 이 익 을 대 변 하 던\n국 가 와 계급 착 취 의 역 사 는 끝나고 인 간 의 자유로운\n연 합 체 가 성 립 된 다.\n을: 재산 소유 민 주 주 의 는 시장 체 제 를 구 비 하 고 있으면서\n(가) 평 등 한 기본적 자 유 와 공정한 기회 균 등 을 이유로\n자본 소 유 의 분 산 을 시 도 한 다 .\n병 ： 최소 국 가 는 도 덕 적 으로 용 인 될 수 있는 방 법 에 의해\n발 생 하며, 자연 상 태 에서 개 인 이 갖고 있던 그 어떤\n권 리 도 침 해 하지 않는다.\n범 례\n사상가 갑 , 을, 병 의\n: 출발 조건\n입 장 을 탐 구 한다.\n< >: 판단 내용\n(나) 으 8 0\n예 예\n| 예 예\n< 보 기 >\nㄱ . ㅅㅅ: 능 력 에 따른 생산, 필 요 에 따른 분 배 를 지 향 해야 하는가?\nㄴ . 2: 사유 재 산 의 불 평 등 은 모 두 의 이 익 을 보 장 해 야만 정 당 한 가?\nㅁ , (:: 무 지 의 베일 속의 시 량 은 자키 이 익 에 대해 무 자 하고 무 관 삼 힌 가 ?\n르 . 1): 자유롭게 이 전 된 소 유 물 은 모두 교정 대 상 에서 제 외 되는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 그"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 큰"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 크"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.86,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:19+00:00",
+    "qa_flags": []
+  }
+}

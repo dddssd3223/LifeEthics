@@ -1,0 +1,76 @@
+{
+  "id": "2017_SEPTEMBER_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 43,
+    "question_number": 14,
+    "exam_key": "2017_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      501,
+      2999,
+      3103
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_SEPTEMBER_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. ( 가 ) 의 사상가 갑 , 을 의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때,\n쇼 ~( 에 들어갈 옮 은 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]\n갑 : 형 벌 의 주 목 적 은 범 죄 자 와 그 밖의 사 람 들 의 행 위 를\n통 제 하는 것이다. 공 리 의 원 리 에 따라 범 죄 자 에 대한\n형 벌 은 목적 달 성 에 필요한 정도 이 상 으로 가 해 져 서는\n안 된다.\n( 가 )| 、。\n을: 형 벌 은 단지 범 죄 자 가 범 죄 를 저 질 렀 기 때문에 부과\n되어야 한다. 인 간 의 생 득 적 인 격 성은 그가 시 민 적\n인 격 성 을 상 실 할 선 고 를 받아도 물 건 으로 취 급 되지\n않도록 보 호 한 다.\n갑 , 을 사 상 가 의 < 범 례 >\n입 장 을 탐 구 한다. : 출발 조건\n아니요 < >: 판단 내용\n도는데 -- 구 : 판단 방향\n(나) 예 ! [ ]: 사 상 가 의 입장\n< 보 기 >\nㄱ . 스 : 형 벌 로 인 한 뱀 죄 지의 고 통 이 위법 행 위 의 이 득 보 다 커 야 히 는가?\nㄴ . 8: 형 벌 은 일 반 인 에게 본 보 기 로, 범 죄 자 에게 교 화 로 작 용 하는가?\nㄷ . (: 형 별 의 유 용 성 이 전 혀 없 는 경 우 형 벌 을 부 괴 하지 밑 이 아 하는가?\n2 . (: 형 벌 이 부 과 하 는 고 통 은 범 죄 자의 존엄성 보 징 에 부 합 해 야 하 는 가?\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄷ , 르\n(0 ) ㄱ , ㄴ , 2 (6) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 사상가 갑 , 을 의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, 쇼 ~( 에 들어갈 옮 은 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 형 벌 의 주 목 적 은 범 죄 자 와 그 밖의 사 람 들 의 행 위 를\n통 제 하는 것이다. 공 리 의 원 리 에 따라 범 죄 자 에 대한\n형 벌 은 목적 달 성 에 필요한 정도 이 상 으로 가 해 져 서는\n안 된다.\n( 가 )| 、。\n을: 형 벌 은 단지 범 죄 자 가 범 죄 를 저 질 렀 기 때문에 부과\n되어야 한다. 인 간 의 생 득 적 인 격 성은 그가 시 민 적\n인 격 성 을 상 실 할 선 고 를 받아도 물 건 으로 취 급 되지\n않도록 보 호 한 다.\n갑 , 을 사 상 가 의 < 범 례 >\n입 장 을 탐 구 한다. : 출발 조건\n아니요 < >: 판단 내용\n도는데 -- 구 : 판단 방향\n(나) 예 ! [ ]: 사 상 가 의 입장\n< 보 기 >\nㄱ . 스 : 형 벌 로 인 한 뱀 죄 지의 고 통 이 위법 행 위 의 이 득 보 다 커 야 히 는가?\nㄴ . 8: 형 벌 은 일 반 인 에게 본 보 기 로, 범 죄 자 에게 교 화 로 작 용 하는가?\nㄷ . (: 형 별 의 유 용 성 이 전 혀 없 는 경 우 형 벌 을 부 괴 하지 밑 이 아 하는가?\n2 . (: 형 벌 이 부 과 하 는 고 통 은 범 죄 자의 존엄성 보 징 에 부 합 해 야 하 는 가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": ") ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=735",
+      "vector_lines=925"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.852,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:12+00:00",
+    "qa_flags": []
+  }
+}

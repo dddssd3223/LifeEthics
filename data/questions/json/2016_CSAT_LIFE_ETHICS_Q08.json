@@ -1,0 +1,79 @@
+{
+  "id": "2016_CSAT_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 34,
+    "question_number": 8,
+    "exam_key": "2016_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1763,
+      658,
+      3145,
+      2255
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_CSAT_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. (가) 사 상 에 비해 (나) 사 상 이 갖는 상대적 특 징 을 그 림 의\nㅋ ~08 중에서 고른 것은? [3 점 ]\n(가) 포 든 시 민 은 최고 권 력 을 가지며 자유롭고 평 등 하 다.\n시민 전 체 의 이 익 을 추 구 해 야 하며, 다 수 에 의해 결 정 하는\n것이 정 당 하다.\n(나) 군 주 가 백 성 의 기 뽑 을 자 신 의 기 뽑 으로 삼 으 면 백 성 도\n그의 기 봄 을 기 뻐 하 게 된다. 백 성 과 함께 기 뻐 하 면서\n천하에 왕 노릇 하지 못한 경 우 는 아직 없었다.\n2 ㆍ ※: 법 률 에 근거한 통 치 지의 임기 제 한 과 정기적 교 체 를 강 조 하는 정도\n높음 ㆍ: 정치 문 화 에 있어서 통 치 자 의 도 덕 적 인 모 범 을 강 조 하는 정도\nㆍ 2: 정치적 안 건 의 최종 결 정 권 이 모든 구 성 원 에게 있 음 을 강 조 하는 정도\n하는 성도\n낳은 노을\n즈 ㅁ\n00 60 8 0) ㅁ 00 @) 69) 2:",
+    "stem": "(가) 사 상 에 비해 (나) 사 상 이 갖는 상대적 특 징 을 그 림 의 ㅋ ~08 중에서 고른 것은? [3 점 ]",
+    "passage": "(가) 포 든 시 민 은 최고 권 력 을 가지며 자유롭고 평 등 하 다.\n시민 전 체 의 이 익 을 추 구 해 야 하며, 다 수 에 의해 결 정 하는\n것이 정 당 하다.\n(나) 군 주 가 백 성 의 기 뽑 을 자 신 의 기 뽑 으로 삼 으 면 백 성 도\n그의 기 봄 을 기 뻐 하 게 된다. 백 성 과 함께 기 뻐 하 면서\n천하에 왕 노릇 하지 못한 경 우 는 아직 없었다.\n2 ㆍ ※: 법 률 에 근거한 통 치 지의 임기 제 한 과 정기적 교 체 를 강 조 하는 정도\n높음 ㆍ: 정치 문 화 에 있어서 통 치 자 의 도 덕 적 인 모 범 을 강 조 하는 정도\nㆍ 2: 정치적 안 건 의 최종 결 정 권 이 모든 구 성 원 에게 있 음 을 강 조 하는 정도\n하는 성도\n낳은 노을\n즈 ㅁ",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(0"
+      },
+      {
+        "number": 2,
+        "text": "8"
+      },
+      {
+        "number": 3,
+        "text": "ㅁ"
+      },
+      {
+        "number": 4,
+        "text": "@)"
+      },
+      {
+        "number": 5,
+        "text": "2:"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=30",
+      "vector_lines=26"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.861,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:51:30+00:00",
+    "qa_flags": []
+  }
+}

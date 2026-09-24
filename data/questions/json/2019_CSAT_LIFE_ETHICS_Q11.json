@@ -1,0 +1,75 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 71,
+    "question_number": 11,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2088
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 다음 가상 편 지 에서 강 조 하는 입 장 으로 가장 적절한 것은?\n(2(> 에 게\n자 네 가 부모님 모시는 모 습 은 참 으로 보기 좋네. 살 림 살 이 가 좋 거나\n좋지 않거나 부 모 님 을 한결같이 섬기는 것이 말 처 럼 쉽지 않지.\n다만 자 네 가 어 버 이 를 섬길 때 증 자 ( 옴 구 ) 를 본 받았으면 하네. 증 자 는\n아 버 지 께 끼 니 마다 반드시 고 기 와 술 을 차려 드 렸 다 네 . 그리고 남은 음 식 을\n누 구 에게 줄 것인지 아 버 지 께 여 쑤 었고, 아 버 지 께서 남은 음 식 이 있냐고\n되 물 으 시면 증 자 는 ' 있 습 니 다 .\" 라 고 답 하 였 다 네 . 증 자 는 아 버 지 의 마 음 을\n살 핀 것이지. 그런데 증 자 를 봉 양 한 증 자 의 아 들 은 남은 음 식 이 있 냐 는\n증 자 의 물 음 에 “ 없 습 니 다 .\" 라 고 답 하 였지. 증 자 의 아 들 은 아 버 지 께 다시\n음 식 을 올리려 한 것 이 네 . 증 자 의 아 들 은 입 과 몸 을 봉 양 한 것에 지나지\n않고 증 자 는 뜻 을 봉 양 한 것이라 할 수 있지. …( 후 략 . - ~\n0 자 식 은 어 버 이 가 가진 의 중 을 헤 아 려 서 붕 양 해 야 한다.\n2) 자 식 은 어 버 이 의 옮 지 못한 행 동 을 바꾸려고 해서는 안 된다.\n8) 어 버 이 를 붕 양 하 는 까 닮은 자 식 에게 봉 양 받기 위 함 일 뿐이다.\n4) 어 버 이 를 섬기는 방 식 을 경제적 형 편 에 따라서 달 리 해야 한다.\n5 자 식 된 도 러 를 다 하 기 위해 어 버 이 보다 이 웃 을 더 배 려 해야 한다.",
+    "stem": "다음 가상 편 지 에서 강 조 하는 입 장 으로 가장 적절한 것은?",
+    "passage": "(2(> 에 게\n자 네 가 부모님 모시는 모 습 은 참 으로 보기 좋네. 살 림 살 이 가 좋 거나\n좋지 않거나 부 모 님 을 한결같이 섬기는 것이 말 처 럼 쉽지 않지.\n다만 자 네 가 어 버 이 를 섬길 때 증 자 ( 옴 구 ) 를 본 받았으면 하네. 증 자 는\n아 버 지 께 끼 니 마다 반드시 고 기 와 술 을 차려 드 렸 다 네 . 그리고 남은 음 식 을\n누 구 에게 줄 것인지 아 버 지 께 여 쑤 었고, 아 버 지 께서 남은 음 식 이 있냐고\n되 물 으 시면 증 자 는 ' 있 습 니 다 .\" 라 고 답 하 였 다 네 . 증 자 는 아 버 지 의 마 음 을\n살 핀 것이지. 그런데 증 자 를 봉 양 한 증 자 의 아 들 은 남은 음 식 이 있 냐 는\n증 자 의 물 음 에 “ 없 습 니 다 .\" 라 고 답 하 였지. 증 자 의 아 들 은 아 버 지 께 다시\n음 식 을 올리려 한 것 이 네 . 증 자 의 아 들 은 입 과 몸 을 봉 양 한 것에 지나지\n않고 증 자 는 뜻 을 봉 양 한 것이라 할 수 있지. …( 후 략 . - ~",
+    "choices": [
+      {
+        "number": 1,
+        "text": "자 식 은 어 버 이 가 가진 의 중 을 헤 아 려 서 붕 양 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "자 식 은 어 버 이 의 옮 지 못한 행 동 을 바꾸려고 해서는 안 된다."
+      },
+      {
+        "number": 3,
+        "text": "어 버 이 를 붕 양 하 는 까 닮은 자 식 에게 봉 양 받기 위 함 일 뿐이다."
+      },
+      {
+        "number": 4,
+        "text": "어 버 이 를 섬기는 방 식 을 경제적 형 편 에 따라서 달 리 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "자 식 된 도 러 를 다 하 기 위해 어 버 이 보다 이 웃 을 더 배 려 해야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:17+00:00",
+    "qa_flags": []
+  }
+}

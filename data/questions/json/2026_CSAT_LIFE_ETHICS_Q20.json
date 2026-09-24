@@ -1,0 +1,75 @@
+{
+  "id": "2026_CSAT_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 160,
+    "question_number": 20,
+    "exam_key": "2026_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2821,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_CSAT_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 다음 사 상 가 의 입 장 에서 < 문 제 상 황 > 속 쇼 에게 제 시 할 조언\n으로 가장 적절한 것은?\n고 통 이나 쾌 락 을 느낄 수 있는 존 재 는 이익 관 심 을 갖는다.\n호모 사 피 엔 스 인지 아닌지 여 부 로 아 기 의 생 명 권 은 승 인 하고,\n다른 동 물 의 경 우 는 승 인 하지 않는 것은 종 차 별 주 의 이다.\n< 꾼 제 상 황 >\n화장품 회사 연 구 원 인 ㅅ 는 개발 중인 화 장 품 에서 혹시 모를\n부 작 용 이 나 타 나 는 지 여 부 를 파 악 하기 위해 동물 실 험 을 해야\n할 지 에 대해 고 민 하고 있다.\n0 동 물 은 인 간 을 위한 수 단 으로 활 용 될 수 없 음 을 명 심 하세요.\n2 인간 이 외 의 모든 동 물 도 도덕적 지 위 를 지 님 을 고 려 하세요.\n@ 동물 실 험 을 통해 인 간 의 이 익 이 산 출 될 수 없 음 을 명 심 하세요.\n9 인 간 의 이 억 과 실 협 대상인 동 물 의 이 익 을 동 등 하게 고 려 하세요.\n5 감각 능 력 을 지닌 동 묻은 어떤 실 협의 대 싱 도 될 수 없 음 을 명 심 하세요.",
+    "stem": "다음 사 상 가 의 입 장 에서 < 문 제 상 황 > 속 쇼 에게 제 시 할 조언 으로 가장 적절한 것은?",
+    "passage": "고 통 이나 쾌 락 을 느낄 수 있는 존 재 는 이익 관 심 을 갖는다.\n호모 사 피 엔 스 인지 아닌지 여 부 로 아 기 의 생 명 권 은 승 인 하고,\n다른 동 물 의 경 우 는 승 인 하지 않는 것은 종 차 별 주 의 이다.\n< 꾼 제 상 황 >\n화장품 회사 연 구 원 인 ㅅ 는 개발 중인 화 장 품 에서 혹시 모를\n부 작 용 이 나 타 나 는 지 여 부 를 파 악 하기 위해 동물 실 험 을 해야\n할 지 에 대해 고 민 하고 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "동 물 은 인 간 을 위한 수 단 으로 활 용 될 수 없 음 을 명 심 하세요."
+      },
+      {
+        "number": 2,
+        "text": "인간 이 외 의 모든 동 물 도 도덕적 지 위 를 지 님 을 고 려 하세요."
+      },
+      {
+        "number": 3,
+        "text": "동물 실 험 을 통해 인 간 의 이 익 이 산 출 될 수 없 음 을 명 심 하세요."
+      },
+      {
+        "number": 4,
+        "text": "인 간 의 이 억 과 실 협 대상인 동 물 의 이 익 을 동 등 하게 고 려 하세요."
+      },
+      {
+        "number": 5,
+        "text": "감각 능 력 을 지닌 동 묻은 어떤 실 협의 대 싱 도 될 수 없 음 을 명 심 하세요."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.896,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:53+00:00",
+    "qa_flags": []
+  }
+}

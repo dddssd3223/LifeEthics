@@ -1,0 +1,73 @@
+{
+  "id": "2020_CSAT_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 83,
+    "question_number": 12,
+    "exam_key": "2020_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2000,
+      1740,
+      3202
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_CSAT_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 다음 사 상 가 의 입 장 으로 옮 지 않은 것은? [3 점 ]\n인 간 은 본 성 상 이기적 충 동 과 이 타 적 충 동 을 함께 갖고\n태어난다. 그런데 도 덕 의 문 제 가 개인 차 원 에서 집단 간의\n관 계 로 옮겨 갈수록 이기적 충 동 이 득 세 하게 된다. 사 회 의\n집단 이 기 심 은 불 가 피 하며 이런 이 기 심 이 비 정 상 적 으로 확 장 될\n경우, 이에 및 서 는 다른 집 단 들의 이 기 심 에 의해서만 견 제 될\n수 있다. 게다가 도 덕 적 이거나 합리적인 설득 외에 강 제 력 도\n병 행 되어야 견 제 가 실 효 성 을 지닐 수 있\n0 사회 갈 등 을 해 소 하는 민주적 과 정 에는 강 제 력 이 불 필 요 하다\n인 간 의 자기 보 존 의 욕 구 는 세력 강 화 의 욕 구 로 쉽게 전 환 된다.\n@ 도덕적 계 몽 으로 사 회 에서 집단 갈등 자 체 를 소 멸 시킬 수 없다\n9) 집단 간 정의 실 현 에 집단 이 기 심 의 상호 두 쟁 이 개 입 될 수 있\n5 강 제 력 만으로 국 가 를 보 존 하고 통 합 을 유 지 하는 것은 불 가 능 하다.",
+    "stem": "다음 사 상 가 의 입 장 으로 옮 지 않은 것은? [3 점 ]",
+    "passage": "인 간 은 본 성 상 이기적 충 동 과 이 타 적 충 동 을 함께 갖고\n태어난다. 그런데 도 덕 의 문 제 가 개인 차 원 에서 집단 간의\n관 계 로 옮겨 갈수록 이기적 충 동 이 득 세 하게 된다. 사 회 의\n집단 이 기 심 은 불 가 피 하며 이런 이 기 심 이 비 정 상 적 으로 확 장 될\n경우, 이에 및 서 는 다른 집 단 들의 이 기 심 에 의해서만 견 제 될\n수 있다. 게다가 도 덕 적 이거나 합리적인 설득 외에 강 제 력 도\n병 행 되어야 견 제 가 실 효 성 을 지닐 수 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "사회 갈 등 을 해 소 하는 민주적 과 정 에는 강 제 력 이 불 필 요 하다"
+      },
+      {
+        "number": 2,
+        "text": "인 간 의 자기 보 존 의 욕 구 는 세력 강 화 의 욕 구 로 쉽게 전 환 된다."
+      },
+      {
+        "number": 3,
+        "text": "도덕적 계 몽 으로 사 회 에서 집단 갈등 자 체 를 소 멸 시킬 수 없다"
+      },
+      {
+        "number": 4,
+        "text": "집단 간 정의 실 현 에 집단 이 기 심 의 상호 두 쟁 이 개 입 될 수 있"
+      },
+      {
+        "number": 5,
+        "text": "강 제 력 만으로 국 가 를 보 존 하고 통 합 을 유 지 하는 것은 불 가 능 하다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.916,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:47+00:00",
+    "qa_flags": []
+  }
+}

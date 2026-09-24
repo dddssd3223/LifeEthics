@@ -1,0 +1,76 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 1,
+    "question_number": 2,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2641,
+      1594,
+      4300
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. (가의 관 점 에서 그림 ( 나 ) 에 나타난 문 제 를 해 결 하기 위해\n제 시 할 방 안 으로 가장 적절한 것은?\n0 종 교 는 우리 인 간 이 이 세 상 을 사는 동안 그러고\n죽은 후에도 행 복 해 지기 위해 존 재 하는 것이다. 종\n교적 문 제 에 대해 모든 사 람 이 똑같이 생 각 하게 되\n기를 바라는 것은 욕 심 이다,\n(가)\n0 종 교 는 자 신 의 실 수 와 과 오 의 역 사 를 비 판 적 으\n성 찰 할 수 있어야 한다. 왜냐하면 진 리 와 거 짓 의\n경 계 가 자 신 의 종 교 와 타 종교 사 이 의 경 계 와 일치\n하지 않기 때 문 이 다.\n1\n주요 종교 분쟁 지역\nㆍ <\n^\n( 북 아 일 랜 드 ) 소 맨다 수\n(나) 될 노새 6. 인도\n파키스탄\n4 기\n스리랑카 %\n(0) 자기 종 교 에 대한 확 신 을 통해 도덕적 위 기 를 극 복 한다.\n(3) 종교 간의 대 화 를 통해 종교적 신 념 의 단 일 화 를 추 구 한다.\n(3) 종 교 의 다 원 성 을 존 중 하 며 다른 종 교 를 용 인 하려고 노 력 한 다.\n(0) 종 교 는 분 쟁 의 근 원 이므로 점 진 적 으로 폐 기 하 려고 노 력 한 다.\n(9) 자기 종교 안의 모든 것이 선 하 고 참 이 라는 믿 음 을 강 화 한 다.",
+    "stem": "(가의 관 점 에서 그림 ( 나 ) 에 나타난 문 제 를 해 결 하기 위해 제 시 할 방 안 으로 가장 적절한 것은?",
+    "passage": "0 종 교 는 우리 인 간 이 이 세 상 을 사는 동안 그러고\n죽은 후에도 행 복 해 지기 위해 존 재 하는 것이다. 종\n교적 문 제 에 대해 모든 사 람 이 똑같이 생 각 하게 되\n기를 바라는 것은 욕 심 이다,\n(가)\n0 종 교 는 자 신 의 실 수 와 과 오 의 역 사 를 비 판 적 으\n성 찰 할 수 있어야 한다. 왜냐하면 진 리 와 거 짓 의\n경 계 가 자 신 의 종 교 와 타 종교 사 이 의 경 계 와 일치\n하지 않기 때 문 이 다.\n1\n주요 종교 분쟁 지역\nㆍ <\n^\n( 북 아 일 랜 드 ) 소 맨다 수\n(나) 될 노새 6. 인도\n파키스탄\n4 기\n스리랑카 %",
+    "choices": [
+      {
+        "number": 1,
+        "text": "자기 종 교 에 대한 확 신 을 통해 도덕적 위 기 를 극 복 한다."
+      },
+      {
+        "number": 2,
+        "text": "종교 간의 대 화 를 통해 종교적 신 념 의 단 일 화 를 추 구 한다."
+      },
+      {
+        "number": 3,
+        "text": "종 교 의 다 원 성 을 존 중 하 며 다른 종 교 를 용 인 하려고 노 력 한 다."
+      },
+      {
+        "number": 4,
+        "text": "종 교 는 분 쟁 의 근 원 이므로 점 진 적 으로 폐 기 하 려고 노 력 한 다."
+      },
+      {
+        "number": 5,
+        "text": "자기 종교 안의 모든 것이 선 하 고 참 이 라는 믿 음 을 강 화 한 다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=12715",
+      "vector_lines=864"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.886,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:30+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 27,
+    "question_number": 12,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      98,
+      3005,
+      1689,
+      4570
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 그 럼 은 서술형 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 (43~@ 중\n올지 않은 것은? [3 점 ]\n서술형 평가\n@ 문제: (가), (나) 사 상 의 국제 관 계 에 대한 입 장 을 비 교 하여 서 술 하시오.\n(가) 국제 관 계 는 사회적 상호 작 용 에 기 초 를 두고 있기 때문에 국가 정 체 성 과\n이 익 이 구 성 되는 과 정 을 분 석 하여 문화적 공 통 점 을 찾아야 국제 체 제 의\n안 정 을 가져올 수 있다.\n(나) 국제 관 계 에서는 국 가 보다 상 위 의 중앙 권 위 가 없기 때문에 분 쟁 이 일어날\n경우 오직 힘 의 논 리 로 해결할 수밖에 없다. 따라서 국제 관 계 는 자기 이익\n이라는 관 점 에서 벗어날 수 없다.\n@ 학생 답안\n(가), ( 나 ) 의 국제 관 계 에 ' 대 한 입 장 을 비교해 보면, ( 가 ) 는 6 국 가 의 정 체 성 은\n고 정 적 인 것이 아니라 국 가 들 간의 교 류 와 대 화 를 통해 계속 변 화 한 다고 보며, 국제적인\n분쟁 해 결 을 위해서는 0 국가 간에 공 유 하는 문화, 역 사 와 같은 공 동 의 기 반 을 토대로\n조 화 로운 정 체 성 을 형성해 나가야 한다고 본다. 반면 ( 나 ) 는 63 국가 간에는 이익 충 돌 을\n해결할 수 있는 강력한 기 구 가 있을 수 없으므로 국제 관 계 는 이기적 깥 등 이 라는 틀\n벗어날 수 없다고 보며, 국제적인 분쟁 해 결 을 위해서는 @ 국가 간 인적, 경제적 교 류 를\n통해 상 오 이 해 를 증 진 하고 중 립 적 인 국 제 기 구 의 역 할 을 강 화 해 야 한다고 본다. 한편\n@ (가), ( 나 ) 는 모두 이 익 이 충 돌 하는 국제 관 계 에서 국 제 법 과 국제 규 법 의 실 효 성 에\n한 계 가 있다고 본다. ~\n00@ (0098 0) 00@ 06) @",
+    "stem": "그 럼 은 서술형 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 (43~@ 중 올지 않은 것은? [3 점 ]",
+    "passage": "서술형 평가\n@ 문제: (가), (나) 사 상 의 국제 관 계 에 대한 입 장 을 비 교 하여 서 술 하시오.\n(가) 국제 관 계 는 사회적 상호 작 용 에 기 초 를 두고 있기 때문에 국가 정 체 성 과\n이 익 이 구 성 되는 과 정 을 분 석 하여 문화적 공 통 점 을 찾아야 국제 체 제 의\n안 정 을 가져올 수 있다.\n(나) 국제 관 계 에서는 국 가 보다 상 위 의 중앙 권 위 가 없기 때문에 분 쟁 이 일어날\n경우 오직 힘 의 논 리 로 해결할 수밖에 없다. 따라서 국제 관 계 는 자기 이익\n이라는 관 점 에서 벗어날 수 없다.\n@ 학생 답안\n(가), ( 나 ) 의 국제 관 계 에 ' 대 한 입 장 을 비교해 보면, ( 가 ) 는 6 국 가 의 정 체 성 은\n고 정 적 인 것이 아니라 국 가 들 간의 교 류 와 대 화 를 통해 계속 변 화 한 다고 보며, 국제적인\n분쟁 해 결 을 위해서는 0 국가 간에 공 유 하는 문화, 역 사 와 같은 공 동 의 기 반 을 토대로\n조 화 로운 정 체 성 을 형성해 나가야 한다고 본다. 반면 ( 나 ) 는 63 국가 간에는 이익 충 돌 을\n해결할 수 있는 강력한 기 구 가 있을 수 없으므로 국제 관 계 는 이기적 깥 등 이 라는 틀\n벗어날 수 없다고 보며, 국제적인 분쟁 해 결 을 위해서는 @ 국가 간 인적, 경제적 교 류 를\n통해 상 오 이 해 를 증 진 하고 중 립 적 인 국 제 기 구 의 역 할 을 강 화 해 야 한다고 본다. 한편\n@ (가), ( 나 ) 는 모두 이 익 이 충 돌 하는 국제 관 계 에서 국 제 법 과 국제 규 법 의 실 효 성 에\n한 계 가 있다고 본다. ~",
+    "choices": [
+      {
+        "number": 1,
+        "text": "@"
+      },
+      {
+        "number": 2,
+        "text": "098"
+      },
+      {
+        "number": 3,
+        "text": "98"
+      },
+      {
+        "number": 4,
+        "text": "@"
+      },
+      {
+        "number": 5,
+        "text": "@"
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.81,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE4_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 3, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)",
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:horizontal_1rows_clustered",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:51:13+00:00",
+    "qa_flags": []
+  }
+}

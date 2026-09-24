@@ -1,0 +1,79 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 24,
+    "question_number": 20,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      2327,
+      2999,
+      4060
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 그 림 은 서술형 평가 문 제 와 학생 답 안 이다. 학생 담 안의 ㄱ ~6 중\n옮 지 않은 것은?\n16 ㄴ _\n^ 서술형 평가\n@ 문제: (가), (나) 사 상 의 자 연 에 대한 관 점 을 비 교 하여 서 술 하시오.\n(가) 인 ( 취 ) 과 연 000 에 의해 생 겨 나 는 것이 법 (※) 이 다. 이것을 공 (못하다고\n한다. 단 하 나 의 법도 인과 연 에 따라 생 겨 나 지 않는 것이 없으니\n일 체 의 법 이 공 하 다.\n(나) 하 늘 이 명한 것을 성 ( 뿌 ) 이 라고 하고 성 을 따르는 것을 도 ( 펼 )\n라고 한다. 하 늘 이 음 양 ( 숲 @) 과 오 행 ( 포 17) 으 로 만 물 을 생겨나게\n하 니 [산소], 천지 만 물 은 본래 나와 일 체 이다.\n으으으 그\n@ 학생 답안\n(가), ( 나 ) 의 관 접 을 비 교 하 면 , ( 가 ) 는 (7 자연 만 물 에 고 정 된 실 체 가\n없다고 보며, 6 살아 있는 모든 생 명 에 대한 존 중 을 강 조 한 다, 이에 비해\n( 나 ) 는 8 하 늘 [ 제 ] 을 인 잔 이 따라야 하는 도덕 원 리 의 원 천 으 로 보며,\n2 하늘 아래 만 물 이 무 위 ( 씀 ) 의 자 연 스 러 움 을 따라야 함 을 강 조 한 다,\n한편 (3) (가), (나) 모두 자연 만 물 을 상 의 ( 째 &) 와 화 해 ( 체 롭 ) 의 관 계 에\n놓인 껏 으로 본다,\n00 00 ㄴ 8 0) ㅁ 00 @) 69) 2:",
+    "stem": "그 림 은 서술형 평가 문 제 와 학생 답 안 이다. 학생 담 안의 ㄱ ~6 중 옮 지 않은 것은?",
+    "passage": "16 ㄴ _\n^ 서술형 평가\n@ 문제: (가), (나) 사 상 의 자 연 에 대한 관 점 을 비 교 하여 서 술 하시오.\n(가) 인 ( 취 ) 과 연 000 에 의해 생 겨 나 는 것이 법 (※) 이 다. 이것을 공 (못하다고\n한다. 단 하 나 의 법도 인과 연 에 따라 생 겨 나 지 않는 것이 없으니\n일 체 의 법 이 공 하 다.\n(나) 하 늘 이 명한 것을 성 ( 뿌 ) 이 라고 하고 성 을 따르는 것을 도 ( 펼 )\n라고 한다. 하 늘 이 음 양 ( 숲 @) 과 오 행 ( 포 17) 으 로 만 물 을 생겨나게\n하 니 [산소], 천지 만 물 은 본래 나와 일 체 이다.\n으으으 그\n@ 학생 답안\n(가), ( 나 ) 의 관 접 을 비 교 하 면 , ( 가 ) 는 (7 자연 만 물 에 고 정 된 실 체 가\n없다고 보며, 6 살아 있는 모든 생 명 에 대한 존 중 을 강 조 한 다, 이에 비해\n( 나 ) 는 8 하 늘 [ 제 ] 을 인 잔 이 따라야 하는 도덕 원 리 의 원 천 으 로 보며,\n2 하늘 아래 만 물 이 무 위 ( 씀 ) 의 자 연 스 러 움 을 따라야 함 을 강 조 한 다,\n한편 (3) (가), (나) 모두 자연 만 물 을 상 의 ( 째 &) 와 화 해 ( 체 롭 ) 의 관 계 에\n놓인 껏 으로 본다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(0"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ 8"
+      },
+      {
+        "number": 3,
+        "text": "ㅁ"
+      },
+      {
+        "number": 4,
+        "text": "@)"
+      },
+      {
+        "number": 5,
+        "text": "2:"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=38"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.848,
+    "review_required": true,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED",
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:51:01+00:00",
+    "qa_flags": []
+  }
+}

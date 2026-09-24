@@ -1,0 +1,77 @@
+{
+  "id": "2025_SEPTEMBER_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 139,
+    "question_number": 12,
+    "exam_key": "2025_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1952,
+      1740,
+      3349
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_SEPTEMBER_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 다 음 을 주장한 사 상 가 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서\n고른 것은? [3 점 ]\n시 민 들 의 기본적 자 유 가 첨 해 될 때 시민 불 복 종 으로 반 대 한다면\n기본적 자 유 는 더 확 고 해질 것으로 생 각 된다. 시민 불 복 좋은\n다 수 자가 정 의 감 을 갖고 있는 거의 정 의 로운 사 회 에서만 합당한\n행 위 임을 인 식 해야 한다. 거의 정 의 로운 사 회 는 공 유 된 정 의 관 이\n존 재 하는 사 회 라는 것을 뜻 한 다.\n< 보 기 >\nㄱ . 국 가 의 처 벌 이 시민 불 복 종 의 대 상 이 되는 경 우 는 없다.\nㄴ . 기본적 자 유 를 침 해 한 법 에 대한 항 거 도 정 당 하 지 않을 수 있다.\nㄷ . 시민 불 복 종 은 공 유 된 정 의 관 에 따른 숙 고 를 권 력 자 들 에게\n촉 구 한다.\n르 . 시민 불 복 종 은 다 수 자의 정 의 감 을 전 제 하므로 소 수 자 가\n주 체 일 수 는 없다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "시 민 들 의 기본적 자 유 가 첨 해 될 때 시민 불 복 종 으로 반 대 한다면\n기본적 자 유 는 더 확 고 해질 것으로 생 각 된다. 시민 불 복 좋은\n다 수 자가 정 의 감 을 갖고 있는 거의 정 의 로운 사 회 에서만 합당한\n행 위 임을 인 식 해야 한다. 거의 정 의 로운 사 회 는 공 유 된 정 의 관 이\n존 재 하는 사 회 라는 것을 뜻 한 다.\n< 보 기 >\nㄱ . 국 가 의 처 벌 이 시민 불 복 종 의 대 상 이 되는 경 우 는 없다.\nㄴ . 기본적 자 유 를 침 해 한 법 에 대한 항 거 도 정 당 하 지 않을 수 있다.\nㄷ . 시민 불 복 종 은 공 유 된 정 의 관 에 따른 숙 고 를 권 력 자 들 에게\n촉 구 한다.\n르 . 시민 불 복 종 은 다 수 자의 정 의 감 을 전 제 하므로 소 수 자 가\n주 체 일 수 는 없다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.903,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:55:44+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2024_SEPTEMBER_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 126,
+    "question_number": 7,
+    "exam_key": "2024_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2025,
+      1740,
+      3348
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_SEPTEMBER_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n시민 불 복 좋은 정치 체 제 의 합 법 성 을 인 정 하고 받 아 들 이 는\n시 민 들 에 의해서만 행 해 진 다. 이때, 시민 불복종 행 위 가 항 의 의\n대 상 이 되고 있는 바로 그 법 을 위 반 하라는 요 구 를 하지는\n않는다. 그것은 사 람 들 이 직접적인 시민 불 복 종 이라 부르는\n것 뿐만 아니라 간 접 적 인 시민 불 복 종 이라 부르는 것 까 지도\n고 려 하고 있다. 때로는 부 정 의 하 다고 간 주 되는 법 이나 정 책 도\n어 기 지 말아야 할 강력한 이 유 가 있\n0) 시민 볼 복 종 은 정치 체 제 의 효 율 성 을 이유로 제 한 될 수 있다.\n(0) 시민 불 복 종 이 성 립 되지 않는 사 회 가 정 의 로운 사 회 일 수 는 없다.\n(3) 안정적인 체 제 에서는 시민 불복종 행 위 에 대해 처 벌 하지 않는다.\n@) 공적 심 의 를 거친 정 책 이 시민 불 복 종 의 대 상 이 될 수 는 없다.\n(5) 시민 볼 복 종 은 다 수 결 의 원 칙 에 대한 반 대 를 표하는 정치 행 위 이다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "시민 불 복 좋은 정치 체 제 의 합 법 성 을 인 정 하고 받 아 들 이 는\n시 민 들 에 의해서만 행 해 진 다. 이때, 시민 불복종 행 위 가 항 의 의\n대 상 이 되고 있는 바로 그 법 을 위 반 하라는 요 구 를 하지는\n않는다. 그것은 사 람 들 이 직접적인 시민 불 복 종 이라 부르는\n것 뿐만 아니라 간 접 적 인 시민 불 복 종 이라 부르는 것 까 지도\n고 려 하고 있다. 때로는 부 정 의 하 다고 간 주 되는 법 이나 정 책 도\n어 기 지 말아야 할 강력한 이 유 가 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "시민 볼 복 종 은 정치 체 제 의 효 율 성 을 이유로 제 한 될 수 있다."
+      },
+      {
+        "number": 2,
+        "text": "시민 불 복 종 이 성 립 되지 않는 사 회 가 정 의 로운 사 회 일 수 는 없다."
+      },
+      {
+        "number": 3,
+        "text": "안정적인 체 제 에서는 시민 불복종 행 위 에 대해 처 벌 하지 않는다."
+      },
+      {
+        "number": 4,
+        "text": "공적 심 의 를 거친 정 책 이 시민 불 복 종 의 대 상 이 될 수 는 없다."
+      },
+      {
+        "number": 5,
+        "text": "시민 볼 복 종 은 다 수 결 의 원 칙 에 대한 반 대 를 표하는 정치 행 위 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.916,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:29+00:00",
+    "qa_flags": []
+  }
+}

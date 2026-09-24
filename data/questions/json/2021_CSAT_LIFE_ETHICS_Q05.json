@@ -1,0 +1,78 @@
+{
+  "id": "2021_CSAT_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 93,
+    "question_number": 5,
+    "exam_key": "2021_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      2950,
+      3149,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_CSAT_LIFE_ETHICS_Q05.png",
+    "raw_text": "02. 그 림 은 서술형 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 (7~0 ㅁ 중\n옮 지 않은 것은?\n서술형 평가\n@ 문제: 예 술 에 대한 갑 , 을 사 상 가 들의 입 장 을 비 교 하 여 서 술 하시오.\n갑 : 아름다운 리 듬 과 화 음 은 영 혼 에 들어가 우 아 함 을 심어 주고, 미 추 ( 촛 8)\n감 각 을 키워 준다. 품위 없는 리 듬 과 화 음 은 나쁜 말 씨 나 고약한 성 질 과\n[때\n연 결 되니, 작품 속에 선 ( 폼 ) 의 원 형 을 표 현 하지 않는 사 람 은 추 방 해야 한다.\n: 미적인 것은 윤 리 적 으로 선한 것의 상 징 이다. 이런 관 점 에서만 미적인\n것은 다른 모든 사 람 들 의 동 의 를 요 구 한다. 이때 우 리 의 마 음 은 감각적\n쾌 락 을 넘어서 순 화 되고 고 양 된 고 귀 함 을 느 끼 다.\n@ 학생 답안\n갑 , 을 의 예 술 에 대한 입 장 을 비교해 보면, 갑 은 「7' 예 술 가의 창작 행 위 를\n떠 나 서 는 아 름 다 움 의 원 형 이 존재할 수 없고, - 예 술 가 는 미적 가 치 를\n통해 영 혼 의 조 화 를 추 구 해 야 한다고 본다. 을 은 2 예 술 을 통해 타 인 과\n감 정 을 공 유 할 수 있고, 6 예 술 은 도덕성 증 진 에 기여할 수 있다고 본다.\n한편 갑 , 을 은 모두 ( ㅁ 6 예 술 은 미적 가 치 를 다루는 활 동 이라고 본다.\n00 09) 45 0) 5 @ @ 69 9)",
+    "stem": "그 림 은 서술형 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 (7~0 ㅁ 중 옮 지 않은 것은?",
+    "passage": "서술형 평가\n@ 문제: 예 술 에 대한 갑 , 을 사 상 가 들의 입 장 을 비 교 하 여 서 술 하시오.\n갑 : 아름다운 리 듬 과 화 음 은 영 혼 에 들어가 우 아 함 을 심어 주고, 미 추 ( 촛 8)\n감 각 을 키워 준다. 품위 없는 리 듬 과 화 음 은 나쁜 말 씨 나 고약한 성 질 과\n[때\n연 결 되니, 작품 속에 선 ( 폼 ) 의 원 형 을 표 현 하지 않는 사 람 은 추 방 해야 한다.\n: 미적인 것은 윤 리 적 으로 선한 것의 상 징 이다. 이런 관 점 에서만 미적인\n것은 다른 모든 사 람 들 의 동 의 를 요 구 한다. 이때 우 리 의 마 음 은 감각적\n쾌 락 을 넘어서 순 화 되고 고 양 된 고 귀 함 을 느 끼 다.\n@ 학생 답안\n갑 , 을 의 예 술 에 대한 입 장 을 비교해 보면, 갑 은 「7' 예 술 가의 창작 행 위 를\n떠 나 서 는 아 름 다 움 의 원 형 이 존재할 수 없고, - 예 술 가 는 미적 가 치 를\n통해 영 혼 의 조 화 를 추 구 해 야 한다고 본다. 을 은 2 예 술 을 통해 타 인 과\n감 정 을 공 유 할 수 있고, 6 예 술 은 도덕성 증 진 에 기여할 수 있다고 본다.\n한편 갑 , 을 은 모두 ( ㅁ 6 예 술 은 미적 가 치 를 다루는 활 동 이라고 본다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(2"
+      },
+      {
+        "number": 2,
+        "text": "45"
+      },
+      {
+        "number": 3,
+        "text": "5"
+      },
+      {
+        "number": 4,
+        "text": "@"
+      },
+      {
+        "number": 5,
+        "text": "9)"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.882,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 3, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows_clustered",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:15+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 48,
+    "question_number": 18,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3125,
+      1593,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 갑 , 을, 병 사 상 가 들의 입 장 으로 적 절 하 지 않은 것은? [3 점 ]\n갑 : 정 의 는 합 법 적 이며 공정한 것을 의 미 한다. 특수한 정 의 의\n한 종 류 는 명예, 금전 등 의 분 배 에 관 련 되는 것이고, 다른\n종 류 는 사람들 간의 거 래 에 관 련 되는 것이다,\n을: 정 의 는 모든 사 람 들 이 각자 소 유 하고 있는 것에 대해 소유\n권 리 를 갖는 것이다. 정 의 의 원 리 에 따르면 과 거 의 상황\n이나 행 위 는 사 물 에 대한 응 분 의 자 격 을 창 조 한다.\n병 : 정 의 는 퀸 리 와 의 무 를 할 당 하고 사회적 이 익 을 적 절 하게\n분 배 하는 원 칙 들의 역 할 에 의해 규 정 된다. 정 의 의 원칙\n들은 평 등 한 최 초 의 입 장 에서 합 의 할 대 상 이다.\n0 감 : 정 의 로운 분 배 는 비 례 적이고 부 정 의한 분 배 는 비 례 에 어긋난다.\n을: 최 소 국 가 보다 기 능 이 확 대 된 국 가 의 도덕적 정 딩 화 는 불 가 능 하다.\n(8) 병 : 천부적 재능 분 포 의 우 연 성은 그 자 체 로 부 정 의한 사 실 이다.\n4) 갑 , 병 : 정 의 로운 사 회 는 각 자 에게 각 자 의 당연한 몸 을 할 당 해야 한다.\n을, 병 : 다 수 의 이 억 을 명 목 으로 개 인 의 자 유 를 침 해 해서는 안 된다.",
+    "stem": "갑 , 을, 병 사 상 가 들의 입 장 으로 적 절 하 지 않은 것은? [3 점 ]",
+    "passage": "갑 : 정 의 는 합 법 적 이며 공정한 것을 의 미 한다. 특수한 정 의 의\n한 종 류 는 명예, 금전 등 의 분 배 에 관 련 되는 것이고, 다른\n종 류 는 사람들 간의 거 래 에 관 련 되는 것이다,\n을: 정 의 는 모든 사 람 들 이 각자 소 유 하고 있는 것에 대해 소유\n권 리 를 갖는 것이다. 정 의 의 원 리 에 따르면 과 거 의 상황\n이나 행 위 는 사 물 에 대한 응 분 의 자 격 을 창 조 한다.\n병 : 정 의 는 퀸 리 와 의 무 를 할 당 하고 사회적 이 익 을 적 절 하게\n분 배 하는 원 칙 들의 역 할 에 의해 규 정 된다. 정 의 의 원칙\n들은 평 등 한 최 초 의 입 장 에서 합 의 할 대 상 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "감 : 정 의 로운 분 배 는 비 례 적이고 부 정 의한 분 배 는 비 례 에 어긋난다."
+      },
+      {
+        "number": 2,
+        "text": "을: 최 소 국 가 보다 기 능 이 확 대 된 국 가 의 도덕적 정 딩 화 는 불 가 능 하다."
+      },
+      {
+        "number": 3,
+        "text": "병 : 천부적 재능 분 포 의 우 연 성은 그 자 체 로 부 정 의한 사 실 이다."
+      },
+      {
+        "number": 4,
+        "text": "갑 , 병 : 정 의 로운 사 회 는 각 자 에게 각 자 의 당연한 몸 을 할 당 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "을, 병 : 다 수 의 이 억 을 명 목 으로 개 인 의 자 유 를 침 해 해서는 안 된다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:23+00:00",
+    "qa_flags": []
+  }
+}

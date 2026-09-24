@@ -1,0 +1,73 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 122,
+    "question_number": 7,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1861,
+      1740,
+      3144
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 다 음 을 주장한 사 상 가 가 강 조 하는 공 직 자 의 자 세 로 옮 지 않은\n것은?\n0 사 사 로 운 씀 씀 이 를 절 약 하는 것은 보통 사 람 도 할 수 있지만\n나라 곳 간 을 절 약 할 수 있는 사 람 은 드물다. 공 공 의 것을\n마치 내 것처럼 소중하게 여겨야 어진 목 민 관 이다.\n0 목 민 관 은 자 신 의 생 일 에 관청 사 람 들 이 성 찬 을 바 치 더라도\n받 아 서 는 안 된다. 받지 않고 오히려 내 어 놓는 바가 있더라도,\n공공연히 말하지 말고 자 랑 하는 기 색 을 나 타 내 지 도 말라.\n0 근 검 절 약 하 면서도 인 색 하지 않도록 노력해야 한다.\n3 절 약 의 대 상 을 사적인 영 역 으로 국 한 해서는 안 된다.\n8) 절 용 (0608) 을 통해 애 민 (8) 정 신 을 구 현 해 야 한다.\n9 국 민 의 모 범 이 되기 위해 자 신 의 청 렴 을 과 시 해야 한다.\n6 작은 선 물 이라도 정당한 것이 아니면 받지 말아야 한다.",
+    "stem": "다 음 을 주장한 사 상 가 가 강 조 하는 공 직 자 의 자 세 로 옮 지 않은 것은?",
+    "passage": "0 사 사 로 운 씀 씀 이 를 절 약 하는 것은 보통 사 람 도 할 수 있지만\n나라 곳 간 을 절 약 할 수 있는 사 람 은 드물다. 공 공 의 것을\n마치 내 것처럼 소중하게 여겨야 어진 목 민 관 이다.\n0 목 민 관 은 자 신 의 생 일 에 관청 사 람 들 이 성 찬 을 바 치 더라도\n받 아 서 는 안 된다. 받지 않고 오히려 내 어 놓는 바가 있더라도,\n공공연히 말하지 말고 자 랑 하는 기 색 을 나 타 내 지 도 말라.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "근 검 절 약 하 면서도 인 색 하지 않도록 노력해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "절 약 의 대 상 을 사적인 영 역 으로 국 한 해서는 안 된다."
+      },
+      {
+        "number": 3,
+        "text": "절 용 (0608) 을 통해 애 민 (8) 정 신 을 구 현 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "국 민 의 모 범 이 되기 위해 자 신 의 청 렴 을 과 시 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "작은 선 물 이라도 정당한 것이 아니면 받지 말아야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:20+00:00",
+    "qa_flags": []
+  }
+}
