@@ -1,0 +1,78 @@
+{
+  "total": 800,
+  "relevance": {
+    "DIRECT": 101,
+    "ADAPTABLE": 112,
+    "LOW": 88,
+    "NONE": 499
+  },
+  "sample_links": {
+    "Q4": 64,
+    "Q13": 64,
+    "Q14": 30,
+    "Q15": 77,
+    "Q16": 43,
+    "Q18": 44,
+    "기타": {
+      "Q8": 5,
+      "Q1": 6,
+      "Q3": 10
+    }
+  },
+  "sample_links_note": "relevance != NONE 문항 기준, 한 문항이 여러 예시문항에 연결될 수 있음",
+  "mechanism_family_count": 14,
+  "direct_adaptable_review_required": 66,
+  "top_families": [
+    {
+      "family_id": "ETH-PUN-02",
+      "name": "응보주의-공리주의 형벌·사형 대조",
+      "count": 39
+    },
+    {
+      "family_id": "ETH-RAWLS-02",
+      "name": "롤스-노직 분배 정의 대조",
+      "count": 39
+    },
+    {
+      "family_id": "ETH-ENV-02",
+      "name": "동물·생명 중심주의 도덕적 고려 범위 판별",
+      "count": 35
+    },
+    {
+      "family_id": "ETH-JUST-01",
+      "name": "분배 기준·우대 조치 판단",
+      "count": 17
+    },
+    {
+      "family_id": "ETH-CD-01",
+      "name": "시민불복종 정당화 조건 판별",
+      "count": 16
+    },
+    {
+      "family_id": "ETH-CD-02",
+      "name": "시민불복종 사상가 간 조건 대조",
+      "count": 14
+    },
+    {
+      "family_id": "ETH-ENV-01",
+      "name": "인간중심주의-생태적 관점 비교",
+      "count": 13
+    },
+    {
+      "family_id": "ETH-CULT-02",
+      "name": "다문화 정책 모형 구분",
+      "count": 10
+    },
+    {
+      "family_id": "ETH-PEACE-01",
+      "name": "갈퉁 폭력 유형·적극적 평화 판별",
+      "count": 8
+    },
+    {
+      "family_id": "ETH-RAWLS-01",
+      "name": "원초적 입장·정의 원칙 조건 판별",
+      "count": 5
+    }
+  ],
+  "method": "Phase 1 OCR 텍스트 기반 규칙 분류(예시문항 개념 키워드 + 발문 구조). 신규 OCR·AI 호출 없음."
+}

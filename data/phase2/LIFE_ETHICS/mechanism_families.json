@@ -1,0 +1,396 @@
+{
+  "families": [
+    {
+      "family_id": "ETH-CD-01",
+      "name": "시민불복종 정당화 조건 판별",
+      "thinking_structure": "단일 사상가(롤스형) 제시문 → 공개성·비폭력·처벌 감수·공유된 정의관·체제 인정 등 조건별 진술 정오",
+      "sample_matches": [
+        "Q14"
+      ],
+      "count": 16,
+      "direct": 16,
+      "question_ids": [
+        "2018_CSAT_LIFE_ETHICS_Q03",
+        "2018_SEPTEMBER_LIFE_ETHICS_Q08",
+        "2019_CSAT_LIFE_ETHICS_Q18",
+        "2019_SEPTEMBER_LIFE_ETHICS_Q19",
+        "2020_CSAT_LIFE_ETHICS_Q18",
+        "2020_JUNE_LIFE_ETHICS_Q12",
+        "2021_SEPTEMBER_LIFE_ETHICS_Q07",
+        "2022_CSAT_LIFE_ETHICS_Q03",
+        "2022_JUNE_LIFE_ETHICS_Q16",
+        "2024_CSAT_LIFE_ETHICS_Q09",
+        "2024_SEPTEMBER_LIFE_ETHICS_Q07",
+        "2025_CSAT_LIFE_ETHICS_Q18",
+        "2025_SEPTEMBER_LIFE_ETHICS_Q12",
+        "2026_CSAT_LIFE_ETHICS_Q09",
+        "2026_JUNE_LIFE_ETHICS_Q06",
+        "2027_SEPTEMBER_LIFE_ETHICS_Q09"
+      ]
+    },
+    {
+      "family_id": "ETH-CD-02",
+      "name": "시민불복종 사상가 간 조건 대조",
+      "thinking_structure": "2인 이상 사상가(소로·롤스·싱어 등)의 불복종 대상·정당화 근거 차이를 진술별로 귀속",
+      "sample_matches": [
+        "Q14"
+      ],
+      "count": 14,
+      "direct": 13,
+      "question_ids": [
+        "2017_CSAT_LIFE_ETHICS_Q08",
+        "2017_JUNE_LIFE_ETHICS_Q16",
+        "2018_JUNE_LIFE_ETHICS_Q12",
+        "2019_JUNE_LIFE_ETHICS_Q16",
+        "2020_SEPTEMBER_LIFE_ETHICS_Q07",
+        "2021_CSAT_LIFE_ETHICS_Q12",
+        "2021_JUNE_LIFE_ETHICS_Q11",
+        "2022_SEPTEMBER_LIFE_ETHICS_Q17",
+        "2023_CSAT_LIFE_ETHICS_Q14",
+        "2023_JUNE_LIFE_ETHICS_Q12",
+        "2023_SEPTEMBER_LIFE_ETHICS_Q08",
+        "2024_JUNE_LIFE_ETHICS_Q05",
+        "2025_JUNE_LIFE_ETHICS_Q14",
+        "2027_JUNE_LIFE_ETHICS_Q11"
+      ]
+    },
+    {
+      "family_id": "ETH-RAWLS-01",
+      "name": "원초적 입장·정의 원칙 조건 판별",
+      "thinking_structure": "원초적 입장/무지의 베일/차등의 원칙 명제로 진술 정오 판정",
+      "sample_matches": [
+        "Q15"
+      ],
+      "count": 5,
+      "direct": 2,
+      "question_ids": [
+        "2014_JUNE_LIFE_ETHICS_Q06",
+        "2014_SEPTEMBER_LIFE_ETHICS_Q11",
+        "2015_SEPTEMBER_LIFE_ETHICS_Q17",
+        "2016_CSAT_LIFE_ETHICS_Q03",
+        "2027_JUNE_LIFE_ETHICS_Q06"
+      ]
+    },
+    {
+      "family_id": "ETH-RAWLS-02",
+      "name": "롤스-노직 분배 정의 대조",
+      "thinking_structure": "두 사상가 진술을 갑만/을만/공통 영역으로 배치(벤다이어그램·비교형)",
+      "sample_matches": [
+        "Q15"
+      ],
+      "count": 39,
+      "direct": 27,
+      "question_ids": [
+        "2014_CSAT_LIFE_ETHICS_Q07",
+        "2014_JUNE_LIFE_ETHICS_Q19",
+        "2015_CSAT_LIFE_ETHICS_Q15",
+        "2015_JUNE_LIFE_ETHICS_Q15",
+        "2015_SEPTEMBER_LIFE_ETHICS_Q19",
+        "2016_CSAT_LIFE_ETHICS_Q14",
+        "2016_JUNE_LIFE_ETHICS_Q05",
+        "2016_JUNE_LIFE_ETHICS_Q11",
+        "2016_SEPTEMBER_LIFE_ETHICS_Q13",
+        "2017_CSAT_LIFE_ETHICS_Q18",
+        "2017_JUNE_LIFE_ETHICS_Q11",
+        "2017_SEPTEMBER_LIFE_ETHICS_Q08",
+        "2018_CSAT_LIFE_ETHICS_Q09",
+        "2018_JUNE_LIFE_ETHICS_Q10",
+        "2018_SEPTEMBER_LIFE_ETHICS_Q11",
+        "2019_CSAT_LIFE_ETHICS_Q14",
+        "2019_JUNE_LIFE_ETHICS_Q14",
+        "2019_SEPTEMBER_LIFE_ETHICS_Q15",
+        "2020_CSAT_LIFE_ETHICS_Q10",
+        "2020_JUNE_LIFE_ETHICS_Q15",
+        "2020_SEPTEMBER_LIFE_ETHICS_Q17",
+        "2021_CSAT_LIFE_ETHICS_Q10",
+        "2021_JUNE_LIFE_ETHICS_Q07",
+        "2021_SEPTEMBER_LIFE_ETHICS_Q18",
+        "2022_CSAT_LIFE_ETHICS_Q10",
+        "2022_JUNE_LIFE_ETHICS_Q07",
+        "2022_SEPTEMBER_LIFE_ETHICS_Q10",
+        "2023_CSAT_LIFE_ETHICS_Q09",
+        "2023_JUNE_LIFE_ETHICS_Q09",
+        "2023_SEPTEMBER_LIFE_ETHICS_Q15",
+        "2024_CSAT_LIFE_ETHICS_Q14",
+        "2024_JUNE_LIFE_ETHICS_Q08",
+        "2024_SEPTEMBER_LIFE_ETHICS_Q15",
+        "2025_CSAT_LIFE_ETHICS_Q15",
+        "2025_JUNE_LIFE_ETHICS_Q15",
+        "2025_SEPTEMBER_LIFE_ETHICS_Q10",
+        "2026_CSAT_LIFE_ETHICS_Q15",
+        "2026_JUNE_LIFE_ETHICS_Q19",
+        "2027_SEPTEMBER_LIFE_ETHICS_Q19"
+      ]
+    },
+    {
+      "family_id": "ETH-JUST-01",
+      "name": "분배 기준·우대 조치 판단",
+      "thinking_structure": "필요·업적·능력 등 분배 기준 또는 적극적 우대 조치의 정당화 논거 판별",
+      "sample_matches": [
+        "Q13"
+      ],
+      "count": 17,
+      "direct": 5,
+      "question_ids": [
+        "2014_CSAT_LIFE_ETHICS_Q15",
+        "2016_CSAT_LIFE_ETHICS_Q09",
+        "2017_JUNE_LIFE_ETHICS_Q13",
+        "2018_CSAT_LIFE_ETHICS_Q18",
+        "2018_JUNE_LIFE_ETHICS_Q09",
+        "2019_CSAT_LIFE_ETHICS_Q17",
+        "2019_JUNE_LIFE_ETHICS_Q03",
+        "2020_SEPTEMBER_LIFE_ETHICS_Q12",
+        "2022_SEPTEMBER_LIFE_ETHICS_Q08",
+        "2023_SEPTEMBER_LIFE_ETHICS_Q14",
+        "2023_SEPTEMBER_LIFE_ETHICS_Q17",
+        "2024_SEPTEMBER_LIFE_ETHICS_Q01",
+        "2025_CSAT_LIFE_ETHICS_Q12",
+        "2025_JUNE_LIFE_ETHICS_Q08",
+        "2025_SEPTEMBER_LIFE_ETHICS_Q07",
+        "2026_CSAT_LIFE_ETHICS_Q02",
+        "2026_CSAT_LIFE_ETHICS_Q08"
+      ]
+    },
+    {
+      "family_id": "ETH-JUST-02",
+      "name": "자유주의-공동체주의 관점 판별",
+      "thinking_structure": "개인 권리 우선 vs 공동선·구성원 책임 우선 진술 구별",
+      "sample_matches": [
+        "Q13"
+      ],
+      "count": 5,
+      "direct": 0,
+      "question_ids": [
+        "2016_SEPTEMBER_LIFE_ETHICS_Q14",
+        "2017_CSAT_LIFE_ETHICS_Q14",
+        "2020_CSAT_LIFE_ETHICS_Q11",
+        "2022_CSAT_LIFE_ETHICS_Q15",
+        "2025_JUNE_LIFE_ETHICS_Q04"
+      ]
+    },
+    {
+      "family_id": "ETH-PUN-01",
+      "name": "응보주의 형벌관 판별",
+      "thinking_structure": "단일 사상가(칸트형) 제시문 → 존엄성·동등성·응보 진술 vs 예방 진술 구별",
+      "sample_matches": [
+        "Q16"
+      ],
+      "count": 4,
+      "direct": 3,
+      "question_ids": [
+        "2016_SEPTEMBER_LIFE_ETHICS_Q20",
+        "2020_CSAT_LIFE_ETHICS_Q14",
+        "2021_CSAT_LIFE_ETHICS_Q16",
+        "2026_CSAT_LIFE_ETHICS_Q14"
+      ]
+    },
+    {
+      "family_id": "ETH-PUN-02",
+      "name": "응보주의-공리주의 형벌·사형 대조",
+      "thinking_structure": "칸트/루소/베카리아/벤담 등 형벌·사형 근거를 사상가별로 귀속",
+      "sample_matches": [
+        "Q16"
+      ],
+      "count": 39,
+      "direct": 22,
+      "question_ids": [
+        "2014_CSAT_LIFE_ETHICS_Q06",
+        "2014_JUNE_LIFE_ETHICS_Q08",
+        "2015_CSAT_LIFE_ETHICS_Q06",
+        "2015_SEPTEMBER_LIFE_ETHICS_Q09",
+        "2016_CSAT_LIFE_ETHICS_Q19",
+        "2016_JUNE_LIFE_ETHICS_Q06",
+        "2017_CSAT_LIFE_ETHICS_Q10",
+        "2017_JUNE_LIFE_ETHICS_Q12",
+        "2017_SEPTEMBER_LIFE_ETHICS_Q14",
+        "2018_CSAT_LIFE_ETHICS_Q17",
+        "2018_JUNE_LIFE_ETHICS_Q19",
+        "2018_SEPTEMBER_LIFE_ETHICS_Q17",
+        "2019_CSAT_LIFE_ETHICS_Q01",
+        "2019_CSAT_LIFE_ETHICS_Q12",
+        "2019_JUNE_LIFE_ETHICS_Q06",
+        "2019_JUNE_LIFE_ETHICS_Q11",
+        "2019_SEPTEMBER_LIFE_ETHICS_Q10",
+        "2020_JUNE_LIFE_ETHICS_Q19",
+        "2020_SEPTEMBER_LIFE_ETHICS_Q19",
+        "2021_CSAT_LIFE_ETHICS_Q19",
+        "2021_JUNE_LIFE_ETHICS_Q10",
+        "2021_SEPTEMBER_LIFE_ETHICS_Q13",
+        "2022_CSAT_LIFE_ETHICS_Q02",
+        "2022_CSAT_LIFE_ETHICS_Q09",
+        "2022_JUNE_LIFE_ETHICS_Q19",
+        "2022_SEPTEMBER_LIFE_ETHICS_Q19",
+        "2023_CSAT_LIFE_ETHICS_Q19",
+        "2023_JUNE_LIFE_ETHICS_Q10",
+        "2023_SEPTEMBER_LIFE_ETHICS_Q12",
+        "2024_CSAT_LIFE_ETHICS_Q11",
+        "2024_JUNE_LIFE_ETHICS_Q09",
+        "2024_SEPTEMBER_LIFE_ETHICS_Q09",
+        "2025_CSAT_LIFE_ETHICS_Q16",
+        "2025_JUNE_LIFE_ETHICS_Q19",
+        "2025_SEPTEMBER_LIFE_ETHICS_Q15",
+        "2026_CSAT_LIFE_ETHICS_Q11",
+        "2026_JUNE_LIFE_ETHICS_Q14",
+        "2027_JUNE_LIFE_ETHICS_Q09",
+        "2027_SEPTEMBER_LIFE_ETHICS_Q07"
+      ]
+    },
+    {
+      "family_id": "ETH-PEACE-01",
+      "name": "갈퉁 폭력 유형·적극적 평화 판별",
+      "thinking_structure": "직접적·구조적·문화적 폭력 구분과 평화 구축 방식 진술 정오",
+      "sample_matches": [
+        "Q18"
+      ],
+      "count": 8,
+      "direct": 8,
+      "question_ids": [
+        "2017_JUNE_LIFE_ETHICS_Q18",
+        "2018_SEPTEMBER_LIFE_ETHICS_Q15",
+        "2019_JUNE_LIFE_ETHICS_Q18",
+        "2020_SEPTEMBER_LIFE_ETHICS_Q15",
+        "2021_SEPTEMBER_LIFE_ETHICS_Q20",
+        "2023_SEPTEMBER_LIFE_ETHICS_Q16",
+        "2024_SEPTEMBER_LIFE_ETHICS_Q20",
+        "2025_JUNE_LIFE_ETHICS_Q10"
+      ]
+    },
+    {
+      "family_id": "ETH-PEACE-02",
+      "name": "평화·폭력 관점 일반 판별",
+      "thinking_structure": "평화 개념(소극/적극)·폭력 정당성에 대한 입장 진술 판별",
+      "sample_matches": [
+        "Q18"
+      ],
+      "count": 3,
+      "direct": 0,
+      "question_ids": [
+        "2020_JUNE_LIFE_ETHICS_Q05",
+        "2024_CSAT_LIFE_ETHICS_Q16",
+        "2024_CSAT_LIFE_ETHICS_Q20"
+      ]
+    },
+    {
+      "family_id": "ETH-ENV-01",
+      "name": "인간중심주의-생태적 관점 비교",
+      "thinking_structure": "자연의 가치·인간의 지위·자연 이용 정당성 진술을 갑/을 각각 판정(적어도 한 사람/공통/차이)",
+      "sample_matches": [
+        "Q4"
+      ],
+      "count": 13,
+      "direct": 2,
+      "question_ids": [
+        "2015_CSAT_LIFE_ETHICS_Q14",
+        "2018_CSAT_LIFE_ETHICS_Q11",
+        "2019_JUNE_LIFE_ETHICS_Q09",
+        "2020_SEPTEMBER_LIFE_ETHICS_Q10",
+        "2021_CSAT_LIFE_ETHICS_Q15",
+        "2021_SEPTEMBER_LIFE_ETHICS_Q10",
+        "2023_JUNE_LIFE_ETHICS_Q19",
+        "2023_SEPTEMBER_LIFE_ETHICS_Q10",
+        "2024_CSAT_LIFE_ETHICS_Q15",
+        "2024_SEPTEMBER_LIFE_ETHICS_Q10",
+        "2025_CSAT_LIFE_ETHICS_Q09",
+        "2025_SEPTEMBER_LIFE_ETHICS_Q06",
+        "2026_CSAT_LIFE_ETHICS_Q05"
+      ]
+    },
+    {
+      "family_id": "ETH-ENV-02",
+      "name": "동물·생명 중심주의 도덕적 고려 범위 판별",
+      "thinking_structure": "도덕적 고려 대상의 범위(쾌고 감수 능력·생명)를 기준으로 진술 귀속",
+      "sample_matches": [
+        "Q4"
+      ],
+      "count": 35,
+      "direct": 0,
+      "question_ids": [
+        "2014_CSAT_LIFE_ETHICS_Q11",
+        "2014_JUNE_LIFE_ETHICS_Q16",
+        "2014_SEPTEMBER_LIFE_ETHICS_Q07",
+        "2015_JUNE_LIFE_ETHICS_Q06",
+        "2015_SEPTEMBER_LIFE_ETHICS_Q07",
+        "2016_CSAT_LIFE_ETHICS_Q15",
+        "2016_JUNE_LIFE_ETHICS_Q03",
+        "2016_SEPTEMBER_LIFE_ETHICS_Q10",
+        "2017_CSAT_LIFE_ETHICS_Q03",
+        "2017_JUNE_LIFE_ETHICS_Q07",
+        "2017_SEPTEMBER_LIFE_ETHICS_Q10",
+        "2018_CSAT_LIFE_ETHICS_Q19",
+        "2018_SEPTEMBER_LIFE_ETHICS_Q09",
+        "2019_CSAT_LIFE_ETHICS_Q08",
+        "2019_CSAT_LIFE_ETHICS_Q09",
+        "2019_SEPTEMBER_LIFE_ETHICS_Q12",
+        "2020_CSAT_LIFE_ETHICS_Q16",
+        "2020_JUNE_LIFE_ETHICS_Q06",
+        "2021_JUNE_LIFE_ETHICS_Q04",
+        "2021_JUNE_LIFE_ETHICS_Q15",
+        "2021_JUNE_LIFE_ETHICS_Q20",
+        "2022_CSAT_LIFE_ETHICS_Q14",
+        "2022_JUNE_LIFE_ETHICS_Q02",
+        "2022_JUNE_LIFE_ETHICS_Q10",
+        "2022_JUNE_LIFE_ETHICS_Q11",
+        "2022_SEPTEMBER_LIFE_ETHICS_Q15",
+        "2023_CSAT_LIFE_ETHICS_Q10",
+        "2024_JUNE_LIFE_ETHICS_Q16",
+        "2025_JUNE_LIFE_ETHICS_Q09",
+        "2025_SEPTEMBER_LIFE_ETHICS_Q05",
+        "2026_CSAT_LIFE_ETHICS_Q07",
+        "2026_CSAT_LIFE_ETHICS_Q20",
+        "2026_JUNE_LIFE_ETHICS_Q10",
+        "2027_JUNE_LIFE_ETHICS_Q14",
+        "2027_SEPTEMBER_LIFE_ETHICS_Q11"
+      ]
+    },
+    {
+      "family_id": "ETH-HAPPY-01",
+      "name": "사상가 행복관의 사례 적용",
+      "thinking_structure": "행복의 본질(덕·쾌락·평정)을 식별하고 사례 인물에게 줄 조언/평가 진술 판정",
+      "sample_matches": [
+        "Q1"
+      ],
+      "count": 0,
+      "direct": 0,
+      "question_ids": []
+    },
+    {
+      "family_id": "ETH-CULT-01",
+      "name": "문화 이해 태도 판별(자문화 중심·상대주의·보편 윤리)",
+      "thinking_structure": "발언자의 문화 평가 기준을 식별하고 보편 가치 인정 여부로 진술 귀속",
+      "sample_matches": [
+        "Q8"
+      ],
+      "count": 5,
+      "direct": 3,
+      "question_ids": [
+        "2017_SEPTEMBER_LIFE_ETHICS_Q12",
+        "2018_SEPTEMBER_LIFE_ETHICS_Q20",
+        "2024_JUNE_LIFE_ETHICS_Q17",
+        "2025_CSAT_LIFE_ETHICS_Q13",
+        "2025_JUNE_LIFE_ETHICS_Q13"
+      ]
+    },
+    {
+      "family_id": "ETH-CULT-02",
+      "name": "다문화 정책 모형 구분",
+      "thinking_structure": "동화주의·용광로·샐러드 볼 등 정책 모형의 특징과 사례 대응",
+      "sample_matches": [
+        "Q3"
+      ],
+      "count": 10,
+      "direct": 0,
+      "question_ids": [
+        "2019_CSAT_LIFE_ETHICS_Q20",
+        "2019_JUNE_LIFE_ETHICS_Q07",
+        "2020_JUNE_LIFE_ETHICS_Q16",
+        "2021_CSAT_LIFE_ETHICS_Q18",
+        "2021_SEPTEMBER_LIFE_ETHICS_Q11",
+        "2022_SEPTEMBER_LIFE_ETHICS_Q16",
+        "2023_CSAT_LIFE_ETHICS_Q08",
+        "2023_SEPTEMBER_LIFE_ETHICS_Q13",
+        "2025_CSAT_LIFE_ETHICS_Q07",
+        "2025_SEPTEMBER_LIFE_ETHICS_Q17"
+      ]
+    }
+  ]
+}
