@@ -1,0 +1,46 @@
+{
+  "package": "LIFE_ETHICS_FINAL_TRANSFER_V5",
+  "subject": "LIFE_ETHICS",
+  "version": "V5",
+  "selection_source": "data/phase2/LIFE_ETHICS/v4_strict_audit/v4_final_content_asset_index_patched.jsonl",
+  "total_questions": 317,
+  "original_v4_keep": 114,
+  "targeted_restore": 203,
+  "reuse_scope": {
+    "FULL": 76,
+    "PARTIAL": 127
+  },
+  "review_required_count": 194,
+  "official_answer_null_count": 317,
+  "image_count": 317,
+  "domain_counts": {
+    "교정적 정의(형벌)": 36,
+    "문화·다문화": 4,
+    "문화와 다양성": 14,
+    "사회 정의": 42,
+    "사회정의와 불평등": 13,
+    "생활공간과 사회": 20,
+    "세계화와 평화": 18,
+    "시장경제와 지속가능발전": 15,
+    "인간과 자연(환경)": 45,
+    "인권보장과 헌법": 34,
+    "평화": 33,
+    "해외 원조·세계 시민": 36,
+    "행복": 7
+  },
+  "export_timestamp_policy": "타임스탬프 미기록. xlsx 문서 속성과 zip 엔트리 시각을 2026-01-01T00:00:00으로 고정(결정적 출력).",
+  "source_commit": "348744d",
+  "recovery_commit": "348744d",
+  "exporter": {
+    "path": "scripts/export_final_transfer_life_ethics_v5.py",
+    "sha256": "8fe4ab8233fc2f1c0d0e8311d8c1d1c7d54297090467d3cc2c3ac804b65f46b4"
+  },
+  "files": {
+    "questions": "questions.jsonl",
+    "spreadsheet": "questions.xlsx",
+    "images": "images/",
+    "readme": "README.md"
+  },
+  "previous_packages": "V1(LIFE_ETHICS)·V2·V3·V4는 historical snapshot으로 보존",
+  "status": "FROZEN_V5"
+}
