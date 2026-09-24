@@ -1,0 +1,136 @@
+{
+  "base": {
+    "v3_input": 109,
+    "v3_freeze_commit": "3a22b7f",
+    "cd_policy_rereview": 21
+  },
+  "reviewed": 130,
+  "v3_keep_confirmed": 93,
+  "v3_drop": 16,
+  "civil_disobedience_policy_restore": {
+    "count": 21,
+    "question_ids": [
+      "2017_CSAT_LIFE_ETHICS_Q08",
+      "2017_JUNE_LIFE_ETHICS_Q16",
+      "2018_JUNE_LIFE_ETHICS_Q12",
+      "2019_JUNE_LIFE_ETHICS_Q16",
+      "2020_SEPTEMBER_LIFE_ETHICS_Q07",
+      "2021_CSAT_LIFE_ETHICS_Q12",
+      "2021_JUNE_LIFE_ETHICS_Q11",
+      "2021_SEPTEMBER_LIFE_ETHICS_Q07",
+      "2022_SEPTEMBER_LIFE_ETHICS_Q17",
+      "2023_CSAT_LIFE_ETHICS_Q14",
+      "2023_JUNE_LIFE_ETHICS_Q12",
+      "2023_SEPTEMBER_LIFE_ETHICS_Q08",
+      "2024_CSAT_LIFE_ETHICS_Q09",
+      "2024_JUNE_LIFE_ETHICS_Q05",
+      "2024_SEPTEMBER_LIFE_ETHICS_Q07",
+      "2025_CSAT_LIFE_ETHICS_Q18",
+      "2025_JUNE_LIFE_ETHICS_Q14",
+      "2025_SEPTEMBER_LIFE_ETHICS_Q12",
+      "2026_CSAT_LIFE_ETHICS_Q09",
+      "2026_JUNE_LIFE_ETHICS_Q06",
+      "2027_JUNE_LIFE_ETHICS_Q11"
+    ],
+    "by_previous_status": {
+      "V3_LOGIC_CORRECTION_DROP": 9,
+      "KICE_RECONSIDERATION_DROP": 12
+    }
+  },
+  "final_v4": {
+    "KEEP": 114,
+    "composition": {
+      "CURRICULUM_EXPLICIT_CORE": 83,
+      "KICE_2028_RESTORED": 10,
+      "CIVIL_DISOBEDIENCE_POLICY_RESTORED": 21
+    },
+    "adaptation": {
+      "LIGHT": 70,
+      "NONE": 44
+    },
+    "review_required": 72
+  },
+  "drop_reason_counts": {
+    "ANSWER_LOGIC_OUTSIDE_SCOPE": 6,
+    "NO_OFFICIAL_CURRICULUM_SUPPORT": 11,
+    "OTHER": 0,
+    "OUTSIDE_KICE_DEPTH": 0,
+    "PHILOSOPHER_SPECIFIC_CONTENT": 13,
+    "SUBSTANTIAL_REWRITE_REQUIRED": 0,
+    "TOPIC_OVERLAP_ONLY": 11
+  },
+  "special_audit": {
+    "KUNG": {
+      "reviewed": 6,
+      "KEEP": 0,
+      "DROP": 6,
+      "restored": 0
+    },
+    "CONFUCIUS": {
+      "reviewed": 1,
+      "KEEP": 1,
+      "DROP": 0,
+      "restored": 0
+    },
+    "CIVIL_DISOBEDIENCE": {
+      "reviewed": 30,
+      "KEEP": 30,
+      "DROP": 0,
+      "restored": 21
+    },
+    "RAWLS_NOZICK": {
+      "reviewed": 5,
+      "KEEP": 5,
+      "DROP": 0,
+      "restored": 0
+    },
+    "PUNISHMENT": {
+      "reviewed": 1,
+      "KEEP": 1,
+      "DROP": 0,
+      "restored": 0
+    },
+    "ENVIRONMENT": {
+      "reviewed": 0,
+      "KEEP": 0,
+      "DROP": 0,
+      "restored": 0
+    },
+    "PEACE_VIOLENCE": {
+      "reviewed": 5,
+      "KEEP": 2,
+      "DROP": 3,
+      "restored": 0
+    },
+    "OTHER_NAMED": {
+      "reviewed": 10,
+      "KEEP": 6,
+      "DROP": 4,
+      "restored": 0
+    }
+  },
+  "qa": {
+    "input_ids_v3": 109,
+    "v3_all_reviewed": true,
+    "reviewed_total": 130,
+    "duplicates": 0,
+    "output_ids": 114,
+    "new_ids_outside_v3_or_cd_policy": 0,
+    "restored_all_civil_disobedience": true,
+    "keep_without_official_evidence": 0,
+    "keep_with_topic_overlap_only": 0,
+    "keep_adaptation_not_none_light": 0,
+    "drop_without_reason": 0,
+    "drop_contamination": 0,
+    "output_eq_v3_minus_drop_plus_restore": true,
+    "existing_files_modified": 0
+  },
+  "official_sources": [
+    "reference/curriculum/2022개정_사회과_별책7.pdf (MASTER integrated_social_official_scope.json)",
+    "reference/2028_예시문항_안내.pdf",
+    "reference/2028_통합사회_예시문항.pdf",
+    "data/phase2/LIFE_ETHICS/kice_2028_sample_depth_reference.json"
+  ],
+  "method": "V3 109문항 전부(4 batch)와 시민 불복종 정책 갱신 재검토 대상(Phase 2C KEEP 261 내 V3 미포함 시민 불복종 문항)을 발문·제시문·선지로 판독. Exact concept test(Q1~Q5)로 정답 결정 명제가 공식 자료에 실제로 있는지 확인. 제시문만으로 풀림·사상가명 불필요·넓은 주제 유사는 KEEP 근거로 쓰지 않음. 시민 불복종만 정책상 비교형도 KEEP. 외부 API·OCR·재분류 없음.",
+  "note": "시민 불복종 정책 재검토 범위는 Phase 2C KEEP 261 안에서 V3에 없는 시민 불복종 문항(21)이며, Phase 2C 이전 단계에서 제외된 문항은 재분류 금지 원칙에 따라 검토하지 않음."
+}
