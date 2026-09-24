@@ -1,0 +1,91 @@
+{
+  "base": {
+    "previous_final": 136,
+    "previous_freeze_commit": "99bc4a6",
+    "previous_composition": {
+      "KICE_2028_RESTORED": 30,
+      "CURRICULUM_EXPLICIT_CORE": 106
+    }
+  },
+  "targeted_review_candidates": 54,
+  "targeted_by_previous_source": {
+    "KICE_2028_RESTORED": 30,
+    "CURRICULUM_EXPLICIT_CORE": 24
+  },
+  "KEEP_after_targeted_review": 27,
+  "DROP_after_targeted_review": 27,
+  "protected_not_targeted": 82,
+  "final_v3_count": 109,
+  "final_v3_composition": {
+    "CURRICULUM_EXPLICIT_CORE": 99,
+    "KICE_2028_RESTORED": 10
+  },
+  "drop_by_previous_source": {
+    "CURRICULUM_EXPLICIT_CORE": 7,
+    "KICE_2028_RESTORED": 20
+  },
+  "drop_reason_counts": {
+    "CONTENT_PRESENCE_ONLY": 0,
+    "LIFE_ETHICS_SPECIFIC_THEORY": 20,
+    "OTHER": 0,
+    "OUTSIDE_KICE_DEPTH": 13,
+    "PHILOSOPHER_COMPARISON_REQUIRED": 20,
+    "SUBSTANTIAL_REWRITE_REQUIRED": 0
+  },
+  "by_theme": {
+    "RAWLS_NOZICK": {
+      "targeted": 13,
+      "keep": 5,
+      "drop": 8
+    },
+    "PEACE": {
+      "targeted": 4,
+      "keep": 2,
+      "drop": 2
+    },
+    "PUNISHMENT": {
+      "targeted": 6,
+      "keep": 1,
+      "drop": 5
+    },
+    "ENVIRONMENT": {
+      "targeted": 3,
+      "keep": 0,
+      "drop": 3
+    },
+    "OTHER_PHILOSOPHER_COMPARISON": {
+      "targeted": 10,
+      "keep": 10,
+      "drop": 0
+    },
+    "CIVIL_DISOBEDIENCE": {
+      "targeted": 18,
+      "keep": 9,
+      "drop": 9
+    }
+  },
+  "targeted_keep_adaptation": {
+    "LIGHT": 9,
+    "NONE": 18
+  },
+  "review_required": {
+    "targeted": 11,
+    "v3_index": 42
+  },
+  "qa": {
+    "original_final_ids": 136,
+    "duplicate_original_ids": 0,
+    "targeted_ids": 54,
+    "targeted_subset_of_original": true,
+    "v3_subset_of_original": true,
+    "new_ids_introduced": 0,
+    "drop_ids_in_v3": 0,
+    "v3_count_eq_136_minus_drop": true,
+    "v3_keep_without_curriculum_evidence": 0,
+    "v3_keep_without_content_rationale": 0,
+    "v3_keep_adaptation_not_none_light": 0,
+    "drop_missing_answer_logic_reason_or_why": 0,
+    "existing_files_modified": 0
+  },
+  "method": "FINAL 136 중 false-positive 패턴 문항(KICE RESTORE 30 전체 + 사상가 신호가 있는 CORE)만 선지 포함 원문으로 판독. Counterfactual test A/B/C로 정답 결정 최소 지식이 통합사회·KICE 예시 깊이 안인지 판단. 사상가 이름이 없는 입장 비교형 CORE(교육과정 명시 주제, 제시문으로 정답 결정)는 보호. 외부 API·OCR·재분류 없음."
+}
