@@ -1,0 +1,1470 @@
+{
+  "method": "영역별 문항(V4 KEEP은 V4 감사 테마·주 성취기준으로 영역 배정, 복구 문항은 판정 영역) 안에서 개념 신호로 집계. 사상가 개념은 복구 문항의 경우 판정 기록의 사상가 목록에 있고 해당 문항 원문에도 그 사상가의 신호가 있을 때만 집계. 근사 집계이며 판정에는 쓰이지 않음.",
+  "coverage": {
+    "HAPPINESS": {
+      "4_source_support": {
+        "자료1_교육과정": "YES",
+        "자료2_2028예시문항안내": "YES",
+        "자료3_28예시실제문항": "YES",
+        "자료4_최소성취수준": "PARTIAL"
+      },
+      "concepts": {
+        "공자": {
+          "v4_keep": 0,
+          "restored": 4,
+          "patched_total": 4,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q16",
+            "2014_JUNE_LIFE_ETHICS_Q12",
+            "2015_CSAT_LIFE_ETHICS_Q03",
+            "2021_JUNE_LIFE_ETHICS_Q02"
+          ]
+        },
+        "석가모니": {
+          "v4_keep": 0,
+          "restored": 1,
+          "patched_total": 1,
+          "restored_ids": [
+            "2014_JUNE_LIFE_ETHICS_Q12"
+          ]
+        },
+        "노자": {
+          "v4_keep": 0,
+          "restored": 4,
+          "patched_total": 4,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q16",
+            "2014_JUNE_LIFE_ETHICS_Q12",
+            "2015_CSAT_LIFE_ETHICS_Q03",
+            "2021_JUNE_LIFE_ETHICS_Q02"
+          ]
+        },
+        "소크라테스": {
+          "v4_keep": 0,
+          "restored": 0,
+          "patched_total": 0,
+          "restored_ids": []
+        },
+        "아리스토텔레스": {
+          "v4_keep": 0,
+          "restored": 1,
+          "patched_total": 1,
+          "restored_ids": [
+            "2023_CSAT_LIFE_ETHICS_Q04"
+          ]
+        },
+        "에피쿠로스": {
+          "v4_keep": 0,
+          "restored": 1,
+          "patched_total": 1,
+          "restored_ids": [
+            "2018_JUNE_LIFE_ETHICS_Q08"
+          ]
+        },
+        "스토아": {
+          "v4_keep": 0,
+          "restored": 0,
+          "patched_total": 0,
+          "restored_ids": []
+        },
+        "벤담": {
+          "v4_keep": 0,
+          "restored": 0,
+          "patched_total": 0,
+          "restored_ids": []
+        },
+        "칸트": {
+          "v4_keep": 0,
+          "restored": 0,
+          "patched_total": 0,
+          "restored_ids": []
+        },
+        "정약용": {
+          "v4_keep": 0,
+          "restored": 0,
+          "patched_total": 0,
+          "restored_ids": []
+        },
+        "쇼펜하우어": {
+          "v4_keep": 0,
+          "restored": 0,
+          "patched_total": 0,
+          "restored_ids": []
+        }
+      }
+    },
+    "ENVIRONMENT": {
+      "4_source_support": {
+        "자료1_교육과정": "YES",
+        "자료2_2028예시문항안내": "YES",
+        "자료3_28예시실제문항": "YES",
+        "자료4_최소성취수준": "YES"
+      },
+      "concepts": {
+        "인간 중심주의": {
+          "v4_keep": 0,
+          "restored": 16,
+          "patched_total": 16,
+          "restored_ids": [
+            "2014_JUNE_LIFE_ETHICS_Q16",
+            "2015_CSAT_LIFE_ETHICS_Q14",
+            "2015_JUNE_LIFE_ETHICS_Q06",
+            "2016_CSAT_LIFE_ETHICS_Q15",
+            "2017_JUNE_LIFE_ETHICS_Q07",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q12",
+            "2021_CSAT_LIFE_ETHICS_Q15",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2022_JUNE_LIFE_ETHICS_Q10",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2023_JUNE_LIFE_ETHICS_Q19",
+            "2024_JUNE_LIFE_ETHICS_Q15",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q06",
+            "2026_CSAT_LIFE_ETHICS_Q07",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q11"
+          ]
+        },
+        "생태 중심주의": {
+          "v4_keep": 0,
+          "restored": 24,
+          "patched_total": 24,
+          "restored_ids": [
+            "2015_JUNE_LIFE_ETHICS_Q06",
+            "2016_CSAT_LIFE_ETHICS_Q15",
+            "2016_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2017_CSAT_LIFE_ETHICS_Q15",
+            "2018_CSAT_LIFE_ETHICS_Q11",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2019_CSAT_LIFE_ETHICS_Q09",
+            "2019_JUNE_LIFE_ETHICS_Q09",
+            "2020_JUNE_LIFE_ETHICS_Q06",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2021_CSAT_LIFE_ETHICS_Q15",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2022_JUNE_LIFE_ETHICS_Q10",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2023_JUNE_LIFE_ETHICS_Q19",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2024_CSAT_LIFE_ETHICS_Q15",
+            "2024_JUNE_LIFE_ETHICS_Q15",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2025_CSAT_LIFE_ETHICS_Q09",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q06",
+            "2026_CSAT_LIFE_ETHICS_Q07",
+            "2026_JUNE_LIFE_ETHICS_Q10",
+            "2027_JUNE_LIFE_ETHICS_Q14"
+          ]
+        },
+        "베이컨": {
+          "v4_keep": 0,
+          "restored": 1,
+          "patched_total": 1,
+          "restored_ids": [
+            "2017_JUNE_LIFE_ETHICS_Q07"
+          ]
+        },
+        "데카르트": {
+          "v4_keep": 0,
+          "restored": 2,
+          "patched_total": 2,
+          "restored_ids": [
+            "2017_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q10"
+          ]
+        },
+        "칸트": {
+          "v4_keep": 0,
+          "restored": 10,
+          "patched_total": 10,
+          "restored_ids": [
+            "2016_CSAT_LIFE_ETHICS_Q15",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q12",
+            "2021_CSAT_LIFE_ETHICS_Q15",
+            "2022_JUNE_LIFE_ETHICS_Q10",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2023_JUNE_LIFE_ETHICS_Q19",
+            "2024_JUNE_LIFE_ETHICS_Q15",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q06",
+            "2026_CSAT_LIFE_ETHICS_Q07",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q11"
+          ]
+        },
+        "싱어": {
+          "v4_keep": 0,
+          "restored": 16,
+          "patched_total": 16,
+          "restored_ids": [
+            "2015_CSAT_LIFE_ETHICS_Q14",
+            "2018_CSAT_LIFE_ETHICS_Q11",
+            "2018_JUNE_LIFE_ETHICS_Q15",
+            "2020_JUNE_LIFE_ETHICS_Q06",
+            "2021_CSAT_LIFE_ETHICS_Q15",
+            "2022_CSAT_LIFE_ETHICS_Q14",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2023_CSAT_LIFE_ETHICS_Q10",
+            "2023_JUNE_LIFE_ETHICS_Q19",
+            "2024_CSAT_LIFE_ETHICS_Q15",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2025_CSAT_LIFE_ETHICS_Q09",
+            "2025_JUNE_LIFE_ETHICS_Q09",
+            "2026_CSAT_LIFE_ETHICS_Q20",
+            "2026_JUNE_LIFE_ETHICS_Q10",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q11"
+          ]
+        },
+        "슈바이처": {
+          "v4_keep": 0,
+          "restored": 1,
+          "patched_total": 1,
+          "restored_ids": [
+            "2014_SEPTEMBER_LIFE_ETHICS_Q07"
+          ]
+        },
+        "레오폴드": {
+          "v4_keep": 0,
+          "restored": 21,
+          "patched_total": 21,
+          "restored_ids": [
+            "2015_JUNE_LIFE_ETHICS_Q06",
+            "2016_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2017_CSAT_LIFE_ETHICS_Q15",
+            "2018_CSAT_LIFE_ETHICS_Q11",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2019_CSAT_LIFE_ETHICS_Q09",
+            "2019_JUNE_LIFE_ETHICS_Q09",
+            "2020_JUNE_LIFE_ETHICS_Q06",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2021_CSAT_LIFE_ETHICS_Q15",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2022_JUNE_LIFE_ETHICS_Q10",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2023_JUNE_LIFE_ETHICS_Q19",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2024_CSAT_LIFE_ETHICS_Q15",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2025_CSAT_LIFE_ETHICS_Q09",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q06",
+            "2026_CSAT_LIFE_ETHICS_Q07",
+            "2026_JUNE_LIFE_ETHICS_Q10"
+          ]
+        },
+        "네스": {
+          "v4_keep": 0,
+          "restored": 0,
+          "patched_total": 0,
+          "restored_ids": []
+        },
+        "동양의 자연관": {
+          "v4_keep": 0,
+          "restored": 2,
+          "patched_total": 2,
+          "restored_ids": [
+            "2015_SEPTEMBER_LIFE_ETHICS_Q11",
+            "2016_JUNE_LIFE_ETHICS_Q04"
+          ]
+        }
+      }
+    },
+    "CIVIL_DISOBEDIENCE": {
+      "4_source_support": {
+        "자료1_교육과정": "YES",
+        "자료2_2028예시문항안내": "YES",
+        "자료3_28예시실제문항": "YES",
+        "자료4_최소성취수준": "NO"
+      },
+      "concepts": {
+        "전체": {
+          "v4_keep": 30,
+          "restored": 0,
+          "patched_total": 30,
+          "restored_ids": []
+        },
+        "소로": {
+          "v4_keep": 5,
+          "restored": 0,
+          "patched_total": 5,
+          "restored_ids": []
+        },
+        "롤스": {
+          "v4_keep": 26,
+          "restored": 0,
+          "patched_total": 26,
+          "restored_ids": []
+        },
+        "싱어": {
+          "v4_keep": 9,
+          "restored": 0,
+          "patched_total": 9,
+          "restored_ids": []
+        },
+        "공유된 정의관": {
+          "v4_keep": 15,
+          "restored": 0,
+          "patched_total": 15,
+          "restored_ids": []
+        },
+        "공개성": {
+          "v4_keep": 13,
+          "restored": 0,
+          "patched_total": 13,
+          "restored_ids": []
+        },
+        "비폭력성": {
+          "v4_keep": 7,
+          "restored": 0,
+          "patched_total": 7,
+          "restored_ids": []
+        },
+        "위법성": {
+          "v4_keep": 14,
+          "restored": 0,
+          "patched_total": 14,
+          "restored_ids": []
+        },
+        "법 준수 의무": {
+          "v4_keep": 13,
+          "restored": 0,
+          "patched_total": 13,
+          "restored_ids": []
+        },
+        "기본적 자유": {
+          "v4_keep": 7,
+          "restored": 0,
+          "patched_total": 7,
+          "restored_ids": []
+        }
+      }
+    },
+    "JUSTICE": {
+      "4_source_support": {
+        "자료1_교육과정": "YES",
+        "자료2_2028예시문항안내": "YES",
+        "자료3_28예시실제문항": "YES",
+        "자료4_최소성취수준": "YES"
+      },
+      "concepts": {
+        "롤스": {
+          "v4_keep": 4,
+          "restored": 30,
+          "patched_total": 34,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q07",
+            "2014_JUNE_LIFE_ETHICS_Q19",
+            "2015_CSAT_LIFE_ETHICS_Q15",
+            "2015_JUNE_LIFE_ETHICS_Q15",
+            "2016_JUNE_LIFE_ETHICS_Q05",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q08",
+            "2018_CSAT_LIFE_ETHICS_Q09",
+            "2018_JUNE_LIFE_ETHICS_Q10",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q11",
+            "2019_CSAT_LIFE_ETHICS_Q14",
+            "2019_JUNE_LIFE_ETHICS_Q14",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2020_CSAT_LIFE_ETHICS_Q10",
+            "2020_JUNE_LIFE_ETHICS_Q15",
+            "2021_CSAT_LIFE_ETHICS_Q10",
+            "2021_JUNE_LIFE_ETHICS_Q07",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2022_CSAT_LIFE_ETHICS_Q10",
+            "2022_JUNE_LIFE_ETHICS_Q07",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2023_CSAT_LIFE_ETHICS_Q09",
+            "2023_JUNE_LIFE_ETHICS_Q09",
+            "2024_CSAT_LIFE_ETHICS_Q14",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2025_CSAT_LIFE_ETHICS_Q15",
+            "2025_JUNE_LIFE_ETHICS_Q15",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2026_CSAT_LIFE_ETHICS_Q15",
+            "2026_JUNE_LIFE_ETHICS_Q19",
+            "2027_JUNE_LIFE_ETHICS_Q06"
+          ]
+        },
+        "노직": {
+          "v4_keep": 4,
+          "restored": 28,
+          "patched_total": 32,
+          "restored_ids": [
+            "2016_JUNE_LIFE_ETHICS_Q11",
+            "2016_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2017_CSAT_LIFE_ETHICS_Q18",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q08",
+            "2018_CSAT_LIFE_ETHICS_Q09",
+            "2018_JUNE_LIFE_ETHICS_Q10",
+            "2019_CSAT_LIFE_ETHICS_Q14",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2020_CSAT_LIFE_ETHICS_Q10",
+            "2020_JUNE_LIFE_ETHICS_Q15",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2021_CSAT_LIFE_ETHICS_Q10",
+            "2021_JUNE_LIFE_ETHICS_Q07",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2022_CSAT_LIFE_ETHICS_Q10",
+            "2022_JUNE_LIFE_ETHICS_Q07",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2023_CSAT_LIFE_ETHICS_Q09",
+            "2023_JUNE_LIFE_ETHICS_Q09",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2024_CSAT_LIFE_ETHICS_Q14",
+            "2024_JUNE_LIFE_ETHICS_Q08",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2025_CSAT_LIFE_ETHICS_Q15",
+            "2025_JUNE_LIFE_ETHICS_Q15",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2026_CSAT_LIFE_ETHICS_Q15",
+            "2026_JUNE_LIFE_ETHICS_Q19"
+          ]
+        },
+        "아리스토텔레스": {
+          "v4_keep": 1,
+          "restored": 5,
+          "patched_total": 6,
+          "restored_ids": [
+            "2016_JUNE_LIFE_ETHICS_Q11",
+            "2017_CSAT_LIFE_ETHICS_Q18",
+            "2018_CSAT_LIFE_ETHICS_Q09",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q11",
+            "2019_JUNE_LIFE_ETHICS_Q14"
+          ]
+        },
+        "왈처": {
+          "v4_keep": 0,
+          "restored": 0,
+          "patched_total": 0,
+          "restored_ids": []
+        },
+        "밀": {
+          "v4_keep": 0,
+          "restored": 1,
+          "patched_total": 1,
+          "restored_ids": [
+            "2019_CSAT_LIFE_ETHICS_Q02"
+          ]
+        },
+        "매킨타이어": {
+          "v4_keep": 2,
+          "restored": 2,
+          "patched_total": 4,
+          "restored_ids": [
+            "2019_CSAT_LIFE_ETHICS_Q02",
+            "2021_JUNE_LIFE_ETHICS_Q12"
+          ]
+        },
+        "자유주의": {
+          "v4_keep": 4,
+          "restored": 32,
+          "patched_total": 36,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q07",
+            "2015_CSAT_LIFE_ETHICS_Q15",
+            "2016_JUNE_LIFE_ETHICS_Q05",
+            "2016_JUNE_LIFE_ETHICS_Q11",
+            "2016_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2017_CSAT_LIFE_ETHICS_Q18",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q08",
+            "2018_CSAT_LIFE_ETHICS_Q09",
+            "2018_JUNE_LIFE_ETHICS_Q10",
+            "2019_CSAT_LIFE_ETHICS_Q14",
+            "2019_JUNE_LIFE_ETHICS_Q14",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2020_CSAT_LIFE_ETHICS_Q10",
+            "2020_JUNE_LIFE_ETHICS_Q15",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2021_CSAT_LIFE_ETHICS_Q10",
+            "2021_JUNE_LIFE_ETHICS_Q07",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2022_CSAT_LIFE_ETHICS_Q10",
+            "2022_JUNE_LIFE_ETHICS_Q07",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2023_CSAT_LIFE_ETHICS_Q09",
+            "2023_JUNE_LIFE_ETHICS_Q09",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2024_CSAT_LIFE_ETHICS_Q14",
+            "2024_JUNE_LIFE_ETHICS_Q08",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2025_CSAT_LIFE_ETHICS_Q15",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2026_CSAT_LIFE_ETHICS_Q15",
+            "2026_JUNE_LIFE_ETHICS_Q19",
+            "2027_JUNE_LIFE_ETHICS_Q06"
+          ]
+        },
+        "공동체주의": {
+          "v4_keep": 3,
+          "restored": 1,
+          "patched_total": 4,
+          "restored_ids": [
+            "2019_CSAT_LIFE_ETHICS_Q02"
+          ]
+        },
+        "분배적 정의": {
+          "v4_keep": 4,
+          "restored": 33,
+          "patched_total": 37,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q07",
+            "2014_JUNE_LIFE_ETHICS_Q19",
+            "2015_CSAT_LIFE_ETHICS_Q15",
+            "2015_JUNE_LIFE_ETHICS_Q15",
+            "2016_CSAT_LIFE_ETHICS_Q09",
+            "2016_JUNE_LIFE_ETHICS_Q11",
+            "2016_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2017_CSAT_LIFE_ETHICS_Q18",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q08",
+            "2018_CSAT_LIFE_ETHICS_Q09",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q11",
+            "2019_CSAT_LIFE_ETHICS_Q14",
+            "2019_JUNE_LIFE_ETHICS_Q14",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2020_CSAT_LIFE_ETHICS_Q10",
+            "2020_JUNE_LIFE_ETHICS_Q15",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2021_CSAT_LIFE_ETHICS_Q10",
+            "2021_JUNE_LIFE_ETHICS_Q07",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2022_CSAT_LIFE_ETHICS_Q10",
+            "2022_JUNE_LIFE_ETHICS_Q07",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2023_CSAT_LIFE_ETHICS_Q09",
+            "2023_JUNE_LIFE_ETHICS_Q09",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2024_CSAT_LIFE_ETHICS_Q14",
+            "2024_JUNE_LIFE_ETHICS_Q08",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2025_JUNE_LIFE_ETHICS_Q15",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2026_CSAT_LIFE_ETHICS_Q15",
+            "2026_JUNE_LIFE_ETHICS_Q19"
+          ]
+        },
+        "원초적 입장": {
+          "v4_keep": 2,
+          "restored": 14,
+          "patched_total": 16,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q07",
+            "2015_CSAT_LIFE_ETHICS_Q15",
+            "2016_JUNE_LIFE_ETHICS_Q05",
+            "2018_CSAT_LIFE_ETHICS_Q09",
+            "2018_JUNE_LIFE_ETHICS_Q10",
+            "2019_JUNE_LIFE_ETHICS_Q14",
+            "2022_JUNE_LIFE_ETHICS_Q07",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2024_CSAT_LIFE_ETHICS_Q14",
+            "2025_CSAT_LIFE_ETHICS_Q15",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2026_CSAT_LIFE_ETHICS_Q15",
+            "2026_JUNE_LIFE_ETHICS_Q19",
+            "2027_JUNE_LIFE_ETHICS_Q06"
+          ]
+        },
+        "무지의 베일": {
+          "v4_keep": 1,
+          "restored": 6,
+          "patched_total": 7,
+          "restored_ids": [
+            "2019_CSAT_LIFE_ETHICS_Q14",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2025_CSAT_LIFE_ETHICS_Q15",
+            "2025_JUNE_LIFE_ETHICS_Q15",
+            "2026_JUNE_LIFE_ETHICS_Q19",
+            "2027_JUNE_LIFE_ETHICS_Q06"
+          ]
+        },
+        "차등의 원칙": {
+          "v4_keep": 3,
+          "restored": 16,
+          "patched_total": 19,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q07",
+            "2014_JUNE_LIFE_ETHICS_Q19",
+            "2015_CSAT_LIFE_ETHICS_Q15",
+            "2015_JUNE_LIFE_ETHICS_Q15",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q11",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2020_CSAT_LIFE_ETHICS_Q10",
+            "2020_JUNE_LIFE_ETHICS_Q15",
+            "2021_CSAT_LIFE_ETHICS_Q10",
+            "2021_JUNE_LIFE_ETHICS_Q07",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2022_CSAT_LIFE_ETHICS_Q10",
+            "2023_CSAT_LIFE_ETHICS_Q09",
+            "2023_JUNE_LIFE_ETHICS_Q09",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2026_JUNE_LIFE_ETHICS_Q19"
+          ]
+        },
+        "취득": {
+          "v4_keep": 4,
+          "restored": 16,
+          "patched_total": 20,
+          "restored_ids": [
+            "2015_JUNE_LIFE_ETHICS_Q15",
+            "2016_JUNE_LIFE_ETHICS_Q05",
+            "2019_JUNE_LIFE_ETHICS_Q14",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2020_CSAT_LIFE_ETHICS_Q10",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2021_CSAT_LIFE_ETHICS_Q10",
+            "2021_JUNE_LIFE_ETHICS_Q07",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2022_JUNE_LIFE_ETHICS_Q07",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2023_CSAT_LIFE_ETHICS_Q09",
+            "2024_CSAT_LIFE_ETHICS_Q14",
+            "2025_JUNE_LIFE_ETHICS_Q15",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2026_JUNE_LIFE_ETHICS_Q19"
+          ]
+        },
+        "이전": {
+          "v4_keep": 3,
+          "restored": 11,
+          "patched_total": 14,
+          "restored_ids": [
+            "2015_JUNE_LIFE_ETHICS_Q15",
+            "2016_JUNE_LIFE_ETHICS_Q05",
+            "2019_CSAT_LIFE_ETHICS_Q14",
+            "2019_JUNE_LIFE_ETHICS_Q14",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2022_JUNE_LIFE_ETHICS_Q07",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2025_JUNE_LIFE_ETHICS_Q15",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q10"
+          ]
+        },
+        "교정": {
+          "v4_keep": 1,
+          "restored": 11,
+          "patched_total": 12,
+          "restored_ids": [
+            "2015_JUNE_LIFE_ETHICS_Q15",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q08",
+            "2019_CSAT_LIFE_ETHICS_Q14",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2021_CSAT_LIFE_ETHICS_Q10",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2022_JUNE_LIFE_ETHICS_Q07",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2025_JUNE_LIFE_ETHICS_Q15",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2026_CSAT_LIFE_ETHICS_Q15"
+          ]
+        },
+        "업적": {
+          "v4_keep": 0,
+          "restored": 2,
+          "patched_total": 2,
+          "restored_ids": [
+            "2019_JUNE_LIFE_ETHICS_Q03",
+            "2020_JUNE_LIFE_ETHICS_Q15"
+          ]
+        },
+        "능력": {
+          "v4_keep": 0,
+          "restored": 6,
+          "patched_total": 6,
+          "restored_ids": [
+            "2015_CSAT_LIFE_ETHICS_Q15",
+            "2016_JUNE_LIFE_ETHICS_Q11",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q08",
+            "2019_CSAT_LIFE_ETHICS_Q14",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2023_CSAT_LIFE_ETHICS_Q09"
+          ]
+        },
+        "필요": {
+          "v4_keep": 1,
+          "restored": 5,
+          "patched_total": 6,
+          "restored_ids": [
+            "2016_CSAT_LIFE_ETHICS_Q09",
+            "2016_JUNE_LIFE_ETHICS_Q11",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q08",
+            "2019_CSAT_LIFE_ETHICS_Q14",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q10"
+          ]
+        }
+      }
+    },
+    "PUNISHMENT": {
+      "4_source_support": {
+        "자료1_교육과정": "YES",
+        "자료2_2028예시문항안내": "YES",
+        "자료3_28예시실제문항": "YES",
+        "자료4_최소성취수준": "PARTIAL"
+      },
+      "concepts": {
+        "전체": {
+          "v4_keep": 1,
+          "restored": 36,
+          "patched_total": 37,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q06",
+            "2015_CSAT_LIFE_ETHICS_Q06",
+            "2015_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2016_CSAT_LIFE_ETHICS_Q19",
+            "2016_JUNE_LIFE_ETHICS_Q06",
+            "2017_CSAT_LIFE_ETHICS_Q10",
+            "2017_JUNE_LIFE_ETHICS_Q12",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q14",
+            "2018_CSAT_LIFE_ETHICS_Q17",
+            "2018_JUNE_LIFE_ETHICS_Q19",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2019_CSAT_LIFE_ETHICS_Q12",
+            "2019_JUNE_LIFE_ETHICS_Q06",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2020_CSAT_LIFE_ETHICS_Q14",
+            "2020_JUNE_LIFE_ETHICS_Q19",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2021_CSAT_LIFE_ETHICS_Q19",
+            "2021_JUNE_LIFE_ETHICS_Q10",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2022_CSAT_LIFE_ETHICS_Q09",
+            "2022_JUNE_LIFE_ETHICS_Q19",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2023_CSAT_LIFE_ETHICS_Q19",
+            "2023_JUNE_LIFE_ETHICS_Q10",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q12",
+            "2024_CSAT_LIFE_ETHICS_Q11",
+            "2024_JUNE_LIFE_ETHICS_Q09",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2025_CSAT_LIFE_ETHICS_Q16",
+            "2025_JUNE_LIFE_ETHICS_Q19",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2026_CSAT_LIFE_ETHICS_Q11",
+            "2026_JUNE_LIFE_ETHICS_Q14",
+            "2027_JUNE_LIFE_ETHICS_Q09",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q07"
+          ]
+        },
+        "칸트": {
+          "v4_keep": 1,
+          "restored": 22,
+          "patched_total": 23,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q06",
+            "2015_CSAT_LIFE_ETHICS_Q06",
+            "2016_CSAT_LIFE_ETHICS_Q19",
+            "2017_CSAT_LIFE_ETHICS_Q10",
+            "2017_JUNE_LIFE_ETHICS_Q12",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q14",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2020_CSAT_LIFE_ETHICS_Q14",
+            "2020_JUNE_LIFE_ETHICS_Q19",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2021_CSAT_LIFE_ETHICS_Q19",
+            "2021_JUNE_LIFE_ETHICS_Q10",
+            "2022_JUNE_LIFE_ETHICS_Q19",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2023_CSAT_LIFE_ETHICS_Q19",
+            "2023_JUNE_LIFE_ETHICS_Q10",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q12",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2025_CSAT_LIFE_ETHICS_Q16",
+            "2025_JUNE_LIFE_ETHICS_Q19",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2026_JUNE_LIFE_ETHICS_Q14"
+          ]
+        },
+        "루소": {
+          "v4_keep": 0,
+          "restored": 14,
+          "patched_total": 14,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q06",
+            "2015_CSAT_LIFE_ETHICS_Q06",
+            "2016_JUNE_LIFE_ETHICS_Q06",
+            "2018_CSAT_LIFE_ETHICS_Q17",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2022_CSAT_LIFE_ETHICS_Q09",
+            "2022_JUNE_LIFE_ETHICS_Q19",
+            "2023_CSAT_LIFE_ETHICS_Q19",
+            "2024_CSAT_LIFE_ETHICS_Q11",
+            "2025_CSAT_LIFE_ETHICS_Q16",
+            "2025_JUNE_LIFE_ETHICS_Q19",
+            "2026_JUNE_LIFE_ETHICS_Q14"
+          ]
+        },
+        "벤담": {
+          "v4_keep": 0,
+          "restored": 8,
+          "patched_total": 8,
+          "restored_ids": [
+            "2016_JUNE_LIFE_ETHICS_Q06",
+            "2018_JUNE_LIFE_ETHICS_Q19",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2019_CSAT_LIFE_ETHICS_Q12",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2020_JUNE_LIFE_ETHICS_Q19",
+            "2023_JUNE_LIFE_ETHICS_Q10",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q09"
+          ]
+        },
+        "베카리아": {
+          "v4_keep": 0,
+          "restored": 22,
+          "patched_total": 22,
+          "restored_ids": [
+            "2015_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2017_CSAT_LIFE_ETHICS_Q10",
+            "2017_JUNE_LIFE_ETHICS_Q12",
+            "2018_JUNE_LIFE_ETHICS_Q19",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2019_CSAT_LIFE_ETHICS_Q12",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2021_JUNE_LIFE_ETHICS_Q10",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2022_CSAT_LIFE_ETHICS_Q09",
+            "2022_JUNE_LIFE_ETHICS_Q19",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2023_CSAT_LIFE_ETHICS_Q19",
+            "2023_JUNE_LIFE_ETHICS_Q10",
+            "2024_CSAT_LIFE_ETHICS_Q11",
+            "2024_JUNE_LIFE_ETHICS_Q09",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2025_CSAT_LIFE_ETHICS_Q16",
+            "2025_JUNE_LIFE_ETHICS_Q19",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2026_JUNE_LIFE_ETHICS_Q14",
+            "2027_JUNE_LIFE_ETHICS_Q09"
+          ]
+        },
+        "응보": {
+          "v4_keep": 1,
+          "restored": 23,
+          "patched_total": 24,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q06",
+            "2015_CSAT_LIFE_ETHICS_Q06",
+            "2016_CSAT_LIFE_ETHICS_Q19",
+            "2016_JUNE_LIFE_ETHICS_Q06",
+            "2017_CSAT_LIFE_ETHICS_Q10",
+            "2017_JUNE_LIFE_ETHICS_Q12",
+            "2018_CSAT_LIFE_ETHICS_Q17",
+            "2018_JUNE_LIFE_ETHICS_Q19",
+            "2019_CSAT_LIFE_ETHICS_Q12",
+            "2019_JUNE_LIFE_ETHICS_Q06",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2021_CSAT_LIFE_ETHICS_Q19",
+            "2021_JUNE_LIFE_ETHICS_Q10",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2022_JUNE_LIFE_ETHICS_Q19",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q12",
+            "2025_CSAT_LIFE_ETHICS_Q16",
+            "2025_JUNE_LIFE_ETHICS_Q19",
+            "2026_CSAT_LIFE_ETHICS_Q11",
+            "2026_JUNE_LIFE_ETHICS_Q14",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q07"
+          ]
+        },
+        "예방": {
+          "v4_keep": 1,
+          "restored": 25,
+          "patched_total": 26,
+          "restored_ids": [
+            "2015_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2016_CSAT_LIFE_ETHICS_Q19",
+            "2017_CSAT_LIFE_ETHICS_Q10",
+            "2017_JUNE_LIFE_ETHICS_Q12",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q14",
+            "2018_JUNE_LIFE_ETHICS_Q19",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2019_CSAT_LIFE_ETHICS_Q12",
+            "2019_JUNE_LIFE_ETHICS_Q06",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2020_JUNE_LIFE_ETHICS_Q19",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2021_CSAT_LIFE_ETHICS_Q19",
+            "2021_JUNE_LIFE_ETHICS_Q10",
+            "2022_CSAT_LIFE_ETHICS_Q09",
+            "2022_JUNE_LIFE_ETHICS_Q19",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q12",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2025_CSAT_LIFE_ETHICS_Q16",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2026_CSAT_LIFE_ETHICS_Q11",
+            "2026_JUNE_LIFE_ETHICS_Q14",
+            "2027_JUNE_LIFE_ETHICS_Q09",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q07"
+          ]
+        },
+        "비교형": {
+          "v4_keep": 0,
+          "restored": 35,
+          "patched_total": 35,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q06",
+            "2015_CSAT_LIFE_ETHICS_Q06",
+            "2015_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2016_CSAT_LIFE_ETHICS_Q19",
+            "2016_JUNE_LIFE_ETHICS_Q06",
+            "2017_CSAT_LIFE_ETHICS_Q10",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q14",
+            "2018_CSAT_LIFE_ETHICS_Q17",
+            "2018_JUNE_LIFE_ETHICS_Q19",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2019_CSAT_LIFE_ETHICS_Q12",
+            "2019_JUNE_LIFE_ETHICS_Q06",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q10",
+            "2020_CSAT_LIFE_ETHICS_Q14",
+            "2020_JUNE_LIFE_ETHICS_Q19",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2021_CSAT_LIFE_ETHICS_Q19",
+            "2021_JUNE_LIFE_ETHICS_Q10",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2022_CSAT_LIFE_ETHICS_Q09",
+            "2022_JUNE_LIFE_ETHICS_Q19",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2023_CSAT_LIFE_ETHICS_Q19",
+            "2023_JUNE_LIFE_ETHICS_Q10",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q12",
+            "2024_CSAT_LIFE_ETHICS_Q11",
+            "2024_JUNE_LIFE_ETHICS_Q09",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q09",
+            "2025_CSAT_LIFE_ETHICS_Q16",
+            "2025_JUNE_LIFE_ETHICS_Q19",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2026_CSAT_LIFE_ETHICS_Q11",
+            "2026_JUNE_LIFE_ETHICS_Q14",
+            "2027_JUNE_LIFE_ETHICS_Q09",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q07"
+          ]
+        }
+      }
+    },
+    "PEACE": {
+      "4_source_support": {
+        "자료1_교육과정": "YES",
+        "자료2_2028예시문항안내": "YES",
+        "자료3_28예시실제문항": "YES",
+        "자료4_최소성취수준": "YES"
+      },
+      "concepts": {
+        "갈퉁": {
+          "v4_keep": 2,
+          "restored": 6,
+          "patched_total": 8,
+          "restored_ids": [
+            "2018_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2019_JUNE_LIFE_ETHICS_Q18",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q20",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q16",
+            "2025_JUNE_LIFE_ETHICS_Q10"
+          ]
+        },
+        "칸트": {
+          "v4_keep": 0,
+          "restored": 21,
+          "patched_total": 21,
+          "restored_ids": [
+            "2014_JUNE_LIFE_ETHICS_Q06",
+            "2016_CSAT_LIFE_ETHICS_Q17",
+            "2016_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2019_CSAT_LIFE_ETHICS_Q16",
+            "2019_JUNE_LIFE_ETHICS_Q18",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2020_JUNE_LIFE_ETHICS_Q17",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q20",
+            "2022_JUNE_LIFE_ETHICS_Q17",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2023_CSAT_LIFE_ETHICS_Q13",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q16",
+            "2024_CSAT_LIFE_ETHICS_Q16",
+            "2024_JUNE_LIFE_ETHICS_Q19",
+            "2025_CSAT_LIFE_ETHICS_Q19",
+            "2025_JUNE_LIFE_ETHICS_Q10",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2026_CSAT_LIFE_ETHICS_Q18",
+            "2026_JUNE_LIFE_ETHICS_Q17",
+            "2027_JUNE_LIFE_ETHICS_Q18",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q05"
+          ]
+        },
+        "모겐소": {
+          "v4_keep": 0,
+          "restored": 12,
+          "patched_total": 12,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q08",
+            "2014_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2015_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2020_CSAT_LIFE_ETHICS_Q03",
+            "2021_JUNE_LIFE_ETHICS_Q18",
+            "2022_CSAT_LIFE_ETHICS_Q04",
+            "2022_JUNE_LIFE_ETHICS_Q17",
+            "2023_CSAT_LIFE_ETHICS_Q13",
+            "2024_CSAT_LIFE_ETHICS_Q16",
+            "2024_JUNE_LIFE_ETHICS_Q19",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2027_JUNE_LIFE_ETHICS_Q18"
+          ]
+        },
+        "소극적 평화": {
+          "v4_keep": 1,
+          "restored": 3,
+          "patched_total": 4,
+          "restored_ids": [
+            "2018_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q20"
+          ]
+        },
+        "적극적 평화": {
+          "v4_keep": 2,
+          "restored": 4,
+          "patched_total": 6,
+          "restored_ids": [
+            "2018_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2019_JUNE_LIFE_ETHICS_Q18",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q20"
+          ]
+        },
+        "직접적 폭력": {
+          "v4_keep": 1,
+          "restored": 4,
+          "patched_total": 5,
+          "restored_ids": [
+            "2018_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q16",
+            "2025_JUNE_LIFE_ETHICS_Q10"
+          ]
+        },
+        "구조적 폭력": {
+          "v4_keep": 2,
+          "restored": 4,
+          "patched_total": 6,
+          "restored_ids": [
+            "2019_JUNE_LIFE_ETHICS_Q18",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q20",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q16",
+            "2025_JUNE_LIFE_ETHICS_Q10"
+          ]
+        },
+        "문화적 폭력": {
+          "v4_keep": 2,
+          "restored": 5,
+          "patched_total": 7,
+          "restored_ids": [
+            "2018_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2019_JUNE_LIFE_ETHICS_Q18",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q20",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q16",
+            "2025_JUNE_LIFE_ETHICS_Q10"
+          ]
+        },
+        "국제 협력": {
+          "v4_keep": 1,
+          "restored": 7,
+          "patched_total": 8,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q08",
+            "2014_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2015_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2021_CSAT_LIFE_ETHICS_Q14",
+            "2021_JUNE_LIFE_ETHICS_Q18",
+            "2023_JUNE_LIFE_ETHICS_Q20",
+            "2024_JUNE_LIFE_ETHICS_Q19"
+          ]
+        },
+        "국제기구": {
+          "v4_keep": 0,
+          "restored": 21,
+          "patched_total": 21,
+          "restored_ids": [
+            "2014_CSAT_LIFE_ETHICS_Q08",
+            "2014_JUNE_LIFE_ETHICS_Q06",
+            "2016_CSAT_LIFE_ETHICS_Q17",
+            "2016_JUNE_LIFE_ETHICS_Q12",
+            "2016_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2019_JUNE_LIFE_ETHICS_Q18",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q20",
+            "2022_CSAT_LIFE_ETHICS_Q04",
+            "2022_JUNE_LIFE_ETHICS_Q17",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2023_CSAT_LIFE_ETHICS_Q13",
+            "2023_JUNE_LIFE_ETHICS_Q20",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q16",
+            "2024_CSAT_LIFE_ETHICS_Q16",
+            "2024_JUNE_LIFE_ETHICS_Q19",
+            "2025_JUNE_LIFE_ETHICS_Q10",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2026_CSAT_LIFE_ETHICS_Q18",
+            "2026_JUNE_LIFE_ETHICS_Q17",
+            "2027_JUNE_LIFE_ETHICS_Q18",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q05"
+          ]
+        },
+        "영구 평화": {
+          "v4_keep": 0,
+          "restored": 18,
+          "patched_total": 18,
+          "restored_ids": [
+            "2016_CSAT_LIFE_ETHICS_Q17",
+            "2019_CSAT_LIFE_ETHICS_Q16",
+            "2019_JUNE_LIFE_ETHICS_Q18",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2020_JUNE_LIFE_ETHICS_Q17",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q20",
+            "2022_JUNE_LIFE_ETHICS_Q17",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2023_CSAT_LIFE_ETHICS_Q13",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q16",
+            "2024_CSAT_LIFE_ETHICS_Q16",
+            "2024_JUNE_LIFE_ETHICS_Q19",
+            "2025_CSAT_LIFE_ETHICS_Q19",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2026_CSAT_LIFE_ETHICS_Q18",
+            "2026_JUNE_LIFE_ETHICS_Q17",
+            "2027_JUNE_LIFE_ETHICS_Q18",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q05"
+          ]
+        }
+      }
+    },
+    "AID": {
+      "4_source_support": {
+        "자료1_교육과정": "PARTIAL",
+        "자료2_2028예시문항안내": "PARTIAL",
+        "자료3_28예시실제문항": "PARTIAL",
+        "자료4_최소성취수준": "PARTIAL"
+      },
+      "concepts": {
+        "해외 원조 전체": {
+          "v4_keep": 0,
+          "restored": 36,
+          "patched_total": 36,
+          "restored_ids": [
+            "2014_JUNE_LIFE_ETHICS_Q07",
+            "2015_JUNE_LIFE_ETHICS_Q20",
+            "2016_CSAT_LIFE_ETHICS_Q05",
+            "2016_JUNE_LIFE_ETHICS_Q17",
+            "2016_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2017_CSAT_LIFE_ETHICS_Q20",
+            "2017_JUNE_LIFE_ETHICS_Q19",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2018_CSAT_LIFE_ETHICS_Q18",
+            "2018_JUNE_LIFE_ETHICS_Q03",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2019_CSAT_LIFE_ETHICS_Q17",
+            "2019_JUNE_LIFE_ETHICS_Q17",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q03",
+            "2020_CSAT_LIFE_ETHICS_Q15",
+            "2020_JUNE_LIFE_ETHICS_Q10",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q12",
+            "2021_CSAT_LIFE_ETHICS_Q04",
+            "2021_JUNE_LIFE_ETHICS_Q09",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2022_CSAT_LIFE_ETHICS_Q19",
+            "2022_JUNE_LIFE_ETHICS_Q12",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q08",
+            "2023_CSAT_LIFE_ETHICS_Q18",
+            "2023_JUNE_LIFE_ETHICS_Q15",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2024_CSAT_LIFE_ETHICS_Q19",
+            "2024_JUNE_LIFE_ETHICS_Q14",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2025_CSAT_LIFE_ETHICS_Q14",
+            "2025_JUNE_LIFE_ETHICS_Q12",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2026_CSAT_LIFE_ETHICS_Q19",
+            "2026_JUNE_LIFE_ETHICS_Q15",
+            "2027_JUNE_LIFE_ETHICS_Q19",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q13"
+          ]
+        },
+        "싱어": {
+          "v4_keep": 0,
+          "restored": 27,
+          "patched_total": 27,
+          "restored_ids": [
+            "2015_JUNE_LIFE_ETHICS_Q20",
+            "2016_CSAT_LIFE_ETHICS_Q05",
+            "2016_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2017_CSAT_LIFE_ETHICS_Q20",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2018_CSAT_LIFE_ETHICS_Q18",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2019_CSAT_LIFE_ETHICS_Q17",
+            "2019_JUNE_LIFE_ETHICS_Q17",
+            "2020_CSAT_LIFE_ETHICS_Q15",
+            "2020_JUNE_LIFE_ETHICS_Q10",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q12",
+            "2021_CSAT_LIFE_ETHICS_Q04",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2022_CSAT_LIFE_ETHICS_Q19",
+            "2023_CSAT_LIFE_ETHICS_Q18",
+            "2023_JUNE_LIFE_ETHICS_Q15",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2024_CSAT_LIFE_ETHICS_Q19",
+            "2024_JUNE_LIFE_ETHICS_Q14",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2025_CSAT_LIFE_ETHICS_Q14",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2026_CSAT_LIFE_ETHICS_Q19",
+            "2026_JUNE_LIFE_ETHICS_Q15",
+            "2027_JUNE_LIFE_ETHICS_Q19",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q13"
+          ]
+        },
+        "롤스": {
+          "v4_keep": 0,
+          "restored": 33,
+          "patched_total": 33,
+          "restored_ids": [
+            "2015_JUNE_LIFE_ETHICS_Q20",
+            "2016_CSAT_LIFE_ETHICS_Q05",
+            "2016_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2017_CSAT_LIFE_ETHICS_Q20",
+            "2017_JUNE_LIFE_ETHICS_Q19",
+            "2017_SEPTEMBER_LIFE_ETHICS_Q13",
+            "2018_CSAT_LIFE_ETHICS_Q18",
+            "2018_JUNE_LIFE_ETHICS_Q03",
+            "2018_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2019_CSAT_LIFE_ETHICS_Q17",
+            "2019_JUNE_LIFE_ETHICS_Q17",
+            "2019_SEPTEMBER_LIFE_ETHICS_Q03",
+            "2020_CSAT_LIFE_ETHICS_Q15",
+            "2020_JUNE_LIFE_ETHICS_Q10",
+            "2020_SEPTEMBER_LIFE_ETHICS_Q12",
+            "2021_CSAT_LIFE_ETHICS_Q04",
+            "2021_JUNE_LIFE_ETHICS_Q09",
+            "2021_SEPTEMBER_LIFE_ETHICS_Q15",
+            "2022_CSAT_LIFE_ETHICS_Q19",
+            "2022_JUNE_LIFE_ETHICS_Q12",
+            "2022_SEPTEMBER_LIFE_ETHICS_Q08",
+            "2023_CSAT_LIFE_ETHICS_Q18",
+            "2023_JUNE_LIFE_ETHICS_Q15",
+            "2023_SEPTEMBER_LIFE_ETHICS_Q17",
+            "2024_CSAT_LIFE_ETHICS_Q19",
+            "2024_JUNE_LIFE_ETHICS_Q14",
+            "2024_SEPTEMBER_LIFE_ETHICS_Q18",
+            "2025_CSAT_LIFE_ETHICS_Q14",
+            "2025_JUNE_LIFE_ETHICS_Q12",
+            "2025_SEPTEMBER_LIFE_ETHICS_Q19",
+            "2026_JUNE_LIFE_ETHICS_Q15",
+            "2027_JUNE_LIFE_ETHICS_Q19",
+            "2027_SEPTEMBER_LIFE_ETHICS_Q13"
+          ]
+        }
+      }
+    },
+    "CULTURE": {
+      "4_source_support": {
+        "자료1_교육과정": "YES",
+        "자료2_2028예시문항안내": "YES",
+        "자료3_28예시실제문항": "YES",
+        "자료4_최소성취수준": "YES"
+      },
+      "concepts": {
+        "문화 상대주의": {
+          "v4_keep": 6,
+          "restored": 1,
+          "patched_total": 7,
+          "restored_ids": [
+            "2016_JUNE_LIFE_ETHICS_Q20"
+          ]
+        },
+        "자문화 중심주의": {
+          "v4_keep": 6,
+          "restored": 0,
+          "patched_total": 6,
+          "restored_ids": []
+        },
+        "문화 사대주의": {
+          "v4_keep": 0,
+          "restored": 0,
+          "patched_total": 0,
+          "restored_ids": []
+        },
+        "보편 윤리": {
+          "v4_keep": 2,
+          "restored": 1,
+          "patched_total": 3,
+          "restored_ids": [
+            "2017_SEPTEMBER_LIFE_ETHICS_Q12"
+          ]
+        },
+        "다문화주의": {
+          "v4_keep": 9,
+          "restored": 1,
+          "patched_total": 10,
+          "restored_ids": [
+            "2017_SEPTEMBER_LIFE_ETHICS_Q12"
+          ]
+        },
+        "동화": {
+          "v4_keep": 10,
+          "restored": 0,
+          "patched_total": 10,
+          "restored_ids": []
+        },
+        "병존": {
+          "v4_keep": 7,
+          "restored": 1,
+          "patched_total": 8,
+          "restored_ids": [
+            "2016_JUNE_LIFE_ETHICS_Q20"
+          ]
+        },
+        "융합": {
+          "v4_keep": 2,
+          "restored": 1,
+          "patched_total": 3,
+          "restored_ids": [
+            "2014_SEPTEMBER_LIFE_ETHICS_Q20"
+          ]
+        },
+        "용광로": {
+          "v4_keep": 3,
+          "restored": 0,
+          "patched_total": 3,
+          "restored_ids": []
+        },
+        "샐러드볼": {
+          "v4_keep": 5,
+          "restored": 0,
+          "patched_total": 5,
+          "restored_ids": []
+        },
+        "모자이크": {
+          "v4_keep": 0,
+          "restored": 0,
+          "patched_total": 0,
+          "restored_ids": []
+        },
+        "다문화 사회 통합 모형": {
+          "v4_keep": 5,
+          "restored": 0,
+          "patched_total": 5,
+          "restored_ids": []
+        }
+      }
+    }
+  },
+  "coverage_gaps_after_patch": [
+    {
+      "area": "HAPPINESS",
+      "concept": "석가모니",
+      "patched_total": 1
+    },
+    {
+      "area": "HAPPINESS",
+      "concept": "소크라테스",
+      "patched_total": 0
+    },
+    {
+      "area": "HAPPINESS",
+      "concept": "아리스토텔레스",
+      "patched_total": 1
+    },
+    {
+      "area": "HAPPINESS",
+      "concept": "에피쿠로스",
+      "patched_total": 1
+    },
+    {
+      "area": "HAPPINESS",
+      "concept": "스토아",
+      "patched_total": 0
+    },
+    {
+      "area": "HAPPINESS",
+      "concept": "벤담",
+      "patched_total": 0
+    },
+    {
+      "area": "HAPPINESS",
+      "concept": "칸트",
+      "patched_total": 0
+    },
+    {
+      "area": "HAPPINESS",
+      "concept": "정약용",
+      "patched_total": 0
+    },
+    {
+      "area": "HAPPINESS",
+      "concept": "쇼펜하우어",
+      "patched_total": 0
+    },
+    {
+      "area": "ENVIRONMENT",
+      "concept": "베이컨",
+      "patched_total": 1
+    },
+    {
+      "area": "ENVIRONMENT",
+      "concept": "슈바이처",
+      "patched_total": 1
+    },
+    {
+      "area": "ENVIRONMENT",
+      "concept": "네스",
+      "patched_total": 0
+    },
+    {
+      "area": "JUSTICE",
+      "concept": "왈처",
+      "patched_total": 0
+    },
+    {
+      "area": "JUSTICE",
+      "concept": "밀",
+      "patched_total": 1
+    },
+    {
+      "area": "CULTURE",
+      "concept": "문화 사대주의",
+      "patched_total": 0
+    },
+    {
+      "area": "CULTURE",
+      "concept": "모자이크",
+      "patched_total": 0
+    }
+  ],
+  "gap_targeted_search": {
+    "performed": true,
+    "rounds": 1,
+    "searched_concepts": [
+      "슈바이처",
+      "네스",
+      "왈처",
+      "문화 사대주의",
+      "모자이크",
+      "샐러드볼/용광로",
+      "문화 상대주의/자문화",
+      "소크라테스",
+      "스토아",
+      "쇼펜하우어",
+      "베이컨",
+      "에피쿠로스/아리스토텔레스 행복",
+      "동양 자연관"
+    ],
+    "scope": "V4 KEEP이 아닌 686문항(기존 탈락자) 원문에서 해당 개념 신호만 재검색(800 전체 재검토 아님)",
+    "new_candidates_reviewed": 23,
+    "restored": 9,
+    "restored_ids": [
+      "2014_CSAT_LIFE_ETHICS_Q16",
+      "2014_JUNE_LIFE_ETHICS_Q12",
+      "2014_SEPTEMBER_LIFE_ETHICS_Q07",
+      "2015_CSAT_LIFE_ETHICS_Q03",
+      "2015_SEPTEMBER_LIFE_ETHICS_Q11",
+      "2016_JUNE_LIFE_ETHICS_Q20",
+      "2017_CSAT_LIFE_ETHICS_Q17",
+      "2020_CSAT_LIFE_ETHICS_Q19",
+      "2021_JUNE_LIFE_ETHICS_Q02"
+    ]
+  }
+}
