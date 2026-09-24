@@ -1,0 +1,73 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 39,
+    "question_number": 14,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2031,
+      2999,
+      3265
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 갑 , 을 의 입 장 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]\n갑 : 프 로 테 스 탄 트 의 금 욕 은 향 락 과 낭 비 를 막는다. 이러한\n금 욕 으로 인해 재 화 의 획 득 이 구 원 의 증 표 로 정 당 화 되었다.\n금 욕 을 바 탕 으로 한 영리 활 동 이 근대 기 업 가 의 소 명 이라면,\n노 동 은 근대 노 동 자 의 소 명 이다.\n을: 임 금 은 임 금 답 고 신 하 는 신 하 다 워야 한다. 임 금 이 나 라 를\n다 스 릴 때에는 백 성 들의 신 뢰 를 얻어야 하며, 씀 씀 이 를\n줄이고 백 성 들을 사 랑 해 야 한다. 신 하 는 먼저 맡은 직 분 을\n경 건 히 수 행 하고 녹 봉 은 그 다 음 에 생 각 해 야 한다.\n0 갑 은 경 제 적 으로 부 유 하다면 일 을 하지 않아도 된다고 본다.\n3 갑 은 금 욕 적 태 도 와 자본주의 정 신 이 양립 불 가 능 하다고 본다.\n0) 을 은 직 업 을 통해 최 대 한 의 이 익 을 추 구 해 야 한다고 본다.\n@ 을 은 각 자 가 자 기 의 직 분 에 충 실 할 때 공 동 체 가 유 지 된다고 본다.\n6) 갑 , 을 은 부의 축 적 의 궁 극 적 인 정당화 근 거 를 금 욕 에서 찾는다.",
+    "stem": "갑 , 을 의 입 장 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 프 로 테 스 탄 트 의 금 욕 은 향 락 과 낭 비 를 막는다. 이러한\n금 욕 으로 인해 재 화 의 획 득 이 구 원 의 증 표 로 정 당 화 되었다.\n금 욕 을 바 탕 으로 한 영리 활 동 이 근대 기 업 가 의 소 명 이라면,\n노 동 은 근대 노 동 자 의 소 명 이다.\n을: 임 금 은 임 금 답 고 신 하 는 신 하 다 워야 한다. 임 금 이 나 라 를\n다 스 릴 때에는 백 성 들의 신 뢰 를 얻어야 하며, 씀 씀 이 를\n줄이고 백 성 들을 사 랑 해 야 한다. 신 하 는 먼저 맡은 직 분 을\n경 건 히 수 행 하고 녹 봉 은 그 다 음 에 생 각 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 경 제 적 으로 부 유 하다면 일 을 하지 않아도 된다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "갑 은 금 욕 적 태 도 와 자본주의 정 신 이 양립 불 가 능 하다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "을 은 직 업 을 통해 최 대 한 의 이 익 을 추 구 해 야 한다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "을 은 각 자 가 자 기 의 직 분 에 충 실 할 때 공 동 체 가 유 지 된다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 부의 축 적 의 궁 극 적 인 정당화 근 거 를 금 욕 에서 찾는다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:03+00:00",
+    "qa_flags": []
+  }
+}

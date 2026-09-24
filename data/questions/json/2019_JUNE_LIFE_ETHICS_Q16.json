@@ -1,0 +1,73 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 64,
+    "question_number": 16,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1742,
+      1952
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]\n갑 : 법 에 대한 존 경 심 보다 먼저 정 의 에 대한 존 경 심 을 기르는\n것이 바 람 직 하다. 내가 떠 맡을 권 리 가 있는 나의 유일한 책 무 는\n내가 옮 다고 생 각 하는 일 을 행하는 것이다. 법 에 대한 존경심\n때문에 선량한 사 람 들 조차 불 의 의 하 수 인 이 되고 있다.\n을 : 사 회 의 기본 구 조 가 합 당 하게 정 의 로운 것 인 경우, 그\n부 정 의가 지 나 치 지 만 않으면 부 정 의한 법도 구 속 력 이\n있 음 을 인 정 해 야 한다. 시민 불 복 종 은 법 에 대한 충 실 성의\n한계 내 에 서 법 에 대한 불 복 종 을 나타내는 것 이 어 야 한다.\n0 갑 : 지민 불 복 좋은 다수 국 민 이 공 유 한 정 의 관 에 근 거 해야 한다.\n2 갑 : 법 률 과 양 심 을 시민 불 복 종 의 정당성 판별 근 거 로 삼아야 한다.\n3 을 : 양 심 에 충실한 거 부 라도 정당한 시민 불 복 종 이 아닌 경 우 가 있\n4) 을 : 시민 불 복 종 은 체 제 의 정 딩 성에 대한 비 폭 력 적 - 공 개 적 저 항 이다.\n5 갑 , 을 : 시민 불 복 좋은 공 권 력 에 의한 처 벌 을 거 부 하는 수 단 이다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 법 에 대한 존 경 심 보다 먼저 정 의 에 대한 존 경 심 을 기르는\n것이 바 람 직 하다. 내가 떠 맡을 권 리 가 있는 나의 유일한 책 무 는\n내가 옮 다고 생 각 하는 일 을 행하는 것이다. 법 에 대한 존경심\n때문에 선량한 사 람 들 조차 불 의 의 하 수 인 이 되고 있다.\n을 : 사 회 의 기본 구 조 가 합 당 하게 정 의 로운 것 인 경우, 그\n부 정 의가 지 나 치 지 만 않으면 부 정 의한 법도 구 속 력 이\n있 음 을 인 정 해 야 한다. 시민 불 복 종 은 법 에 대한 충 실 성의\n한계 내 에 서 법 에 대한 불 복 종 을 나타내는 것 이 어 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 지민 불 복 좋은 다수 국 민 이 공 유 한 정 의 관 에 근 거 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 법 률 과 양 심 을 시민 불 복 종 의 정당성 판별 근 거 로 삼아야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 양 심 에 충실한 거 부 라도 정당한 시민 불 복 종 이 아닌 경 우 가 있"
+      },
+      {
+        "number": 4,
+        "text": "을 : 시민 불 복 종 은 체 제 의 정 딩 성에 대한 비 폭 력 적 - 공 개 적 저 항 이다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 시민 불 복 좋은 공 권 력 에 의한 처 벌 을 거 부 하는 수 단 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.893,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:00+00:00",
+    "qa_flags": []
+  }
+}

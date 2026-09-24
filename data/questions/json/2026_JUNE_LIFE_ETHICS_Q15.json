@@ -1,0 +1,73 @@
+{
+  "id": "2026_JUNE_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 147,
+    "question_number": 15,
+    "exam_key": "2026_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3076,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_JUNE_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. 갑 , 을 사 상 가 들 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는\n대로 고른 것은? [3 점 ]\n갑 : 질서 정연한 사 회 는 불리한 여 건 으 로 인해 고 통 받는 사 회 를\n원 조 해야 할 의 무 가 있다. 이러한 원조 의 무 는 모든 사 회 가\n정 의 롭고 자 유 적인 기본 제도 또는 비 자 유 적 이지만 적정\n수 준 의 기본 제 도 를 갖출 때 까지 유 효 하다.\n을: 우 리 는 도 덕 적 으로 중요한 일 을 희 생 하지 않고서 나쁜 일 을\n방 지 할 수 있다면, 그것을 해야 한다. 부 유 한 사 람 은 별다른\n희생 없이도 절대 빈 곤 을 감 소 시킬 수 있기에 절대 빈 곤 의\n고 통 을 방 지 해야 할 원조 의 무 를 가진다.\n< 보 기 >\nㄱ . 갑 : 질서 정 연 하 지 않은 사 회 가 원조 대 상 이 아닐 수 있다.\nㄴ . 갑 : 원조 의무 이 행 에는 경제적 수 단 의 지 원 이 포함될 수 있다\nㄷ . 을: 빈 곤 국 에 대한 원 조 가 원조 효 과 를 이유로 중 단 될 수 는 없다\n르 . 갑과 을: 여성 참정권 보 장 을 위한 원 조 는 정 당 화 될 수 있다.\n0) ㄱㄱ, ㄴ 00 ㄱ , ㄷ 06) ㄷ , 크\n040 ㄱ 7, ㄴ , 르 06) ㄴ , ㄷ , 큰",
+    "stem": "갑 , 을 사 상 가 들 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 질서 정연한 사 회 는 불리한 여 건 으 로 인해 고 통 받는 사 회 를\n원 조 해야 할 의 무 가 있다. 이러한 원조 의 무 는 모든 사 회 가\n정 의 롭고 자 유 적인 기본 제도 또는 비 자 유 적 이지만 적정\n수 준 의 기본 제 도 를 갖출 때 까지 유 효 하다.\n을: 우 리 는 도 덕 적 으로 중요한 일 을 희 생 하지 않고서 나쁜 일 을\n방 지 할 수 있다면, 그것을 해야 한다. 부 유 한 사 람 은 별다른\n희생 없이도 절대 빈 곤 을 감 소 시킬 수 있기에 절대 빈 곤 의\n고 통 을 방 지 해야 할 원조 의 무 를 가진다.\n< 보 기 >\nㄱ . 갑 : 질서 정 연 하 지 않은 사 회 가 원조 대 상 이 아닐 수 있다.\nㄴ . 갑 : 원조 의무 이 행 에는 경제적 수 단 의 지 원 이 포함될 수 있다\nㄷ . 을: 빈 곤 국 에 대한 원 조 가 원조 효 과 를 이유로 중 단 될 수 는 없다\n르 . 갑과 을: 여성 참정권 보 장 을 위한 원 조 는 정 당 화 될 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 크"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ 7, ㄴ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.899,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:36+00:00",
+    "qa_flags": []
+  }
+}

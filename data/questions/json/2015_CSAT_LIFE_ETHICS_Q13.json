@@ -1,0 +1,73 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 23,
+    "question_number": 13,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3049,
+      1593,
+      4300
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. (가), ( 나 ) 의 입 장 에 대한 옮 은 설 명 만을 < 보 기 > 에 서 있는 대로\n고른 것은? [3 점 ]\n(가) 국 수 의 면 과 국 물 이 주 를 이루고 여 기 에 갖가지 고 명 이\n없 혀 입 맛 을 돋 우 듯이, 다른 문 화 는 색다른 맛 을 더해\n주는 고 명 으로 자 신 의 가 치 를 살릴 수 있다.\n(나) 그 릇 에 담긴 다양한 야 채 가 고 유 의 맛 과 색 을 유 지 하면서\n전체적인 맛 의 조 화 를 이 루 듯 이, 다양한 인 종 과 민 족 들이\n각 각 의 특 성 을 유 지 하면서 사 회 를 형 성 해 야 한다.\n< 보 기 >\nㄱ . ( 가 ) 는 주류 문 화 를 전 제 로 한 문화적 다 양 성 을 중 시 한다.\nㄴ . ( 나 ) 는 각 문 화 의 정 체 성 과 가 치 에 대한 존 중 을 중 시 한다.\nㄷ . (가), ( 나 ) 는 비주류 문 화 의 주류 문 화 로의 편 입 을 중 시 한다.\n르 . (가), ( 나 ) 는 다양한 문 화 를 전 제 로 한 사회 통 합 을 중 시 한다.\n0) ㄱ , ㄷ (0) ㄴ , ㄷ (3) ㄴ , 큰\n(0 ) ㄱ , ㄴ , 2 (6) ㄱ , ㄷ , 2",
+    "stem": "(가), ( 나 ) 의 입 장 에 대한 옮 은 설 명 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "(가) 국 수 의 면 과 국 물 이 주 를 이루고 여 기 에 갖가지 고 명 이\n없 혀 입 맛 을 돋 우 듯이, 다른 문 화 는 색다른 맛 을 더해\n주는 고 명 으로 자 신 의 가 치 를 살릴 수 있다.\n(나) 그 릇 에 담긴 다양한 야 채 가 고 유 의 맛 과 색 을 유 지 하면서\n전체적인 맛 의 조 화 를 이 루 듯 이, 다양한 인 종 과 민 족 들이\n각 각 의 특 성 을 유 지 하면서 사 회 를 형 성 해 야 한다.\n< 보 기 >\nㄱ . ( 가 ) 는 주류 문 화 를 전 제 로 한 문화적 다 양 성 을 중 시 한다.\nㄴ . ( 나 ) 는 각 문 화 의 정 체 성 과 가 치 에 대한 존 중 을 중 시 한다.\nㄷ . (가), ( 나 ) 는 비주류 문 화 의 주류 문 화 로의 편 입 을 중 시 한다.\n르 . (가), ( 나 ) 는 다양한 문 화 를 전 제 로 한 사회 통 합 을 중 시 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": ") ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄱ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.894,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:36:05+00:00",
+    "qa_flags": []
+  }
+}

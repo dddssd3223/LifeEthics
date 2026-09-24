@@ -1,0 +1,73 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 124,
+    "question_number": 18,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3558,
+      1740,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n의 사 소 통 적 실 천 은 생활 세 계 에서 합 의 를 이루고 유 지 하며 또한\n새롭게 하는 것에 관 심 을 둔다. 의 사 소 통 적 실 천 의 합 리 성 은\n달 성 된 합 의 가 최 종 적 으로 근 거 에 의 지 해야만 한다는 점 에 서\n드러난다. 참 여 자 의 합리성 역시 자 신 의 발 언 에 대해 적절한\n상 황 에서 근 거 를 제 시 할 수 있 는 가 의 여 부 에 달려 있\n0) 담론 참 여 자 는 토 론 에서 근거 없는 주 장 을 지 양 해야 한다.\n3) 담론 참 여 자 는 타 인 의 의 견 을 자 의 적 으로 조정할 수 있다.\n3) 담론 참 여 자 는 주관적 견 해 를 극 복 한 후에 대 화 에 참 여 해 야 한다.\n@) 담론 참 여 자 의 심 의 를 통해 합 의 된 주 장 은 절 대 적 으로 참 이 다 .\n6) 담 론 에서 발언 기 회 는 합리적 근거 제시 능 력 에 떠 라 주 어 져 야 한다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "의 사 소 통 적 실 천 은 생활 세 계 에서 합 의 를 이루고 유 지 하며 또한\n새롭게 하는 것에 관 심 을 둔다. 의 사 소 통 적 실 천 의 합 리 성 은\n달 성 된 합 의 가 최 종 적 으로 근 거 에 의 지 해야만 한다는 점 에 서\n드러난다. 참 여 자 의 합리성 역시 자 신 의 발 언 에 대해 적절한\n상 황 에서 근 거 를 제 시 할 수 있 는 가 의 여 부 에 달려 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "담론 참 여 자 는 토 론 에서 근거 없는 주 장 을 지 양 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "담론 참 여 자 는 타 인 의 의 견 을 자 의 적 으로 조정할 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "담론 참 여 자 는 주관적 견 해 를 극 복 한 후에 대 화 에 참 여 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "담론 참 여 자 의 심 의 를 통해 합 의 된 주 장 은 절 대 적 으로 참 이 다 ."
+      },
+      {
+        "number": 5,
+        "text": "담 론 에서 발언 기 회 는 합리적 근거 제시 능 력 에 떠 라 주 어 져 야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.923,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:32+00:00",
+    "qa_flags": []
+  }
+}

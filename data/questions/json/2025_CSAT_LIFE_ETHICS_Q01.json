@@ -1,0 +1,78 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 141,
+    "question_number": 1,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      1058,
+      1740,
+      3075
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q01.png",
+    "raw_text": ". (가), (나) 윤 리 학 의 핵심 과 제 로 가장 적절한 것은?\n(가) 유 리 학 은 ' 좋 음 ' * 옮 음 ' 과 같은 도덕적 용 어 들의 의미 분 석 과\n도덕적 추 론 의 타 당 성 을 겁 증 하기 위한 논리적 분 석 에\n주된 관 심 을 둔다.\n(나) 윤 리 학 은 도덕 이 론 과 원 러 를 적 용 하여, 우리 삶 의 다양한\n영 역 에서 발 생 하는 윤리적 문 제 들 에 대한 해결 방 안 을\n제 공 하는 데 주된 관 심 을 둔다.\n0) (가): 다양한 문 화 권 의 관 행 을 가 치 중 립 적 으로 서 술 하는 것이다.\n(0) (가): 마 평 히 추 구 해 야 할 바람직한 삶 의 목 적 을 제 공 하는 것이다.\n@) (나): 도덕 이 론 에 사 용 되 는 명 제 의 논리적 구 조 를 검 토 하는 것이다.\n0) (나): 현 실 의 도덕 문 제 에 대한 구체적 해 법 을 모 색 하는 것이다.\n69) ( 가 ) 와 (나): 모는 사 람 에게 보 편 타당한 노 덕 규 범 을 제 시 하는 것이다.",
+    "stem": ". (가), (나) 윤 리 학 의 핵심 과 제 로 가장 적절한 것은?",
+    "passage": "(가) 유 리 학 은 ' 좋 음 ' * 옮 음 ' 과 같은 도덕적 용 어 들의 의미 분 석 과\n도덕적 추 론 의 타 당 성 을 겁 증 하기 위한 논리적 분 석 에\n주된 관 심 을 둔다.\n(나) 윤 리 학 은 도덕 이 론 과 원 러 를 적 용 하여, 우리 삶 의 다양한\n영 역 에서 발 생 하는 윤리적 문 제 들 에 대한 해결 방 안 을\n제 공 하는 데 주된 관 심 을 둔다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 다양한 문 화 권 의 관 행 을 가 치 중 립 적 으로 서 술 하는 것이다."
+      },
+      {
+        "number": 2,
+        "text": "(가): 마 평 히 추 구 해 야 할 바람직한 삶 의 목 적 을 제 공 하는 것이다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 도덕 이 론 에 사 용 되 는 명 제 의 논리적 구 조 를 검 토 하는 것이다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 현 실 의 도덕 문 제 에 대한 구체적 해 법 을 모 색 하는 것이다."
+      },
+      {
+        "number": 5,
+        "text": "( 가 ) 와 (나): 모는 사 람 에게 보 편 타당한 노 덕 규 범 을 제 시 하는 것이다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=10224",
+      "vector_lines=1570"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.795,
+    "review_required": true,
+    "warnings": [
+      "QNUM_UNREADABLE_INFERRED: 판독 불가 '.' -> 1 (앞 문항 기준)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:06+00:00",
+    "qa_flags": []
+  }
+}

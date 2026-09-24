@@ -1,0 +1,73 @@
+{
+  "id": "2016_CSAT_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 33,
+    "question_number": 4,
+    "exam_key": "2016_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1763,
+      2313,
+      3145,
+      3491
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_CSAT_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 다음 사 상 에서 강 조 하는 올바른 삶 의 태 도 로 가장 적절한 것은?\n보이지 않는 데 에 서도 언제나 조 심 해 야 하고, 들리지 않는\n데 에 서도 항상 두 려 워 해 야 한다. 숨은 것처럼 잘 드러나는\n것이 없으며, 미세한 것처럼 잘 나타나는 것이 없다. 그러므로\n홀로 있을 때에도 항상 조 심 하 고 삼가는 것 [01878]1 이 다.\n0 사 사 로 운 욕 심 을 극 복 하여 예 (08) 를 실 현 하는 삶 을 추 구 한다.\n(2) 인 의 ({ 38) 를 버리고 자 연 의 소박한 덕 을 따르는 삶 을 추 구 한다.\n6) 마 음 을 깨끗이 비 우 고 [108] 천 리 를 따르는 삶 을 추 구 한다.\n@) 우주 만 물 의 무 상 함 을 깨닫고 무 위 (868) 를 실 천 하는 삶 을 추 구 한다.\n6) 나와 남을 구 분 하지 않는 사 랑 [38 랬 을 실 천 하는 삶 을 추 구 한다.",
+    "stem": "다음 사 상 에서 강 조 하는 올바른 삶 의 태 도 로 가장 적절한 것은?",
+    "passage": "보이지 않는 데 에 서도 언제나 조 심 해 야 하고, 들리지 않는\n데 에 서도 항상 두 려 워 해 야 한다. 숨은 것처럼 잘 드러나는\n것이 없으며, 미세한 것처럼 잘 나타나는 것이 없다. 그러므로\n홀로 있을 때에도 항상 조 심 하 고 삼가는 것 [01878]1 이 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "사 사 로 운 욕 심 을 극 복 하여 예 (08) 를 실 현 하는 삶 을 추 구 한다."
+      },
+      {
+        "number": 2,
+        "text": "인 의 ({ 38) 를 버리고 자 연 의 소박한 덕 을 따르는 삶 을 추 구 한다."
+      },
+      {
+        "number": 3,
+        "text": "마 음 을 깨끗이 비 우 고 [108] 천 리 를 따르는 삶 을 추 구 한다."
+      },
+      {
+        "number": 4,
+        "text": "우주 만 물 의 무 상 함 을 깨닫고 무 위 (868) 를 실 천 하는 삶 을 추 구 한다."
+      },
+      {
+        "number": 5,
+        "text": "나와 남을 구 분 하지 않는 사 랑 [38 랬 을 실 천 하는 삶 을 추 구 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.878,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:49+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 76,
+    "question_number": 16,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2012
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 갑 , 을 의 입 장 으로 적 절 하지 않은 것은?\n갑 : 주류 문 화 와의 통합 여 부 는 소수 문 화 의 구 성 원 이 결 정 해야\n한다. 주류 문화 구 성 원 이 소수 문 화 의 통 합 을 강 제 하는\n것은 부 정 의 하 다.\n을 : 단 일 한 언어, 문화 전통, 교육 정 책 을 추 구 하여 소수 문 화 가\n주류 문 화 에 동 화 되도록 도와야 한다. 통 일 된 문 화 의 부재\n때문에 집단 간 결 속 력 이 훼 손 되는 것은 바 람 직 하지 않다.\n1 갑 : 사회 통 합 을 위해 소수 문 화 가 억 압 받 아 서 는 한 된다.\n2) 갑 : 소수 문화 구 성 원 에게 문화적 자 치 퀸 을 부 여 해 야 한다.\n6) 을 : 사회적 유 대 의 강 화 를 위해 단일 문 화 를 형 성 해 야 한다.\n4) 을 : 사회 발 전 을 위해 주류 문 화 가 문화 통 합 의 중 심 이 되어야 한다.\n5 갑 , 을 : 국 가 의 교육 정 책 으로 통 일 된 문 화 를 형 성 해 야 한다.",
+    "stem": "갑 , 을 의 입 장 으로 적 절 하지 않은 것은?",
+    "passage": "갑 : 주류 문 화 와의 통합 여 부 는 소수 문 화 의 구 성 원 이 결 정 해야\n한다. 주류 문화 구 성 원 이 소수 문 화 의 통 합 을 강 제 하는\n것은 부 정 의 하 다.\n을 : 단 일 한 언어, 문화 전통, 교육 정 책 을 추 구 하여 소수 문 화 가\n주류 문 화 에 동 화 되도록 도와야 한다. 통 일 된 문 화 의 부재\n때문에 집단 간 결 속 력 이 훼 손 되는 것은 바 람 직 하지 않다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 사회 통 합 을 위해 소수 문 화 가 억 압 받 아 서 는 한 된다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 소수 문화 구 성 원 에게 문화적 자 치 퀸 을 부 여 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 사회적 유 대 의 강 화 를 위해 단일 문 화 를 형 성 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 사회 발 전 을 위해 주류 문 화 가 문화 통 합 의 중 심 이 되어야 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 국 가 의 교육 정 책 으로 통 일 된 문 화 를 형 성 해 야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.91,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:30+00:00",
+    "qa_flags": []
+  }
+}

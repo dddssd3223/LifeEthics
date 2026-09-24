@@ -1,0 +1,76 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 47,
+    "question_number": 15,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      2499,
+      3000,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q15.png",
+    "raw_text": "16. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 럼 으로 표현할 때,\n&~1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n갑 : 우 리 가 어떤 존 재 에 게 좋은 것 또는 나쁜 것이 있다고\n말할 수 있다면, 그 존 재 는 고 유 의 선 을 갖는다. 모든 생 물 은\n내재적 가 치 를 지닌 동등한 목 적 론적 삶 의 중 심 이다.\n을: 우 리 는 지각, 기억, 믿음 등 을 지닌 삶 의 주 체 의 내재적\n( 가 )| 가 치 를 존 중 해야 한다. 그들의 가 치 는 도덕적 행위\n능 력 과 무 관 하게 존 중 되어야 한다.\n병 : 우 리 는 대 지 를 사랑과 존 중 의 대 상 으로 보아야 한다.\n대 지 와 인 간 의 윤리적 관 계 는 대 지 에 대한 사랑,\n존경, 감탄 없이는 지속될 수 없다.\n근 | ~\n| < 범 례 >\n쇼 : 갑과 을 만의 공통 입장\n8: 감과 병 만의 공통 입장\n(나)\n0: 을과 병 만의 공통 입장\n0: 감 , 을, 병 의 공통 입장\n< 보 기 >\nㄱ . &: 개 체 론적 관 점 에서 도덕적 고려 대 상 의 법 주 를 설 정 해 야 한다.\nㄴ . 8: 생태계 안 정 에 기 여 하 더라도 무 생 물 은 도덕적 고려 대 상 이 이 니 다.\nㄷ . (:: 도덕적 행위 능력 유 무 가 도덕적 고려 대 상 의 설정 근 거 는 이 니 다.\n2.1: 도덕적 고 려 의 대 상 을 인 간 으로 한 정 하지 말아야 한다.\n0) ㄱ , ㄴ (2) ㄱ , 2 (3) ㄴ , ㄷ\n(0) ㄱ , ㄷ , 2 (66) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 럼 으로 표현할 때, &~1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 우 리 가 어떤 존 재 에 게 좋은 것 또는 나쁜 것이 있다고\n말할 수 있다면, 그 존 재 는 고 유 의 선 을 갖는다. 모든 생 물 은\n내재적 가 치 를 지닌 동등한 목 적 론적 삶 의 중 심 이다.\n을: 우 리 는 지각, 기억, 믿음 등 을 지닌 삶 의 주 체 의 내재적\n( 가 )| 가 치 를 존 중 해야 한다. 그들의 가 치 는 도덕적 행위\n능 력 과 무 관 하게 존 중 되어야 한다.\n병 : 우 리 는 대 지 를 사랑과 존 중 의 대 상 으로 보아야 한다.\n대 지 와 인 간 의 윤리적 관 계 는 대 지 에 대한 사랑,\n존경, 감탄 없이는 지속될 수 없다.\n근 | ~\n| < 범 례 >\n쇼 : 갑과 을 만의 공통 입장\n8: 감과 병 만의 공통 입장\n(나)\n0: 을과 병 만의 공통 입장\n0: 감 , 을, 병 의 공통 입장\n< 보 기 >\nㄱ . &: 개 체 론적 관 점 에서 도덕적 고려 대 상 의 법 주 를 설 정 해 야 한다.\nㄴ . 8: 생태계 안 정 에 기 여 하 더라도 무 생 물 은 도덕적 고려 대 상 이 이 니 다.\nㄷ . (:: 도덕적 행위 능력 유 무 가 도덕적 고려 대 상 의 설정 근 거 는 이 니 다.\n2.1: 도덕적 고 려 의 대 상 을 인 간 으로 한 정 하지 말아야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , 2"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=55",
+      "vector_lines=459"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.872,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:22+00:00",
+    "qa_flags": []
+  }
+}

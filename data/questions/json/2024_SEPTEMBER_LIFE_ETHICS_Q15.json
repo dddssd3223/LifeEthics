@@ -1,0 +1,75 @@
+{
+  "id": "2024_SEPTEMBER_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 127,
+    "question_number": 15,
+    "exam_key": "2024_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2643,
+      3148,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_SEPTEMBER_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. (가의 감 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때,\nㅅ ~(: 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n갑 : 차 등 의 원 칙 은 사회적 협 동 을 위한 기본 윈 칙 이다.\n이 원 칙 은 천부적 재 능 을 가진 사 람 들 이 불우한 사람\n들을 돕는 한 에서 각 자 의 자 질 을 사 용 하게 한다,\n(가)\n을 : 차 등 의 원 칙 은 정 의 를 위한 공정한 기 반 을 제 시 하지\n못한다. 개 인 의 천부적 재 능 과 이 로 부터 나오는 것에\n대한 소유 권 리 는 그 개 인 에게 있다.\n사상가 갑 , 을 의 < 린 헤이\n범 례\n입 장 을 탐 구 한 다 ㆍ 르르 즈\n버 으 르 ㅁ [04 ㆍ ㅠㅠ\n<> : 판단 내용\nㅡ 구 : 판단 방향\n< & >-9 버 로 1: 사 상 가 의 입장\n(나) 에\n예\n예\n=] =\n르 터 ㅎ\n< 보 기 >\n7. 쇼 : 개 인 의 소 유 권 을 침 해 하지 않는 과세 정 책 이 가능한가?\nㄴ . 8: 차 둥 의 원 칙 은 더 큰 재 능 의 소 유 자 에게 유 익 할 수 있는가?\nㄷ . 2: 재 산 의 평 등 한 분 배 가 정의 원 칙 에 의해 허 용 될 수 있는가?\n르 . @: 국 가 는 자유롭게 체 결 된 계 약 의 이 행 을 강 제 할 수 있는가?\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄴ , 큰\n0400 ㄱ 7, ㄷ , 르 06) ㄴ , ㄷ , 큰",
+    "stem": "(가의 감 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, ㅅ ~(: 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 차 등 의 원 칙 은 사회적 협 동 을 위한 기본 윈 칙 이다.\n이 원 칙 은 천부적 재 능 을 가진 사 람 들 이 불우한 사람\n들을 돕는 한 에서 각 자 의 자 질 을 사 용 하게 한다,\n(가)\n을 : 차 등 의 원 칙 은 정 의 를 위한 공정한 기 반 을 제 시 하지\n못한다. 개 인 의 천부적 재 능 과 이 로 부터 나오는 것에\n대한 소유 권 리 는 그 개 인 에게 있다.\n사상가 갑 , 을 의 < 린 헤이\n범 례\n입 장 을 탐 구 한 다 ㆍ 르르 즈\n버 으 르 ㅁ [04 ㆍ ㅠㅠ\n<> : 판단 내용\nㅡ 구 : 판단 방향\n< & >-9 버 로 1: 사 상 가 의 입장\n(나) 에\n예\n예\n=] =\n르 터 ㅎ\n< 보 기 >\n7. 쇼 : 개 인 의 소 유 권 을 침 해 하지 않는 과세 정 책 이 가능한가?\nㄴ . 8: 차 둥 의 원 칙 은 더 큰 재 능 의 소 유 자 에게 유 익 할 수 있는가?\nㄷ . 2: 재 산 의 평 등 한 분 배 가 정의 원 칙 에 의해 허 용 될 수 있는가?\n르 . @: 국 가 는 자유롭게 체 결 된 계 약 의 이 행 을 강 제 할 수 있는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "0400 ㄱ 7, ㄷ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.841,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:42+00:00",
+    "qa_flags": []
+  }
+}

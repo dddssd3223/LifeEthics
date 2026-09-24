@@ -1,0 +1,73 @@
+{
+  "id": "2027_JUNE_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 156,
+    "question_number": 17,
+    "exam_key": "2027_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2035,
+      1740,
+      3352
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_JUNE_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n인 간 이 사 회 로 들어가는 길은 자연 상 태 의 자 유 를 내 려 놓고\n소유 보 전 을 위해 사회 결 성 에 동 의 하는 계 익 뿐이다. 동 치 의 목 적 은\n소유권 보 전 이며, 법 의 목 적 은 자유 보 장 이다. 자 유 와 권리 수 호 를\n위해 성 립 된 국 가 에서 최대 해 악 은 법 을 유 런 하는 폭 력 이다. 빈 역 은\n법 에 대한 위 반 이며, 권 력 자 가 반 역 을 범할 가 능 성 이 가장 크다.\n권 력 자 는 권 력 을 과 시 하고 무 력 을 휘 두 르 고 픈 유 혹 과 측 근 의 아 첨 에\n빠지기 쉽기 때 문 이 다. 신 탁 을 위 반 하고 폭 력 으로 법 을 파 괴 하는\n권 력 자 야말로 진짜 반 역 자 이다.\n03 자연 상 태 의 모든 권 리 와 자 유 는 사 회 에 양 도 되어야 한다,\n자연 상 태 에서 개 인 은 타 인 에 대해 권 력 을 행사할 수 없다.\n6 사회 계약 이후 정치 권 력 과 법 은 자 연 법 에 구 속 되지 않는다.\n@ 인 민 만이 권 력 자 의 신탁 위 반 을 심 판 하고 그를 파 면 하는 주 체 이다,\n5) 입 법 부 를 설 립 하면 권 력 자 가 반 역 을 저 지 를 가 능 성 이 차 단 된다,",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "인 간 이 사 회 로 들어가는 길은 자연 상 태 의 자 유 를 내 려 놓고\n소유 보 전 을 위해 사회 결 성 에 동 의 하는 계 익 뿐이다. 동 치 의 목 적 은\n소유권 보 전 이며, 법 의 목 적 은 자유 보 장 이다. 자 유 와 권리 수 호 를\n위해 성 립 된 국 가 에서 최대 해 악 은 법 을 유 런 하는 폭 력 이다. 빈 역 은\n법 에 대한 위 반 이며, 권 력 자 가 반 역 을 범할 가 능 성 이 가장 크다.\n권 력 자 는 권 력 을 과 시 하고 무 력 을 휘 두 르 고 픈 유 혹 과 측 근 의 아 첨 에\n빠지기 쉽기 때 문 이 다. 신 탁 을 위 반 하고 폭 력 으로 법 을 파 괴 하는\n권 력 자 야말로 진짜 반 역 자 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "자연 상 태 의 모든 권 리 와 자 유 는 사 회 에 양 도 되어야 한다,"
+      },
+      {
+        "number": 2,
+        "text": "상 태 에서 개 인 은 타 인 에 대해 권 력 을 행사할 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "사회 계약 이후 정치 권 력 과 법 은 자 연 법 에 구 속 되지 않는다."
+      },
+      {
+        "number": 4,
+        "text": "인 민 만이 권 력 자 의 신탁 위 반 을 심 판 하고 그를 파 면 하는 주 체 이다,"
+      },
+      {
+        "number": 5,
+        "text": "입 법 부 를 설 립 하면 권 력 자 가 반 역 을 저 지 를 가 능 성 이 차 단 된다,"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:41+00:00",
+    "qa_flags": []
+  }
+}

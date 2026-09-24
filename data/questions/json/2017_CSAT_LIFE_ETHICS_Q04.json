@@ -1,0 +1,73 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 45,
+    "question_number": 4,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      2178,
+      2999,
+      3403
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 다음 동양 사 상 의 입 장 으로 가장 적절한 것은?\nㅇ 그대 무리 중 정직한 사 람 은 자기 아 버 지 가 양 을 몰래 움 친\n것을 증 언 했지만, 우리 무리 중 정직한 사 람 은 아 버 지 는 자 식 을\n위해 자 식 은 아 버 지 를 위해 그 사 실 을 숨 겼 네 . 정 직 은 그 속에\n있다네.\nㅇ 자 식 은 부 모 가 부 르 시 면 빨리 대 답 하여 늦지 않도록 한다.\n부 모 가 연세 드시면 늦게 귀 가 하지 않는다. 부 모 가 병환\n중 이 시면 자 식 은 얼 굴 을 환하게 하지 않고, 웃 되 잇 몸 을 보이는\n데 이르지 않으며, 노 하 되 꾸 진 데 이르지 않는다.\n02 부 자 유 친 (% ㅜ 소 #@) 의 본 질 은 집 단 과 상 황 에 따라 딜 라 져야 한다,\n(3) 부 자 (% ㅜ ) 간 정 직 은 친 애 [@] 보 다 올 바 름 [368 을 우 선 해야 한다.\n(8) 자 식 은 부 모 의 의 중 을 실 펴서 언 행 을 삼 가 며 공 대 (#668 해 야 한다.\n@) 부 모 를 위하여 자 식 은 결코 어떠한 감 정 도 드 러 내 서는 안 된다,\n6) 효 의 정 신 은 부 모 와 자식 간의 관 계 에 국 한 하여 적 용 해야 한다.",
+    "stem": "다음 동양 사 상 의 입 장 으로 가장 적절한 것은?",
+    "passage": "ㅇ 그대 무리 중 정직한 사 람 은 자기 아 버 지 가 양 을 몰래 움 친\n것을 증 언 했지만, 우리 무리 중 정직한 사 람 은 아 버 지 는 자 식 을\n위해 자 식 은 아 버 지 를 위해 그 사 실 을 숨 겼 네 . 정 직 은 그 속에\n있다네.\nㅇ 자 식 은 부 모 가 부 르 시 면 빨리 대 답 하여 늦지 않도록 한다.\n부 모 가 연세 드시면 늦게 귀 가 하지 않는다. 부 모 가 병환\n중 이 시면 자 식 은 얼 굴 을 환하게 하지 않고, 웃 되 잇 몸 을 보이는\n데 이르지 않으며, 노 하 되 꾸 진 데 이르지 않는다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "부 자 유 친 (% ㅜ 소 #@) 의 본 질 은 집 단 과 상 황 에 따라 딜 라 져야 한다,"
+      },
+      {
+        "number": 2,
+        "text": "부 자 (% ㅜ ) 간 정 직 은 친 애 [@] 보 다 올 바 름 [368 을 우 선 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "자 식 은 부 모 의 의 중 을 실 펴서 언 행 을 삼 가 며 공 대 (#668 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "부 모 를 위하여 자 식 은 결코 어떠한 감 정 도 드 러 내 서는 안 된다,"
+      },
+      {
+        "number": 5,
+        "text": "효 의 정 신 은 부 모 와 자식 간의 관 계 에 국 한 하여 적 용 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.886,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:17+00:00",
+    "qa_flags": []
+  }
+}

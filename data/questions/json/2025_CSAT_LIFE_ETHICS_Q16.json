@@ -1,0 +1,77 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 144,
+    "question_number": 16,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      647,
+      1740,
+      3265
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 판 을 (나) 그 림 으로 표현할 때, 4~) 에 해 당 하는 내 용 으로 가장\n적절한 것은? [3 점 ]\n근 그 ^ 쓰 ㄴ ㆍ\n갑 : 공적 정 의 가 원 리 와 퓨 준 으로 삼는 것은 어떤 종 류 와\n어느 정 도 의 형 벌 인가? 오직 보 복 법 만이 형 벌 의 질 과\n양 을 명 확 하게 제 시 한다.\n을: 법 은 공동 이 익 을 지 향 하는 일반 의 지 의 지 도 를\n( 가 )| 받아야 한다. 법 을 어긴 범 죄 자 는 더 이상 조 국 의\n구 성 원 이 아니고 조 국 과 전 쟁 을 벌이는 자 이 다.\n병 ： 좋 신 노 역 형 만으로도 가장 완 강 한 자의 마 음 을 억제\n하 기 에 충분한 엄 격 성 을 지닌다. 종신 노 역 형 은 사형\n이상의 확실한 효 과 를 가져온다.\n< 범 레 >\nㅡ - : 비 판 의 방향\n0 : 비 판 의 내용\n(나) % 아시. (에 시 >\n그\n~\n고 6 쇼 는 갑 이 을 에게 제 기 할\n00 수 있는 비 판 임 .\n1)\n01) &: 사 형 은 살 인 범 의 자발적 행 위 에 대한 응 보 적 형 벌 임을 간 과 한다.\n(0) 2: 살 인 범 에 대한 사 형 은 정 의 를 실 현 하는 형 벌 임을 간 과 한 다.\n(63) (와 8: 사 형 은 개 인 이 국 가 에 양 도 한 생 명 권 을 국 가 가 침해\n하는 형 벌 임을 간 과 한 다.\n@) 2: 사회 계 약 의 목 적 을 위해 모든 시 민 이 사 형 제 에 동 의 해야\n함 을 간 과 한다.\n0669) : 형 벌 의 경 중 은 오직 범 죄 의 동 기 에 비 례 하여 결 정 해야 함 을\n간 과 한다.",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 판 을 (나) 그 림 으로 표현할 때, 4~) 에 해 당 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "근 그 ^ 쓰 ㄴ ㆍ\n갑 : 공적 정 의 가 원 리 와 퓨 준 으로 삼는 것은 어떤 종 류 와\n어느 정 도 의 형 벌 인가? 오직 보 복 법 만이 형 벌 의 질 과\n양 을 명 확 하게 제 시 한다.\n을: 법 은 공동 이 익 을 지 향 하는 일반 의 지 의 지 도 를\n( 가 )| 받아야 한다. 법 을 어긴 범 죄 자 는 더 이상 조 국 의\n구 성 원 이 아니고 조 국 과 전 쟁 을 벌이는 자 이 다.\n병 ： 좋 신 노 역 형 만으로도 가장 완 강 한 자의 마 음 을 억제\n하 기 에 충분한 엄 격 성 을 지닌다. 종신 노 역 형 은 사형\n이상의 확실한 효 과 를 가져온다.\n< 범 레 >\nㅡ - : 비 판 의 방향\n0 : 비 판 의 내용\n(나) % 아시. (에 시 >\n그\n~\n고 6 쇼 는 갑 이 을 에게 제 기 할\n00 수 있는 비 판 임 .\n1)",
+    "choices": [
+      {
+        "number": 1,
+        "text": "&: 사 형 은 살 인 범 의 자발적 행 위 에 대한 응 보 적 형 벌 임을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "2: 살 인 범 에 대한 사 형 은 정 의 를 실 현 하는 형 벌 임을 간 과 한 다."
+      },
+      {
+        "number": 3,
+        "text": "(와 8: 사 형 은 개 인 이 국 가 에 양 도 한 생 명 권 을 국 가 가 침해 하는 형 벌 임을 간 과 한 다."
+      },
+      {
+        "number": 4,
+        "text": "2: 사회 계 약 의 목 적 을 위해 모든 시 민 이 사 형 제 에 동 의 해야 함 을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": "0669) : 형 벌 의 경 중 은 오직 범 죄 의 동 기 에 비 례 하여 결 정 해야 함 을 간 과 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=14307",
+      "vector_lines=2233"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.787,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:13+00:00",
+    "qa_flags": []
+  }
+}

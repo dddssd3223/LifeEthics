@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 28,
+    "question_number": 18,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1807,
+      761,
+      3365,
+      1946
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 갑 , 을 의 입 장 에 대한 설 명 으로 옮 지 않은 것은? [3 점 |\n촛 불 을 여러 사 람 에게 붙여 세 상 이 밝 아 지는\n내 촛 불 을 여러 사 람 에게 붙여 주 더 라 도\n나 에게는 아무런 손 해 가 없으면서 세 상 은\n것은 처음 불 씨 를 일으킨 사 람 이 있기 때문이야.\n더욱 밝 아 질 거야. 정 보 도 이와 같아서 어느\n따라서 그의 노 력 에 정당한 대 가 를 지 불 해야\n| 그 불 빛 이 더욱 의 미 가 있어. 이처럼 정 보 는\n한 사 람 만의 것이 아니라 모 두 가 나 누 어 야\n할 공 공 의 소중한 자 산 이 야 .\n소 유 권 을 인 정 해 야 할 개 인 의 재 산 이야.\n(1) 갑 은 정 보 의 공 유 가 사회 경제적 불 평 등 의 완 화 에 기 여 한 다고 본다.\n을 은 정보 소유권 보 장 이 정 보 의 지속적 발 전 을 촉 진 한다고 본다.\n(8) 을 은 양 질 의 정보 생 산 을 위해 정보 복 제 에 제약 없어야 한다고 본다.\n(0) 갑 은 정 보 를 인 류 의 공유 자 산 으로, 을 은 사유 재 산 으로 본다.\n(8) 갑 , 을 은 정 보 를 삶 의 질 향 상 에 이 바 지 할 수 있는 자 산 으로 본다.",
+    "stem": "갑 , 을 의 입 장 에 대한 설 명 으로 옮 지 않은 것은? [3 점 |",
+    "passage": "촛 불 을 여러 사 람 에게 붙여 세 상 이 밝 아 지는\n내 촛 불 을 여러 사 람 에게 붙여 주 더 라 도\n나 에게는 아무런 손 해 가 없으면서 세 상 은\n것은 처음 불 씨 를 일으킨 사 람 이 있기 때문이야.\n더욱 밝 아 질 거야. 정 보 도 이와 같아서 어느\n따라서 그의 노 력 에 정당한 대 가 를 지 불 해야\n| 그 불 빛 이 더욱 의 미 가 있어. 이처럼 정 보 는\n한 사 람 만의 것이 아니라 모 두 가 나 누 어 야\n할 공 공 의 소중한 자 산 이 야 .\n소 유 권 을 인 정 해 야 할 개 인 의 재 산 이야.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 정 보 의 공 유 가 사회 경제적 불 평 등 의 완 화 에 기 여 한 다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 정보 소유권 보 장 이 정 보 의 지속적 발 전 을 촉 진 한다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "을 은 양 질 의 정보 생 산 을 위해 정보 복 제 에 제약 없어야 한다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "갑 은 정 보 를 인 류 의 공유 자 산 으로, 을 은 사유 재 산 으로 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 정 보 를 삶 의 질 향 상 에 이 바 지 할 수 있는 자 산 으로 본다."
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.825,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T111523",
+    "extracted_at": "2026-09-24T11:20:22+00:00",
+    "qa_flags": []
+  }
+}

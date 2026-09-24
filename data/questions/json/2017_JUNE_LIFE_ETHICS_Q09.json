@@ -1,0 +1,76 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 38,
+    "question_number": 9,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      1850,
+      2999,
+      3033
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 다음 가상 편 지 에서 강 조 하는 내 용 으로 가장 적절한 것은?\n(0(: 에 게\n즘 언 론 에서 가정 내의 폭 력 에 관한 기 사 를 쉽게 볼 수 있네. 부 모 와\n자녀 간의 ㅣ 친밀한 관 계 는 부 자 자 효 (%※ ㅜ 추 ) 의 정 신 을 통해 강 화 될 수\n있다네. 사 람 이 개와 말 을 기를 적 에 도 모두 음 식 으로 길러 주는데,\n만약 부 모 를 봉 양 만 하고 공 경 함 이 없으면 개와 말 을 기르는 것과 무엇이\n다 르 겠는가. 이처럼 효 도 는 봉 양 만 해서 되는 것이 아니라 공 경 하는\n마 음 [※] 이 바 탕 이 되어야 하네. 자 애 의 경 우 에는 부 모 가 자 녀 를 위하는\n마 음 만으로 억지로 이 끌 려 고 해서는 안 되네. 힘 으 로 는 도 (#9) 로 이끌 수\n없으니, 내가 선 해 지 고 자 하면 상 대 방 도 선 해 지지 않겠는가. …( 후 략 )…\n~ 니이 기 님 ㅣ\n01) 효 의 정 신 적 인 측 면 보다 물 질 적 인 측 면 이 더 중 요 하다.\n(3) 자 녀 의 옮 지 않은 행 동 은 강 제 로 라 도 교 정 해 주어야 한다.\n(3) 부 모 의 역 할 을 다 하 면서 도 덕 적 인 모 범 을 보여 주어야 한다.\n0) 자 녀 를 위하는 마 음 으로 행하는 행 위 는 모두 자 애 에 속한다.\n(6) 부 모 의 경제적 보 살 겹 을 받기 위해 자 녀 는 효 도 를 행해야 한다.",
+    "stem": "다음 가상 편 지 에서 강 조 하는 내 용 으로 가장 적절한 것은?",
+    "passage": "(0(: 에 게\n즘 언 론 에서 가정 내의 폭 력 에 관한 기 사 를 쉽게 볼 수 있네. 부 모 와\n자녀 간의 ㅣ 친밀한 관 계 는 부 자 자 효 (%※ ㅜ 추 ) 의 정 신 을 통해 강 화 될 수\n있다네. 사 람 이 개와 말 을 기를 적 에 도 모두 음 식 으로 길러 주는데,\n만약 부 모 를 봉 양 만 하고 공 경 함 이 없으면 개와 말 을 기르는 것과 무엇이\n다 르 겠는가. 이처럼 효 도 는 봉 양 만 해서 되는 것이 아니라 공 경 하는\n마 음 [※] 이 바 탕 이 되어야 하네. 자 애 의 경 우 에는 부 모 가 자 녀 를 위하는\n마 음 만으로 억지로 이 끌 려 고 해서는 안 되네. 힘 으 로 는 도 (#9) 로 이끌 수\n없으니, 내가 선 해 지 고 자 하면 상 대 방 도 선 해 지지 않겠는가. …( 후 략 )…\n~ 니이 기 님 ㅣ",
+    "choices": [
+      {
+        "number": 1,
+        "text": "효 의 정 신 적 인 측 면 보다 물 질 적 인 측 면 이 더 중 요 하다."
+      },
+      {
+        "number": 2,
+        "text": "자 녀 의 옮 지 않은 행 동 은 강 제 로 라 도 교 정 해 주어야 한다."
+      },
+      {
+        "number": 3,
+        "text": "부 모 의 역 할 을 다 하 면서 도 덕 적 인 모 범 을 보여 주어야 한다."
+      },
+      {
+        "number": 4,
+        "text": "자 녀 를 위하는 마 음 으로 행하는 행 위 는 모두 자 애 에 속한다."
+      },
+      {
+        "number": 5,
+        "text": "부 모 의 경제적 보 살 겹 을 받기 위해 자 녀 는 효 도 를 행해야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=33",
+      "vector_lines=81"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.889,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:00+00:00",
+    "qa_flags": []
+  }
+}

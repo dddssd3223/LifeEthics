@@ -1,0 +1,73 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 5,
+    "question_number": 1,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      879,
+      1594,
+      3047
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. (가), ( 나 ) 에 서 강 조 하고 있는 윤 리 학 의 주요 탐구 과 제 를 < 보 기 >\n에서 고른 것은?\nㄴㄴ ^ ㅅ ㄴㄴ\n(가) 윤 리 학 은 이제 _ 하 늘 의 별 을 고 찰 할 것이 아니라\n발 밑 의 문제 를 해 결 하고자 노력해야 한다. 즉 , 생명 윤리,\n성 윤리, 생태 윤리, 정보 윤리 등 의 문 제 를 파 악 하고\n그 해결 방 법 을 탐 구 해 야 한다.\n(나) 윤 리 학 은 무 엇 을 해야만 하는가? 라는 당 위 의 문 제 가\n아니라 그러한 당 위 가 학 문 적 으로 다 루 어 질 수 있는\n성 질 의 것인가? 라는 문 제 를 규 명 해 야 한다. 즉 , 윤 리 학 의\n학문적 성립 가 등 성에 대해 엄밀히 탐 구 해 야 한다.\n< 보 기 >\nㄱ . 다양한 문 화 권 에 존 재 한 관 습 들 의 특 징 을 조 사 하고 기 술 한다.\nㄴ . 현대 사 회 의 실천적 문 제 에 대한 윤리적 해결 방 안 을 모 색 한 다.\nㄷ . 선 하 다, 옮 다 등과 같은 도덕적 언 어 의 의 미 를 분 석 한다.\n2. 우 리 가 따라야 할 객 관 적 이고 보 편 적 인 도 덕 규 범 을 정 립 한다.\n가 (0) 가) - ( 따 )\n(1) ㄱ ㄴ (2) ㄱ ㄷ\n(3) ㄴㄴ ㄷ (0) ㄴ 근\n(6) ㄷ 른",
+    "stem": "(가), ( 나 ) 에 서 강 조 하고 있는 윤 리 학 의 주요 탐구 과 제 를 < 보 기 > 에서 고른 것은?",
+    "passage": "ㄴㄴ ^ ㅅ ㄴㄴ\n(가) 윤 리 학 은 이제 _ 하 늘 의 별 을 고 찰 할 것이 아니라\n발 밑 의 문제 를 해 결 하고자 노력해야 한다. 즉 , 생명 윤리,\n성 윤리, 생태 윤리, 정보 윤리 등 의 문 제 를 파 악 하고\n그 해결 방 법 을 탐 구 해 야 한다.\n(나) 윤 리 학 은 무 엇 을 해야만 하는가? 라는 당 위 의 문 제 가\n아니라 그러한 당 위 가 학 문 적 으로 다 루 어 질 수 있는\n성 질 의 것인가? 라는 문 제 를 규 명 해 야 한다. 즉 , 윤 리 학 의\n학문적 성립 가 등 성에 대해 엄밀히 탐 구 해 야 한다.\n< 보 기 >\nㄱ . 다양한 문 화 권 에 존 재 한 관 습 들 의 특 징 을 조 사 하고 기 술 한다.\nㄴ . 현대 사 회 의 실천적 문 제 에 대한 윤리적 해결 방 안 을 모 색 한 다.\nㄷ . 선 하 다, 옮 다 등과 같은 도덕적 언 어 의 의 미 를 분 석 한다.\n2. 우 리 가 따라야 할 객 관 적 이고 보 편 적 인 도 덕 규 범 을 정 립 한다.\n가 (0) 가) - ( 따 )",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴㄴ ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ 근"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 른"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.865,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_3rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:38+00:00",
+    "qa_flags": []
+  }
+}

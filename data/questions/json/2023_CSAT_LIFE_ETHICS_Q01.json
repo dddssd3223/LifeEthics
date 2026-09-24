@@ -1,0 +1,73 @@
+{
+  "id": "2023_CSAT_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 117,
+    "question_number": 1,
+    "exam_key": "2023_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      1057,
+      1742,
+      2154
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_CSAT_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 에 들어갈 진 술 로 가장 적절한 것은?\n나는 윤 리 학 이란 도덕 이 론 에 근 거 하여 우 리 가 당면한 실질적인\n도덕 문 제 를 해 결 하는 것을 목 표 로 삼아야 한다고 생 각 한 다.\n그런데 어떤 사 람 은 사 회 에서 동 용 되고 있는 도덕 현 상 을\n과 학 적 으로 설 명 하는 것을 윤 리 학 의 목 표 로 삼아야 한다고\n주 장 한 다. 나는 이러한 주 장 이 대 ] 고 생 각 한 다.\n01 도덕적 담 론 의 논증 구 조 에 대한 논리적 분 석 을 강 조 한 다\n2) 도덕 판 단 의 표 준 에 대한 체계적인 이 론 의 정 립 을 강 조 한 다\n3) 도 덕 적 으로 바람직한 삶 의 이 상 에 대한 규 범 적 탐 구 를 간 과 한다\n0 도덕적 딜레마 해 결 을 위해 타 학 문 과 의 학 제 적 연 구 를 강 주 한다\n6 도 덕 규 범 이 형성된 인과 관 계 에 대한 경 험 적 인 탐 구 를 간 과 한다",
+    "stem": "에 들어갈 진 술 로 가장 적절한 것은?",
+    "passage": "나는 윤 리 학 이란 도덕 이 론 에 근 거 하여 우 리 가 당면한 실질적인\n도덕 문 제 를 해 결 하는 것을 목 표 로 삼아야 한다고 생 각 한 다.\n그런데 어떤 사 람 은 사 회 에서 동 용 되고 있는 도덕 현 상 을\n과 학 적 으로 설 명 하는 것을 윤 리 학 의 목 표 로 삼아야 한다고\n주 장 한 다. 나는 이러한 주 장 이 대 ] 고 생 각 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "도덕적 담 론 의 논증 구 조 에 대한 논리적 분 석 을 강 조 한 다"
+      },
+      {
+        "number": 2,
+        "text": "도덕 판 단 의 표 준 에 대한 체계적인 이 론 의 정 립 을 강 조 한 다"
+      },
+      {
+        "number": 3,
+        "text": "도 덕 적 으로 바람직한 삶 의 이 상 에 대한 규 범 적 탐 구 를 간 과 한다"
+      },
+      {
+        "number": 4,
+        "text": "도덕적 딜레마 해 결 을 위해 타 학 문 과 의 학 제 적 연 구 를 강 주 한다"
+      },
+      {
+        "number": 5,
+        "text": "도 덕 규 범 이 형성된 인과 관 계 에 대한 경 험 적 인 탐 구 를 간 과 한다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.903,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:08+00:00",
+    "qa_flags": []
+  }
+}

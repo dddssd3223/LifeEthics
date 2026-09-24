@@ -1,0 +1,73 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 73,
+    "question_number": 2,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2238,
+      1742,
+      3490
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q02.png",
+    "raw_text": "ㆍ 갑 사 상 가 가 을 사 상 가 에게 제 기 할 반 론 으로 가장 적절한 것은\n13 점 ]\n갑 : 인 간 에 대한 깨 려는 윤리적 행 위 의 결 과 물 이기도 하지만\n오히려 그 토 대 이다. 배 려 했던 기 억 과 배 려 받았던 기 억 이\n윤리적 행 위 의 초 석 이다.\n을: 인 류 는 고 통 과 쾌 락 의 두 주 권 자 의 지 배 하에 있다. 마땅히\n해야만 하는 것으로 인 도 하며 의 무 를 결 정 짓는 것은 오로지\n고 통 과 쾌 락 뿐이다.\n(01) 최대 행 복 의 원 리 보 다 인 간 관 계 의 맥 락 을 우 선 해야 함 을 간 과 한다.\n유 용 성 의 계 산 은 보편적 도덕 원 리 에 의 거 해 야 함 을 간 과 한다.\n(3) 고 통 의 회 피 와 쾌 락 의 추 구 가 인간 고 유 의 성 향 임을 간 과 한다.\n@) 나의 행 복 과 타 인 의 행 복 이 동 등 하게 고 려 되어야 함 을 간 과 한 다.\n65) 윤리적 행 위 를 위해서는 동 기 보다 결 과 가 더 중 요 함 을 간 과 한다.",
+    "stem": "ㆍ 갑 사 상 가 가 을 사 상 가 에게 제 기 할 반 론 으로 가장 적절한 것은",
+    "passage": "13 점 ]\n갑 : 인 간 에 대한 깨 려는 윤리적 행 위 의 결 과 물 이기도 하지만\n오히려 그 토 대 이다. 배 려 했던 기 억 과 배 려 받았던 기 억 이\n윤리적 행 위 의 초 석 이다.\n을: 인 류 는 고 통 과 쾌 락 의 두 주 권 자 의 지 배 하에 있다. 마땅히\n해야만 하는 것으로 인 도 하며 의 무 를 결 정 짓는 것은 오로지\n고 통 과 쾌 락 뿐이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "최대 행 복 의 원 리 보 다 인 간 관 계 의 맥 락 을 우 선 해야 함 을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "유 용 성 의 계 산 은 보편적 도덕 원 리 에 의 거 해 야 함 을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "고 통 의 회 피 와 쾌 락 의 추 구 가 인간 고 유 의 성 향 임을 간 과 한다."
+      },
+      {
+        "number": 4,
+        "text": "나의 행 복 과 타 인 의 행 복 이 동 등 하게 고 려 되어야 함 을 간 과 한 다."
+      },
+      {
+        "number": 5,
+        "text": "윤리적 행 위 를 위해서는 동 기 보다 결 과 가 더 중 요 함 을 간 과 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.902,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:44:28+00:00",
+    "qa_flags": []
+  }
+}

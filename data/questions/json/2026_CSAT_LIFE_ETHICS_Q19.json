@@ -1,0 +1,79 @@
+{
+  "id": "2026_CSAT_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 160,
+    "question_number": 19,
+    "exam_key": "2026_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2821
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_CSAT_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때,\n&~( 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 고른 것은? [3 점 ]\n갑 ： 우 리 는 절대 빈 곤 에 처한 사 람 들 을 도울 의 무 가 있\n빈 민 을 돕기 위한 기 준 은 수 입 의 단 1% 수 준 에서\n시작할 수 있다. 이것은 중요한 희생 없이 쉽게 낼 수\n있을 것이다.\n( 가 )| 。\n: 특정 생 활 수준 이 상 이라면 빈 민 을 돕 도 록 강 제 하는\n사 회 를 생각해 보자. 그런 강 제 만 없고 다른 것이\n모두 같은 사 회 가 있다면, 누구든 거 기 로 갈 것이다.\n개 인 의 재산 처 분 은 강 제 될 수 없다.\n사상가 감 , 을 의 별 하사\n버 2\n입 장 을 탐 구 한다. > : 간단 내용\n= : 판단 방향\n< 아니요 | Ｌ | : 사 상 가 의 입장\n(나) 예 |\n예 예\n갑의 입장\n번키 턴 ㅎ 2 터\n< 보 기 >\nㄱ . &: 빈 민 을 위한 자 선 은 도 덕 적 으로 정당한 행 위 인 가?\nㄴ . 13: 원조 효 과 가 불 확 실 하다면 원조 결 정 을 유 보 할 수 있는가?\nㄷ . 13: 원조 대 상 이 받는 혜 택 이 원조 주 체 가 부 담 하는 비 용 을\n초 과 해야 하는가?\n그. (@; : 원조 행 위 는 원조 주 체 의 소 유 권 을 필 연 적 으로 침 해 하 는 기?\n0700 0976 6 9042 662",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, &~( 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 ： 우 리 는 절대 빈 곤 에 처한 사 람 들 을 도울 의 무 가 있\n빈 민 을 돕기 위한 기 준 은 수 입 의 단 1% 수 준 에서\n시작할 수 있다. 이것은 중요한 희생 없이 쉽게 낼 수\n있을 것이다.\n( 가 )| 。\n: 특정 생 활 수준 이 상 이라면 빈 민 을 돕 도 록 강 제 하는\n사 회 를 생각해 보자. 그런 강 제 만 없고 다른 것이\n모두 같은 사 회 가 있다면, 누구든 거 기 로 갈 것이다.\n개 인 의 재산 처 분 은 강 제 될 수 없다.\n사상가 감 , 을 의 별 하사\n버 2\n입 장 을 탐 구 한다. > : 간단 내용\n= : 판단 방향\n< 아니요 | Ｌ | : 사 상 가 의 입장\n(나) 예 |\n예 예\n갑의 입장\n번키 턴 ㅎ 2 터\n< 보 기 >\nㄱ . &: 빈 민 을 위한 자 선 은 도 덕 적 으로 정당한 행 위 인 가?\nㄴ . 13: 원조 효 과 가 불 확 실 하다면 원조 결 정 을 유 보 할 수 있는가?\nㄷ . 13: 원조 대 상 이 받는 혜 택 이 원조 주 체 가 부 담 하는 비 용 을\n초 과 해야 하는가?\n그. (@; : 원조 행 위 는 원조 주 체 의 소 유 권 을 필 연 적 으로 침 해 하 는 기?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.871,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:56:38+00:00",
+    "qa_flags": []
+  }
+}

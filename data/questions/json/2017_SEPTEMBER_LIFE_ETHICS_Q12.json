@@ -1,0 +1,73 @@
+{
+  "id": "2017_SEPTEMBER_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 43,
+    "question_number": 12,
+    "exam_key": "2017_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1716,
+      1592,
+      3198
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_SEPTEMBER_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 에 들어갈 내 용 으로 가장 적절한 것은? [3 점 ]\n기본적 퀸 리 는 문 화 라는 특정한 팩 락 안에서 실 질 적 으로\n행 사 될 수 있다. 따라서 집단 간 문화적 차 이 는 인 정 되어야\n한다. 집 단 별로 차 별 화 된 퀸 리 를 인 정 하는 다 문 화 주 의 는\n집단 간 관 계 의 형 평 성 을 제 고 시킬 뿐 아니라, 소 수 집 단 의\n성 원 으로 하여금 국 가 에 대한 충 성 심 을 갖게 한다. 그런데\n어떤 학 자 는 \" 다 문 화 주 의 는 문화 간 경 계 가 실제로 존 재 한다는\n잘못된 전 제 에 근 거 하여 집단 간 문 화 의 장 벽 을 영 속 화 시킬\n뿐 아니라, 소 수 집 단 에 별 도 의 권 리 를 부 여 하여 개 인 의 법 앞 의\n평 등 이라는 기본 원 칙 을 십 각 하 게 손 상 시 킨 다 .\" 라 고 주장\n한다. 나는 이 학 자 의 주 장 이 그 고 생 각 한 다,\n(1) 집단 간 문 화 의 경 계 가 명확히 구 분 됨을 강 조 하고 있다\n(0) 문 화 보다 권 리 가 우 선 시 되어야 함 을 간 과 하고 있다\n(3) 다 문 화 주 의 가 법 적 용 의 일 반 성 을 따르고 있 음 을 강 조 하고 있다\n(4) 차 별 화 된 권 리 의 인 정 이 보편적 인 권 과 어 긋 남 을 간 과 하고 있다\n(8) 다 문 화 주 의 가 사회적 통 합 을 촉 진 시키고 있 음 을 간 과 하고 있다",
+    "stem": "에 들어갈 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "기본적 퀸 리 는 문 화 라는 특정한 팩 락 안에서 실 질 적 으로\n행 사 될 수 있다. 따라서 집단 간 문화적 차 이 는 인 정 되어야\n한다. 집 단 별로 차 별 화 된 퀸 리 를 인 정 하는 다 문 화 주 의 는\n집단 간 관 계 의 형 평 성 을 제 고 시킬 뿐 아니라, 소 수 집 단 의\n성 원 으로 하여금 국 가 에 대한 충 성 심 을 갖게 한다. 그런데\n어떤 학 자 는 \" 다 문 화 주 의 는 문화 간 경 계 가 실제로 존 재 한다는\n잘못된 전 제 에 근 거 하여 집단 간 문 화 의 장 벽 을 영 속 화 시킬\n뿐 아니라, 소 수 집 단 에 별 도 의 권 리 를 부 여 하여 개 인 의 법 앞 의\n평 등 이라는 기본 원 칙 을 십 각 하 게 손 상 시 킨 다 .\" 라 고 주장\n한다. 나는 이 학 자 의 주 장 이 그 고 생 각 한 다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "집단 간 문 화 의 경 계 가 명확히 구 분 됨을 강 조 하고 있다"
+      },
+      {
+        "number": 2,
+        "text": "문 화 보다 권 리 가 우 선 시 되어야 함 을 간 과 하고 있다"
+      },
+      {
+        "number": 3,
+        "text": "다 문 화 주 의 가 법 적 용 의 일 반 성 을 따르고 있 음 을 강 조 하고 있다"
+      },
+      {
+        "number": 4,
+        "text": "차 별 화 된 권 리 의 인 정 이 보편적 인 권 과 어 긋 남 을 간 과 하고 있다"
+      },
+      {
+        "number": 5,
+        "text": "다 문 화 주 의 가 사회적 통 합 을 촉 진 시키고 있 음 을 간 과 하고 있다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:11+00:00",
+    "qa_flags": []
+  }
+}

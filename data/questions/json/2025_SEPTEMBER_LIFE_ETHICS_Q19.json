@@ -1,0 +1,77 @@
+{
+  "id": "2025_SEPTEMBER_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 140,
+    "question_number": 19,
+    "exam_key": "2025_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2435
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_SEPTEMBER_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?\n갑 : 부 와 복지 수 준 을 조 정 하는 것은 원조 의 무 의 목표가\n아니다. 단지 고 통 받는 사 회 들만 도 움 이 필 요 하다. 질서\n정연한 사 회 들이 모두 부 유 하지는 않은 것과 마찬가지로\n고 통 받는 사 회 들이 모두 빈 곤 한 것은 아니다.\n을 : 우 리 는 자 신 을 위해 소 비 하느라 원 조 를 유 보 하여 절대 빈 곤 에\n빠진 사 람 을 죽게 방 치 하고 있다. 이는 살 인 과 동 일 시 될\n수 는 없으나 결 과 가 나 쁘 다 는 점 에서 유 사 하다. 윤 리 는\n모든 사 람 의 이 익 에 대한 동등한 고 려 를 요 청 한 다.\n< 보 기 >\nㄱ . 갑 : 정치 제 도 가 수 립 된 사 회 는 원조 대 상 에서 제 외 된다.\nㄴ . 을: 국가 간 부의 불 평 등 이 그 자 체 로 도덕적 악인 것은 아니다\nㄷ . 을: 공리 증 진 을 의 도 하지 않은 원 조 가 정 당 화 될 수 있\n르 . 갑과 을: 빈곤 국 가 에 대한 원 조 는 효 과 를 고려할 필 요 가 없다.\n0700 0976 6 9042 662",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "갑 : 부 와 복지 수 준 을 조 정 하는 것은 원조 의 무 의 목표가\n아니다. 단지 고 통 받는 사 회 들만 도 움 이 필 요 하다. 질서\n정연한 사 회 들이 모두 부 유 하지는 않은 것과 마찬가지로\n고 통 받는 사 회 들이 모두 빈 곤 한 것은 아니다.\n을 : 우 리 는 자 신 을 위해 소 비 하느라 원 조 를 유 보 하여 절대 빈 곤 에\n빠진 사 람 을 죽게 방 치 하고 있다. 이는 살 인 과 동 일 시 될\n수 는 없으나 결 과 가 나 쁘 다 는 점 에서 유 사 하다. 윤 리 는\n모든 사 람 의 이 익 에 대한 동등한 고 려 를 요 청 한 다.\n< 보 기 >\nㄱ . 갑 : 정치 제 도 가 수 립 된 사 회 는 원조 대 상 에서 제 외 된다.\nㄴ . 을: 국가 간 부의 불 평 등 이 그 자 체 로 도덕적 악인 것은 아니다\nㄷ . 을: 공리 증 진 을 의 도 하지 않은 원 조 가 정 당 화 될 수 있\n르 . 갑과 을: 빈곤 국 가 에 대한 원 조 는 효 과 를 고려할 필 요 가 없다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:55:47+00:00",
+    "qa_flags": []
+  }
+}

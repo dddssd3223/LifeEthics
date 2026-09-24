@@ -1,0 +1,73 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 68,
+    "question_number": 18,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3324,
+      1742,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]\n갑 : 어떤 국 가 에서 그 구 성 윈 들 에게 가 해 지는 잔 악 성 과 고 동 이\n극 심 하지만 그 국 가 의 어떠한 세 력 도 그러한 문 제 를 해결할\n능 력 이 없는 것처럼 보일 경우, 정 의 로운 전 쟁 을 통한 인도\n주의적 개 입 이 요 구 될 수 있다.\n을: 어떤 국 가 도 다른 국 가 의 체 제 와 통 치 에 대해 폭 력 으로\n개 입 해서는 안 된다는 것이 영구 평 화 를 위한 예비 조 항 이다.\n한 국 가 에 대한 폭력적 개 입 은 결국 모든 국 가 의 자 윤 성 을\n위태롭게 하는 결 과 를 가져올 것이다.\n0 갑 : 전 쟁 은 도덕적 비 판 의 대 상 일 뿐이며 결코 정 당 화 될 수 없다.\n2) 갑 : 인권 침 해 만으로는 정당한 전 쟁 의 조 건 이 완 비 되지 않는다.\n3) 을 : 평화 조 약 이란 국가 간 적대 행 위 의 일시적 중 지 에 불 과 하다.\n4 을 : 영원한 군비 경 쟁 을 통해서만 영구 평 화 를 실현할 수 있다.\n6 갑 , 을 : 전 쟁 은 국제 정 의 를 실 현 하기 위한 수 단 이 될 수 없다.",
+    "stem": "감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 어떤 국 가 에서 그 구 성 윈 들 에게 가 해 지는 잔 악 성 과 고 동 이\n극 심 하지만 그 국 가 의 어떠한 세 력 도 그러한 문 제 를 해결할\n능 력 이 없는 것처럼 보일 경우, 정 의 로운 전 쟁 을 통한 인도\n주의적 개 입 이 요 구 될 수 있다.\n을: 어떤 국 가 도 다른 국 가 의 체 제 와 통 치 에 대해 폭 력 으로\n개 입 해서는 안 된다는 것이 영구 평 화 를 위한 예비 조 항 이다.\n한 국 가 에 대한 폭력적 개 입 은 결국 모든 국 가 의 자 윤 성 을\n위태롭게 하는 결 과 를 가져올 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 전 쟁 은 도덕적 비 판 의 대 상 일 뿐이며 결코 정 당 화 될 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 인권 침 해 만으로는 정당한 전 쟁 의 조 건 이 완 비 되지 않는다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 평화 조 약 이란 국가 간 적대 행 위 의 일시적 중 지 에 불 과 하다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 영원한 군비 경 쟁 을 통해서만 영구 평 화 를 실현할 수 있다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 전 쟁 은 국제 정 의 를 실 현 하기 위한 수 단 이 될 수 없다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.916,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:05+00:00",
+    "qa_flags": []
+  }
+}

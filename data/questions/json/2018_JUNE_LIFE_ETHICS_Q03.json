@@ -1,0 +1,73 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 49,
+    "question_number": 3,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3355,
+      1740,
+      4455
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 갑 , 을 사 상 가 들의 입 장 으로 옮 은 것은? [점]\n갑 : 공 정 으로서의 정 의 와 달리 만 민 법 은 사 회 ㆍ 경제적 불 평 등 이\n최소 수 혜 자 에게 이 익 이 될 것을 요 구 하 지 않는다. 모든\n사 회 가 질서 정연한 사회 가 될 때 까지 만 민 법 에 따라 원 주 으\n의 무 를 이 행 해야 한다.\n을: 세 계 를 지금 이대로 내버려 둔다면 수백만 명의 사 람 들 이\n자 신 의 나 라 가 질서 정연한 사회 가 되기 전에 영 양 실 조 와\n가 난 으로 죽어 갈 것이다. 원 조 의 의 무 는 인류 전 체 의 공리\n중 진 을 위해 지 속 되어야 한다.\n0) 감 : 모든 빈 곤 국 을 원 조 의 대 상 으로 간 주 해 야 한다.\n(3) 갑 : 원조 정 책 은 지 구 적 차등 원 칙 에 근 거 해야 한다.\n(3) 을: 질서 정연한 사 회 의 빈 민 은 원 조 의 대 상 일 수 없다.\n(4) 을: 원 조 의 의 무 는 국 경 을 초월한 세계 시 민 적 의 무 이다.\n(5) 갑 , 을: 원 조 를 통해 모든 사 회 의 복지 수 준 을 일 치 시켜야 한다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 옮 은 것은? [점]",
+    "passage": "갑 : 공 정 으로서의 정 의 와 달리 만 민 법 은 사 회 ㆍ 경제적 불 평 등 이\n최소 수 혜 자 에게 이 익 이 될 것을 요 구 하 지 않는다. 모든\n사 회 가 질서 정연한 사회 가 될 때 까지 만 민 법 에 따라 원 주 으\n의 무 를 이 행 해야 한다.\n을: 세 계 를 지금 이대로 내버려 둔다면 수백만 명의 사 람 들 이\n자 신 의 나 라 가 질서 정연한 사회 가 되기 전에 영 양 실 조 와\n가 난 으로 죽어 갈 것이다. 원 조 의 의 무 는 인류 전 체 의 공리\n중 진 을 위해 지 속 되어야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "감 : 모든 빈 곤 국 을 원 조 의 대 상 으로 간 주 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 원조 정 책 은 지 구 적 차등 원 칙 에 근 거 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을: 질서 정연한 사 회 의 빈 민 은 원 조 의 대 상 일 수 없다."
+      },
+      {
+        "number": 4,
+        "text": "을: 원 조 의 의 무 는 국 경 을 초월한 세계 시 민 적 의 무 이다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 원 조 를 통해 모든 사 회 의 복지 수 준 을 일 치 시켜야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.914,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:37:22+00:00",
+    "qa_flags": []
+  }
+}

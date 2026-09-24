@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 28,
+    "question_number": 19,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1807,
+      1946,
+      3365,
+      3177
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 를 주장한 사 상 가 의 입 장 에서 ( 나 ) 의 물 음 에 대해 제 시 할\n답 변 으로 가장 적절한 것은? |\n과학 기 술 의 비약적 발전 과 정 에 서 우 리 는 이 성 으\n도 구 적 측 면 만 을 중 시 하 고 의 사 소 통 적 측 면 을 간 과 하였다.\n의 사 소 통 적 이성은 사회 집 단 이 자 신 들 의 생 활 을 규제\n하는 규 범 을 새롭게 구 축 하 는 과 정 에서 요 구 된다. 즉\n그것은 담론 의 상 황 에서 작 동 되는데, 이른바 ： 공 론 장 '\n에서 논 중의 형 태 로 나타난다. :\n현대 사 회 에 서 과학 기술 정 책 을 수 립 하 기 위한 바람\n직한 방 안 은 무 엇 인가? '\n(1 시 민 들 의 이성적 토 론 을 통해 정 책 에 대한 합 의 를 도 출 해 야 한다.\n(3) 과학 기술 전문가 집 단 의 토론 결 과 만으로 정 책 을 수 립 해야 한다.\n@) 이익 집단 간의 세력 균 형 이 이 루 어 지 도록 정 책 을 수 립 해야 한다.\n(4) 시민 사 희 보다 관련 국가 기 관 이 주 도 하여 정 책 을 수 립 해야 한다.\n66) 정책 수립 과 정 에 있어서 효 율 성 을 최고의 기 준 으로 삼아야 한다.",
+    "stem": "( 가 ) 를 주장한 사 상 가 의 입 장 에서 ( 나 ) 의 물 음 에 대해 제 시 할 답 변 으로 가장 적절한 것은? |",
+    "passage": "과학 기 술 의 비약적 발전 과 정 에 서 우 리 는 이 성 으\n도 구 적 측 면 만 을 중 시 하 고 의 사 소 통 적 측 면 을 간 과 하였다.\n의 사 소 통 적 이성은 사회 집 단 이 자 신 들 의 생 활 을 규제\n하는 규 범 을 새롭게 구 축 하 는 과 정 에서 요 구 된다. 즉\n그것은 담론 의 상 황 에서 작 동 되는데, 이른바 ： 공 론 장 '\n에서 논 중의 형 태 로 나타난다. :\n현대 사 회 에 서 과학 기술 정 책 을 수 립 하 기 위한 바람\n직한 방 안 은 무 엇 인가? '",
+    "choices": [
+      {
+        "number": 1,
+        "text": "시 민 들 의 이성적 토 론 을 통해 정 책 에 대한 합 의 를 도 출 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "과학 기술 전문가 집 단 의 토론 결 과 만으로 정 책 을 수 립 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "이익 집단 간의 세력 균 형 이 이 루 어 지 도록 정 책 을 수 립 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "시민 사 희 보다 관련 국가 기 관 이 주 도 하여 정 책 을 수 립 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "정책 수립 과 정 에 있어서 효 율 성 을 최고의 기 준 으로 삼아야 한다."
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.816,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T111523",
+    "extracted_at": "2026-09-24T11:20:22+00:00",
+    "qa_flags": []
+  }
+}

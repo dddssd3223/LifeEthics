@@ -1,0 +1,73 @@
+{
+  "id": "2027_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 154,
+    "question_number": 8,
+    "exam_key": "2027_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3420,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은?\n유 한 계 급 은 다른 모든 계 급 이 추 종 하는 삶 의 방 식 을 결 정 한 다.\n소 비 가 낭 비 적 이 어야 명 성 을 얻을 수 있다는 과시 소 비 가\n대 표 적 이다. 남 보다 앞 서 려는 욕 구 는 과시 소 비 의 주요 동기\n이며, 재 물 을 신 성 하게 여기는 근본 이 유 도 과시 소 비 로 명 성 을\n얻기 위 함 이다. 과시 소 비 를 하는 사 람 의 입 장 에서 보면 과시\n소 비 는 낭 비 가 아니다. 오히려 과시 소 비 를 하는 사 람 들 은\n유용한 선 택 을 했다고 믿는다.\n0 유 한 계 급 은 사회 전 체 가 선 망 하는 생활 양 식 을 제 시 한다.\n과시 소 비 는 소비 자 체 를 목 적 으로 하는 소모적 낭 비 이다,\n8 과시 소 비 는 어떤 관 점 에서도 유용한 소 비 로 간 주 될 수 없다.\n4 유 한 계 급 만이 남 보다 앞 서 려는 욕 구 로부터 자유로운 계 급 이다.\n5 더 소 유 하려는 욕 구 는 명 성 에 대한 갈 망 과 상 충 할 수밖에 없다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은?",
+    "passage": "유 한 계 급 은 다른 모든 계 급 이 추 종 하는 삶 의 방 식 을 결 정 한 다.\n소 비 가 낭 비 적 이 어야 명 성 을 얻을 수 있다는 과시 소 비 가\n대 표 적 이다. 남 보다 앞 서 려는 욕 구 는 과시 소 비 의 주요 동기\n이며, 재 물 을 신 성 하게 여기는 근본 이 유 도 과시 소 비 로 명 성 을\n얻기 위 함 이다. 과시 소 비 를 하는 사 람 의 입 장 에서 보면 과시\n소 비 는 낭 비 가 아니다. 오히려 과시 소 비 를 하는 사 람 들 은\n유용한 선 택 을 했다고 믿는다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "유 한 계 급 은 사회 전 체 가 선 망 하는 생활 양 식 을 제 시 한다."
+      },
+      {
+        "number": 2,
+        "text": "소 비 는 소비 자 체 를 목 적 으로 하는 소모적 낭 비 이다,"
+      },
+      {
+        "number": 3,
+        "text": "과시 소 비 는 어떤 관 점 에서도 유용한 소 비 로 간 주 될 수 없다."
+      },
+      {
+        "number": 4,
+        "text": "유 한 계 급 만이 남 보다 앞 서 려는 욕 구 로부터 자유로운 계 급 이다."
+      },
+      {
+        "number": 5,
+        "text": "더 소 유 하려는 욕 구 는 명 성 에 대한 갈 망 과 상 충 할 수밖에 없다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.917,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:56+00:00",
+    "qa_flags": []
+  }
+}

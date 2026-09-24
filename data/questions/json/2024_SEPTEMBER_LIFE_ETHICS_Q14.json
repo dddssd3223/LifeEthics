@@ -1,0 +1,73 @@
+{
+  "id": "2024_SEPTEMBER_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 127,
+    "question_number": 14,
+    "exam_key": "2024_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2643
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_SEPTEMBER_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는\n대로 고른 것은? [3 점 ]\n갑 : 천 하 를 두루 이롭게 함 은 직 분 [과 예 의 [36| 로 부터 나온다.\n사 람 이 무 리 를 이루어 살 되 역 할 에 따른 구 분 이 없으면\n다투게 되고, 다 투 면 나 라 가 혼 란 해져 편히 살 수 없게 된다.\n따라서 사 람 은 잠 시 도 예 의 를 버릴 수 없다.\n을: 사 회 를 이루는 세 계 층 은 각자 타고난 성 향 에 따라 한 가지\n일 에 배 치 되어야 한다. 그리고 자 신 이 맡은 일 에서 탁 월 함 을\n발 휘 하여 서로 조 화 를 이루어야 한다. 만약 서 로 의 일 에\n간 섭 한다면 사 회 에 해 악 을 끼치게 된다.\n< 보 기 >\n-. 갑 : 군 주 가 나 라 를 다 스 리 려면 모든 직 분 에 통 달 해야 한다,\nㄴ . 갑 : 사회 구 성 원 의 직 분 을 나누는 도덕적 기 준 이 존 재 한다.\nㄷ . 을 : 세 계 층 이 각 자 의 직 분 에 충 실 해야 정 의 가 실 현 될 수 있다.\n르 . 갑과 을: 직 분 의 구 분 은 공동체 이익 증 진 에 도 움 이 된다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄴ , 큰\n0400 ㄱ 7, ㄷ , 르 06) ㄴ , ㄷ , 큰",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 천 하 를 두루 이롭게 함 은 직 분 [과 예 의 [36| 로 부터 나온다.\n사 람 이 무 리 를 이루어 살 되 역 할 에 따른 구 분 이 없으면\n다투게 되고, 다 투 면 나 라 가 혼 란 해져 편히 살 수 없게 된다.\n따라서 사 람 은 잠 시 도 예 의 를 버릴 수 없다.\n을: 사 회 를 이루는 세 계 층 은 각자 타고난 성 향 에 따라 한 가지\n일 에 배 치 되어야 한다. 그리고 자 신 이 맡은 일 에서 탁 월 함 을\n발 휘 하여 서로 조 화 를 이루어야 한다. 만약 서 로 의 일 에\n간 섭 한다면 사 회 에 해 악 을 끼치게 된다.\n< 보 기 >\n-. 갑 : 군 주 가 나 라 를 다 스 리 려면 모든 직 분 에 통 달 해야 한다,\nㄴ . 갑 : 사회 구 성 원 의 직 분 을 나누는 도덕적 기 준 이 존 재 한다.\nㄷ . 을 : 세 계 층 이 각 자 의 직 분 에 충 실 해야 정 의 가 실 현 될 수 있다.\n르 . 갑과 을: 직 분 의 구 분 은 공동체 이익 증 진 에 도 움 이 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "0400 ㄱ 7, ㄷ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.897,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:33+00:00",
+    "qa_flags": []
+  }
+}

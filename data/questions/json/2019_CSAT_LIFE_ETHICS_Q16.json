@@ -1,0 +1,73 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 72,
+    "question_number": 16,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1930
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은:\n갑 : 전쟁 수행 중 위 험 에 처한 민 간 인 에 대한 도덕적 배 려 를 통해\n전 쟁 에 대한 광범위한 지 지 를 확 보 하는 것이 ' 도 덕의 유 용 성 '\n이다. 정 의 롭지 끗 하다고 생 각 되는 전 쟁 을 해서는 안 되며,\n전 쟁 을 시 작 하 면 정 의 롭게 싸우고 정 의 롭게 종 결 해야 한다.\n을: 도 덕 의 주 체 인 인 간 은 타 인 을 수 단 으 로 만 대할 수 없으며,\n국 가 도 한 인 격 체 로서 타 국 의 한날 수 단 이 될 수 없다. 따라서\n어떤 독립 국 가 도 상속, 매매, 증여, 교 환 에 의해 다른 국 가 의\n소 유 가 될 수 없다. 이는 영구 평 화 를 위한 전 제 조 건 이다.\n0) 갑 : 평 화 시 와 달리 전 시 에는 도덕적 제 약 이 적 용 되 지 않는다.\n(2) 감 : 전쟁 결 과 가 정 의 로 워 야 수행 과 정 도 정 의 롭다고 판 정 될 수 있다.\n(3) 을: 영구 평 화 를 위한 진정한 의 미 의 정 치 는 도 덕 에 충 실 해야 한다.\n0) 을: 국가 간 적대 행 위 가 중 지 되는 즉시 평화 상 태 가 보 장 된다.\n(9) 갑 , 을: 타 국 의 내 정 에 대한 강제 개 입 은 평 화 를 위해서만 허 용 된다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은:",
+    "passage": "갑 : 전쟁 수행 중 위 험 에 처한 민 간 인 에 대한 도덕적 배 려 를 통해\n전 쟁 에 대한 광범위한 지 지 를 확 보 하는 것이 ' 도 덕의 유 용 성 '\n이다. 정 의 롭지 끗 하다고 생 각 되는 전 쟁 을 해서는 안 되며,\n전 쟁 을 시 작 하 면 정 의 롭게 싸우고 정 의 롭게 종 결 해야 한다.\n을: 도 덕 의 주 체 인 인 간 은 타 인 을 수 단 으 로 만 대할 수 없으며,\n국 가 도 한 인 격 체 로서 타 국 의 한날 수 단 이 될 수 없다. 따라서\n어떤 독립 국 가 도 상속, 매매, 증여, 교 환 에 의해 다른 국 가 의\n소 유 가 될 수 없다. 이는 영구 평 화 를 위한 전 제 조 건 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 평 화 시 와 달리 전 시 에는 도덕적 제 약 이 적 용 되 지 않는다."
+      },
+      {
+        "number": 2,
+        "text": "감 : 전쟁 결 과 가 정 의 로 워 야 수행 과 정 도 정 의 롭다고 판 정 될 수 있다."
+      },
+      {
+        "number": 3,
+        "text": "을: 영구 평 화 를 위한 진정한 의 미 의 정 치 는 도 덕 에 충 실 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "을: 국가 간 적대 행 위 가 중 지 되는 즉시 평화 상 태 가 보 장 된다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 타 국 의 내 정 에 대한 강제 개 입 은 평 화 를 위해서만 허 용 된다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.913,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:44:25+00:00",
+    "qa_flags": []
+  }
+}

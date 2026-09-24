@@ -1,0 +1,75 @@
+{
+  "id": "2023_SEPTEMBER_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 116,
+    "question_number": 19,
+    "exam_key": "2023_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2667
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_SEPTEMBER_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장\n적절한 것은? [3 점 ]\nㄱ 근 그 ^ ㅅ 4\n갑 : 국 가 는 자기 완 결 적 조 직 으로서 최 고 선 을 추 구 한다.\n공 동 의 선 을 나누어 가질 수 없거나 나누어 가질 필 요 가\n없는 자는 국 가 의 일 부 가 아니며, 짐승 아니면 신 이 다.\n을: 국 가 가 형 성 될 때 개 개 인 은 자 신 을 그 모든 권 리 와\n( 가 )| 함께 공동체 전 체 에 전면 양 도 한다. 이를 일반 의 지 의\n지배 아래 둔 개 인 은 자기 자 신 에게만 복 종 한다.\n병 : 국 가 가 없는 자연 상 태 에서 개 개 인 은 모든 것에 대한\n권 리 를 갖는다. 자기 보 존 과 평 화 를 위해 그러한 권 리 를\n포 기 함으로써 주 권 자 인 리 바 이 어 던 이 탄 생 한다.\n< 범 례\nㅡ - ㅜ : 비 판 의 방향\n시 ~\\ : 비 판 의 내용\n(나) 더 < 예 시\n^\n. @-…~@\n… 쇼 는 갑 이 을 에게 제 기 할\n- ㅎ 수 있는 비 판 임 .\n0) ㅅ &: 공 공 의 이 익 에 입 각 하여 국 가 가 운 영 되어야 함 을 간 과 한다.\n(22 8, : 인 간 은 국가 안에서만 행복한 삶 을 살 수 있 음 을 간 과 한다.\n6) 6: 국가 구 성 원 의 생 명 권 보 장 이 국 가 의 목 적 임을 간 과 한다.\n@) 10: 국가 구 성 원 은 법 을 따르는 동시에 제 정 하는 자 임 을 간 과 한다.\n66) : 국가 권 위 에 복 종 할 의 무 는 자연 발 생 적 이지 않 음 을 간 과 한다.",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 판 을 (나) 그 림 으 로 표현할 때, 4~ 에 해 당 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "ㄱ 근 그 ^ ㅅ 4\n갑 : 국 가 는 자기 완 결 적 조 직 으로서 최 고 선 을 추 구 한다.\n공 동 의 선 을 나누어 가질 수 없거나 나누어 가질 필 요 가\n없는 자는 국 가 의 일 부 가 아니며, 짐승 아니면 신 이 다.\n을: 국 가 가 형 성 될 때 개 개 인 은 자 신 을 그 모든 권 리 와\n( 가 )| 함께 공동체 전 체 에 전면 양 도 한다. 이를 일반 의 지 의\n지배 아래 둔 개 인 은 자기 자 신 에게만 복 종 한다.\n병 : 국 가 가 없는 자연 상 태 에서 개 개 인 은 모든 것에 대한\n권 리 를 갖는다. 자기 보 존 과 평 화 를 위해 그러한 권 리 를\n포 기 함으로써 주 권 자 인 리 바 이 어 던 이 탄 생 한다.\n< 범 례\nㅡ - ㅜ : 비 판 의 방향\n시 ~\\ : 비 판 의 내용\n(나) 더 < 예 시\n^\n. @-…~@\n… 쇼 는 갑 이 을 에게 제 기 할\n- ㅎ 수 있는 비 판 임 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㅅ &: 공 공 의 이 익 에 입 각 하여 국 가 가 운 영 되어야 함 을 간 과 한다."
+      },
+      {
+        "number": 2,
+        "text": "2 8, : 인 간 은 국가 안에서만 행복한 삶 을 살 수 있 음 을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "6: 국가 구 성 원 의 생 명 권 보 장 이 국 가 의 목 적 임을 간 과 한다."
+      },
+      {
+        "number": 4,
+        "text": "10: 국가 구 성 원 은 법 을 따르는 동시에 제 정 하는 자 임 을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": ": 국가 권 위 에 복 종 할 의 무 는 자연 발 생 적 이지 않 음 을 간 과 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.878,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:07+00:00",
+    "qa_flags": []
+  }
+}

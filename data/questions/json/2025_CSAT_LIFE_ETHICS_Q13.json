@@ -1,0 +1,77 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 143,
+    "question_number": 13,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3326,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 다음 신문 칼 럼 에서 강 조 하는 내 용 으로 가장 적절한 것은? [3 점 ]\n(2 신문 (200000 년 (2( 월 (>(〉 일\n칼럼\n내가 잘못 생각할 수 있고 다른 사 람 이 옮 을 수도 있다. 인 간 은 함께 노 력 해 야 만\n진 리 에 다 가 갈 수 있다. 이러한 비판적 합 리 주 의 는 비판적 논 증 과 반 박 에 귀 를 기울이며,\n경 험 으로부터 배울 용 의 가 있는 태 도 라 고 말할 수 있다. 특히 경험 세 계 에 관 련 될 수\n밖에 없는 과학적 명 제 의 경우, 이는 언제든 반 박 될 수 있어야 한다. 경험 과학 이 론 은\n그 이 론 을 반 증 할 수 있는 실험 결 과 를 얻 는 다 면 뒤 집 어 질 수 있다. 이 론 의 과 학 성 을\n구 성 하는 것은 바로 이러한 반증 가 능 성 이다. 이 론 에 대한 모든 관 찰 은 그 이 론 으로\n부터 도 출 된 예 측 을 반 증 하려는 시 도 라 할 수 있다.\n01 실험 결 과 에 의해 예 측 이 반 증 된 경험 과학 이 론 은 거 부 된다.\n2) 논 박 이 불가능한 경험 과학적 가 설 만을 진 리 로 확 정 해야 한다.\n8 비 판 은 원 천 적 으로 반증 불가능한 사실 명 제 에 근 거 해야 한다.\n9) 진 리 에 대한 접 근 은 불 기 능 하 다 는 상대주의 관 접을 수 용 해야 한다.\n6 오 류 임이 증 명 되지 않은 과학 이 론 은 반증 대 상 에서 제 외 된다.",
+    "stem": "다음 신문 칼 럼 에서 강 조 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "(2 신문 (200000 년 (2( 월 (>(〉 일\n칼럼\n내가 잘못 생각할 수 있고 다른 사 람 이 옮 을 수도 있다. 인 간 은 함께 노 력 해 야 만\n진 리 에 다 가 갈 수 있다. 이러한 비판적 합 리 주 의 는 비판적 논 증 과 반 박 에 귀 를 기울이며,\n경 험 으로부터 배울 용 의 가 있는 태 도 라 고 말할 수 있다. 특히 경험 세 계 에 관 련 될 수\n밖에 없는 과학적 명 제 의 경우, 이는 언제든 반 박 될 수 있어야 한다. 경험 과학 이 론 은\n그 이 론 을 반 증 할 수 있는 실험 결 과 를 얻 는 다 면 뒤 집 어 질 수 있다. 이 론 의 과 학 성 을\n구 성 하는 것은 바로 이러한 반증 가 능 성 이다. 이 론 에 대한 모든 관 찰 은 그 이 론 으로\n부터 도 출 된 예 측 을 반 증 하려는 시 도 라 할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "실험 결 과 에 의해 예 측 이 반 증 된 경험 과학 이 론 은 거 부 된다."
+      },
+      {
+        "number": 2,
+        "text": "논 박 이 불가능한 경험 과학적 가 설 만을 진 리 로 확 정 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "비 판 은 원 천 적 으로 반증 불가능한 사실 명 제 에 근 거 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "진 리 에 대한 접 근 은 불 기 능 하 다 는 상대주의 관 접을 수 용 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "오 류 임이 증 명 되지 않은 과학 이 론 은 반증 대 상 에서 제 외 된다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=6049",
+      "vector_lines=913"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.817,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:26+00:00",
+    "qa_flags": []
+  }
+}

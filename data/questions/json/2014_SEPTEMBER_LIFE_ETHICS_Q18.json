@@ -1,0 +1,77 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 8,
+    "question_number": 18,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3283,
+      1592,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 갑 , 을 의 입 장 에 대한 설 명 으로 가장 적절한 것은?\n세 계 의 변 화 에 적 극 적 으로 대 응 하여 인 간 의 존 엄 성 이라는 보편적\n민 족 의 정 체 성 을 새롭게 정 립 하는 가 치 를 바 탕 으로 인종, 국가\n동시에 다른 민 족 에 대해 개 방 적 인 등 의 구 별 을 넘어서 관 용 과\n태 도 를 가져야 해. 협 력 의 태 도 를 가져야 해.\n(1) 감은 민 족 의 식 과 소 속 감 에 기초한 열린 공동체 의 식 을 중 시 한 다.\n(3) 을 은 민 족 의 객관적 요 소 를 바 탕 으로 보편적 공 동 체 를 강 조 한 다.\n(3) 갑 은 을과 달리 혈연 중 심 의 배 타 적 인 민족 정 체 성 을 강 조 한 다.\n(4) 을 은 갑과 달리 다른 민 족 에 대한 관 용 적 인 태 도 를 수 용 한다.\n(5) 갑 , 을 은 민족 구 성 원 이 아닌 세계 시 민 으로서의 삶 을 중 시 한다.",
+    "stem": "갑 , 을 의 입 장 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "세 계 의 변 화 에 적 극 적 으로 대 응 하여 인 간 의 존 엄 성 이라는 보편적\n민 족 의 정 체 성 을 새롭게 정 립 하는 가 치 를 바 탕 으로 인종, 국가\n동시에 다른 민 족 에 대해 개 방 적 인 등 의 구 별 을 넘어서 관 용 과\n태 도 를 가져야 해. 협 력 의 태 도 를 가져야 해.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "감은 민 족 의 식 과 소 속 감 에 기초한 열린 공동체 의 식 을 중 시 한 다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 민 족 의 객관적 요 소 를 바 탕 으로 보편적 공 동 체 를 강 조 한 다."
+      },
+      {
+        "number": 3,
+        "text": "갑 은 을과 달리 혈연 중 심 의 배 타 적 인 민족 정 체 성 을 강 조 한 다."
+      },
+      {
+        "number": 4,
+        "text": "을 은 갑과 달리 다른 민 족 에 대한 관 용 적 인 태 도 를 수 용 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 민족 구 성 원 이 아닌 세계 시 민 으로서의 삶 을 중 시 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=1185",
+      "vector_lines=1661"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.924,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:35:27+00:00",
+    "qa_flags": []
+  }
+}

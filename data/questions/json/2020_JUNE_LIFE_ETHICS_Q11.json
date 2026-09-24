@@ -1,0 +1,73 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 75,
+    "question_number": 11,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2139
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은;\n갑 : 자동차 사 고 의 대 부 분 이 운 전 자 의 과 실 로 발 생 하 는데, 자율\n주행 자 동 차 는 인공 지 등 을 통해 사 고 를 획 기 적 으 로 줄일\n수 있을 것 입니다.\n을: 동 의 합니다. 다만 생 명 이 위 협 받는 위 급 한 상 황 에서는\n사 람 이 직접 운 전 하면서 스스로 판 단 하여 어떻게 할지를\n결정할 수 있어야 합니다.\n갑 : 아닙니다. 그런 방 식 은 오히려 사 고 를 중 가 시킬 수 있습니다.\n사 고 를 줄이는 것이 사회 전 체 에 이 익 이 되므로 모든 상황\n에서 인공 지 등 에 게 운 전 을 맡겨야 합니다.\n을: 생 명 과 관련된 문 제 에 서는 단순히 이 익 을 기 준 으로 판단\n해서는 안 되며 자 율 성 을 존 중 하 여 개 인 의 선 택 에 맡겨야\n합니다.\n0) 인공 지 능 의 사 용 은 인 간 의 자 율 성 을 중 진 시 키 는 가?\n(2) 자율 주행 자 동 차 는 사회 전 체 의 이 익 을 증 진 시 키 는 가?\n(3) 자동차 사 고 의 주요 원 인 은 운 전 자 의 과 실 로 인한 것인가?\n0) 위급 상 황 에서 어 면 주 체 가 자율 주행 자 동 차 를 운 전 해야 하는가?\n인공 지 능 의 사 용 은 자동차 사 고 를 줄이는 데 기여할 수 있는가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은;",
+    "passage": "갑 : 자동차 사 고 의 대 부 분 이 운 전 자 의 과 실 로 발 생 하 는데, 자율\n주행 자 동 차 는 인공 지 등 을 통해 사 고 를 획 기 적 으 로 줄일\n수 있을 것 입니다.\n을: 동 의 합니다. 다만 생 명 이 위 협 받는 위 급 한 상 황 에서는\n사 람 이 직접 운 전 하면서 스스로 판 단 하여 어떻게 할지를\n결정할 수 있어야 합니다.\n갑 : 아닙니다. 그런 방 식 은 오히려 사 고 를 중 가 시킬 수 있습니다.\n사 고 를 줄이는 것이 사회 전 체 에 이 익 이 되므로 모든 상황\n에서 인공 지 등 에 게 운 전 을 맡겨야 합니다.\n을: 생 명 과 관련된 문 제 에 서는 단순히 이 익 을 기 준 으로 판단\n해서는 안 되며 자 율 성 을 존 중 하 여 개 인 의 선 택 에 맡겨야\n합니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인공 지 능 의 사 용 은 인 간 의 자 율 성 을 중 진 시 키 는 가?"
+      },
+      {
+        "number": 2,
+        "text": "자율 주행 자 동 차 는 사회 전 체 의 이 익 을 증 진 시 키 는 가?"
+      },
+      {
+        "number": 3,
+        "text": "자동차 사 고 의 주요 원 인 은 운 전 자 의 과 실 로 인한 것인가?"
+      },
+      {
+        "number": 4,
+        "text": "위급 상 황 에서 어 면 주 체 가 자율 주행 자 동 차 를 운 전 해야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "인공 지 능 의 사 용 은 자동차 사 고 를 줄이는 데 기여할 수 있는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.91,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:44:33+00:00",
+    "qa_flags": []
+  }
+}

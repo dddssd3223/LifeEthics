@@ -1,0 +1,73 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 18,
+    "question_number": 7,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1918,
+      1592,
+      3327
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 서양 사상가 갑 , 을 의 입 장 에 대한 설 명 으로 옮 은 것은? [3 점 ]\n갑 : 자 기 가 속한 종 080 의 이 익 을 응 호 하면서 다른 종 의 이억\n을 배 척 하는 차별적 태 도 는 도 덕 적 으로 정 당 화 될 수 없\n다. 따라서 인 간 이 좀 더 나은 지적 능 력 을 소 유 하고 있다\n고 해서 쾌 락 과 고 통 을 느낄 수 있는 존 재 를 착 취 할 퀸 한\n을 가질 수 는 없다.\n을: 이 성 이 없지만 쟁 명이 있는 동 물 들을 잔 학 하게 다루는\n것은 인 간 의 자기 자 신 에 대한 의 무 에 어긋난다. 그리고\n자연 중에 생 명 이 없지만 아름다운 것을 파 괴 하려는 성\n향도 인 간 의 자기 자 신 에 대한 의 무 에 어긋난다.\n(1) 갑 은 인 간 만이 아니라 모든 생 명 체 가 동등한 가 치 를 지 닌 다 고 본다.\n(3) 을 은 식 물 을 보 존 하는 것이 간 접 적 인 의 무 로 성립 가 능 하 다고 본다.\n(3) 갑 은 을과 달리 동 정 심 을 동 물 에 대한 도덕적 의 무 의 근 거 로 본다.\n@) 갑 , 을 은 인간 이외 존 재 의 도덕적 지 위 도 인 정 해 야 한다고 본다.\n(5) 갑 , 을 은 인 간 과 동 물 을 동 등 하게 대 우 하는 것이 도 덕 적 이라고 본다.",
+    "stem": "서양 사상가 갑 , 을 의 입 장 에 대한 설 명 으로 옮 은 것은? [3 점 ]",
+    "passage": "갑 : 자 기 가 속한 종 080 의 이 익 을 응 호 하면서 다른 종 의 이억\n을 배 척 하는 차별적 태 도 는 도 덕 적 으로 정 당 화 될 수 없\n다. 따라서 인 간 이 좀 더 나은 지적 능 력 을 소 유 하고 있다\n고 해서 쾌 락 과 고 통 을 느낄 수 있는 존 재 를 착 취 할 퀸 한\n을 가질 수 는 없다.\n을: 이 성 이 없지만 쟁 명이 있는 동 물 들을 잔 학 하게 다루는\n것은 인 간 의 자기 자 신 에 대한 의 무 에 어긋난다. 그리고\n자연 중에 생 명 이 없지만 아름다운 것을 파 괴 하려는 성\n향도 인 간 의 자기 자 신 에 대한 의 무 에 어긋난다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 인 간 만이 아니라 모든 생 명 체 가 동등한 가 치 를 지 닌 다 고 본다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 식 물 을 보 존 하는 것이 간 접 적 인 의 무 로 성립 가 능 하 다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "갑 은 을과 달리 동 정 심 을 동 물 에 대한 도덕적 의 무 의 근 거 로 본다."
+      },
+      {
+        "number": 4,
+        "text": "갑 , 을 은 인간 이외 존 재 의 도덕적 지 위 도 인 정 해 야 한다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 인 간 과 동 물 을 동 등 하게 대 우 하는 것이 도 덕 적 이라고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.912,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:07+00:00",
+    "qa_flags": []
+  }
+}

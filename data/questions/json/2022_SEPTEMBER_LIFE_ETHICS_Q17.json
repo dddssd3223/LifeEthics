@@ -1,0 +1,75 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 104,
+    "question_number": 17,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1989,
+      1740,
+      3486
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 그 림 은 서양 사상가 갑 , 을 의 가상 대 화 이다. 감 , 을 의 입 장 으로\n적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은?\n평 등 한 지 유 의 원 칙 에 대한 심각한 위 반 은\n시민 불 복 종 은 민주적 의사 결 정 을 좌절\n시민 불 복 종 의 대 상 이 됩니다. 시민 불 복 종 에\n시 킨 다 기 보 다는 복 원 하 려는 시 도 입니다.\n참 여 하는 사 람 들 은 다 수 자의 정 의 감 에\n우 리 가 중 단 시키려고 하는 악의 크 기 와,\n호 소 하여 자유로운 협 동 의 조 건 이 침해\n불복종 행 위 가 가져올 법과 민 주 주 의 에 대한\n존 중 심의 감소 정 도 를 저 울 질 해 봐야 합니다.\n되었다는 것을 정 당 하게 알립니다.\n< 보 기 >\nㄱ . 갑 : 차 등 의 원 칙 을 위 반 한 정 책 은 시민 불 복 종 의 대 상 이 된다.\nㄴ . 갑 : 매우 부 정 의한 입헌 체 제 에서 시민 불 복 종 은 성 립 할 수 없다.\nㄷ . 을: 시민 불 복 종 을 하는 시 민 은 보편적 법치 원 리 를 존 중 한다.\n르 . 갑 , 을 : 시민 불 복 종 으로 발생할 불행한 결 과 를 고려해야 한다.\n907, ㄴ 9 7, 르 0 ㄴ\n0 1, =, 르 05) 느 , =, 르",
+    "stem": "그 림 은 서양 사상가 갑 , 을 의 가상 대 화 이다. 감 , 을 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "평 등 한 지 유 의 원 칙 에 대한 심각한 위 반 은\n시민 불 복 종 은 민주적 의사 결 정 을 좌절\n시민 불 복 종 의 대 상 이 됩니다. 시민 불 복 종 에\n시 킨 다 기 보 다는 복 원 하 려는 시 도 입니다.\n참 여 하는 사 람 들 은 다 수 자의 정 의 감 에\n우 리 가 중 단 시키려고 하는 악의 크 기 와,\n호 소 하여 자유로운 협 동 의 조 건 이 침해\n불복종 행 위 가 가져올 법과 민 주 주 의 에 대한\n존 중 심의 감소 정 도 를 저 울 질 해 봐야 합니다.\n되었다는 것을 정 당 하게 알립니다.\n< 보 기 >\nㄱ . 갑 : 차 등 의 원 칙 을 위 반 한 정 책 은 시민 불 복 종 의 대 상 이 된다.\nㄴ . 갑 : 매우 부 정 의한 입헌 체 제 에서 시민 불 복 종 은 성 립 할 수 없다.\nㄷ . 을: 시민 불 복 종 을 하는 시 민 은 보편적 법치 원 리 를 존 중 한다.\n르 . 갑 , 을 : 시민 불 복 종 으로 발생할 불행한 결 과 를 고려해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "907, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "7, 르"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ"
+      },
+      {
+        "number": 4,
+        "text": "1, =, 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.883,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:37+00:00",
+    "qa_flags": []
+  }
+}

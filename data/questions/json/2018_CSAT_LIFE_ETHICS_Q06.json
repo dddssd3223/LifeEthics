@@ -1,0 +1,73 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 58,
+    "question_number": 6,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      502,
+      1592,
+      1971
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 다음 서양 사 상 가 의 입 장 을 < 보 기 > 에 서 고른 것은?\nㅇ 만약 즐 거 움 을 위한 시가 훌륭한 법 질 서 를 갖는 국가 안에\n존 재 해야 할 이 유 가 있다면, 우 리 는 기꺼이 지를 받 아 들 일\n것이다. 시가 즐 거 움 을 줄 뿐만 아니라 국 가 와 인간 생 활 에\n이로운 것 임 이 밝 혀 진 다 면 우 리 에게도 분명 이 득 이 될\n것이기 때 문 이 다,\n0 시 인 어나 설화 작 가 들이 모 방 을 할 경 우 에는, 용 갑 하 고\n절제 있고 경 건 하며 자 유 인 다운 사 람 들 을 모 방 해야만\n한다. 반 면 에 그 어떤 창 피 스러운 것도 모 방 하지 말아야\n하며, 이런 것을 모 방 하는 데 능한 사 람 들 이 되어서도 안 된다.\n< 보 기 >\nㄱ . 예 술 은 선의 실 현 에 기 여 해 야 한다.\nㄴ . 예 술 은 진 리 를 왜 곡 할 경우 비 판 받아야 한다.\nㄷ . 예 술 에서 미와 선의 내 용 은 유 사 할 필 요 가 없다.\n르 . 예 술 은 사 물 의 실 재 보다 외 관 을 아름답게 모 방 해야 한다.\n0) ㄱ , ㄴㄴ (2) ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 그",
+    "stem": "다음 서양 사 상 가 의 입 장 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "ㅇ 만약 즐 거 움 을 위한 시가 훌륭한 법 질 서 를 갖는 국가 안에\n존 재 해야 할 이 유 가 있다면, 우 리 는 기꺼이 지를 받 아 들 일\n것이다. 시가 즐 거 움 을 줄 뿐만 아니라 국 가 와 인간 생 활 에\n이로운 것 임 이 밝 혀 진 다 면 우 리 에게도 분명 이 득 이 될\n것이기 때 문 이 다,\n0 시 인 어나 설화 작 가 들이 모 방 을 할 경 우 에는, 용 갑 하 고\n절제 있고 경 건 하며 자 유 인 다운 사 람 들 을 모 방 해야만\n한다. 반 면 에 그 어떤 창 피 스러운 것도 모 방 하지 말아야\n하며, 이런 것을 모 방 하는 데 능한 사 람 들 이 되어서도 안 된다.\n< 보 기 >\nㄱ . 예 술 은 선의 실 현 에 기 여 해 야 한다.\nㄴ . 예 술 은 진 리 를 왜 곡 할 경우 비 판 받아야 한다.\nㄷ . 예 술 에서 미와 선의 내 용 은 유 사 할 필 요 가 없다.\n르 . 예 술 은 사 물 의 실 재 보다 외 관 을 아름답게 모 방 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 그"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.888,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:46+00:00",
+    "qa_flags": []
+  }
+}

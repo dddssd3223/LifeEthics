@@ -1,0 +1,79 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 59,
+    "question_number": 12,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2688,
+      1592,
+      4300
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 그 림 은 서술형 평가 문 제 와 학생 답 안 이 다. 학생 답 안 의 ( ㅠ ~\n중 옮 지 않은 것은?\n^ 서술형 평가\n@ 문제: 사상가 갑 , 을 의 직업 노 동 에 대한 입 장 을 비 교 하여 서 술 하시오.\n갑 : 모든 것을 손수 만들어 사용해야 한다면, 그것은 천 하 의 사 람 들 을\n바쁘게 만드는 것이다. 어떤 사 람 은 마 음 을 수 고 롭게 하 고 [%/],\n어떤 사 람 은 몸 을 수 고 롭게 한 다 [%771. 백 성 은 항 산 (\\8 출 ) 이 없다면\n항 심 (08/6) 도 없게 된다.\n을: 노 동 이 분 업 에 의한 방 식 으로 바뀌면서 고 용 주 는 자 본 가 가 되어\n지 휘 와 감독, 조절 기 능 을 담 당 한다. 분 업 은 특수한 기 능 에 적합한\n부분 노 동 자 를 양 산 하며, 노 동 자 는 작 업 장 의 부 속 물 로서 자 본 의\n소 유 물 이 된다.\n브아 이아 이이 오브 이비즈 00000 르\n0 이오 99 은 99 고 오오\n@ 학생 답안\n사상가 잡 , 을 의 직업 노 동 에 대한 입 장 을 비교해 보면, 잡은 직업\n에는 대 인 과 소 인 의 역할 분 답 이 있으므로 각 자 의 역 할 에 충 실 해 야 한다고\n보며, ㄴ 3 직 업 을 통해 백 성 의 생활 기 반 이 마 련 되 어 야 한다고 수 장 한다,\n이에 비해 을 은 2 노 동 자 는 생산 수 단 이 없으므로 생 계 를 위해 자 본 가 에게\n예 속 된다고 보며, @ 노 동 자 는 노 동 을 통해 자 아 를 실 현 하 고 행 복 을 누\n수 있어야 한다고 주 장 한 다, 한편 갑 , 을 은 모두 @' 인 잔 은 분 업 에 참 여 함\n으로써 인 잔 다 움 을 실 현 해야 한다고 주 장 한 다, ~\n00 60 8 0) ㅁ 00 8: 69) 2:",
+    "stem": "그 림 은 서술형 평가 문 제 와 학생 답 안 이 다. 학생 답 안 의 ( ㅠ ~ 중 옮 지 않은 것은?",
+    "passage": "^ 서술형 평가\n@ 문제: 사상가 갑 , 을 의 직업 노 동 에 대한 입 장 을 비 교 하여 서 술 하시오.\n갑 : 모든 것을 손수 만들어 사용해야 한다면, 그것은 천 하 의 사 람 들 을\n바쁘게 만드는 것이다. 어떤 사 람 은 마 음 을 수 고 롭게 하 고 [%/],\n어떤 사 람 은 몸 을 수 고 롭게 한 다 [%771. 백 성 은 항 산 (\\8 출 ) 이 없다면\n항 심 (08/6) 도 없게 된다.\n을: 노 동 이 분 업 에 의한 방 식 으로 바뀌면서 고 용 주 는 자 본 가 가 되어\n지 휘 와 감독, 조절 기 능 을 담 당 한다. 분 업 은 특수한 기 능 에 적합한\n부분 노 동 자 를 양 산 하며, 노 동 자 는 작 업 장 의 부 속 물 로서 자 본 의\n소 유 물 이 된다.\n브아 이아 이이 오브 이비즈 00000 르\n0 이오 99 은 99 고 오오\n@ 학생 답안\n사상가 잡 , 을 의 직업 노 동 에 대한 입 장 을 비교해 보면, 잡은 직업\n에는 대 인 과 소 인 의 역할 분 답 이 있으므로 각 자 의 역 할 에 충 실 해 야 한다고\n보며, ㄴ 3 직 업 을 통해 백 성 의 생활 기 반 이 마 련 되 어 야 한다고 수 장 한다,\n이에 비해 을 은 2 노 동 자 는 생산 수 단 이 없으므로 생 계 를 위해 자 본 가 에게\n예 속 된다고 보며, @ 노 동 자 는 노 동 을 통해 자 아 를 실 현 하 고 행 복 을 누\n수 있어야 한다고 주 장 한 다, 한편 갑 , 을 은 모두 @' 인 잔 은 분 업 에 참 여 함\n으로써 인 잔 다 움 을 실 현 해야 한다고 주 장 한 다, ~",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(0"
+      },
+      {
+        "number": 2,
+        "text": "8"
+      },
+      {
+        "number": 3,
+        "text": "ㅁ"
+      },
+      {
+        "number": 4,
+        "text": "8:"
+      },
+      {
+        "number": 5,
+        "text": "2:"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=5083",
+      "vector_lines=7210"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.844,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:52:29+00:00",
+    "qa_flags": []
+  }
+}

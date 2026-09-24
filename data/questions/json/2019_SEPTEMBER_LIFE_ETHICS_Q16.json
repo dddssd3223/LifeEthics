@@ -1,0 +1,75 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 68,
+    "question_number": 16,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1742,
+      1963
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다 음 은 신문 칼 럼 이다. (에 들어갈 내 용 으로 가장 적절한 것은?\n(2( 신 문 (0000 년 (>() 월 (일\n칼럼\n오늘날 세계 각 지 역 에서는 종교 간의 갈 등 으로 인해 폭 력 과 분 쟁 이 심 화 되고\n있다. 이와 관 련 하여 우 리 는 어떤 서양 사 상 가 의 가 르 침 에 주목할 필 요 가 있다.\n그는 ' 타 종 교 인 에 대한 관 용 의 정 신 이 참된 종 교 를 구 별 하는 가장 분명한\n기 준 이다. 참된 종 교 는 영 혼 의 내적 확 신 에 기 초 하는데, 이러한 내적 확 신 을\n폭 력 과 같은 외 부 적 힘 으 로 강 제 하는 것은 종 교 의 사 명 은 물론 인간 이 성 에도\n어긋난다. 라고 하였다. 이러한 가 르 침 에 따라 종교 간의 갈등 문 제 를 해 결 하기\n위해서는 오 을 인 식 해야 한다. …( 후 략 )…\n01 정 치 와 종 교 의 분 리 가 불 필 요 하다는 것\n2) 영 혼 의 내적 확 신 이 구 원 과 무 관 하다는 것\n8 종교적 박 해 는 불 합 리 하므로 부 당 하다는 것\n4) 관 용 을 허 용 하지 않는 종 교 도 참된 종 교 라는 것\n6 종교적 불 관 용 만이 이 성 에 부 합 할 수 있다는 것",
+    "stem": "다 음 은 신문 칼 럼 이다. (에 들어갈 내 용 으로 가장 적절한 것은?",
+    "passage": "(2( 신 문 (0000 년 (>() 월 (일\n칼럼\n오늘날 세계 각 지 역 에서는 종교 간의 갈 등 으로 인해 폭 력 과 분 쟁 이 심 화 되고\n있다. 이와 관 련 하여 우 리 는 어떤 서양 사 상 가 의 가 르 침 에 주목할 필 요 가 있다.\n그는 ' 타 종 교 인 에 대한 관 용 의 정 신 이 참된 종 교 를 구 별 하는 가장 분명한\n기 준 이다. 참된 종 교 는 영 혼 의 내적 확 신 에 기 초 하는데, 이러한 내적 확 신 을\n폭 력 과 같은 외 부 적 힘 으 로 강 제 하는 것은 종 교 의 사 명 은 물론 인간 이 성 에도\n어긋난다. 라고 하였다. 이러한 가 르 침 에 따라 종교 간의 갈등 문 제 를 해 결 하기\n위해서는 오 을 인 식 해야 한다. …( 후 략 )…",
+    "choices": [
+      {
+        "number": 1,
+        "text": "정 치 와 종 교 의 분 리 가 불 필 요 하다는 것"
+      },
+      {
+        "number": 2,
+        "text": "영 혼 의 내적 확 신 이 구 원 과 무 관 하다는 것"
+      },
+      {
+        "number": 3,
+        "text": "종교적 박 해 는 불 합 리 하므로 부 당 하다는 것"
+      },
+      {
+        "number": 4,
+        "text": "관 용 을 허 용 하지 않는 종 교 도 참된 종 교 라는 것"
+      },
+      {
+        "number": 5,
+        "text": "종교적 불 관 용 만이 이 성 에 부 합 할 수 있다는 것"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.898,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:10+00:00",
+    "qa_flags": []
+  }
+}

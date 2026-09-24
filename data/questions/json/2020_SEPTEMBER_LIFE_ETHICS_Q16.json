@@ -1,0 +1,73 @@
+{
+  "id": "2020_SEPTEMBER_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 80,
+    "question_number": 16,
+    "exam_key": "2020_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2243
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_SEPTEMBER_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 갑 , 을 모 두 가 부 정 의 대 답 을 할 질 문 만을 < 보 기 > 에 서 있는\n대로 고른 것은?\n갑 : 기 업 은 시장 경쟁력 강 화 를 위한 경영 전략 차 원 에서 공익\n증 진 이라는 사회적 책 임 에 힘써야 한다. 그러한 기 업 은\n소비자 불 매 운 동 을 예 방 하고, 직 원 들의 현 신 과 소 비 자 들의\n신 뢰 를 얻는 데 훨 씬 유 리 하기 때 문 이 다.\n을 : 기 업 의 사회적 책 임 은 오로지 시 장 의 규 칙 을 준 수 하면서\n기업 이 억 의 극 대 화 를 위해 자유로운 경 쟁 에 전 념 하는 것이다.\n이 과 정 에서 기 업 은 보이지 않는 손 에 이끌려 원래 의 도 하지\n않았던 공 익 에 기 여 하게 된다,\n< 보 기 >\nㄱ . 기 업 은 모든 사회적 책 임 으로부터 자 유 로 워야 하는가?\nㄴ . 기 업 은 자유 시장 경제 원 리 에 따라 경 영 되 어야 하는가?\nㄷ . 기 업 은 공 익 의 증 진 을 본질적 목 적 으로 삼아야 하는가?\n르 . 기 업 은 기업 이익 증 진 을 위해 공 익 을 추 구 해 야 하는가?\n0) ㄱㄱ, ㄴ (00) ㄱ , ㄷ (03) ㄴ , 큰\n0 1, =, 르 05) 느 , =, 르",
+    "stem": "갑 , 을 모 두 가 부 정 의 대 답 을 할 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 기 업 은 시장 경쟁력 강 화 를 위한 경영 전략 차 원 에서 공익\n증 진 이라는 사회적 책 임 에 힘써야 한다. 그러한 기 업 은\n소비자 불 매 운 동 을 예 방 하고, 직 원 들의 현 신 과 소 비 자 들의\n신 뢰 를 얻는 데 훨 씬 유 리 하기 때 문 이 다.\n을 : 기 업 의 사회적 책 임 은 오로지 시 장 의 규 칙 을 준 수 하면서\n기업 이 억 의 극 대 화 를 위해 자유로운 경 쟁 에 전 념 하는 것이다.\n이 과 정 에서 기 업 은 보이지 않는 손 에 이끌려 원래 의 도 하지\n않았던 공 익 에 기 여 하게 된다,\n< 보 기 >\nㄱ . 기 업 은 모든 사회적 책 임 으로부터 자 유 로 워야 하는가?\nㄴ . 기 업 은 자유 시장 경제 원 리 에 따라 경 영 되 어야 하는가?\nㄷ . 기 업 은 공 익 의 증 진 을 본질적 목 적 으로 삼아야 하는가?\n르 . 기 업 은 기업 이익 증 진 을 위해 공 익 을 추 구 해 야 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, =, 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.892,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:39+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 26,
+    "question_number": 9,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1752,
+      2373,
+      3339,
+      3366
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 그 림 의 강 연 자가 지 지 할 주 장 으로 옮 지 않은 것은?\n우 리 는 온난화 또는 테 러 와 같은 글로벌 위 험 에 직 면 하고\n있습니다. 이러한 위 험 은 무 차 별 적 이 라는 특 징 이 있고,\n그 범 위 가 방 대 하여 통 제 가 불 가 능 하기 때문에 어떤 계 급 이나\n어떤 국 가 도 안 전 하 다고 볼 수 없습니다. ' 글 로 벌 위험\n사 회 ' 의 인 류 는 유 토 피 아 를 꿈 꾸 기 보다는 최 악 의 상 황 에\n놓 이 지 않기를 원 하 기에 글로벌 공 동 체 의 구 성 원 이 되는\n것 입 니다.\n(1) 글로벌 위 험 에 대한 예 방 의 중 요 성 이 증 대 되고 있다.\n(3) 글로벌 위 험 은 인류 전 체 를 광 범 위 하게 위 협 하고 있다.\n(3) 글로벌 위 험 은 세계 시 민 주 의 의 근 거 를 약 화 시키고 있다.\n(4) 글로벌 위 험 은 인류 공 존 을 위한 노 력 의 필 요 성 을 자 각 시키고 있다.\n(9) 글 로 벌 위 기 의 대응 원 칙 은 이 익 의 최 대 화 가 아닌 위 험 의 최 소 화 이다.",
+    "stem": "그 림 의 강 연 자가 지 지 할 주 장 으로 옮 지 않은 것은?",
+    "passage": "우 리 는 온난화 또는 테 러 와 같은 글로벌 위 험 에 직 면 하고\n있습니다. 이러한 위 험 은 무 차 별 적 이 라는 특 징 이 있고,\n그 범 위 가 방 대 하여 통 제 가 불 가 능 하기 때문에 어떤 계 급 이나\n어떤 국 가 도 안 전 하 다고 볼 수 없습니다. ' 글 로 벌 위험\n사 회 ' 의 인 류 는 유 토 피 아 를 꿈 꾸 기 보다는 최 악 의 상 황 에\n놓 이 지 않기를 원 하 기에 글로벌 공 동 체 의 구 성 원 이 되는\n것 입 니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "글로벌 위 험 에 대한 예 방 의 중 요 성 이 증 대 되고 있다."
+      },
+      {
+        "number": 2,
+        "text": "글로벌 위 험 은 인류 전 체 를 광 범 위 하게 위 협 하고 있다."
+      },
+      {
+        "number": 3,
+        "text": "글로벌 위 험 은 세계 시 민 주 의 의 근 거 를 약 화 시키고 있다."
+      },
+      {
+        "number": 4,
+        "text": "글로벌 위 험 은 인류 공 존 을 위한 노 력 의 필 요 성 을 자 각 시키고 있다."
+      },
+      {
+        "number": 5,
+        "text": "글 로 벌 위 기 의 대응 원 칙 은 이 익 의 최 대 화 가 아닌 위 험 의 최 소 화 이다."
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.496,
+    "review_required": true,
+    "warnings": [
+      "QNUM_OCR_CORRECTED: 숫자OCR '92' / 토큰 '9.' -> 9",
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:31+00:00",
+    "qa_flags": []
+  }
+}

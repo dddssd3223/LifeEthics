@@ -1,0 +1,73 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 38,
+    "question_number": 8,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      1850
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. ( 가 ) 의 주 장 을 (나) 그 림 으로 나타낼 때, (에 대한 반 론 의 근 거 로\n가장 적절한 것은? [3 점 ]\n과학 기 술 은 객관적 지식, 즉 객관적인 방 법 으로 발 견 한\n자연 현 상 에 대한 체계적인 지 식 과 그 지 식 을 활 용 하여\n무 엇 인 가 를 만들어 내는 과 정 입니다. 따라서 과학 기 술 에는\n(가)\n주관적 가 치 가 개 입 되 어 서 는 안 됩니다.\n과학 기 술 은 객관적인\n사제 는 지 식 과 그 활용 과 정 이다 |. | ~ 이\n(나) '\n과학 기 술 에는 주관적 가 치 가 개 입 되 어 서 는 안 된다. |\n1) 과학 기 술 은 객관적인 기 준 에 의해서만 평 가 되어야 한다.\n8) 모든 지 식 은 활 용 의 맥 락 에서 주관적 도덕 판 단 을 요 구 한다.\n8 과학적 사 실 과 주관적 가 치 는 별 개 의 독립된 영 역 에 속한다.\n(4) 모든 지 식 은 객관적 진 위 를 판 별 할 수 있는 인 식 론 적 대 상 이다.\n(6) 객관적 지 식 의 활 용 은 그 목적 설 정 을 위해 가치 판 단 을 배 제 해야 한다.",
+    "stem": "( 가 ) 의 주 장 을 (나) 그 림 으로 나타낼 때, (에 대한 반 론 의 근 거 로 가장 적절한 것은? [3 점 ]",
+    "passage": "과학 기 술 은 객관적 지식, 즉 객관적인 방 법 으로 발 견 한\n자연 현 상 에 대한 체계적인 지 식 과 그 지 식 을 활 용 하여\n무 엇 인 가 를 만들어 내는 과 정 입니다. 따라서 과학 기 술 에는\n(가)\n주관적 가 치 가 개 입 되 어 서 는 안 됩니다.\n과학 기 술 은 객관적인\n사제 는 지 식 과 그 활용 과 정 이다 |. | ~ 이\n(나) '\n과학 기 술 에는 주관적 가 치 가 개 입 되 어 서 는 안 된다. |",
+    "choices": [
+      {
+        "number": 1,
+        "text": "과학 기 술 은 객관적인 기 준 에 의해서만 평 가 되어야 한다."
+      },
+      {
+        "number": 2,
+        "text": "모든 지 식 은 활 용 의 맥 락 에서 주관적 도덕 판 단 을 요 구 한다."
+      },
+      {
+        "number": 3,
+        "text": "과학적 사 실 과 주관적 가 치 는 별 개 의 독립된 영 역 에 속한다."
+      },
+      {
+        "number": 4,
+        "text": "모든 지 식 은 객관적 진 위 를 판 별 할 수 있는 인 식 론 적 대 상 이다."
+      },
+      {
+        "number": 5,
+        "text": "객관적 지 식 의 활 용 은 그 목적 설 정 을 위해 가치 판 단 을 배 제 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.89,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:00+00:00",
+    "qa_flags": []
+  }
+}

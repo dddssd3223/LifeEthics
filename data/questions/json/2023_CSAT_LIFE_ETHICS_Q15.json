@@ -1,0 +1,75 @@
+{
+  "id": "2023_CSAT_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 119,
+    "question_number": 15,
+    "exam_key": "2023_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2897,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_CSAT_LIFE_ETHICS_Q15.png",
+    "raw_text": "16. 다음 가상 대 담 의 사 상 가 가 지 지 할 입 장 으로 가장 적절한 것은?\n개 인 은 자 신 의 이 익 을 효 율 적 으로 추 구 하는 ||| 그 입 장 으로 현 대 사 회의 소 비 를 설 명 하는 것은\n합리적 선 택 에 따라 소 비 한다고 합니다. | || 소 박 하고 무 력 한 생 각 입니다. 예컨대 세 탁 기 는\n이러한 입 장 에 대해 어떻게 생 각 하 시나요? | || 도 구 로 써 쓰 이 지 만 사회적 위 세 를 표 현 하는\n역 할 도 합니다. 바로 이 후 자 의 영 역 이 현대\n사 회 의 소비 영 역 입니다.\n1\n현 대 인 은 사회적 지위 및 명 성 에 있 어 서 의 네 , 그렇습니다. 그런데 역 설 적 이 게 도 대 ()\n차 이 를 드 러 내 고 자 사물 및 재화 그 자 체 가 ㅣ || 부 르 주 아 는 과시 소 비 를 거 부 하고 눈 에 띄지\n아니라 기 호 (82) 를 소 비 한다는 말 씀 이신 ㅣ || 않는 검 소 함 , 겸 손 함으로 차 이 를 드 러 내 기도\n가요? 합니다.\n3 4\n(1) 현대 사 회 의 소 비 자 는 경제적 합 리 성 을 최 우 선 으로 고 려 하여 23 비 한다.\n(2) 현 대 인 은 타 인 과 의 차 이 를 드 러 내 려는 욕 구 를 중 족 하기 위해 고 비 한다.\n(3) 현대 사 회 에서 경제적 상위 계 층 만이 사회적 위 세 를 퓨 현 하 고자 한다.\n0) 현 대 인 은 사 물 의 기 등 을 중 시 하는 소 비 를 통해 만 족 을 얻 고 자 한다.\n(9) 현 대 인 은 사회적 시 선 을 의 식 하지 않고 자 신 의 선 호 에 따라 소 비 한다.",
+    "stem": "다음 가상 대 담 의 사 상 가 가 지 지 할 입 장 으로 가장 적절한 것은?",
+    "passage": "개 인 은 자 신 의 이 익 을 효 율 적 으로 추 구 하는 ||| 그 입 장 으로 현 대 사 회의 소 비 를 설 명 하는 것은\n합리적 선 택 에 따라 소 비 한다고 합니다. | || 소 박 하고 무 력 한 생 각 입니다. 예컨대 세 탁 기 는\n이러한 입 장 에 대해 어떻게 생 각 하 시나요? | || 도 구 로 써 쓰 이 지 만 사회적 위 세 를 표 현 하는\n역 할 도 합니다. 바로 이 후 자 의 영 역 이 현대\n사 회 의 소비 영 역 입니다.\n1\n현 대 인 은 사회적 지위 및 명 성 에 있 어 서 의 네 , 그렇습니다. 그런데 역 설 적 이 게 도 대 ()\n차 이 를 드 러 내 고 자 사물 및 재화 그 자 체 가 ㅣ || 부 르 주 아 는 과시 소 비 를 거 부 하고 눈 에 띄지\n아니라 기 호 (82) 를 소 비 한다는 말 씀 이신 ㅣ || 않는 검 소 함 , 겸 손 함으로 차 이 를 드 러 내 기도\n가요? 합니다.\n3 4",
+    "choices": [
+      {
+        "number": 1,
+        "text": "현대 사 회 의 소 비 자 는 경제적 합 리 성 을 최 우 선 으로 고 려 하여 23 비 한다."
+      },
+      {
+        "number": 2,
+        "text": "현 대 인 은 타 인 과 의 차 이 를 드 러 내 려는 욕 구 를 중 족 하기 위해 고 비 한다."
+      },
+      {
+        "number": 3,
+        "text": "현대 사 회 에서 경제적 상위 계 층 만이 사회적 위 세 를 퓨 현 하 고자 한다."
+      },
+      {
+        "number": 4,
+        "text": "현 대 인 은 사 물 의 기 등 을 중 시 하는 소 비 를 통해 만 족 을 얻 고 자 한다."
+      },
+      {
+        "number": 5,
+        "text": "현 대 인 은 사회적 시 선 을 의 식 하지 않고 자 신 의 선 호 에 따라 소 비 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:21+00:00",
+    "qa_flags": []
+  }
+}

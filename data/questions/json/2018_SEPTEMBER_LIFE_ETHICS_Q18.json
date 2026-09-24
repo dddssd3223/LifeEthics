@@ -1,0 +1,73 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 56,
+    "question_number": 18,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3192,
+      1592,
+      4297
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 갑 , 을 사 상 가 들의 입 장 으로 옮 지 않은 것은?\n갑 : 풍요로운 사 회 의 부 유 한 사 람 들 은 빈 곤 으로 고 통 받는\n전 세계 사 람 들 을 위해 소 득 의 일 부 를 기 부 해야 한다.\n이것은 모든 사 람 의 이 익 을 평 등 하게 고 려 하여 전 지 구 적인\n의 무 를 공 정 하게 분 담 하는 것이다.\n을: 질서 정연한 만 민 은 불리한 여 건 으로 고 통 을 겪는 사 회 를\n원 조 해야 한다. 이것은 고 통 을 겪는 사 회 가 자 신 의 문 제 를\n합 당 하게 관 리 할 수 있게 도 와 서 그 사 회 가 질서 정연한\n만민 사 회 의 구 성 원 이 되도록 하는 것이다.\n(01) 갑 : 원조 대 상 자 들의 국 적 은 도 덕 적 으로 중 요 하지 않\n(3) 갑 : 원 조 는 인 류 의 고통 감 소 와 쾌락 증 진 을 위한 것이다.\n(8) 을: 원 조 는 일정한 목 표 를 넘 어 서 면 중 단 될 필 요 가 있다.\n(4) 을: 원 조 를 통해 만 민 의 복지 수 준 을 일 치 시킬 필 요 는 없다.\n(5) 갑 , 을: 원 조 는 빈 곤 한 모든 나 라 를 도와야 할 도덕적 의 무 이다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 옮 지 않은 것은?",
+    "passage": "갑 : 풍요로운 사 회 의 부 유 한 사 람 들 은 빈 곤 으로 고 통 받는\n전 세계 사 람 들 을 위해 소 득 의 일 부 를 기 부 해야 한다.\n이것은 모든 사 람 의 이 익 을 평 등 하게 고 려 하여 전 지 구 적인\n의 무 를 공 정 하게 분 담 하는 것이다.\n을: 질서 정연한 만 민 은 불리한 여 건 으로 고 통 을 겪는 사 회 를\n원 조 해야 한다. 이것은 고 통 을 겪는 사 회 가 자 신 의 문 제 를\n합 당 하게 관 리 할 수 있게 도 와 서 그 사 회 가 질서 정연한\n만민 사 회 의 구 성 원 이 되도록 하는 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 원조 대 상 자 들의 국 적 은 도 덕 적 으로 중 요 하지 않"
+      },
+      {
+        "number": 2,
+        "text": "갑 : 원 조 는 인 류 의 고통 감 소 와 쾌락 증 진 을 위한 것이다."
+      },
+      {
+        "number": 3,
+        "text": "을: 원 조 는 일정한 목 표 를 넘 어 서 면 중 단 될 필 요 가 있다."
+      },
+      {
+        "number": 4,
+        "text": "을: 원 조 를 통해 만 민 의 복지 수 준 을 일 치 시킬 필 요 는 없다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 원 조 는 빈 곤 한 모든 나 라 를 도와야 할 도덕적 의 무 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.928,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:42+00:00",
+    "qa_flags": []
+  }
+}

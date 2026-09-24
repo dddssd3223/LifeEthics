@@ -1,0 +1,73 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 149,
+    "question_number": 2,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      3074,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q02.png",
+    "raw_text": ". 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]\n갑 : 장기 이 식 은 환 자 들의 생 명 을 살릴 수 있는 의료 행 위 입니다.\n장 기 는 희 소 한 의료 자 원 이므로 장기 이식 대 싱 자는 공 정 하고\n투명한 절 차 에 따라 선 정 해야 합니다.\n을 : 동 의 합니다. 장기 기 증 자 의 수 는 제 한 적 이기 때문에 장기\n이식 대 상 자 의 우 선 순 위 를 결 정 하여 장기 이식 대 상 자 를\n선 정 해야 합니다.\n갑 : 동 의 합니다. 환 자 의 건강 상태, 장 기 의 적합성 같은 의 료 적\n요 인 과 소득, 사회적 지위 같은 사회적 요 인 을 모두 고 려 하여\n장기 이식 대 상 자 를 선 정 해야 합니다.\n을: 아닙니다, 장기 이식 대 상 자 를 선 정 할 때 환 자 의 의 료 적 요 인 은\n고려해야 할 사 항 이지만 환 자 의 사회적 요 인 을 고 려 하는 것은\n바 람 직 하지 않습니다,\n0) 장기 이식 대 상 자 의 우 선 순 위 를 결 정 하는 것이 허 용 될 수 있는가?\n(2) 장기 이식 대상자 선 정 은 공정한 절 차 에 따라 이루어져야 하는가?\n(3) 장기 이식 대상자 선정 시 환 자 의 사회적 배 경 을 고려해야 하는가?\n@) 장기 이 식 을 통해 환 자 의 질 병 을 치 료 하는 것이 정 당 화 될 수 있는가?\n(9) 장기 이식 대상자 선정 기 준 에 환 자 의 의 료 적 특 성 을 포 함 해야 하는가?",
+    "stem": ". 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 장기 이 식 은 환 자 들의 생 명 을 살릴 수 있는 의료 행 위 입니다.\n장 기 는 희 소 한 의료 자 원 이므로 장기 이식 대 싱 자는 공 정 하고\n투명한 절 차 에 따라 선 정 해야 합니다.\n을 : 동 의 합니다. 장기 기 증 자 의 수 는 제 한 적 이기 때문에 장기\n이식 대 상 자 의 우 선 순 위 를 결 정 하여 장기 이식 대 상 자 를\n선 정 해야 합니다.\n갑 : 동 의 합니다. 환 자 의 건강 상태, 장 기 의 적합성 같은 의 료 적\n요 인 과 소득, 사회적 지위 같은 사회적 요 인 을 모두 고 려 하여\n장기 이식 대 상 자 를 선 정 해야 합니다.\n을: 아닙니다, 장기 이식 대 상 자 를 선 정 할 때 환 자 의 의 료 적 요 인 은\n고려해야 할 사 항 이지만 환 자 의 사회적 요 인 을 고 려 하는 것은\n바 람 직 하지 않습니다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "장기 이식 대 상 자 의 우 선 순 위 를 결 정 하는 것이 허 용 될 수 있는가?"
+      },
+      {
+        "number": 2,
+        "text": "장기 이식 대상자 선 정 은 공정한 절 차 에 따라 이루어져야 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "장기 이식 대상자 선정 시 환 자 의 사회적 배 경 을 고려해야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "장기 이 식 을 통해 환 자 의 질 병 을 치 료 하는 것이 정 당 화 될 수 있는가?"
+      },
+      {
+        "number": 5,
+        "text": "장기 이식 대상자 선정 기 준 에 환 자 의 의 료 적 특 성 을 포 함 해야 하는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.918,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:45+00:00",
+    "qa_flags": []
+  }
+}

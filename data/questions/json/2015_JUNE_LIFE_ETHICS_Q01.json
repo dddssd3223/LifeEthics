@@ -1,0 +1,77 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 13,
+    "question_number": 1,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      879,
+      1592,
+      3263
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 그 림 의 심화 학습 문제 에 대한 적절한 답 변 을 < 보 기 > 에 서\n고른 것은?\n드 .. . ※\n(2(〉 모 둥 발표\n= 윤 리 학 의 구분\n1[\n< 예 > 의 무 론 , 공리주의 등\n2. =\n< 예 > 생명 윤리, 환경 윤리 등\n3. 메타 윤리학\n…( 중 략 )…\n= 심화 학습 문제\n스 , 8 의 주요 탐구 과 제 는 무 엇 일 까 요 ?\n< 보 기 〉\nㄱ . 사회 규 범 을 조 사 하여 객 관 적 으로 기 술 하는 것 입니다.\nㄴ . 윤 리 학 의 학문적 성립 가 능 성 을 엄밀히 검 토 하는 것 입니다.\nㄷ . 행 위 의 옮 고 그 름 을 구 분 하는 도덕 법 칙 을 제 시 하는 것 입니다.\n2 . 도덕 원 리 를 적 용 해 실 생 활 의 유리 문 제 를 해 결 하는 것 입니다.\n기 스 =\n(01) ㄱ ㄴㄴ (2) _ ㄱ ㄷ\n(3) ㄴ ㄷ (0) ㄴ 근\n(6) ㄷ 른",
+    "stem": "그 림 의 심화 학습 문제 에 대한 적절한 답 변 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "드 .. . ※\n(2(〉 모 둥 발표\n= 윤 리 학 의 구분\n1[\n< 예 > 의 무 론 , 공리주의 등\n2. =\n< 예 > 생명 윤리, 환경 윤리 등\n3. 메타 윤리학\n…( 중 략 )…\n= 심화 학습 문제\n스 , 8 의 주요 탐구 과 제 는 무 엇 일 까 요 ?\n< 보 기 〉\nㄱ . 사회 규 범 을 조 사 하여 객 관 적 으로 기 술 하는 것 입니다.\nㄴ . 윤 리 학 의 학문적 성립 가 능 성 을 엄밀히 검 토 하는 것 입니다.\nㄷ . 행 위 의 옮 고 그 름 을 구 분 하는 도덕 법 칙 을 제 시 하는 것 입니다.\n2 . 도덕 원 리 를 적 용 해 실 생 활 의 유리 문 제 를 해 결 하는 것 입니다.\n기 스 =",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "_ ㄱ ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ 근"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 른"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=1083",
+      "vector_lines=1099"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.842,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_3rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:56+00:00",
+    "qa_flags": []
+  }
+}

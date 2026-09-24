@@ -1,0 +1,73 @@
+{
+  "id": "2023_SEPTEMBER_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 113,
+    "question_number": 4,
+    "exam_key": "2023_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1057,
+      3149,
+      3241
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_SEPTEMBER_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 다 음 을 주장한 사 상 가 의 입 장 에서 < 사 례 > 속 스 에게 제 시 할\n조 언 으로 가장 적절한 것은? [3 점 ]\n공 리 의 원 리 란 모든 행 위 에 관해 그것이 우 리 의 행 복 을\n증 진 하느냐 혹은 감 소 하느냐에 따라 좋 다 거나 나쁘다고\n평 가 하는 윈 리 이다. 쾌 락 과 고 통 은 강도, 지속성, 확실성 등 을\n기 준 으로 오직 양 으 로 만 계 산 될 수 있다.\n< 사 례 >\n로봇 개 발 자 인 는 인공 지능 로봇 제 작 을 의 뢰 받았다. 는\n인공 지능 로 봇 이 사 람 을 대 신 하여 유용한 일 을 할 수 있지만,\n범 죄 나 전쟁 등과 같은 유해한 일 에 악 용 될 수 있기 때문에 이\n로 봇 을 개 발 할 지 고 민 하고 있\n01 로봇 개 발 이 가져올 해 악 과 편 익 의 총 합 을 계 산 하여 결 정 하세요.\n2 로봇 개 발 이 산 출 할 타 인 의 이 익 에 가 중 치 를 두구 결 정 하세요.\n3 로봇 개 발 이 산 출 할 캐 락 의 질적 차 이 를 고 려 하여 결 정 하세요.\n4) 로봇 개 발 이 결 과 와 무 관 하게 선한 것인지 숙 고 하여 결 정 하세요.\n5 로봇 개 발 이 당 신 에게 가져올 이 익 만을 고 려 하여 결 정 하세요.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 에서 < 사 례 > 속 스 에게 제 시 할 조 언 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "공 리 의 원 리 란 모든 행 위 에 관해 그것이 우 리 의 행 복 을\n증 진 하느냐 혹은 감 소 하느냐에 따라 좋 다 거나 나쁘다고\n평 가 하는 윈 리 이다. 쾌 락 과 고 통 은 강도, 지속성, 확실성 등 을\n기 준 으로 오직 양 으 로 만 계 산 될 수 있다.\n< 사 례 >\n로봇 개 발 자 인 는 인공 지능 로봇 제 작 을 의 뢰 받았다. 는\n인공 지능 로 봇 이 사 람 을 대 신 하여 유용한 일 을 할 수 있지만,\n범 죄 나 전쟁 등과 같은 유해한 일 에 악 용 될 수 있기 때문에 이\n로 봇 을 개 발 할 지 고 민 하고 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "로봇 개 발 이 가져올 해 악 과 편 익 의 총 합 을 계 산 하여 결 정 하세요."
+      },
+      {
+        "number": 2,
+        "text": "로봇 개 발 이 산 출 할 타 인 의 이 익 에 가 중 치 를 두구 결 정 하세요."
+      },
+      {
+        "number": 3,
+        "text": "로봇 개 발 이 산 출 할 캐 락 의 질적 차 이 를 고 려 하여 결 정 하세요."
+      },
+      {
+        "number": 4,
+        "text": "로봇 개 발 이 결 과 와 무 관 하게 선한 것인지 숙 고 하여 결 정 하세요."
+      },
+      {
+        "number": 5,
+        "text": "로봇 개 발 이 당 신 에게 가져올 이 익 만을 고 려 하여 결 정 하세요."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.897,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:59+00:00",
+    "qa_flags": []
+  }
+}

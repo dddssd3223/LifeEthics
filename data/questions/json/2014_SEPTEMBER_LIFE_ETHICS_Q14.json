@@ -1,0 +1,76 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 7,
+    "question_number": 14,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      1969,
+      2999,
+      3123
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다음 글 의 사상적 입 장 에서 긍 정 의 대 답 을 할 질 문 으로 가장\n적절한 것은?\n- 을\n선 왕 ( 숫 조 ) 이 인 정 ( ㅅ 에 비추어 예 악 (@) 을 만들었다.\n예 () 블 ) 는 백 성 의 마 음 을 절도 있게 하고, 악 (※) 은 백 성 의 마 음 을\n화 평 하게 한다. …( 중 략 )… 예 악 은 잠 시 도 몸 에서 떠 나 서 는\n안 된다. 악 을 극진히 해서 마 음 을 다 스 리 면 곧고 양 순한 마 음 이\n자연스럽게 일어난다.\n22222\n0) 예 술 은 사회 질서 유 지 에 기 여 해 야 하는가?\n(2) 예 술 은 도덕적 평 가 에 서 자 유 로 워야 하는가?\n(3) 예 술 은 예술 그 자 체 를 위해 존 재 해 야 하는가?\n(4) 예 술 은 선 ( 좀 ) 보 다 미 ( 촛 ) 를 중 시 해 야 하는가?\n(6) 예 술 은 사 회 로부터 자 율 성 을 확 보 해야 하는가?",
+    "stem": "다음 글 의 사상적 입 장 에서 긍 정 의 대 답 을 할 질 문 으로 가장 적절한 것은?",
+    "passage": "- 을\n선 왕 ( 숫 조 ) 이 인 정 ( ㅅ 에 비추어 예 악 (@) 을 만들었다.\n예 () 블 ) 는 백 성 의 마 음 을 절도 있게 하고, 악 (※) 은 백 성 의 마 음 을\n화 평 하게 한다. …( 중 략 )… 예 악 은 잠 시 도 몸 에서 떠 나 서 는\n안 된다. 악 을 극진히 해서 마 음 을 다 스 리 면 곧고 양 순한 마 음 이\n자연스럽게 일어난다.\n22222",
+    "choices": [
+      {
+        "number": 1,
+        "text": "예 술 은 사회 질서 유 지 에 기 여 해 야 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "예 술 은 도덕적 평 가 에 서 자 유 로 워야 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "예 술 은 예술 그 자 체 를 위해 존 재 해 야 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "예 술 은 선 ( 좀 ) 보 다 미 ( 촛 ) 를 중 시 해 야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "예 술 은 사 회 로부터 자 율 성 을 확 보 해야 하는가?"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=1514",
+      "vector_lines=1766"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.871,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:44+00:00",
+    "qa_flags": []
+  }
+}

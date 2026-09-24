@@ -1,0 +1,73 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 124,
+    "question_number": 17,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2451,
+      1740,
+      3558
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. (가), ( 나 ) 의 입 장 으로 가장 적절한 것은?\n(가) 사 회 를 통 합 하기 위해 비주류 문 화 를 주류 사 회 의 문 화 에\n편 입 시키고 응 합하여 국가 구성원 전 체 가 공 유 하는 동 일 된\n정 체 성 을 확 보 해야 한다.\n(나) 이 민 자 의 고 유 한 문 화 와 자 율 성 을 존 중 하고 유 지 하는 것이\n진정한 사회 통 합 의 방 법 이다. 문화적 다 양 성 을 대 등 하게\n수 용 하고 다양한 문 화 의 평화적 공 존 을 모 색 해야 한다.\n1 (가): 문 화 의 통 합 성과 집단 간 결 속 력 의 관 계 는 상호 배 타 적 이다.\n2 (가): 사회 제 도 와 질 서 의 유 지 는 문 화 들의 평화적 공 존 으로부터 온다\n@) (나): 자 문 화 중 심 주 의 를 고 집 하는 태 도 는 사회 같 등 의 원 인 이 된다.\n4) (나): 주류 문 화 로 동 일 된 문화 정 체 성 은 사회 빌 전의 윈 동 력 이 된다.\n5 (개와 (나: 시회 통 합 을 위해 문화 간 치 별 없는 정 책 과 관 8 이 필 요 하다",
+    "stem": "(가), ( 나 ) 의 입 장 으로 가장 적절한 것은?",
+    "passage": "(가) 사 회 를 통 합 하기 위해 비주류 문 화 를 주류 사 회 의 문 화 에\n편 입 시키고 응 합하여 국가 구성원 전 체 가 공 유 하는 동 일 된\n정 체 성 을 확 보 해야 한다.\n(나) 이 민 자 의 고 유 한 문 화 와 자 율 성 을 존 중 하고 유 지 하는 것이\n진정한 사회 통 합 의 방 법 이다. 문화적 다 양 성 을 대 등 하게\n수 용 하고 다양한 문 화 의 평화적 공 존 을 모 색 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 문 화 의 통 합 성과 집단 간 결 속 력 의 관 계 는 상호 배 타 적 이다."
+      },
+      {
+        "number": 2,
+        "text": "(가): 사회 제 도 와 질 서 의 유 지 는 문 화 들의 평화적 공 존 으로부터 온다"
+      },
+      {
+        "number": 3,
+        "text": "(나): 자 문 화 중 심 주 의 를 고 집 하는 태 도 는 사회 같 등 의 원 인 이 된다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 주류 문 화 로 동 일 된 문화 정 체 성 은 사회 빌 전의 윈 동 력 이 된다."
+      },
+      {
+        "number": 5,
+        "text": "(개와 (나: 시회 통 합 을 위해 문화 간 치 별 없는 정 책 과 관 8 이 필 요 하다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:25+00:00",
+    "qa_flags": []
+  }
+}

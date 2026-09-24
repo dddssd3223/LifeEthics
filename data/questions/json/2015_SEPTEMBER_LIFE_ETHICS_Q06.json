@@ -1,0 +1,73 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 18,
+    "question_number": 6,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      506,
+      1592,
+      1918
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. (가) 사 상 의 입 장 에서 ( 나 ) 의 에 대한 설 명 으로 옮 지 않은\n것은? [3 점 ]\n자기 부 모 를 사 랑 하 지 않 으 면 서 다른 사 람 을 사랑하\n(가) | 는 것은 덕 (@) 에 어긋나고, 자기 부 모 를 공 경 하지 않으\n면서 다른 사 람 을 공 경 하는 것은 예 (08) 에 어긋난다.\n개체 생 명 은 가 (※) 속 에 서 계 승 되는 집단 생 명 의 일\n부 이 다. 따라서 개 인 은 집단 생 명 이 보 전 될 수 있도록 역\n할 을 다해야 한다. 이를 위해 부 모 로부터 물 려 받은 신체\n0 | 를 회 손 하지 않아야 하는데, 이것이 | 엔 의 시 작 이다.\n또한 | ㅁ | 은 / 는 표 정 을 항상 부드럽게 하여 부 모 가 편\n안한 마 음 을 지닐 수 있도록 해 드리는 것이다.\n(1) 부 모 를 부끄럽지 않게 해 드리는 것이다.\n(3) 부 모 가 모두 돌 아 가 실 때 에 야 비로소 종 료 된다.\n(3) 자 손 을 낳아 대 ({\\) 를 잇는 것에 의해서도 실 현 된다.\n(4) 부 모 를 삼가 모시고 그 뜻 을 헤아려 실 천 하 는 것이다.\n(5) 덕 을 쌓아 몇 몇 한 지 위 를 얻어 이 름 을 떨 치 는 것으로 완 성 된 다.",
+    "stem": "(가) 사 상 의 입 장 에서 ( 나 ) 의 에 대한 설 명 으로 옮 지 않은 것은? [3 점 ]",
+    "passage": "자기 부 모 를 사 랑 하 지 않 으 면 서 다른 사 람 을 사랑하\n(가) | 는 것은 덕 (@) 에 어긋나고, 자기 부 모 를 공 경 하지 않으\n면서 다른 사 람 을 공 경 하는 것은 예 (08) 에 어긋난다.\n개체 생 명 은 가 (※) 속 에 서 계 승 되는 집단 생 명 의 일\n부 이 다. 따라서 개 인 은 집단 생 명 이 보 전 될 수 있도록 역\n할 을 다해야 한다. 이를 위해 부 모 로부터 물 려 받은 신체\n0 | 를 회 손 하지 않아야 하는데, 이것이 | 엔 의 시 작 이다.\n또한 | ㅁ | 은 / 는 표 정 을 항상 부드럽게 하여 부 모 가 편\n안한 마 음 을 지닐 수 있도록 해 드리는 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "부 모 를 부끄럽지 않게 해 드리는 것이다."
+      },
+      {
+        "number": 2,
+        "text": "부 모 가 모두 돌 아 가 실 때 에 야 비로소 종 료 된다."
+      },
+      {
+        "number": 3,
+        "text": "자 손 을 낳아 대 ({\\) 를 잇는 것에 의해서도 실 현 된다."
+      },
+      {
+        "number": 4,
+        "text": "부 모 를 삼가 모시고 그 뜻 을 헤아려 실 천 하 는 것이다."
+      },
+      {
+        "number": 5,
+        "text": "덕 을 쌓아 몇 몇 한 지 위 를 얻어 이 름 을 떨 치 는 것으로 완 성 된 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.901,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:07+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2021_SEPTEMBER_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 89,
+    "question_number": 1,
+    "exam_key": "2021_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      1057,
+      1740,
+      2234
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_SEPTEMBER_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. (가), ( 나 ) 의 입 장 으로 가장 적절한 것은?\n(가) 윤 리 학 은 사회 변 화 와 기 술 의 발 전 으 로 인해 발 생 하는\n새로운 도덕 문 제 를 해 결 하기 위한 구체적 지 침 을 제공\n하는 것을 핵심 과 제 로 삼아야 한다.\n(나) 윤 리 학 은 역사적, 문화적, 인 류 학 적 관 점 에서 각 문 화 권 의\n다양한 도덕적 현 상 을 조 사 하고 객 관 적 으로 기 술 하 는\n것을 핵심 과 제 로 삼아야 한다.\n07) (가): 도덕적 신 념 과 관 습 은 사 실 들의 집 합 으로 간 주 해 야 한다.\n(0) (가): 보편적 도덕 원 리 를 현 실 의 개별 상 황 에 적 용 해 야 한다.\n6) (나): 도덕 규 칙 이나 평 가 의 표 준 이 되는 원 리 를 정 립 해야 한다.\n@) (나): 도덕 언 어 의 의 미 와 도덕 추 론 의 타 당 성 을 겸 증 해야 한다.\n69) (가), (나): 절 대 적 이고 객관적인 도덕 규 칙 의 존 재 를 인 정 해 야 한다.",
+    "stem": "(가), ( 나 ) 의 입 장 으로 가장 적절한 것은?",
+    "passage": "(가) 윤 리 학 은 사회 변 화 와 기 술 의 발 전 으 로 인해 발 생 하는\n새로운 도덕 문 제 를 해 결 하기 위한 구체적 지 침 을 제공\n하는 것을 핵심 과 제 로 삼아야 한다.\n(나) 윤 리 학 은 역사적, 문화적, 인 류 학 적 관 점 에서 각 문 화 권 의\n다양한 도덕적 현 상 을 조 사 하고 객 관 적 으로 기 술 하 는\n것을 핵심 과 제 로 삼아야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 도덕적 신 념 과 관 습 은 사 실 들의 집 합 으로 간 주 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "(가): 보편적 도덕 원 리 를 현 실 의 개별 상 황 에 적 용 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 도덕 규 칙 이나 평 가 의 표 준 이 되는 원 리 를 정 립 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 도덕 언 어 의 의 미 와 도덕 추 론 의 타 당 성 을 겸 증 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "(가), (나): 절 대 적 이고 객관적인 도덕 규 칙 의 존 재 를 인 정 해 야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.911,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:01+00:00",
+    "qa_flags": []
+  }
+}

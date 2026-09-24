@@ -1,0 +1,73 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 103,
+    "question_number": 11,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1999
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]\n갑 : 사 람 을 섬길 줄 도 모르면서 어떻게 귀 신 을 섬길 수 있겠\n는가? 삶 도 아직 모르면서 어떻게 죽 음 을 알 수 있겠는가?\n뜻 있는 선 비 와 어진 사 람 은 살기 위해 인 ({-) 을 해치지\n않고, 자 신 을 희 생 해서라도 인 을 이루려 한다.\n을: 혼돈 속에 뒤섞여 있는 가운데 변 화 가 일어나 기 (가\n드러나고, 그 기가 변 화 하여 형 체 를 이루며, 다시 이 형 체 가\n변 화 해서 생 명 이 생긴다. 생 명 은 다시 한 번 변 화 해서\n죽 음 으로 돌 아 간 다.\n0) 갑 : 삶 과 죽 음 은 모두 고 통 의 연 속 일 뿐이다.\n(2) 갑 : 삶 과 죽 음 은 기가 모이고 흘 어 지 는 연속적 과 정 이다.\n(3) 을: 자연스러운 과 정 인 죽 음 에 대해 슬 퍼 할 필 요 가 없다.\n@) 을: 죽 음 을 두 려 워 하 기 보다 인 ((-) 을 이루는 삶 을 지 향 해야 한다.\n6) 갑 , 을 : 현 세 에 서 의 도덕적 실 천 이 내 세 의 삶 에 영 향 을 미친다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 사 람 을 섬길 줄 도 모르면서 어떻게 귀 신 을 섬길 수 있겠\n는가? 삶 도 아직 모르면서 어떻게 죽 음 을 알 수 있겠는가?\n뜻 있는 선 비 와 어진 사 람 은 살기 위해 인 ({-) 을 해치지\n않고, 자 신 을 희 생 해서라도 인 을 이루려 한다.\n을: 혼돈 속에 뒤섞여 있는 가운데 변 화 가 일어나 기 (가\n드러나고, 그 기가 변 화 하여 형 체 를 이루며, 다시 이 형 체 가\n변 화 해서 생 명 이 생긴다. 생 명 은 다시 한 번 변 화 해서\n죽 음 으로 돌 아 간 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 삶 과 죽 음 은 모두 고 통 의 연 속 일 뿐이다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 삶 과 죽 음 은 기가 모이고 흘 어 지 는 연속적 과 정 이다."
+      },
+      {
+        "number": 3,
+        "text": "을: 자연스러운 과 정 인 죽 음 에 대해 슬 퍼 할 필 요 가 없다."
+      },
+      {
+        "number": 4,
+        "text": "을: 죽 음 을 두 려 워 하 기 보다 인 ((-) 을 이루는 삶 을 지 향 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 현 세 에 서 의 도덕적 실 천 이 내 세 의 삶 에 영 향 을 미친다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.916,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:34+00:00",
+    "qa_flags": []
+  }
+}

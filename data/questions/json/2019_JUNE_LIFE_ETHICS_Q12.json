@@ -1,0 +1,73 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 63,
+    "question_number": 12,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2069,
+      1742,
+      3420
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 다음 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n도덕적 딜 레 마 를 설 명 하 는 여 성 들 의 방 식 을 살펴보면 남성\n과 는 다른 도덕 언 어 를 사 용 한 다는 것을 알 수 있다. 이러한\n도덕 언 어 가 존 재 한다는 것은 남 성 의 도덕 발달 과 정 과 는 다른\n또 하 나 의 도덕 발달 과 정 이 있다는 것을 암 시 한 다. 여성들\n에게 도 덕 적 으로 가장 중 요 하 다고 규 정 되는 것은 남을 해하지\n말고 보 살 펴 야 한다는 윤리 의 식 이다.\n0 남 녀 의 도덕적 사 고 의 차 이 에 대한 편향적 이 해 를 극 복 해야 한다.\n3) 감 정 을 배제한 선 행 일수록 도덕적 가 치 가 높다고 봐야 한다.\n배 려 는 보편적 의무 의 식 에 마라 무 조 건 적 으로 행 해 져 야 한다.\n4 성 차는 존 중 해야 하나 님 녀 의 도덕 판단 기 준 은 같다고 봐야 한다\n5 도덕 판 단 은 상 황 적 맥 락 보다 합리적 추 론 에 따라 이뤄져야 한다.",
+    "stem": "다음 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "도덕적 딜 레 마 를 설 명 하 는 여 성 들 의 방 식 을 살펴보면 남성\n과 는 다른 도덕 언 어 를 사 용 한 다는 것을 알 수 있다. 이러한\n도덕 언 어 가 존 재 한다는 것은 남 성 의 도덕 발달 과 정 과 는 다른\n또 하 나 의 도덕 발달 과 정 이 있다는 것을 암 시 한 다. 여성들\n에게 도 덕 적 으로 가장 중 요 하 다고 규 정 되는 것은 남을 해하지\n말고 보 살 펴 야 한다는 윤리 의 식 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "남 녀 의 도덕적 사 고 의 차 이 에 대한 편향적 이 해 를 극 복 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "감 정 을 배제한 선 행 일수록 도덕적 가 치 가 높다고 봐야 한다."
+      },
+      {
+        "number": 3,
+        "text": "배 려 는 보편적 의무 의 식 에 마라 무 조 건 적 으로 행 해 져 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "성 차는 존 중 해야 하나 님 녀 의 도덕 판단 기 준 은 같다고 봐야 한다"
+      },
+      {
+        "number": 5,
+        "text": "도덕 판 단 은 상 황 적 맥 락 보다 합리적 추 론 에 따라 이뤄져야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.918,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:58+00:00",
+    "qa_flags": []
+  }
+}

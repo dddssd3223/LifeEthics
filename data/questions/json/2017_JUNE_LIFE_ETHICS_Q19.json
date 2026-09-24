@@ -1,0 +1,76 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 40,
+    "question_number": 19,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      2524
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 감 , 을, 병 의 입 장 을 (나) 그 림 으로 표현할 때, 4~1 에\n해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n갑 : 전 세계 사 람 들 의 이 익 은 그 사 람 의 국 적 과 상 관 없이\n동 등 하게 고 려 되어야 한다. 우리 모 두 는 세계 시 민 으로서\n전 지 구 적 차 원 의 원 조 에 동 참 해야 한다.\n을: 우 리 를 불 가 침 의 개 인 들 로 간 주 하는 정 의 로운 국 가 는\n(가) 최소 국 가 뿐이다. 원 조 는 개 인 의 자유로운 선 택 에\n근 거 해야 한다.\n병 : 만 민 은 정 의 롭 거나 적정 수 준 의 사회 체 제 로 나아가는 데\n있어서 불리한 여 건 으 로 인해 고 통 받고 있는 사 회 의\n민 들 을 도와야 한다.\n< 범 례 >\n쇼 : 감 만 의 입장\n8: 을 만의 입장\n(나)\n60: 병 만 의 입장\n2 2\n(보기 >\nㄱ . &: 원 조 는 인 류 의 행복 증 진 을 위한 의무 이 행 이어야 한다.\nㄴ . 8: 원 조 의 의 무 를 실 행 하기 위한 과 세 는 강제 노 동 과 같다.\nㄷ . (2: 원 조 의 대 상 은 질서 정연한 빈 곤 국 까지도 포 함 해야 한다.\n2. 1: 원 조 의 최종 목 표 는 국가 간의 경제적 불평등 해 소 이다.\n0) ㄱ , ㄴ (2) ㄱ , (3) ㄷ , 르\n(0) ㄱ , ㄴ , ㄷ (66) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 감 , 을, 병 의 입 장 을 (나) 그 림 으로 표현할 때, 4~1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 전 세계 사 람 들 의 이 익 은 그 사 람 의 국 적 과 상 관 없이\n동 등 하게 고 려 되어야 한다. 우리 모 두 는 세계 시 민 으로서\n전 지 구 적 차 원 의 원 조 에 동 참 해야 한다.\n을: 우 리 를 불 가 침 의 개 인 들 로 간 주 하는 정 의 로운 국 가 는\n(가) 최소 국 가 뿐이다. 원 조 는 개 인 의 자유로운 선 택 에\n근 거 해야 한다.\n병 : 만 민 은 정 의 롭 거나 적정 수 준 의 사회 체 제 로 나아가는 데\n있어서 불리한 여 건 으 로 인해 고 통 받고 있는 사 회 의\n민 들 을 도와야 한다.\n< 범 례 >\n쇼 : 감 만 의 입장\n8: 을 만의 입장\n(나)\n60: 병 만 의 입장\n2 2\n(보기 >\nㄱ . &: 원 조 는 인 류 의 행복 증 진 을 위한 의무 이 행 이어야 한다.\nㄴ . 8: 원 조 의 의 무 를 실 행 하기 위한 과 세 는 강제 노 동 과 같다.\nㄷ . (2: 원 조 의 대 상 은 질서 정연한 빈 곤 국 까지도 포 함 해야 한다.\n2. 1: 원 조 의 최종 목 표 는 국가 간의 경제적 불평등 해 소 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ,"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄴ , ㄷ"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=52",
+      "vector_lines=244"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.886,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:05+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,1881 @@
+{
+  "compilation": {
+    "key": "LIFE_ETHICS_ALL",
+    "subject": "LIFE_ETHICS",
+    "name": "생윤기출모음(첫해~26-6까지)",
+    "raw_dir": "data/raw/LIFE_ETHICS",
+    "split_glob": "*.pdf",
+    "split_name_regex": "_(?P<index>\\d+)_p(?P<start>\\d+)-(?P<end>\\d+)\\.pdf$",
+    "expected_total_pages": 160
+  },
+  "total_pages": 160,
+  "files": [
+    {
+      "path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "filename": "생윤기출_01_p001-020.pdf",
+      "sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186",
+      "page_count": 20,
+      "split_index": 1,
+      "declared_start": 1,
+      "declared_end": 20,
+      "original_start": 1,
+      "original_end": 20,
+      "page_sizes": [
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ]
+      ]
+    },
+    {
+      "path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "filename": "생윤기출_02_p021-040.pdf",
+      "sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946",
+      "page_count": 20,
+      "split_index": 2,
+      "declared_start": 21,
+      "declared_end": 40,
+      "original_start": 21,
+      "original_end": 40,
+      "page_sizes": [
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          841.7,
+          1190.4
+        ],
+        [
+          841.7,
+          1190.4
+        ],
+        [
+          841.7,
+          1190.4
+        ],
+        [
+          841.7,
+          1190.4
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ]
+      ]
+    },
+    {
+      "path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "filename": "생윤기출_03_p041-060.pdf",
+      "sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e",
+      "page_count": 20,
+      "split_index": 3,
+      "declared_start": 41,
+      "declared_end": 60,
+      "original_start": 41,
+      "original_end": 60,
+      "page_sizes": [
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1116.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ],
+        [
+          771.0,
+          1117.0
+        ]
+      ]
+    },
+    {
+      "path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "filename": "생윤기출_04_p061-080.pdf",
+      "sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a",
+      "page_count": 20,
+      "split_index": 4,
+      "declared_start": 61,
+      "declared_end": 80,
+      "original_start": 61,
+      "original_end": 80,
+      "page_sizes": [
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ]
+      ]
+    },
+    {
+      "path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "filename": "생윤기출_05_p081-100.pdf",
+      "sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6",
+      "page_count": 20,
+      "split_index": 5,
+      "declared_start": 81,
+      "declared_end": 100,
+      "original_start": 81,
+      "original_end": 100,
+      "page_sizes": [
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ]
+      ]
+    },
+    {
+      "path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "filename": "생윤기출_06_p101-120.pdf",
+      "sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024",
+      "page_count": 20,
+      "split_index": 6,
+      "declared_start": 101,
+      "declared_end": 120,
+      "original_start": 101,
+      "original_end": 120,
+      "page_sizes": [
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ]
+      ]
+    },
+    {
+      "path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "filename": "생윤기출_07_p121-140.pdf",
+      "sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817",
+      "page_count": 20,
+      "split_index": 7,
+      "declared_start": 121,
+      "declared_end": 140,
+      "original_start": 121,
+      "original_end": 140,
+      "page_sizes": [
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ]
+      ]
+    },
+    {
+      "path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "filename": "생윤기출_08_p141-160.pdf",
+      "sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2",
+      "page_count": 20,
+      "split_index": 8,
+      "declared_start": 141,
+      "declared_end": 160,
+      "original_start": 141,
+      "original_end": 160,
+      "page_sizes": [
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ],
+        [
+          842.0,
+          1191.0
+        ]
+      ]
+    }
+  ],
+  "problems": [],
+  "page_map": [
+    {
+      "original_compilation_page": 1,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 1,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 2,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 2,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 3,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 3,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 4,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 4,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 5,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 5,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 6,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 6,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 7,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 7,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 8,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 8,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 9,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 9,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 10,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 10,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 11,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 11,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 12,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 12,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 13,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 13,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 14,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 14,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 15,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 15,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 16,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 16,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 17,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 17,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 18,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 18,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 19,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 19,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 20,
+      "split_pdf": "생윤기출_01_p001-020.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_01_p001-020.pdf",
+      "split_pdf_page": 20,
+      "split_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+    },
+    {
+      "original_compilation_page": 21,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 1,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 22,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 2,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 23,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 3,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 24,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 4,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 25,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 5,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 26,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 6,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 27,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 7,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 28,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 8,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 29,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 9,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 30,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 10,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 31,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 11,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 32,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 12,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 33,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 13,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 34,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 14,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 35,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 15,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 36,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 16,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 37,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 17,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 38,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 18,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 39,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 19,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 40,
+      "split_pdf": "생윤기출_02_p021-040.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_02_p021-040.pdf",
+      "split_pdf_page": 20,
+      "split_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+    },
+    {
+      "original_compilation_page": 41,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 1,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 42,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 2,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 43,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 3,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 44,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 4,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 45,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 5,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 46,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 6,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 47,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 7,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 48,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 8,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 49,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 9,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 50,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 10,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 51,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 11,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 52,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 12,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 53,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 13,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 54,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 14,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 55,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 15,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 56,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 16,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 57,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 17,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 58,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 18,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 59,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 19,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 60,
+      "split_pdf": "생윤기출_03_p041-060.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_03_p041-060.pdf",
+      "split_pdf_page": 20,
+      "split_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+    },
+    {
+      "original_compilation_page": 61,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 1,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 62,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 2,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 63,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 3,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 64,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 4,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 65,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 5,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 66,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 6,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 67,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 7,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 68,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 8,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 69,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 9,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 70,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 10,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 71,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 11,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 72,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 12,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 73,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 13,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 74,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 14,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 75,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 15,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 76,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 16,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 77,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 17,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 78,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 18,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 79,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 19,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 80,
+      "split_pdf": "생윤기출_04_p061-080.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_04_p061-080.pdf",
+      "split_pdf_page": 20,
+      "split_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+    },
+    {
+      "original_compilation_page": 81,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 1,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 82,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 2,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 83,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 3,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 84,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 4,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 85,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 5,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 86,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 6,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 87,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 7,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 88,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 8,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 89,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 9,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 90,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 10,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 91,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 11,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 92,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 12,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 93,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 13,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 94,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 14,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 95,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 15,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 96,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 16,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 97,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 17,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 98,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 18,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 99,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 19,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 100,
+      "split_pdf": "생윤기출_05_p081-100.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_05_p081-100.pdf",
+      "split_pdf_page": 20,
+      "split_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+    },
+    {
+      "original_compilation_page": 101,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 1,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 102,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 2,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 103,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 3,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 104,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 4,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 105,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 5,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 106,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 6,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 107,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 7,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 108,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 8,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 109,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 9,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 110,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 10,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 111,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 11,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 112,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 12,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 113,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 13,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 114,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 14,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 115,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 15,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 116,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 16,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 117,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 17,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 118,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 18,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 119,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 19,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 120,
+      "split_pdf": "생윤기출_06_p101-120.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_06_p101-120.pdf",
+      "split_pdf_page": 20,
+      "split_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+    },
+    {
+      "original_compilation_page": 121,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 1,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 122,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 2,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 123,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 3,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 124,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 4,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 125,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 5,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 126,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 6,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 127,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 7,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 128,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 8,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 129,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 9,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 130,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 10,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 131,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 11,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 132,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 12,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 133,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 13,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 134,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 14,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 135,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 15,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 136,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 16,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 137,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 17,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 138,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 18,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 139,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 19,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 140,
+      "split_pdf": "생윤기출_07_p121-140.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_07_p121-140.pdf",
+      "split_pdf_page": 20,
+      "split_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+    },
+    {
+      "original_compilation_page": 141,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 1,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 142,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 2,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 143,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 3,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 144,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 4,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 145,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 5,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 146,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 6,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 147,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 7,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 148,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 8,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 149,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 9,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 150,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 10,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 151,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 11,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 152,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 12,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 153,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 13,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 154,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 14,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 155,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 15,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 156,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 16,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 157,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 17,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 158,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 18,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 159,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 19,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    },
+    {
+      "original_compilation_page": 160,
+      "split_pdf": "생윤기출_08_p141-160.pdf",
+      "split_pdf_path": "data/raw/LIFE_ETHICS/생윤기출_08_p141-160.pdf",
+      "split_pdf_page": 20,
+      "split_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+    }
+  ]
+}

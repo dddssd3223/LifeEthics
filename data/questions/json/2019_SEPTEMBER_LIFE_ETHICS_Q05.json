@@ -1,0 +1,73 @@
+{
+  "id": "2019_SEPTEMBER_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 65,
+    "question_number": 5,
+    "exam_key": "2019_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1775,
+      3077,
+      3148,
+      4456
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_SEPTEMBER_LIFE_ETHICS_Q05.png",
+    "raw_text": "5. 다음 사 상 가 의 입 장 에서 볼 때, < 가 상 대 담 > 의 에 들어갈 말로\n가장 적절한 것은;\n오 늘 날 과 같은 ' 유 리 적 공 백 ' 의 시 대 에는 구 왼 의 예 언 보다\n불 행 의 예 언 에 더 주 의 를 기울여야 한다. 그러므로 우 리 는 과학\n기술 유 토 피 아 주 의 를 찬 양 하는 회 망 의 윈 칙 \"이 아닌, 미리 사 유 된\n위험 그 자 체 와 관련된 ' 공 포 의 원 칙 ' 에 우 선 성 을 두어야 한다.\n< 가 상 대 담 >\n리포터 : 지구 온 난 화 와 같은 기후 변화 문 제 를 해 결 하기 위해\n우 리 는 어떠한 자 세 를 가져야 할까요?\n사상가 : 우 리 는 그러한 문 제 를 해 결 하기 위해 | ㅋ | 를\n가져야 합니다.\n0 자 연 과 의 상호 책 임 성 을 토대로 자 연 에 대해 책 임 지 려는 자세\n3) 부 모 가 자 녀 에 대해 책 임 지 는 것처럼 지 연 에 대해 책 임 지 려는 자세\n8 자 연 에 대한 주인 의 식 을 토대로 자 연 에 대해 책 임 지 려는 자세\n0 과 학 의 무한한 진 보 를 바 탕 으로 자 연 에 대해 책 임 지 려는 자세\n5) 행 위 의 직접적 영 향 의 한도 내 에 서 만 지 연 에 대해 책 임 지 려는 자세",
+    "stem": "다음 사 상 가 의 입 장 에서 볼 때, < 가 상 대 담 > 의 에 들어갈 말로 가장 적절한 것은;",
+    "passage": "오 늘 날 과 같은 ' 유 리 적 공 백 ' 의 시 대 에는 구 왼 의 예 언 보다\n불 행 의 예 언 에 더 주 의 를 기울여야 한다. 그러므로 우 리 는 과학\n기술 유 토 피 아 주 의 를 찬 양 하는 회 망 의 윈 칙 \"이 아닌, 미리 사 유 된\n위험 그 자 체 와 관련된 ' 공 포 의 원 칙 ' 에 우 선 성 을 두어야 한다.\n< 가 상 대 담 >\n리포터 : 지구 온 난 화 와 같은 기후 변화 문 제 를 해 결 하기 위해\n우 리 는 어떠한 자 세 를 가져야 할까요?\n사상가 : 우 리 는 그러한 문 제 를 해 결 하기 위해 | ㅋ | 를\n가져야 합니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "자 연 과 의 상호 책 임 성 을 토대로 자 연 에 대해 책 임 지 려는 자세"
+      },
+      {
+        "number": 2,
+        "text": "부 모 가 자 녀 에 대해 책 임 지 는 것처럼 지 연 에 대해 책 임 지 려는 자세"
+      },
+      {
+        "number": 3,
+        "text": "자 연 에 대한 주인 의 식 을 토대로 자 연 에 대해 책 임 지 려는 자세"
+      },
+      {
+        "number": 4,
+        "text": "과 학 의 무한한 진 보 를 바 탕 으로 자 연 에 대해 책 임 지 려는 자세"
+      },
+      {
+        "number": 5,
+        "text": "행 위 의 직접적 영 향 의 한도 내 에 서 만 지 연 에 대해 책 임 지 려는 자세"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.895,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:03+00:00",
+    "qa_flags": []
+  }
+}

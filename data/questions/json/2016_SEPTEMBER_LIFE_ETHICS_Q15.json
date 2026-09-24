@@ -1,0 +1,76 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 31,
+    "question_number": 15,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2255,
+      2999,
+      4297
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q15.png",
+    "raw_text": "16. ( 가 ) 의 갑 , 을 의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, 4~( 에\n들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]\n갑 : 인 민 주 권 이 인 정 되는 나 라 에서는 모든 개 인 이 권 력 을\n평 등 하게 나누고 나 일 에 참 여 한 다 . 보 통 선 거 로\n뽑힌 주민 대 표 들 이 주 민 의 이 름 으로, 주 민 의 직접\n감독 아래 업 무 를 수 행 한다.\n가 을: 하나라 걸 왕 과 은나라 주 왕 이 천 하 를 잃은 것은 그\n백 성 을 잃 었 기 때 문 이 다. 백 성 을 잃은 것은 그들의\n마 음 을 잃 었 기 때 문 이 다. 천 하 를 얻는 방 법 이 있으니,\n그 백 성 을 얻는 것이 곧 천 하 를 얻는 것이다,\n감 , 을 의 정 치 사 상 적 < 멈 레 2\n벼\n입 장 을 탐 구 한다. 출발 조건\n< >: 판단 내용\n고 : 판단 방향\n~ ㄴ _ ): 정 치 사 상 적\n예 입장\n(나) 8 쁘 르\n1\n예\nㅣ 예\n< 보 기 >\nㄱ . &: 정치 권 력 은 피 치 자를 국 가 의 근 본 으로 삼아야 하는가?\nㄴ . 8: 정책 결 정 에서 피 치 자의 복리 0# 체 ) 를 추 구 해 야 하는가?\nㄷ . (6: 위 정 자 는 피 치 자의 신 뢰 를 얻 으 려고 노력해야 하는가?\n2. (:: 가족 사 랑 의 원 리 [ 채 뼈 ] 를 정 치 에도 적 용 해 야 하는가?\n0) ㄱ , ㄴ (0) ㄴ , ㄷ (3) ㄷ , 르\n(00 )0 ㄱ , ㄴ , 2 (6) ㄱ 7, ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을 의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, 4~( 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 인 민 주 권 이 인 정 되는 나 라 에서는 모든 개 인 이 권 력 을\n평 등 하게 나누고 나 일 에 참 여 한 다 . 보 통 선 거 로\n뽑힌 주민 대 표 들 이 주 민 의 이 름 으로, 주 민 의 직접\n감독 아래 업 무 를 수 행 한다.\n가 을: 하나라 걸 왕 과 은나라 주 왕 이 천 하 를 잃은 것은 그\n백 성 을 잃 었 기 때 문 이 다. 백 성 을 잃은 것은 그들의\n마 음 을 잃 었 기 때 문 이 다. 천 하 를 얻는 방 법 이 있으니,\n그 백 성 을 얻는 것이 곧 천 하 를 얻는 것이다,\n감 , 을 의 정 치 사 상 적 < 멈 레 2\n벼\n입 장 을 탐 구 한다. 출발 조건\n< >: 판단 내용\n고 : 판단 방향\n~ ㄴ _ ): 정 치 사 상 적\n예 입장\n(나) 8 쁘 르\n1\n예\nㅣ 예\n< 보 기 >\nㄱ . &: 정치 권 력 은 피 치 자를 국 가 의 근 본 으로 삼아야 하는가?\nㄴ . 8: 정책 결 정 에서 피 치 자의 복리 0# 체 ) 를 추 구 해 야 하는가?\nㄷ . (6: 위 정 자 는 피 치 자의 신 뢰 를 얻 으 려고 노력해야 하는가?\n2. (:: 가족 사 랑 의 원 리 [ 채 뼈 ] 를 정 치 에도 적 용 해 야 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "0 )0 ㄱ , ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄱ 7, ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=24",
+      "vector_lines=54"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.853,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:45+00:00",
+    "qa_flags": []
+  }
+}

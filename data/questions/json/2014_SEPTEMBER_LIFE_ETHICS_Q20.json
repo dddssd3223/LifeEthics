@@ -1,0 +1,78 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 8,
+    "question_number": 20,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2071,
+      2999,
+      4056
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. ( 가 ) 의 질 문 과 관 련 하여 ( 나 ) 의 제로 남 말 '(&)' 모 텔 의 사 례 로\n가장 적절한 것은? [3 점 ]\n세계화 시 대 에 다양한 문화적 배 경 을 가진 이 주 민 의\n( 가 )|｜ 유 입 이 증 가 하고 있다. 우 리 는 이 주 민 과 그들의 문 화 에\n대해 어떤 태 도 를 취할 것인가?\n(^)\n08)\n(0)\n(나)\n[가로 열쇠]\n(&): 만 용과 비 겁 에 치 우 치지 않는 씩 씩 하고 굳 센 기운\n(2): 세 속 오 계 를 만든 승 려 인 ( )( 법사\n(6): ' 맡 또는 이성 이라는 뜻 을 지닌 그리스어\n[세로 열쇠]\n(6): ~ 개념\n8 이 주 민 만 모여 살 수 있는 집단 거 주 지 를 조 성 한 다.\n3) 이 주 민 의 언 어 도 공 용 어 로 사용할 수 있도록 허 용 한다.\n(8) 이 주 민 의 문화적 정체성 유 지 를 위한 교육 기 관 을 설 립 한다.\n@ 이 주 민 의 음 악 과 우리 음 악 을 종 합 하여 새로운 음 악 을 만든다.\n6) 이 주 민 이 자 신 들 의 전통 예 법 을 계 승 할 수 있도록 지 원 한다.",
+    "stem": "( 가 ) 의 질 문 과 관 련 하여 ( 나 ) 의 제로 남 말 '(&)' 모 텔 의 사 례 로 가장 적절한 것은? [3 점 ]",
+    "passage": "세계화 시 대 에 다양한 문화적 배 경 을 가진 이 주 민 의\n( 가 )|｜ 유 입 이 증 가 하고 있다. 우 리 는 이 주 민 과 그들의 문 화 에\n대해 어떤 태 도 를 취할 것인가?\n(^)\n08)\n(0)\n(나)\n[가로 열쇠]\n(&): 만 용과 비 겁 에 치 우 치지 않는 씩 씩 하고 굳 센 기운\n(2): 세 속 오 계 를 만든 승 려 인 ( )( 법사\n(6): ' 맡 또는 이성 이라는 뜻 을 지닌 그리스어\n[세로 열쇠]\n(6): ~ 개념",
+    "choices": [
+      {
+        "number": 1,
+        "text": "이 주 민 만 모여 살 수 있는 집단 거 주 지 를 조 성 한 다."
+      },
+      {
+        "number": 2,
+        "text": "이 주 민 의 언 어 도 공 용 어 로 사용할 수 있도록 허 용 한다."
+      },
+      {
+        "number": 3,
+        "text": "이 주 민 의 문화적 정체성 유 지 를 위한 교육 기 관 을 설 립 한다."
+      },
+      {
+        "number": 4,
+        "text": "이 주 민 의 음 악 과 우리 음 악 을 종 합 하여 새로운 음 악 을 만든다."
+      },
+      {
+        "number": 5,
+        "text": "이 주 민 이 자 신 들 의 전통 예 법 을 계 승 할 수 있도록 지 원 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=61",
+      "vector_lines=32"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.886,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:46+00:00",
+    "qa_flags": []
+  }
+}

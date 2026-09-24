@@ -1,0 +1,76 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 144,
+    "question_number": 17,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3265,
+      1740,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다음 사 상 가 의 관 점 에서 < 문 제 상 황 > 속 에게 제 시 할 주 언 으로\n가장 적절한 것은? [3 전 ]\n그 자 체 로 높이 평 가 해야 할, 더 이상의 의 도 가 없는 선 의 지\n라는 개 념 은 이미 자 연 적 인 건전한 지 성 에 내 재 해 있고, 가 르 칠\n필 요 는 없으며 오히려 단지 계 발 될 필 요 만 있는 것이다.\n< 문 제 상 황 >\n는 좋 아 하 는 게임 아 이 템 을 구 입 하고 싶지만 용 돈 이 부족\n하다. 는 갖지 꽃 할 것을 알면서도 친 구 에게 “ 꼭 갖 을 게 !\" 라 고\n약 속 하고 논 을 빌 려 야 할지 고 민 하고 있\n0 약 속 을 어긴 사 람 은 목 적 으로 대 우 받 아 서 는 안 됨을 명 심 하세요.\n약속 준 수 의 의 무 는 자기 행 복 에 대한 열 망 에 근 거 함 을 명 심 하세요.\n6 거짓 약 속 은 친 구 의 인 격 을 존 경 하는 것이 아 님 을 유 념 하세요.\n4 약 쑥 은 친 구 의의 돈 독 한 정서적 유 대 를 위해 지켜야 함 을 유 념 하세요.\n5: 친 구 에게 무 해 하다면 거짓 약 속 도 도 덕 적 으로 정 딩 화 됨을 유 념 하세요.",
+    "stem": "다음 사 상 가 의 관 점 에서 < 문 제 상 황 > 속 에게 제 시 할 주 언 으로 가장 적절한 것은? [3 전 ]",
+    "passage": "그 자 체 로 높이 평 가 해야 할, 더 이상의 의 도 가 없는 선 의 지\n라는 개 념 은 이미 자 연 적 인 건전한 지 성 에 내 재 해 있고, 가 르 칠\n필 요 는 없으며 오히려 단지 계 발 될 필 요 만 있는 것이다.\n< 문 제 상 황 >\n는 좋 아 하 는 게임 아 이 템 을 구 입 하고 싶지만 용 돈 이 부족\n하다. 는 갖지 꽃 할 것을 알면서도 친 구 에게 “ 꼭 갖 을 게 !\" 라 고\n약 속 하고 논 을 빌 려 야 할지 고 민 하고 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "약 속 을 어긴 사 람 은 목 적 으로 대 우 받 아 서 는 안 됨을 명 심 하세요."
+      },
+      {
+        "number": 2,
+        "text": "약속 준 수 의 의 무 는 자기 행 복 에 대한 열 망 에 근 거 함 을 명 심 하세요."
+      },
+      {
+        "number": 3,
+        "text": "거짓 약 속 은 친 구 의 인 격 을 존 경 하는 것이 아 님 을 유 념 하세요."
+      },
+      {
+        "number": 4,
+        "text": "약 쑥 은 친 구 의의 돈 독 한 정서적 유 대 를 위해 지켜야 함 을 유 념 하세요."
+      },
+      {
+        "number": 5,
+        "text": "친 구 에게 무 해 하다면 거짓 약 속 도 도 덕 적 으로 정 딩 화 됨을 유 념 하세요."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=11950",
+      "vector_lines=1724"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.794,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:41:26+00:00",
+    "qa_flags": []
+  }
+}

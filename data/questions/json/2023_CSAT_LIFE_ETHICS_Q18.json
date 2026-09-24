@@ -1,0 +1,73 @@
+{
+  "id": "2023_CSAT_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 120,
+    "question_number": 18,
+    "exam_key": "2023_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3067,
+      1740,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_CSAT_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 갑 , 을 사 상 가 들 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는\n대로 고른 것은? [3 점 ]\n갑 ： 원 조 의 목 적 이 충 족 되고, 모는 만 민 이 자 유 주 의 적 정부\n적정 수 준 의 정 부 로 작 동 하는 상 황 에 이르게 되면 상이한\n만민 간의 평균적 부의 차 이 를 다시 좁 혀 야 할 이 유 는 없다.\n을 : 절대 빈 곤 에 빠져 있는 사 람 들 을 돕지 않는 것은 그들을 죽게\n내버려 두는 것과 다 름 이 없다. 절대 빈 곤 으로 인해 고 통 받는\n사 람 을 돕는 것은 공 리 의 원 리 에 따른 도덕적 의 무 이다.\n< 보 기 >\nㄱ . 감 : 공적 정 의 관 이 구 제 하지 않는 사 회 는 원조 대 상 이 될 수 없다.\nㄴ . 갑 : 원 조 는 원조 대 상 이 정치적 자 율 성 을 가질 수 있도록\n이루어져야 한다.\nㄷ . 을: 원 조 의 의 무 는 절대 빈 곤 에 상 당 하는 도 덕 적 으로 중요한\n다른 일 을 희 생 할 것을 원조 주 체 에 게 요구할 수 있다.\n2. 갑과 을: 특정 빈 곤 국 에 대한 원 조 를 중 단 해야 하는 경 우 가 있\n0) ㄱㄱ, ㄴ (00) ㄱ , ㄷ 03) ㄴ , 큰\n0 1, =, 르 05) 느 , =, 르",
+    "stem": "갑 , 을 사 상 가 들 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 ： 원 조 의 목 적 이 충 족 되고, 모는 만 민 이 자 유 주 의 적 정부\n적정 수 준 의 정 부 로 작 동 하는 상 황 에 이르게 되면 상이한\n만민 간의 평균적 부의 차 이 를 다시 좁 혀 야 할 이 유 는 없다.\n을 : 절대 빈 곤 에 빠져 있는 사 람 들 을 돕지 않는 것은 그들을 죽게\n내버려 두는 것과 다 름 이 없다. 절대 빈 곤 으로 인해 고 통 받는\n사 람 을 돕는 것은 공 리 의 원 리 에 따른 도덕적 의 무 이다.\n< 보 기 >\nㄱ . 감 : 공적 정 의 관 이 구 제 하지 않는 사 회 는 원조 대 상 이 될 수 없다.\nㄴ . 갑 : 원 조 는 원조 대 상 이 정치적 자 율 성 을 가질 수 있도록\n이루어져야 한다.\nㄷ . 을: 원 조 의 의 무 는 절대 빈 곤 에 상 당 하는 도 덕 적 으로 중요한\n다른 일 을 희 생 할 것을 원조 주 체 에 게 요구할 수 있다.\n2. 갑과 을: 특정 빈 곤 국 에 대한 원 조 를 중 단 해야 하는 경 우 가 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, =, 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.888,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:21+00:00",
+    "qa_flags": []
+  }
+}

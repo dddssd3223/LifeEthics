@@ -1,0 +1,73 @@
+{
+  "id": "2023_SEPTEMBER_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 114,
+    "question_number": 6,
+    "exam_key": "2023_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1758
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_SEPTEMBER_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. (가), (나) 사 상 의 입 장 으로 적 절 하지 않은 것은? [3 전 ]\n(가) 죽은 자를 위해 슬 픔 을 다하여 신 중 하게 장 례 를 치르고,\n먼 조 상 의 제 사 에도 예 08 로 써 추 모 한다면 백 성 들의\n덕 (\\/ 이 두터운 곳 으로 돌아갈 것이다.\n(나) 사 물 에는 쟁 멸 (9500 의 정 황 이 있으나, 이는 마 음 이 드러난\n것일 뿐 생 겨 남이 없는 까 닭 에 소 멸 할 것도 없다. 이를 알면\n생 사 (55^0) 와 열 반 ( 꾸 ) 이 평 등 하다는 경 계 에 이를 것이다.\n0) (가): 죽 음 을 슬 퍼 하 는 것은 자 연 의 순 리 를 회 피 하는 것이다.\n(9) (가): 죽 음 에 관 심 을 가 지 기 보다는 인 륜 적 삶 에 충 실 해야 한다.\n@) (나): 연 기 (008) 를 깨달아 죽 음 의 고 통 | 줌 | 에 서 벗어나야 한다.\n@) (나): 삶 과 죽 음 을 서로 다르지 않은 하 나 쑤 까 -3| 로 여겨야 한다.\n69) ( 가 ) 와 (나): 죽 음 에 집 착 하 지 않는 삶 의 태 도 를 지녀야 한다.",
+    "stem": "(가), (나) 사 상 의 입 장 으로 적 절 하지 않은 것은? [3 전 ]",
+    "passage": "(가) 죽은 자를 위해 슬 픔 을 다하여 신 중 하게 장 례 를 치르고,\n먼 조 상 의 제 사 에도 예 08 로 써 추 모 한다면 백 성 들의\n덕 (\\/ 이 두터운 곳 으로 돌아갈 것이다.\n(나) 사 물 에는 쟁 멸 (9500 의 정 황 이 있으나, 이는 마 음 이 드러난\n것일 뿐 생 겨 남이 없는 까 닭 에 소 멸 할 것도 없다. 이를 알면\n생 사 (55^0) 와 열 반 ( 꾸 ) 이 평 등 하다는 경 계 에 이를 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 죽 음 을 슬 퍼 하 는 것은 자 연 의 순 리 를 회 피 하는 것이다."
+      },
+      {
+        "number": 2,
+        "text": "(가): 죽 음 에 관 심 을 가 지 기 보다는 인 륜 적 삶 에 충 실 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 연 기 (008) 를 깨달아 죽 음 의 고 통 | 줌 | 에 서 벗어나야 한다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 삶 과 죽 음 을 서로 다르지 않은 하 나 쑤 까 -3| 로 여겨야 한다."
+      },
+      {
+        "number": 5,
+        "text": "( 가 ) 와 (나): 죽 음 에 집 착 하 지 않는 삶 의 태 도 를 지녀야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.862,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:00+00:00",
+    "qa_flags": []
+  }
+}

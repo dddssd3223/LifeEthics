@@ -1,0 +1,73 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 31,
+    "question_number": 13,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3056,
+      1592,
+      4297
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q13.png",
+    "raw_text": "18. 현대 사상가 갑 , 을 의 입 장 에 대한 설 명 으로 옮 은 것은? |3 점 ]\n갑 : 정 의 의 원 적 은 개 인 이 무 엿 을 소 유 할 수 있는 정당한\n자 격 을 유일한 근 거 로 한다. 정당한 자 격 을 가진 이들이\n자유롭게 선 턱 하고 교 환 하는 절 차 의 규 적을 위 반 하지만\n않는다면, 어떤 사 람 은 부 유 하고 어떤 사 람 은 가 난 하다는\n사 실 이 불 행 일 수 는 있으나 불 공 정 하지는 않\n을: 정 의 의 원 칙 은 권리 할 당 과 이익 배 분 의 근거 원 리 이다.\n개 인 이 어떤 여 건 에서 태 어 나 는 것은 정 의 롭 지 도 부 정 의\n하지도 않은 임의적 사 실 이다. 이 사 실 을 다루는 제 도 가\n정 의 로 운 지의 여 부 는 합리적 개 인 들어 유 불 리 를 배제한\n채 도 출 한 원 칙 에 의 거 하 였 는 지 에 달려 있다.\n0 같은 정의 원 칙 이 가상 상 황 에 서 의 합 의 를 통해 구 성 된 다고 본다.\n(3) 을 은 평 등 한 기본적 자 유 가 공정한 재 분 배 에 항상 앞 선 다 고 본다.\n(3) 갑 은 을과 달리 소 유 권 이 보 장 되면 균등 분 배 가 실 현 된 다고 본다.\n(4) 을 은 갑과 달리 정의 원 칙 은 다수결 절 차 에 따라 도 출 된다고 본다.\n(9) 갑 은 최소 국 가 를, 을 은 복지 국 가 를 재 분 배 의 실행 주 체 로 본다.",
+    "stem": "현대 사상가 갑 , 을 의 입 장 에 대한 설 명 으로 옮 은 것은? |3 점 ]",
+    "passage": "갑 : 정 의 의 원 적 은 개 인 이 무 엿 을 소 유 할 수 있는 정당한\n자 격 을 유일한 근 거 로 한다. 정당한 자 격 을 가진 이들이\n자유롭게 선 턱 하고 교 환 하는 절 차 의 규 적을 위 반 하지만\n않는다면, 어떤 사 람 은 부 유 하고 어떤 사 람 은 가 난 하다는\n사 실 이 불 행 일 수 는 있으나 불 공 정 하지는 않\n을: 정 의 의 원 칙 은 권리 할 당 과 이익 배 분 의 근거 원 리 이다.\n개 인 이 어떤 여 건 에서 태 어 나 는 것은 정 의 롭 지 도 부 정 의\n하지도 않은 임의적 사 실 이다. 이 사 실 을 다루는 제 도 가\n정 의 로 운 지의 여 부 는 합리적 개 인 들어 유 불 리 를 배제한\n채 도 출 한 원 칙 에 의 거 하 였 는 지 에 달려 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "같은 정의 원 칙 이 가상 상 황 에 서 의 합 의 를 통해 구 성 된 다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 평 등 한 기본적 자 유 가 공정한 재 분 배 에 항상 앞 선 다 고 본다."
+      },
+      {
+        "number": 3,
+        "text": "갑 은 을과 달리 소 유 권 이 보 장 되면 균등 분 배 가 실 현 된 다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "을 은 갑과 달리 정의 원 칙 은 다수결 절 차 에 따라 도 출 된다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 은 최소 국 가 를, 을 은 복지 국 가 를 재 분 배 의 실행 주 체 로 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:44+00:00",
+    "qa_flags": []
+  }
+}

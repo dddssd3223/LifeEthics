@@ -1,0 +1,73 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 101,
+    "question_number": 4,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1057,
+      3149,
+      3071
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 갑 사 상 가 가 을 사 상 가 에게 제 기 할 수 있는 비 판 으로 가장 적절한\n것은? [3 점 ]\n갑 ： 우 리 는 원하는 것 보다 원하지 않는 것을 더 잘 안다. 따라서\n실제로 무 엇 을 보 호 해야 하 는 가 를 알 아 내기 위해 우 리 는\n희 망 보다 공 포 로 부터 논 의 를 시 작 해 야 한다. 왜냐하면\n행 위 를 하도록 북 돋 우는 공 포 가 책 임 의 본질적 속 성 이기\n때 문 이 다.\n을: 인 간 은 자 연 의 사용자 및 자 연 의 해 석 자 로 서 자 연 에 대해서\n실제로 관 찰 하 고 고 찰 한 것 만 큼 자 연 을 이해할 수 있고,\n무 엇 인 가 를 할 수 있다. 더 나은 지 식 이 만 들 어 지면 과학\n기 술 의 진 보 를 기대할 수 있다는 것이 우 리 가 희 망 을\n말하는 근 거 이다.\n1 과학 기 술 자 는 사회적 책 임 으로부터 자 유 로 위 야 함 을 간 과 한다,\n3) 인 간 의 책임 범 위 가 자 연 에 대 해 서 까지 확 대 되어야 함 을 간 과 한다.\n3) 인 류 의 복 지 를 위한 과학 기 술 의 사 용 은 제 한 될 수 없 음 을 간 과 한다.\n0 현 세 대 와 미래 세대 사 이 에 호 혜 적 책 임 이 있어야 함 을 간 과 한다.\n6) 과학 기술 빌 전에 떠 른 부 작 용 도 과학 기 술 로 해결 기 능 함 을 간 과 한다,",
+    "stem": "갑 사 상 가 가 을 사 상 가 에게 제 기 할 수 있는 비 판 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 ： 우 리 는 원하는 것 보다 원하지 않는 것을 더 잘 안다. 따라서\n실제로 무 엇 을 보 호 해야 하 는 가 를 알 아 내기 위해 우 리 는\n희 망 보다 공 포 로 부터 논 의 를 시 작 해 야 한다. 왜냐하면\n행 위 를 하도록 북 돋 우는 공 포 가 책 임 의 본질적 속 성 이기\n때 문 이 다.\n을: 인 간 은 자 연 의 사용자 및 자 연 의 해 석 자 로 서 자 연 에 대해서\n실제로 관 찰 하 고 고 찰 한 것 만 큼 자 연 을 이해할 수 있고,\n무 엇 인 가 를 할 수 있다. 더 나은 지 식 이 만 들 어 지면 과학\n기 술 의 진 보 를 기대할 수 있다는 것이 우 리 가 희 망 을\n말하는 근 거 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "과학 기 술 자 는 사회적 책 임 으로부터 자 유 로 위 야 함 을 간 과 한다,"
+      },
+      {
+        "number": 2,
+        "text": "인 간 의 책임 범 위 가 자 연 에 대 해 서 까지 확 대 되어야 함 을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "인 류 의 복 지 를 위한 과학 기 술 의 사 용 은 제 한 될 수 없 음 을 간 과 한다."
+      },
+      {
+        "number": 4,
+        "text": "현 세 대 와 미래 세대 사 이 에 호 혜 적 책 임 이 있어야 함 을 간 과 한다."
+      },
+      {
+        "number": 5,
+        "text": "과학 기술 빌 전에 떠 른 부 작 용 도 과학 기 술 로 해결 기 능 함 을 간 과 한다,"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.917,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:30+00:00",
+    "qa_flags": []
+  }
+}

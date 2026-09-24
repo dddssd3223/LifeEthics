@@ -1,0 +1,73 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 51,
+    "question_number": 12,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1965,
+      1740,
+      3353
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 갑 , 을 사 상 가 들의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]\n갑 : 다 수 에게 순 응 하 기 보다 그 들 에게 온 힘 을 다해 맞설 때 소 수 는\n거 역 할 수 없는 힘 을 갖게 된다. 양 심 이 아니라 다 수 가 옮 고\n그 름 을 결 정 하 는 정 부 는 정 의 에 입 각 한 정 부 라고 할 수 없다.\n을: 시민 불 종 복 은 법 에 대한 충 실 성 의 한계 내 에 서 법 에 대한\n불 복 종 을 표 현 한 다. 법 에 대한 충 실 성은 양 심 적 이고 진 지 하며\n다 수 의 정 의 감 에 호 소 하 는 불 복 종 의 의 도 를 보여 준다.\n< 보 기 >〉>\nㄱ . 갑 : 정 의 로운 정 부 에서는 소 수 의 권 력 자 가 다 수 의 시 민 을 지 배 한다.\nㄴ . 을: 시민 불 복 종 은 국가 체 제 의 합 법 성 을 인 정 하는 위법 행 위 이다.\nㄷ . 을: 모든 시 만 은 언제나 다 수 가 결정한 법 을 충실히 준 수 해야 한다.\n르 . 갑 , 을: 시민 불 복 종 은 신 중 하고 양 심 적 인 신 념 의 표 현 이어야 한다.\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄴ , 큰\n(0) ㄱ , ㄷ , 2 (66) ㄴ , ㄷ , 2",
+    "stem": "갑 , 을 사 상 가 들의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 다 수 에게 순 응 하 기 보다 그 들 에게 온 힘 을 다해 맞설 때 소 수 는\n거 역 할 수 없는 힘 을 갖게 된다. 양 심 이 아니라 다 수 가 옮 고\n그 름 을 결 정 하 는 정 부 는 정 의 에 입 각 한 정 부 라고 할 수 없다.\n을: 시민 불 종 복 은 법 에 대한 충 실 성 의 한계 내 에 서 법 에 대한\n불 복 종 을 표 현 한 다. 법 에 대한 충 실 성은 양 심 적 이고 진 지 하며\n다 수 의 정 의 감 에 호 소 하 는 불 복 종 의 의 도 를 보여 준다.\n< 보 기 >〉>\nㄱ . 갑 : 정 의 로운 정 부 에서는 소 수 의 권 력 자 가 다 수 의 시 민 을 지 배 한다.\nㄴ . 을: 시민 불 복 종 은 국가 체 제 의 합 법 성 을 인 정 하는 위법 행 위 이다.\nㄷ . 을: 모든 시 만 은 언제나 다 수 가 결정한 법 을 충실히 준 수 해야 한다.\n르 . 갑 , 을: 시민 불 복 종 은 신 중 하고 양 심 적 인 신 념 의 표 현 이어야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.903,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:30+00:00",
+    "qa_flags": []
+  }
+}

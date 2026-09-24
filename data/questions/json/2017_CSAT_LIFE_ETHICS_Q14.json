@@ -1,0 +1,73 @@
+{
+  "id": "2017_CSAT_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 47,
+    "question_number": 14,
+    "exam_key": "2017_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      497,
+      3000,
+      2499
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_CSAT_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다음 서양 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n전 쟁 은 신 법 (0088) 을 지키고 공 동 선과 평 화 를 위한 것이다.\n전 쟁 이 정 의 롭기 위해서는 적법한 권 위 를 지닌 군 주 에 의해\n서만 수 행 되어야 하며, 공 격 의 정당한 이 유 와 올바른 의 도 가\n있어야 한다. 전 쟁 은 한 국 가 가 백 성 들 에게 가한 나쁜 짓 을\n바 로 잡 길 거 부 하거나, 부 당 하게 차지한 것을 몰 려 주길 거 부 할\n경우 그 악 을 징 벌 하는 것 이 어 야 한다. 처 음 부터 적을 죽 이 려 는\n의 도 가 아 니 어야 하고 필요 이상의 폭 력 을 가 해 서 도 안 되며,\n개 인 의 적 개 십이 아닌 공 공 선 을 위한 것 이 어 야 한다. 교전 중\n자기 생 명 을 지 키 려 는 목적 이상의 많은 희 생 을 아 기 하는 행 위 는\n신 법 을 거스르는 것이다.\n(01) 무 력 은 평 화 와 정 의 를 지키는 정당한 수 단 이 될 수 없다.\n(3) 개별 국 가 의 폭 정 은 전쟁 선 포 의 정당한 명 분 이 될 수 없다.\n(3) 공 동 선과 평 화 를 위해서는 일 반 인 도 전 쟁 을 선 포 할 수 있다.\n(4) 방어 이외에 어떠한 선 제 공 격 도 도덕적 정 당 성 을 갖지 못한다.\n(5) 전쟁 중 이 라 하더라도 모든 살상 행 위 가 정 당 화 되는 것은 아니다.",
+    "stem": "다음 서양 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "전 쟁 은 신 법 (0088) 을 지키고 공 동 선과 평 화 를 위한 것이다.\n전 쟁 이 정 의 롭기 위해서는 적법한 권 위 를 지닌 군 주 에 의해\n서만 수 행 되어야 하며, 공 격 의 정당한 이 유 와 올바른 의 도 가\n있어야 한다. 전 쟁 은 한 국 가 가 백 성 들 에게 가한 나쁜 짓 을\n바 로 잡 길 거 부 하거나, 부 당 하게 차지한 것을 몰 려 주길 거 부 할\n경우 그 악 을 징 벌 하는 것 이 어 야 한다. 처 음 부터 적을 죽 이 려 는\n의 도 가 아 니 어야 하고 필요 이상의 폭 력 을 가 해 서 도 안 되며,\n개 인 의 적 개 십이 아닌 공 공 선 을 위한 것 이 어 야 한다. 교전 중\n자기 생 명 을 지 키 려 는 목적 이상의 많은 희 생 을 아 기 하는 행 위 는\n신 법 을 거스르는 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "무 력 은 평 화 와 정 의 를 지키는 정당한 수 단 이 될 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "개별 국 가 의 폭 정 은 전쟁 선 포 의 정당한 명 분 이 될 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "공 동 선과 평 화 를 위해서는 일 반 인 도 전 쟁 을 선 포 할 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "방어 이외에 어떠한 선 제 공 격 도 도덕적 정 당 성 을 갖지 못한다."
+      },
+      {
+        "number": 5,
+        "text": "전쟁 중 이 라 하더라도 모든 살상 행 위 가 정 당 화 되는 것은 아니다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.92,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:21+00:00",
+    "qa_flags": []
+  }
+}

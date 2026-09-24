@@ -1,0 +1,77 @@
+{
+  "id": "2027_JUNE_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 156,
+    "question_number": 20,
+    "exam_key": "2027_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2372,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_JUNE_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 다음 대 화 에서 갑 , 을 의 입 장 으로 가장 적절한 것은?\n비자발적 안 락 사 를 통해 기 증 된 장 기 를 | | 그러한 방 식 으로 기 증 된 장 기 의 활 용 이\n대체 불가능한 의료 자 원 으로 활 용 하는 ㅣ | 사 회 의 이 익 을 증 진 할 수 는 있습니다.\n것은 사 회 의 이 익 을 증 진 합니다. 의 식 도 | | 하지만 가장 중요한 것은 당 사 자 의 인격\n없고 소생 가 능 성 도 없는 환 자 에 대 한 ㅣ | 입니다. 비자발적 안 락 사 를 통한 장기\n연명 치 료 는 의료 자 원 을 비 효 율 적 으로 ㅣ | 기 증 은 환 자 의 의 지 에 반할 수 있고,\n사 용 하는 것 입니다. 그러므로 비자발적 | | 신 체 를 자 원 으 로 만 취 금 하 므로 당 사 자 의\n안 락 사 를 통한 장기 기 증 은 허 용 되 어 야 ㅣ | 인 격 을 침 해 합 니다. 그러므로 이는 허용\n합니다. 되 어 서 는 안 됩니다.\n0) 갑 : 의료 자 원 의 확 보 는 연명 치료 중 단 의 명 분 이 될 수 없다.\n(0) 갑 : 사 회 의 이 익 을 위한 장기 기 증 도 환 자 의 동 의 가 필 수 적 이다.\n(3) 을: 비자발적 안 락 사 를 통한 장기 기 중 은 어떤 이 익 도 낳지 않는다.\n@) 을: 환 자 의 동의 없이 신 체 를 수 단 화 하는 것은 인 격 을 훼 손 한 다.\n(5) 갑과 을: 장기 기 증 의 정 당 성 은 기증자 가 족 의 의 지 에 의 존 한 다.",
+    "stem": "다음 대 화 에서 갑 , 을 의 입 장 으로 가장 적절한 것은?",
+    "passage": "비자발적 안 락 사 를 통해 기 증 된 장 기 를 | | 그러한 방 식 으로 기 증 된 장 기 의 활 용 이\n대체 불가능한 의료 자 원 으로 활 용 하는 ㅣ | 사 회 의 이 익 을 증 진 할 수 는 있습니다.\n것은 사 회 의 이 익 을 증 진 합니다. 의 식 도 | | 하지만 가장 중요한 것은 당 사 자 의 인격\n없고 소생 가 능 성 도 없는 환 자 에 대 한 ㅣ | 입니다. 비자발적 안 락 사 를 통한 장기\n연명 치 료 는 의료 자 원 을 비 효 율 적 으로 ㅣ | 기 증 은 환 자 의 의 지 에 반할 수 있고,\n사 용 하는 것 입니다. 그러므로 비자발적 | | 신 체 를 자 원 으 로 만 취 금 하 므로 당 사 자 의\n안 락 사 를 통한 장기 기 증 은 허 용 되 어 야 ㅣ | 인 격 을 침 해 합 니다. 그러므로 이는 허용\n합니다. 되 어 서 는 안 됩니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 의료 자 원 의 확 보 는 연명 치료 중 단 의 명 분 이 될 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 사 회 의 이 익 을 위한 장기 기 증 도 환 자 의 동 의 가 필 수 적 이다."
+      },
+      {
+        "number": 3,
+        "text": "을: 비자발적 안 락 사 를 통한 장기 기 중 은 어떤 이 익 도 낳지 않는다."
+      },
+      {
+        "number": 4,
+        "text": "을: 환 자 의 동의 없이 신 체 를 수 단 화 하는 것은 인 격 을 훼 손 한 다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을: 장기 기 증 의 정 당 성 은 기증자 가 족 의 의 지 에 의 존 한 다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:43+00:00",
+    "qa_flags": []
+  }
+}

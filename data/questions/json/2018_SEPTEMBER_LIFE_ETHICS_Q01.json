@@ -1,0 +1,73 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 53,
+    "question_number": 1,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      881,
+      1594,
+      3071
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 에 들어갈 진 술 로 가장 적절한 것은?\n나는 윤 리 학 의 근본 과 제 가 좋은 삶 이 란 무 엇 이 고 그것을\n구체적인 삶 에서 어떻게 실천할 수 있 는 지 를 규 명 하는 것이라고\n본다. 도덕적 삶 에서 중요한 것은 유 덕 한 품 성 을 갖추는\n것이다. 따라서 윤 리 학 은 덕 을 함 양 한 사 람 의 도덕적 판 단 과\n실 천 에 주 목 해 야 한다. 그런데 의 무 론 이나 공 리 주 의 와 같은\n윤리학 이 론 들은 보 편 적 인 도덕 규 칙 이나 원 리 만을 강 조 하여\n도덕 문 제 를 해 결 하려고 하였다. 나는 이러한 윤리학 이 론 들이\n으 고 쟁 각 한다.\n(00 도덕 행위자 내 면 의 도 덕 성 과 인 성 이 중 요 함 을 간 과 하였다\n(3) 도덕 판 단 의 기 준 이 되는 도덕 원 리 가 중 요 함 을 간 과 하였다\n(9) 도덕적 실 천 을 위해 맥 락 적 사 고 의 배 제 가 중 요 함 을 자 과 하 였다\n@ 도덕적 관 행 을 있는 그대로 기 술 하는 것이 중 요 함 을 간 과 하였다\n(8) 도덕 언 어 의 의 미 를 명 료 하게 분 석 하는 것이 중 요 함 을 간 과 하였다",
+    "stem": "에 들어갈 진 술 로 가장 적절한 것은?",
+    "passage": "나는 윤 리 학 의 근본 과 제 가 좋은 삶 이 란 무 엇 이 고 그것을\n구체적인 삶 에서 어떻게 실천할 수 있 는 지 를 규 명 하는 것이라고\n본다. 도덕적 삶 에서 중요한 것은 유 덕 한 품 성 을 갖추는\n것이다. 따라서 윤 리 학 은 덕 을 함 양 한 사 람 의 도덕적 판 단 과\n실 천 에 주 목 해 야 한다. 그런데 의 무 론 이나 공 리 주 의 와 같은\n윤리학 이 론 들은 보 편 적 인 도덕 규 칙 이나 원 리 만을 강 조 하여\n도덕 문 제 를 해 결 하려고 하였다. 나는 이러한 윤리학 이 론 들이\n으 고 쟁 각 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0 도덕 행위자 내 면 의 도 덕 성 과 인 성 이 중 요 함 을 간 과 하였다"
+      },
+      {
+        "number": 2,
+        "text": "도덕 판 단 의 기 준 이 되는 도덕 원 리 가 중 요 함 을 간 과 하였다"
+      },
+      {
+        "number": 3,
+        "text": "도덕적 실 천 을 위해 맥 락 적 사 고 의 배 제 가 중 요 함 을 자 과 하 였다"
+      },
+      {
+        "number": 4,
+        "text": "도덕적 관 행 을 있는 그대로 기 술 하는 것이 중 요 함 을 간 과 하였다"
+      },
+      {
+        "number": 5,
+        "text": "도덕 언 어 의 의 미 를 명 료 하게 분 석 하는 것이 중 요 함 을 간 과 하였다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:34+00:00",
+    "qa_flags": []
+  }
+}

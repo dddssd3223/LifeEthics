@@ -1,0 +1,73 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 58,
+    "question_number": 10,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      3024,
+      2999,
+      4299
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. (가) 사 상 의 입 장 에서 (나) 상황 속 쇼 에게 제 시 할 조 언 으\n가장 적절한 것은? [3 점 ]\n강하다, 걸다, 확 실 하다, 빠르다, 효 과 적 이다, 순수\n하 다 ㅡ 쾌 락 과 고통 속 에 서 이런 특 징 들을 지 속 시켜라.\n(가) | 만약 사적인 쾌 락 이 너의 목 적 이라면, 그런 쾌 락 을\n주 구 하라. 만약 공적인 쾌 락 이 너의 목 적 이라면, 그런\n쾌 락 을 확 대 하라.\n고 등 학 생 인 & 는 같은 반의 8 와 말 다 톰 을 했다. 집 에\n돌 아 와 서 도 화가 가 라 앉지 않은 ㅅ & 는 친 구 들 에게\n(나) | 연 락 하여 학급 채 팅 방 에서 를 상대로 * 사 이버 불 링 을\n같이 하자고 부 탁 해 야 할지 망 설 이 고 있다.\n* 사이버 불 링 : 정보 통신 기 술 을 통해 의 도 적 이고 지속적인 괴 롭 힘 을 가하는 것\n0) 사이버 불 링 이 공 리 를 극 대 화 하는 것인지 고 려 하세요.\n(3) 사이버 불 링 이 자 연 법 에 부 합 하 는 것인지 고 려 하 세요.\n(3) 사이버 불 링 이 덕성 함 양 에 기 여 하는 것인지 고 려 하세요.\n(0) 사이버 볼 링 이 모 성 적 배 려 를 실 천 하 는 것인지 고 려 하세요.\n(5) 사이버 불 링 이 인 간 을 목 적 으로 대 우 하 는 것인지 고 려 하세요.",
+    "stem": "(가) 사 상 의 입 장 에서 (나) 상황 속 쇼 에게 제 시 할 조 언 으 가장 적절한 것은? [3 점 ]",
+    "passage": "강하다, 걸다, 확 실 하다, 빠르다, 효 과 적 이다, 순수\n하 다 ㅡ 쾌 락 과 고통 속 에 서 이런 특 징 들을 지 속 시켜라.\n(가) | 만약 사적인 쾌 락 이 너의 목 적 이라면, 그런 쾌 락 을\n주 구 하라. 만약 공적인 쾌 락 이 너의 목 적 이라면, 그런\n쾌 락 을 확 대 하라.\n고 등 학 생 인 & 는 같은 반의 8 와 말 다 톰 을 했다. 집 에\n돌 아 와 서 도 화가 가 라 앉지 않은 ㅅ & 는 친 구 들 에게\n(나) | 연 락 하여 학급 채 팅 방 에서 를 상대로 * 사 이버 불 링 을\n같이 하자고 부 탁 해 야 할지 망 설 이 고 있다.\n* 사이버 불 링 : 정보 통신 기 술 을 통해 의 도 적 이고 지속적인 괴 롭 힘 을 가하는 것",
+    "choices": [
+      {
+        "number": 1,
+        "text": "사이버 불 링 이 공 리 를 극 대 화 하는 것인지 고 려 하세요."
+      },
+      {
+        "number": 2,
+        "text": "사이버 불 링 이 자 연 법 에 부 합 하 는 것인지 고 려 하 세요."
+      },
+      {
+        "number": 3,
+        "text": "사이버 불 링 이 덕성 함 양 에 기 여 하는 것인지 고 려 하세요."
+      },
+      {
+        "number": 4,
+        "text": "사이버 볼 링 이 모 성 적 배 려 를 실 천 하 는 것인지 고 려 하세요."
+      },
+      {
+        "number": 5,
+        "text": "사이버 불 링 이 인 간 을 목 적 으로 대 우 하 는 것인지 고 려 하세요."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:48+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 5,
+    "question_number": 3,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      879,
+      2999,
+      2082
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 다음 글 에 나타난 관 점 에 대한 설 명 으로 가장 적절한 것은?\n우 리 는 나 무 를 단지 나 무 로 보면서도 동시에 나무 이상의\n나 무 로 보 기 도 한다. 앞 의 나 무 는 우 리 가 일 상 적 으로 경 험 하\n는 나 무 로 속 ((#) 에 속하며, 뒤 의 나 무 는 독특한 경 험 을\n통해서만 드러나는 나 무 로 성 ( 뿌 ) 에 속한다. 초 자 연 적 인 것은\n자 연 적 인 것과 불 가 분 의 관 계 에 있으며, 세 계 는 그것을 초월\n하는 어떤 것을 드러낸다. 따라서 인 간 이 느끼고, 접 촉 하고,\n사랑한 모든 것은 성 ( 뿌 ) 의 드 러 남 이 될 수 있다.\n0 성 스 러 움 보다 인 간 성 의 실 현 을 중 시 해야 한다고 본다.\n(3) 초 자 연 적 인 것과 자 연 적 인 것을 분 리 해 야 한다고 본다.\n(3) 현 실 의 삶 속 에 서 성 스 러 움 의 실 현 이 가 능 하 다고 본다.\n(4) 성 스 러 움 과 세 속 적 인 것의 분 리 를 지 향 해야 한다고 본다.\n(8) 인 간 의 경 험 을 통 해 서 는 성 스 러 움 을 만나지 못한다고 본다.",
+    "stem": "다음 글 에 나타난 관 점 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "우 리 는 나 무 를 단지 나 무 로 보면서도 동시에 나무 이상의\n나 무 로 보 기 도 한다. 앞 의 나 무 는 우 리 가 일 상 적 으로 경 험 하\n는 나 무 로 속 ((#) 에 속하며, 뒤 의 나 무 는 독특한 경 험 을\n통해서만 드러나는 나 무 로 성 ( 뿌 ) 에 속한다. 초 자 연 적 인 것은\n자 연 적 인 것과 불 가 분 의 관 계 에 있으며, 세 계 는 그것을 초월\n하는 어떤 것을 드러낸다. 따라서 인 간 이 느끼고, 접 촉 하고,\n사랑한 모든 것은 성 ( 뿌 ) 의 드 러 남 이 될 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "성 스 러 움 보다 인 간 성 의 실 현 을 중 시 해야 한다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "초 자 연 적 인 것과 자 연 적 인 것을 분 리 해 야 한다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "현 실 의 삶 속 에 서 성 스 러 움 의 실 현 이 가 능 하 다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "성 스 러 움 과 세 속 적 인 것의 분 리 를 지 향 해야 한다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "인 간 의 경 험 을 통 해 서 는 성 스 러 움 을 만나지 못한다고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.915,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:39+00:00",
+    "qa_flags": []
+  }
+}

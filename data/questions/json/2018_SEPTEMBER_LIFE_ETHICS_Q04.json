@@ -1,0 +1,73 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 53,
+    "question_number": 4,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      2136,
+      2999,
+      3327
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 동양 사상 (가), ( 나 ) 의 입 장 을 < 보 기 > 에 서 고른 것은?\n(가) 아직 삶 도 알지 끗 하는데 어떻게 죽 음 을 알 겠 는가? 일찍 죽고\n오래 사는 것도 이상한 게 아 니 라 네 . 사 람 으로서 올바른 도 리 를\n다하고, 주어진 삶 을 아름답게 마치는 것이 참 으로 중 요 하 다 네 .\n(나) 삶 과 죽 음 은 춘하추동 사 계 절 의 운 행 과 같 다 네 . 태 어 나 는\n것을 기 뻐 하 지 않고 죽는 것을 거 부 하지 않으니 자 연 을 떠 라 가고\n따 라 올 뿐 이 네 . 이 경 지 에 있는 사 람 을 진 인 (8./: 이 라 하네.\n< 보 기 >\nㄱ . (가): 죽 음 은 기 (%) 가 홀 어 지는 것이므로 슬 퍼 할 이 유 가 없다.\nㄴ . (가): 죽 음 보다는 인 의 ({_388) 에 충실한 삶 에 관 심 을 가져야 한다.\nㄷ . (나): 죽 음 은 인 간 이 윤 회 의 과 정 에서 겪어야 할 괴 로 움 이다.\n르 . (가), (나): 죽 음 은 인 간 의 삶 에 서 일어나는 자연스러운 현 상 이다.\n060) ㄱ , ㄴㄴ (2)0 ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 그",
+    "stem": "동양 사상 (가), ( 나 ) 의 입 장 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "(가) 아직 삶 도 알지 끗 하는데 어떻게 죽 음 을 알 겠 는가? 일찍 죽고\n오래 사는 것도 이상한 게 아 니 라 네 . 사 람 으로서 올바른 도 리 를\n다하고, 주어진 삶 을 아름답게 마치는 것이 참 으로 중 요 하 다 네 .\n(나) 삶 과 죽 음 은 춘하추동 사 계 절 의 운 행 과 같 다 네 . 태 어 나 는\n것을 기 뻐 하 지 않고 죽는 것을 거 부 하지 않으니 자 연 을 떠 라 가고\n따 라 올 뿐 이 네 . 이 경 지 에 있는 사 람 을 진 인 (8./: 이 라 하네.\n< 보 기 >\nㄱ . (가): 죽 음 은 기 (%) 가 홀 어 지는 것이므로 슬 퍼 할 이 유 가 없다.\nㄴ . (가): 죽 음 보다는 인 의 ({_388) 에 충실한 삶 에 관 심 을 가져야 한다.\nㄷ . (나): 죽 음 은 인 간 이 윤 회 의 과 정 에서 겪어야 할 괴 로 움 이다.\n르 . (가), (나): 죽 음 은 인 간 의 삶 에 서 일어나는 자연스러운 현 상 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "060) ㄱ , ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "0 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 그"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.882,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:36+00:00",
+    "qa_flags": []
+  }
+}

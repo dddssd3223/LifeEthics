@@ -1,0 +1,76 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 3,
+    "question_number": 14,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      1885,
+      2999,
+      3247
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 그 림 은 신문 사 설 이다. @ 에 들어갈 내 용 으로 가장 적절한 것\n은? [3 점 ]\n(2( 일 보 (2(2(2() 년 (월 (일\n사설\n스포츠 경 기 에서 운 동 선 수 가 경 기 력 을 향 상 하기 위해 근육 강 화 제 와\n같은 금지 약 물 을 복 용 하는 것은 경 쟁 의 공 정 성 을 해치기 때문에 정당\n하지 않다. 그런데 만약 규칙 개 정 을 통해 약물 복 용 이 허 용 되어 모든\n운 동 선 수 에게 약 물 을 복 용 할 수 있는 기 회 가 공 평 하게 주 어 진 다 면 , 약물\n복 용 은 형 평 성 의 관 점 에서는 문 제 가 없게 된다. 하지만 우 리 는 그럴 경우\n에도 약물 복 용 이 옮 지 않다고 본다. 그 이 유 는 스 포 츠 의 본질적 특 성 이\n@ …( 후 략 )…\n03 승부 결 과 가 미리 확 정 되어 있지 않은 것이기 때 문 이 다.\n(3) 승 리 만을 위해 치 열 하게 경 쟁 을 벌이는 것이기 때 문 이 다.\n(8) 정해진 경 기 의 규 칙 을 공 정 하게 준 수 하는 것이기 때 문 이 다.\n@ 타고난 신 체 를 단 련 하여 탁 월 함 을 발 휘 하는 것이기 때 문 이 다.\n6) 일 상 생 활 로부터 분 리 된 공 간 에서 이루어지는 것이기 때 문 이 다.",
+    "stem": "그 림 은 신문 사 설 이다. @ 에 들어갈 내 용 으로 가장 적절한 것 은? [3 점 ]",
+    "passage": "(2( 일 보 (2(2(2() 년 (월 (일\n사설\n스포츠 경 기 에서 운 동 선 수 가 경 기 력 을 향 상 하기 위해 근육 강 화 제 와\n같은 금지 약 물 을 복 용 하는 것은 경 쟁 의 공 정 성 을 해치기 때문에 정당\n하지 않다. 그런데 만약 규칙 개 정 을 통해 약물 복 용 이 허 용 되어 모든\n운 동 선 수 에게 약 물 을 복 용 할 수 있는 기 회 가 공 평 하게 주 어 진 다 면 , 약물\n복 용 은 형 평 성 의 관 점 에서는 문 제 가 없게 된다. 하지만 우 리 는 그럴 경우\n에도 약물 복 용 이 옮 지 않다고 본다. 그 이 유 는 스 포 츠 의 본질적 특 성 이\n@ …( 후 략 )…",
+    "choices": [
+      {
+        "number": 1,
+        "text": "승부 결 과 가 미리 확 정 되어 있지 않은 것이기 때 문 이 다."
+      },
+      {
+        "number": 2,
+        "text": "승 리 만을 위해 치 열 하게 경 쟁 을 벌이는 것이기 때 문 이 다."
+      },
+      {
+        "number": 3,
+        "text": "정해진 경 기 의 규 칙 을 공 정 하게 준 수 하는 것이기 때 문 이 다."
+      },
+      {
+        "number": 4,
+        "text": "타고난 신 체 를 단 련 하여 탁 월 함 을 발 휘 하는 것이기 때 문 이 다."
+      },
+      {
+        "number": 5,
+        "text": "일 상 생 활 로부터 분 리 된 공 간 에서 이루어지는 것이기 때 문 이 다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=103",
+      "vector_lines=12"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:35+00:00",
+    "qa_flags": []
+  }
+}

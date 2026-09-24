@@ -1,0 +1,75 @@
+{
+  "id": "2023_SEPTEMBER_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 113,
+    "question_number": 5,
+    "exam_key": "2023_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3241,
+      3149,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_SEPTEMBER_LIFE_ETHICS_Q05.png",
+    "raw_text": "6. 다음 가상 편 지 에서 강 조 하는 내 용 으로 가장 적절한 것은? [3 점 ]\n세 의\n친 애 하는 (〉(- 에 게\n지난 편 지 에서 자 네 는 나 에게 종교 간 갈 등 을 극 목 할 수 있는 방 안 에 대해 물 었 지 .\n그에 대한 나의 의 견 을 전 하 고 자 하네. 우선, 모든 종 교 는 자 신 의 실 수 와 과 오 의 역 사 를\n비판적 시 각 으로 성 찰 해야 하네. 다른 견 해 에 대한 정당한 비 판 은 오로지 단호한\n자 아 비 판 이라는 바탕 위 에 서 만 가 능 하 네 . 다 음 으로, 각 종 교 는 서 로 의 고 유 한 특 성 을\n인 정 하고, 종교적 이 해 와 협 력 을 추 구 해 야 하네. 그렇다고 해서 하 나 의 보편 종 교 를\n요 청 해서는 안 되네. 마 지 막 으로, 종교 간 대 화 가 필 요 하네. 종교 사 이 의 평 화 를 배제\n하 고 서 는 국가 사 이 의 어떠한 평 화 도 불 가 능 하고, 종교 사 이 의 대 화 를 배 제 하 고 서 는\n종교 사 이 의 어떠한 평 화 도 불 가 능 하며, 내 이 웃 의 종 교 를 이 해 하지 않 고 서 는 종교\n사 이 의 어떠한 대 화 도 불 가 능 하다는 것을 명 심 하게. …( 후 략 ).\n는\n0) 세계 평 화 를 위해 다양한 종 교 를 단일 종 교 로 통 합 해 야 한다.\n(2) 종교 간 평 화 를 위해 자 신 의 종교적 정 체 성 을 포 기 해 야 한다.\n8) 자 신 의 견 해 와 다른 종교적 견 해 를 결코 비 판 해서는 안 된다.\n종교 간 대 화 를 위해 타 종 교 에 대한 이 해 와 존 중 이 요 청 된다.\n6) 종교 간 평 화 는 국가 간 평 화 를 실 현 하 기 위한 전제 조 건 이 아니다.",
+    "stem": "다음 가상 편 지 에서 강 조 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "세 의\n친 애 하는 (〉(- 에 게\n지난 편 지 에서 자 네 는 나 에게 종교 간 갈 등 을 극 목 할 수 있는 방 안 에 대해 물 었 지 .\n그에 대한 나의 의 견 을 전 하 고 자 하네. 우선, 모든 종 교 는 자 신 의 실 수 와 과 오 의 역 사 를\n비판적 시 각 으로 성 찰 해야 하네. 다른 견 해 에 대한 정당한 비 판 은 오로지 단호한\n자 아 비 판 이라는 바탕 위 에 서 만 가 능 하 네 . 다 음 으로, 각 종 교 는 서 로 의 고 유 한 특 성 을\n인 정 하고, 종교적 이 해 와 협 력 을 추 구 해 야 하네. 그렇다고 해서 하 나 의 보편 종 교 를\n요 청 해서는 안 되네. 마 지 막 으로, 종교 간 대 화 가 필 요 하네. 종교 사 이 의 평 화 를 배제\n하 고 서 는 국가 사 이 의 어떠한 평 화 도 불 가 능 하고, 종교 사 이 의 대 화 를 배 제 하 고 서 는\n종교 사 이 의 어떠한 평 화 도 불 가 능 하며, 내 이 웃 의 종 교 를 이 해 하지 않 고 서 는 종교\n사 이 의 어떠한 대 화 도 불 가 능 하다는 것을 명 심 하게. …( 후 략 ).\n는",
+    "choices": [
+      {
+        "number": 1,
+        "text": "세계 평 화 를 위해 다양한 종 교 를 단일 종 교 로 통 합 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "종교 간 평 화 를 위해 자 신 의 종교적 정 체 성 을 포 기 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "자 신 의 견 해 와 다른 종교적 견 해 를 결코 비 판 해서는 안 된다."
+      },
+      {
+        "number": 4,
+        "text": "종교 간 대 화 를 위해 타 종 교 에 대한 이 해 와 존 중 이 요 청 된다."
+      },
+      {
+        "number": 5,
+        "text": "종교 간 평 화 는 국가 간 평 화 를 실 현 하 기 위한 전제 조 건 이 아니다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.915,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:09+00:00",
+    "qa_flags": []
+  }
+}

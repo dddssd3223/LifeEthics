@@ -1,0 +1,73 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 70,
+    "question_number": 7,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1999,
+      1740,
+      3349
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q07.png",
+    "raw_text": "음 사 상 가 의 입 장 으로 적 절 하지 않은 것은? [3 점 ]\n종교적 인 간 은 탄생, 결혼, 죽 음 과 같은 사 건 을 겪으며 거룩한\n존 재 가 있다는 사 실 을 믿게 된다. 그 존 재 는 이 세계 안에 스스로\n현 현 ( 빼 벼 ) 하 여 이 세 계 를 성 화 ({『) 시 킨다. 그러나 세속적\n잇 간 은 자 신 만 을 역 사 의 주 체 로 생 각 하며, 초 월 적 존 재 를 향한\n모든 호 소 를 거 절 한다. 그 들 에게 거룩한 존 재 는 인 간 의 자 유 에\n대한 최 대 의 장 애 물 일 따 름 이다. 그럼에도 세속적 인 간 은 비록\n스스로 깨닫지 못하고 있을 때 조차 종 교 적 으로 행 동 한 다. 탄생,\n결혼, 죽 음 을 기리는 의 식 이 세 속 화 되기는 했지만 여전히 그\n속에서는 종교적 현 상 이 관 찰 된다.\n01 종교적 인 간 은 스스로 성 스 럽게 드러나는 거룩한 존 재 를 믿는다.\n(3) 종교적 인 간 은 성스러운 것과 세 속 적 인 것의 분 리 를 지 향 한다.\n3) 종교 의 식 과 무 관 한 세속적 일상 의 례 에도 신 성 성 이 깃 들 어 있\n@ 세속적 인 간 은 통과 의 례 가 갖는 종교적 의 미 를 자 각 하지 못한다.\n(5: 세속적 인 간 은 종 교 의 속 박 에서 벗어나야 자 유 로 워 진 다구 믿는다.",
+    "stem": "음 사 상 가 의 입 장 으로 적 절 하지 않은 것은? [3 점 ]",
+    "passage": "종교적 인 간 은 탄생, 결혼, 죽 음 과 같은 사 건 을 겪으며 거룩한\n존 재 가 있다는 사 실 을 믿게 된다. 그 존 재 는 이 세계 안에 스스로\n현 현 ( 빼 벼 ) 하 여 이 세 계 를 성 화 ({『) 시 킨다. 그러나 세속적\n잇 간 은 자 신 만 을 역 사 의 주 체 로 생 각 하며, 초 월 적 존 재 를 향한\n모든 호 소 를 거 절 한다. 그 들 에게 거룩한 존 재 는 인 간 의 자 유 에\n대한 최 대 의 장 애 물 일 따 름 이다. 그럼에도 세속적 인 간 은 비록\n스스로 깨닫지 못하고 있을 때 조차 종 교 적 으로 행 동 한 다. 탄생,\n결혼, 죽 음 을 기리는 의 식 이 세 속 화 되기는 했지만 여전히 그\n속에서는 종교적 현 상 이 관 찰 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "종교적 인 간 은 스스로 성 스 럽게 드러나는 거룩한 존 재 를 믿는다."
+      },
+      {
+        "number": 2,
+        "text": "종교적 인 간 은 성스러운 것과 세 속 적 인 것의 분 리 를 지 향 한다."
+      },
+      {
+        "number": 3,
+        "text": "종교 의 식 과 무 관 한 세속적 일상 의 례 에도 신 성 성 이 깃 들 어 있"
+      },
+      {
+        "number": 4,
+        "text": "세속적 인 간 은 통과 의 례 가 갖는 종교적 의 미 를 자 각 하지 못한다."
+      },
+      {
+        "number": 5,
+        "text": ": 세속적 인 간 은 종 교 의 속 박 에서 벗어나야 자 유 로 워 진 다구 믿는다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.914,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:15+00:00",
+    "qa_flags": []
+  }
+}

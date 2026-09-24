@@ -1,0 +1,73 @@
+{
+  "id": "2022_CSAT_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 108,
+    "question_number": 17,
+    "exam_key": "2022_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1913,
+      1740,
+      3175
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_CSAT_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다 음 을 주장한 사 상 가 의 입 장 으로 적 절 하지 않은 것은?\n인 간 이 성 스 러 움 을 아는 것은 그것이 속된 것과는 전혀 다른\n어떤 것으로서 스 스 로 를 현 현 ( 빼 뼈 ) 하 고 보여 주기 때 문 이 다.\n성 스 러 움 이 드러나는 것을 성 현 ( 뿌 이라 한다. 종교적 인간\n에게 자 연 은 결코 단순한 자 연 이 아니며, 항상 종교적 의 미 로\n충 만 해 있다. 왜냐하면 주 우 는 신의 창 조 물 이고, 세 계 는 신의\n손 으로 완 성 된 것이어서 성 스 러 움 으로 가득 차 있기 때 문 이 다.\n성스러운 돌 , 성스러운 나 무 는 돌 이 나 나 무 로서 숭 배 되는 것이\n아니라 성 현 이기 때문에 숭 배 된다,\n01) 세 계 는 성 스 러 움 이 드러나는 대 상 일 뿐 아니라 성 ( 뿔 ) 그 자 체 이다.\n(2) 성 스 러 움 과 세 속 은 분 리 되어 있거나 단 절 되어 있는 것이 아니다.\n(9) 종교적 인 간 은 세속적 대 상 에서도 성 스 러 움 을 체 험 할 수 있다.\n@) 종교적 인 간 에게 돌 이 나 나 무 는 단순한 자 연 물 이 아니다.\n(69) 신은 자 연 을 통해 성 스 러 움 을 다양한 양 태 로 드러낸다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 적 절 하지 않은 것은?",
+    "passage": "인 간 이 성 스 러 움 을 아는 것은 그것이 속된 것과는 전혀 다른\n어떤 것으로서 스 스 로 를 현 현 ( 빼 뼈 ) 하 고 보여 주기 때 문 이 다.\n성 스 러 움 이 드러나는 것을 성 현 ( 뿌 이라 한다. 종교적 인간\n에게 자 연 은 결코 단순한 자 연 이 아니며, 항상 종교적 의 미 로\n충 만 해 있다. 왜냐하면 주 우 는 신의 창 조 물 이고, 세 계 는 신의\n손 으로 완 성 된 것이어서 성 스 러 움 으로 가득 차 있기 때 문 이 다.\n성스러운 돌 , 성스러운 나 무 는 돌 이 나 나 무 로서 숭 배 되는 것이\n아니라 성 현 이기 때문에 숭 배 된다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "세 계 는 성 스 러 움 이 드러나는 대 상 일 뿐 아니라 성 ( 뿔 ) 그 자 체 이다."
+      },
+      {
+        "number": 2,
+        "text": "성 스 러 움 과 세 속 은 분 리 되어 있거나 단 절 되어 있는 것이 아니다."
+      },
+      {
+        "number": 3,
+        "text": "종교적 인 간 은 세속적 대 상 에서도 성 스 러 움 을 체 험 할 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "종교적 인 간 에게 돌 이 나 나 무 는 단순한 자 연 물 이 아니다."
+      },
+      {
+        "number": 5,
+        "text": "신은 자 연 을 통해 성 스 러 움 을 다양한 양 태 로 드러낸다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.909,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:46+00:00",
+    "qa_flags": []
+  }
+}

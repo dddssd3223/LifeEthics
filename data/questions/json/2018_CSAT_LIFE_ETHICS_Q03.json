@@ -1,0 +1,73 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 57,
+    "question_number": 3,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3193,
+      1594,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q03.png",
+    "raw_text": "3. 다음 서양 사 상 가 가 부 정 의 대 답 을 할 질 문 으로 가장 적절한\n것은? [3 점 ]\n거의 정 의 롭 지 만 정 의 에 대한 심각한 위 반 이 발 생 하기도 하는\n사 회 에서 시민 불 복 종 이 성 립 한다. 시민 불 복 종 은 신 중 하고 양심\n적인 정치적 신 념 의 표 현 인 청 원 의 한 형 태 이므로 공개 석상\n에서 이 루 어 지 며 , 어떤 개인적 도덕 원 칙 이나 종교적 교 설이\n아닌 공 유 된 정 의 관 에 의 거 해야 한다. 정당한 시민 불 복 종 이\n시민 화 합 을 해치는 것으로 보이면, 그 책 임 은 불 복 종 하는\n자 들 이 아니라 권 위 와 권 력 을 남 용 한 자 들 에게 있는 것이다.\n8 시민 불 복 종 의 주 체 는 체 제 의 합 법 성 을 인 정 하는 시 민 인가?\n3) 시민 불 복 종 의 의 도 는 동료 시 민 들 에게 공 표 되어야 하는가?\n8) 시민 불 복 좋은 공 동 체 의 정 의 감 에 호 소 하는 정치 행 위 인가?\n@ 시민 불 복 종 의 목 적 에서 정부 정 책 의 개 혁 은 제 외 되어야 하는가?\n(6) 시민 불 복 좋은 어떠한 합법적 방 법 도 효 과 가 없을 때 행 해 져 야 하는가?",
+    "stem": "다음 서양 사 상 가 가 부 정 의 대 답 을 할 질 문 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "거의 정 의 롭 지 만 정 의 에 대한 심각한 위 반 이 발 생 하기도 하는\n사 회 에서 시민 불 복 종 이 성 립 한다. 시민 불 복 종 은 신 중 하고 양심\n적인 정치적 신 념 의 표 현 인 청 원 의 한 형 태 이므로 공개 석상\n에서 이 루 어 지 며 , 어떤 개인적 도덕 원 칙 이나 종교적 교 설이\n아닌 공 유 된 정 의 관 에 의 거 해야 한다. 정당한 시민 불 복 종 이\n시민 화 합 을 해치는 것으로 보이면, 그 책 임 은 불 복 종 하는\n자 들 이 아니라 권 위 와 권 력 을 남 용 한 자 들 에게 있는 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "시민 불 복 종 의 주 체 는 체 제 의 합 법 성 을 인 정 하는 시 민 인가?"
+      },
+      {
+        "number": 2,
+        "text": "시민 불 복 종 의 의 도 는 동료 시 민 들 에게 공 표 되어야 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "시민 불 복 좋은 공 동 체 의 정 의 감 에 호 소 하는 정치 행 위 인가?"
+      },
+      {
+        "number": 4,
+        "text": "시민 불 복 종 의 목 적 에서 정부 정 책 의 개 혁 은 제 외 되어야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "시민 불 복 좋은 어떠한 합법적 방 법 도 효 과 가 없을 때 행 해 져 야 하는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.918,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:45+00:00",
+    "qa_flags": []
+  }
+}

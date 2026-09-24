@@ -1,0 +1,75 @@
+{
+  "id": "2020_CSAT_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 84,
+    "question_number": 17,
+    "exam_key": "2020_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3170,
+      1740,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_CSAT_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다음 강 연 자의 입 장 으로 가장 적절한 것은? [3 점 ]\n통 일 은 분 단 되기 이 전 으로 돌아가는 것이 아니라 미 래 를 |\n향한 새 역 사 의 창조 작 업 입니다. 통 일 은 평 화 와 민 족 의\n공동 번영, 이 산 가 족 의 고통 해소, 그리고 자 유 와 평등\n신장 등에 기여할 것 입니다. 그러므로 통 일 은 성 취 해야\n하지만, 어떤 형 태 로든 통 일 이 되기만 하면 된다는 통일\n지 상 주 의 를 추 구 해 서는 안 됩니다. 또한 급진적 방 식 의\n통 일 은 사회적 갈 등 과 많은 비 용 을 초래할 것 입니다.\n따라서 통 일 은 국민적 합 의 에 기 초 하여 평화적 방 식 에\n따라 단 계 적 으로 추 진 되어야 합니다. 이런 방 식 은 급진적\n방 식 의 통 일 보다 통일 비 용 을 줄이고 더 많은 통일 편 익 을\n가져올 것 입니다. 이러한 점 에서 문화, 예술 등 비교적\n합 의 하기 쉬운 분 아 로 부터 교류 협 력 을 시 작 하 여 궁극적\n으 로 는 체제 통 합 으로 나 아 가 야 합니다. |\n01) 점진적 평화 통 일 이 급진적 통 일 보다 더 많은 비 용 을 초 래 한다.\n(0) 통 일 을 위해 비 정 치 적 협 력 보다 정치적 통 합 을 우 선 해야 한다.\n6) 인도적 측 면 이 아니라 경제적 관 점 에서 통 일 을 성 취 해야 한다.\n@) 통 일 은 이 유 와 방 식 을 불 문 하고 성 취 해야 할 민족적 과 업 이다.\n(9) 동 일 은 민 족 의 번 영 과 인 류 의 보편적 가치 구 현 에 기 여 해 야 한다.",
+    "stem": "다음 강 연 자의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "통 일 은 분 단 되기 이 전 으로 돌아가는 것이 아니라 미 래 를 |\n향한 새 역 사 의 창조 작 업 입니다. 통 일 은 평 화 와 민 족 의\n공동 번영, 이 산 가 족 의 고통 해소, 그리고 자 유 와 평등\n신장 등에 기여할 것 입니다. 그러므로 통 일 은 성 취 해야\n하지만, 어떤 형 태 로든 통 일 이 되기만 하면 된다는 통일\n지 상 주 의 를 추 구 해 서는 안 됩니다. 또한 급진적 방 식 의\n통 일 은 사회적 갈 등 과 많은 비 용 을 초래할 것 입니다.\n따라서 통 일 은 국민적 합 의 에 기 초 하여 평화적 방 식 에\n따라 단 계 적 으로 추 진 되어야 합니다. 이런 방 식 은 급진적\n방 식 의 통 일 보다 통일 비 용 을 줄이고 더 많은 통일 편 익 을\n가져올 것 입니다. 이러한 점 에서 문화, 예술 등 비교적\n합 의 하기 쉬운 분 아 로 부터 교류 협 력 을 시 작 하 여 궁극적\n으 로 는 체제 통 합 으로 나 아 가 야 합니다. |",
+    "choices": [
+      {
+        "number": 1,
+        "text": "점진적 평화 통 일 이 급진적 통 일 보다 더 많은 비 용 을 초 래 한다."
+      },
+      {
+        "number": 2,
+        "text": "통 일 을 위해 비 정 치 적 협 력 보다 정치적 통 합 을 우 선 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "인도적 측 면 이 아니라 경제적 관 점 에서 통 일 을 성 취 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "통 일 은 이 유 와 방 식 을 불 문 하고 성 취 해야 할 민족적 과 업 이다."
+      },
+      {
+        "number": 5,
+        "text": "동 일 은 민 족 의 번 영 과 인 류 의 보편적 가치 구 현 에 기 여 해 야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.927,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:45+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 16,
+    "question_number": 16,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      501,
+      1592,
+      1898
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다음 글 의 입 장 에서 긍 정 의 대 답 을 할 옮 은 질 문 을 < 보 기 > 에 서\n고른 것은?\n과 학 은 사회 ㆍ 문 화적 넥 락 에서 이 해 되어야 한다. 과 학 에는\n사회 집 단 의 정치적 관계, 가치관 등 이 반 영 될 수밖에 없다.\n과 학 이 스스로 발 전 하는 것이 아니라 사 회 의 요 구 나 가 치 를\n반 영 하여 발 전 하는 것이다. 따라서 과 학 이 올바른 방 향 으로\n나 아 가 도록 하기 위해서는 사회적 관 심 이 요 구 된다. 특히\n위 험 과 불 확 실 성 이 증 대 될수록 과 학 자 와 일반 대 중 이 함께하는\n확 장 된 동료 공동체\" 가 절실히 요 구 된다.\n(보기 >\nㄱ . 과 학 의 발 전 은 다양한 사회적 이 해 관 계 의 영 향 을 받는가?\nㄴ . 과학과 관련된 중요 결 정 을 내릴 때 시민 참 여 가 필요한가?\nㄷ . 과 학 은 연구 대상 선 정 에 있어 가 치 중 립 적 이어야 하는가?\n2 . 과학 관련 논 의 에서 과 학 자 의 독점적 지 위 를 보 장 해 야 하는가?\n060) ㄱ , ㄴㄴ (2) ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 그",
+    "stem": "다음 글 의 입 장 에서 긍 정 의 대 답 을 할 옮 은 질 문 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "과 학 은 사회 ㆍ 문 화적 넥 락 에서 이 해 되어야 한다. 과 학 에는\n사회 집 단 의 정치적 관계, 가치관 등 이 반 영 될 수밖에 없다.\n과 학 이 스스로 발 전 하는 것이 아니라 사 회 의 요 구 나 가 치 를\n반 영 하여 발 전 하는 것이다. 따라서 과 학 이 올바른 방 향 으로\n나 아 가 도록 하기 위해서는 사회적 관 심 이 요 구 된다. 특히\n위 험 과 불 확 실 성 이 증 대 될수록 과 학 자 와 일반 대 중 이 함께하는\n확 장 된 동료 공동체\" 가 절실히 요 구 된다.\n(보기 >\nㄱ . 과 학 의 발 전 은 다양한 사회적 이 해 관 계 의 영 향 을 받는가?\nㄴ . 과학과 관련된 중요 결 정 을 내릴 때 시민 참 여 가 필요한가?\nㄷ . 과 학 은 연구 대상 선 정 에 있어 가 치 중 립 적 이어야 하는가?\n2 . 과학 관련 논 의 에서 과 학 자 의 독점적 지 위 를 보 장 해 야 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "060) ㄱ , ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 그"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.889,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:02+00:00",
+    "qa_flags": []
+  }
+}

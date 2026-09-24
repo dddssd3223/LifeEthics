@@ -1,0 +1,73 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 15,
+    "question_number": 11,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      501,
+      1592,
+      1629
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. 감 , 을 사 상 가 의 직 업 관 에 대한 설 명 으로 옮 은 것은?\n갑 : 왕 공 의 자 손 이라도 예 (0 블 ) 에 합 하 지 않으면 서 민 에 편입\n하고, 서 민 의 자 손 이라도 학 문 을 낚 고 품 행 을 단 정 히 하여\n예 에 합하면 재 상 에 올린다.\n을: 사 농 공 상 ( ㄱ +- 쁘 9) 에 관 계 없이 놀 고 먹는 자는 관 에서\n벌 칙 을 내려야 한다. 재 등 과 학 식 이 있으면 비록 동 사 꾼 의\n자 식 이 벼 슬 길 에 올라도 분 수 에 넘치는 것이 아니다.\n03 갑 은 사회적 역할 분 담 에 있어 예의 중 요 성 을 강 조 한 다.\n3 을 은 선 비 가 육 체 노 동 을 피하고 학 문 에 전 념 할 것을 강 조 한 다.\n8) 갑 은 을과 달리 후천적 노 력 보다 타고난 능 력 을 중 시 한다.\n@) 을 은 갑과 달리 세 습 적 신 분 에 따라 직 업 을 정할 것을 강 조 한 다,\n69 갑 , 을 은 사회 분 업 의 페 지 와 직업 선 택 의 자 유 를 주 장 한 다.",
+    "stem": "감 , 을 사 상 가 의 직 업 관 에 대한 설 명 으로 옮 은 것은?",
+    "passage": "갑 : 왕 공 의 자 손 이라도 예 (0 블 ) 에 합 하 지 않으면 서 민 에 편입\n하고, 서 민 의 자 손 이라도 학 문 을 낚 고 품 행 을 단 정 히 하여\n예 에 합하면 재 상 에 올린다.\n을: 사 농 공 상 ( ㄱ +- 쁘 9) 에 관 계 없이 놀 고 먹는 자는 관 에서\n벌 칙 을 내려야 한다. 재 등 과 학 식 이 있으면 비록 동 사 꾼 의\n자 식 이 벼 슬 길 에 올라도 분 수 에 넘치는 것이 아니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 사회적 역할 분 담 에 있어 예의 중 요 성 을 강 조 한 다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 선 비 가 육 체 노 동 을 피하고 학 문 에 전 념 할 것을 강 조 한 다."
+      },
+      {
+        "number": 3,
+        "text": "갑 은 을과 달리 후천적 노 력 보다 타고난 능 력 을 중 시 한다."
+      },
+      {
+        "number": 4,
+        "text": "을 은 갑과 달리 세 습 적 신 분 에 따라 직 업 을 정할 것을 강 조 한 다,"
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 사회 분 업 의 페 지 와 직업 선 택 의 자 유 를 주 장 한 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.881,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:00+00:00",
+    "qa_flags": []
+  }
+}

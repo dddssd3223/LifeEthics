@@ -1,0 +1,73 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 62,
+    "question_number": 7,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1974,
+      1742,
+      3352
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. 갑 , 을 의 입 장 으로 가장 적절한 것은?\n감 ： 기존 시 민 들 이 공 유 하는 문 화 에 동 화 될 때 에 만 이 민 자 에게\n시 민 권 을 부 여 해 야 한다. 주류 사회 시 민 들 과 동일한 언 어 로\n함께 교 육 을 받게 하고 동일한 사회 복 지 를 제 공 하며 국민\n정 체 성 을 고 취 시켜 이민자 집 단 을 동 화 시켜야 한다.\n을: 기존 시 민 들 이 공 유 하는 문 화 에 동 화 되지 않아도 이민자\n에게 시 민 권 을 부 여 해 야 한다. 이 민 자 의 언 어 로 운 용 되는\n자 체 의 법적 제 도 를 보 장 하면서 이민자 집 단 과 주류 사 회 의\n결 속 과 통 합 을 도 모 해 야 한다.\n010 갑 : 주류 문 화 와의 응 합 을 위해 소수 문 화 의 가 치 를 존 중 해야 한다.\n2) 갑 : 사회권 보 장 으로 수수 집 딘 의 문화적 정 체 성 을 유 지 시켜야 한다.\n8) 을 : 소수 문 화 에 대한 불 관 용 을 동해 국민 동 합 을 지 향 해야 한다,\n@ 을 : 수수 집 단 의 자 치 를 승 인 하면서 사회적 연 대 를 추 구 해 야 한다,\n5 갑 , 을 : 문화적 동 일 성 에 대한 요구 없이 시 민 권 을 보 장 해 야 한다,",
+    "stem": "갑 , 을 의 입 장 으로 가장 적절한 것은?",
+    "passage": "감 ： 기존 시 민 들 이 공 유 하는 문 화 에 동 화 될 때 에 만 이 민 자 에게\n시 민 권 을 부 여 해 야 한다. 주류 사회 시 민 들 과 동일한 언 어 로\n함께 교 육 을 받게 하고 동일한 사회 복 지 를 제 공 하며 국민\n정 체 성 을 고 취 시켜 이민자 집 단 을 동 화 시켜야 한다.\n을: 기존 시 민 들 이 공 유 하는 문 화 에 동 화 되지 않아도 이민자\n에게 시 민 권 을 부 여 해 야 한다. 이 민 자 의 언 어 로 운 용 되는\n자 체 의 법적 제 도 를 보 장 하면서 이민자 집 단 과 주류 사 회 의\n결 속 과 통 합 을 도 모 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 주류 문 화 와의 응 합 을 위해 소수 문 화 의 가 치 를 존 중 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 사회권 보 장 으로 수수 집 딘 의 문화적 정 체 성 을 유 지 시켜야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 소수 문 화 에 대한 불 관 용 을 동해 국민 동 합 을 지 향 해야 한다,"
+      },
+      {
+        "number": 4,
+        "text": "을 : 수수 집 단 의 자 치 를 승 인 하면서 사회적 연 대 를 추 구 해 야 한다,"
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 문화적 동 일 성 에 대한 요구 없이 시 민 권 을 보 장 해 야 한다,"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:56+00:00",
+    "qa_flags": []
+  }
+}

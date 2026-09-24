@@ -1,0 +1,73 @@
+{
+  "id": "2014_JUNE_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 2,
+    "question_number": 10,
+    "exam_key": "2014_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      3186,
+      2999,
+      4297
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_JUNE_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. (가), ( 나 ) 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]\n(가) 형 과 아 우 는 부 모 가 남겨 준 몸 을 함께 받 았 으 니 , 한 몸\n과 같은 것이다. 한 몸 의 사 지 (040) 중에서 어느 한 편\n이 병 든 다면 어찌 편 안 함 을 얻 겠는가? 형 제 끼리 사랑하\n지 않는 것은 자기 부 모 를 사 랑 하 지 않기 때 문 이 다.\n(나) 우 리 의 몸 은 부 모 로부터 물 려 받은 것이다. 감히 상하게\n하거나 훼 손 하지 않는 것이 효 의 시 작 이다. 몸 을 세워\n서 도 리 를 행하고 이 름 을 후 세 에 떨쳐 부 모 를 빛나게\n하는 것이 효 의 마 지 막 이다,\n0) ( 가 ) 는 형 제 간 은 장 유 ( 특 3)) 의 구 분 이 불 필 요 하다고 본다.\n(2) ( 가 ) 는 형 제 애 의 근 원 과 효 의 근 원 이 서로 다르다고 본다.\n(8) ( 나 ) 는 신 체 의 건 강 함 과 부 모 에 대한 효 가 무 관 하 다고 본다.\n0) ( 나 ) 는 정신적 공 경 보다 물질적 봉 양 이 더 중 요 하 다고 본다.\n66) (가), ( 나 ) 는 효 가 덕 스 러운 행 실 [\\77] 의 근 본 이라고 본다.",
+    "stem": "(가), ( 나 ) 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "(가) 형 과 아 우 는 부 모 가 남겨 준 몸 을 함께 받 았 으 니 , 한 몸\n과 같은 것이다. 한 몸 의 사 지 (040) 중에서 어느 한 편\n이 병 든 다면 어찌 편 안 함 을 얻 겠는가? 형 제 끼리 사랑하\n지 않는 것은 자기 부 모 를 사 랑 하 지 않기 때 문 이 다.\n(나) 우 리 의 몸 은 부 모 로부터 물 려 받은 것이다. 감히 상하게\n하거나 훼 손 하지 않는 것이 효 의 시 작 이다. 몸 을 세워\n서 도 리 를 행하고 이 름 을 후 세 에 떨쳐 부 모 를 빛나게\n하는 것이 효 의 마 지 막 이다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "( 가 ) 는 형 제 간 은 장 유 ( 특 3)) 의 구 분 이 불 필 요 하다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "( 가 ) 는 형 제 애 의 근 원 과 효 의 근 원 이 서로 다르다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "( 나 ) 는 신 체 의 건 강 함 과 부 모 에 대한 효 가 무 관 하 다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "( 나 ) 는 정신적 공 경 보다 물질적 봉 양 이 더 중 요 하 다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "(가), ( 나 ) 는 효 가 덕 스 러운 행 실 [\\77] 의 근 본 이라고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.913,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:33+00:00",
+    "qa_flags": []
+  }
+}

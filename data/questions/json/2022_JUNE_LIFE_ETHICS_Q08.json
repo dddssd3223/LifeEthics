@@ -1,0 +1,73 @@
+{
+  "id": "2022_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 98,
+    "question_number": 8,
+    "exam_key": "2022_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3485,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]\n백 성 은 윗 사 람 을 섬기는 자 이 고, 수 령 은 백 성 을 다스리는 자 이 다.\n수령 노 릇 을 질 하려면 반드시 청 령 해야 하며, 청 렴 하려면 반드시\n절 약 해야 한다. 청 렴 은 천 하 의 큰 장 사 이므로 백 성 을 위해 크게\n탐 하 는 [80 자는 반드시 청 렵 하 려 한다. 수 령 이 치 밀 하지 못하여\n재 물 을 쓰는 방 법 을 몰라 실 효 (@680 가 없으면 안 된다. 수 령 이\n경 비 를 남 용 하면 재 정 이 부 족 해 져 백 성 의 재 물 을 약 탈 하게 된다.\n0) 수 령 은 공무 수행 시 재정 지 출 의 효 과 를 고 려 해 서는 안 된다.\n수 령 은 공 공 의 복리 증 진 이 아니라 재정 확 보 에 주 력 해 야 한다.\n3) 수 령 은 백 성 과 자 신 이 직 분 상 동등한 관 계 임을 자 각 해 야 한다.\n0) 수 령 은 겸 소 하 지 않을 경우 자 신 의 직 무 를 올바로 수 행 할 수 없다.\n수 령 은 공무 수 행 에서 인 ({-) 을 실 현 하려는 마 음 을 억 제 해야 한다.",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "백 성 은 윗 사 람 을 섬기는 자 이 고, 수 령 은 백 성 을 다스리는 자 이 다.\n수령 노 릇 을 질 하려면 반드시 청 령 해야 하며, 청 렴 하려면 반드시\n절 약 해야 한다. 청 렴 은 천 하 의 큰 장 사 이므로 백 성 을 위해 크게\n탐 하 는 [80 자는 반드시 청 렵 하 려 한다. 수 령 이 치 밀 하지 못하여\n재 물 을 쓰는 방 법 을 몰라 실 효 (@680 가 없으면 안 된다. 수 령 이\n경 비 를 남 용 하면 재 정 이 부 족 해 져 백 성 의 재 물 을 약 탈 하게 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "수 령 은 공무 수행 시 재정 지 출 의 효 과 를 고 려 해 서는 안 된다."
+      },
+      {
+        "number": 2,
+        "text": "수 령 은 공 공 의 복리 증 진 이 아니라 재정 확 보 에 주 력 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "수 령 은 백 성 과 자 신 이 직 분 상 동등한 관 계 임을 자 각 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "수 령 은 겸 소 하 지 않을 경우 자 신 의 직 무 를 올바로 수 행 할 수 없다."
+      },
+      {
+        "number": 5,
+        "text": "수 령 은 공무 수 행 에서 인 ({-) 을 실 현 하려는 마 음 을 억 제 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.896,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:26+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 62,
+    "question_number": 9,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      650,
+      3148,
+      3292
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때,\n쇼 ~1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 자연 체계 내 에 서 의 인 간 은 다른 동 물 들 과 같이 대 지 의\n산 물 로서 평범한 가 치 를 가진다. 그러나 도덕적, 실천적\n이 성 의 주 체 로서 인 간 은 자연 안에 존 엄 하 며 절대적\n가 치 를 지닌 존 재 이다.\n을: 새로운 윤 리 는 도덕적, 심미적 관 점 을 담아 옮 고 그 름 의\n기 준 을 마련해야 하며, 생명 공 동 체 의 온 전 함에 기 여 해 야\n(가)\n한다. 그러므로 대 지 의 사 용 을 이 익 의 문 제 로만 생각\n하지 말아야 한다.\n병 ： 도덕적 기 준 은 어떤 행 위 에 의해 영 향 을 받는 모든\n존 재 들의 이 익 과 고 통 을 동 등 하게 고 려 하는 데 있다.\n그러므로 어떤 행 위 가 누 군 가 에게 피 해 를 입 히 게 된다면,\n그 행 위 는 하지 말아야 한다.\n범 례\n쇼 : 갑 만의 입장\n(나)\n8: 을 만의 입장\n6: 을 , 병 만의 입장\n1: 갑 , 을 , 병 공 통 의 입장\n: 으 고\n< 보 기 >\nㄱ . ㅅ : 대 지 의 모든 산 물 을 목적 그 자 체 로 대 우 해야 한다.\nㄴ . 2: 대지 공동체 자 체 가 지닌 도덕적 지 위 를 인 정 해 야 한다.\nㄷ . 0: 고 통 을 느낄 수 있는 모든 쟁 명 체 를 동 일 하게 대 우 해야 힌다\n르 . 1): 동물 학 대 가 인 간 의 의 무 에 위 배 될 수 있 음 을 인 정 해 야 한다.\n007, ㄴ 0 7 ㄱ 7, ㄴ 8) ㄴ , 르\n0) 7, =, 르 05) 는, =, 르",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때, 쇼 ~1 에 해 당 하는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 자연 체계 내 에 서 의 인 간 은 다른 동 물 들 과 같이 대 지 의\n산 물 로서 평범한 가 치 를 가진다. 그러나 도덕적, 실천적\n이 성 의 주 체 로서 인 간 은 자연 안에 존 엄 하 며 절대적\n가 치 를 지닌 존 재 이다.\n을: 새로운 윤 리 는 도덕적, 심미적 관 점 을 담아 옮 고 그 름 의\n기 준 을 마련해야 하며, 생명 공 동 체 의 온 전 함에 기 여 해 야\n(가)\n한다. 그러므로 대 지 의 사 용 을 이 익 의 문 제 로만 생각\n하지 말아야 한다.\n병 ： 도덕적 기 준 은 어떤 행 위 에 의해 영 향 을 받는 모든\n존 재 들의 이 익 과 고 통 을 동 등 하게 고 려 하는 데 있다.\n그러므로 어떤 행 위 가 누 군 가 에게 피 해 를 입 히 게 된다면,\n그 행 위 는 하지 말아야 한다.\n범 례\n쇼 : 갑 만의 입장\n(나)\n8: 을 만의 입장\n6: 을 , 병 만의 입장\n1: 갑 , 을 , 병 공 통 의 입장\n: 으 고\n< 보 기 >\nㄱ . ㅅ : 대 지 의 모든 산 물 을 목적 그 자 체 로 대 우 해야 한다.\nㄴ . 2: 대지 공동체 자 체 가 지닌 도덕적 지 위 를 인 정 해 야 한다.\nㄷ . 0: 고 통 을 느낄 수 있는 모든 쟁 명 체 를 동 일 하게 대 우 해야 힌다\n르 . 1): 동물 학 대 가 인 간 의 의 무 에 위 배 될 수 있 음 을 인 정 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "007, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "7 ㄱ 7, ㄴ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 르"
+      },
+      {
+        "number": 4,
+        "text": "7, =, 르"
+      },
+      {
+        "number": 5,
+        "text": "는, =, 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.879,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:57+00:00",
+    "qa_flags": []
+  }
+}

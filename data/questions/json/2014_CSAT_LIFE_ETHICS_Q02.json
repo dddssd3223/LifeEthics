@@ -1,0 +1,73 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 9,
+    "question_number": 2,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2530,
+      1594,
+      4302
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. (가) 사 상 의 입 장 에서 몰 때, 퍼즐 ( 나 ) 의 세로 날 말 (4&) 에 대한\n설 명 으로 가장 적절한 것은?\n괴 로 움 [ 좀 ], 괴 로 움 의 원 인 [ 뜻 ], 괴 로 움 의 사 라 짐 [00,\n( 가 )| 그리고 괴 로 움 의 사 라 짐 으로 인 도 하는 방 법 [81} 을 바른\n통 찰 지로 보는 사 람 은 모든 괴 로 움 에서 벗어날 것이다.\n(&)\n(8)\n( 나 )| [가로 열쇠]\n(4): 나를 나답게 만들어 주는 연 속 적 이고 독자적인\n특성. )(_) ( 정 체성\n(8): 어떤 원 인 으 로부터 반드시 그에 따른 결 과 가 나올\n수밖에 없다는 것. 인 과 적 | ㅣ ]| 성\n[세로 열쇠]\n(6): 이 이 이 개 념\n0) 아무런 목 적 이 없는 무 위 (※&8) 의 질서 체 계 이다.\n(3) 인 간 이 마땅히 지켜야 할 예법 (#@5) 의 기 준 이다.\n(3) 우 주 의 근 원 이며 원 리 인 도 ( 코 ) 가 구 현 된 질 서 이 다.\n(4) 만 물 이 조 화 를 이루는 상호 의존적 관 계 의 망 (”8) 이 다.\n(5) 인간 의 식 으로부터 독 립 하여 존 재 하는 물리적 대 상 이다.",
+    "stem": "(가) 사 상 의 입 장 에서 몰 때, 퍼즐 ( 나 ) 의 세로 날 말 (4&) 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "괴 로 움 [ 좀 ], 괴 로 움 의 원 인 [ 뜻 ], 괴 로 움 의 사 라 짐 [00,\n( 가 )| 그리고 괴 로 움 의 사 라 짐 으로 인 도 하는 방 법 [81} 을 바른\n통 찰 지로 보는 사 람 은 모든 괴 로 움 에서 벗어날 것이다.\n(&)\n(8)\n( 나 )| [가로 열쇠]\n(4): 나를 나답게 만들어 주는 연 속 적 이고 독자적인\n특성. )(_) ( 정 체성\n(8): 어떤 원 인 으 로부터 반드시 그에 따른 결 과 가 나올\n수밖에 없다는 것. 인 과 적 | ㅣ ]| 성\n[세로 열쇠]\n(6): 이 이 이 개 념",
+    "choices": [
+      {
+        "number": 1,
+        "text": "아무런 목 적 이 없는 무 위 (※&8) 의 질서 체 계 이다."
+      },
+      {
+        "number": 2,
+        "text": "인 간 이 마땅히 지켜야 할 예법 (#@5) 의 기 준 이다."
+      },
+      {
+        "number": 3,
+        "text": "우 주 의 근 원 이며 원 리 인 도 ( 코 ) 가 구 현 된 질 서 이 다."
+      },
+      {
+        "number": 4,
+        "text": "만 물 이 조 화 를 이루는 상호 의존적 관 계 의 망 (”8) 이 다."
+      },
+      {
+        "number": 5,
+        "text": "인간 의 식 으로부터 독 립 하여 존 재 하는 물리적 대 상 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.857,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:47+00:00",
+    "qa_flags": []
+  }
+}

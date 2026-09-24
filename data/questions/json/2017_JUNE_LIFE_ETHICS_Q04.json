@@ -1,0 +1,73 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 37,
+    "question_number": 4,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      2000,
+      2999,
+      3189
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 동양 사상가 갑 , 을 의 입 장 으로 가장 적절한 것은?\n갑 : 삶 과 죽 음 은 차 별 이 없는데, 어찌 그것을 근 심 하겠는가? 만 물 은\n하 나 이 나 사 람 들 은 아름다운 것을 신 기 하다 하고 추악한\n것을 썩어 냄 새 난다고 한다. 썩어 냄 새 나는 것이 신기한 것이\n되고 신기한 것이 다시 썩어 냄 새 나는 것이 되는 법 이다,\n을: 사 람 도 잘 섭 기지 못하면서 어떻게 귀신 섭 기는 일 을 할 수\n있 겠 으며, 삶 도 아직 알지 못 하 거늘 어떻게 죽 음 을 알 수\n있겠는가? 백 성 이 의 롭게 되는 일 에 전 력 을 다하고, 귀 신 을\n공 경 하되 멀 러 하는 것이 지 혜 로 움 이라고 할 수 있다.\n0 갑 : 삶 과 죽 음 은 계속 반 복 되므로 분 별 되어야 한다.\n6) 갑 : 삶 과 죽 음 은 좋 아 하 거나 싫어할 대 상 이 아니다.\n8) 을: 현실적 삶 을 긍 정 하고 제사 의 례 를 근 절 해야 한다.\n@) 을: 죽 음 의 공 포 를 극 복 하기 위해서 의 로 옴에 힘써야 한다.\n6) 감 , 을: 현 세 에 서 의 도덕적 실 천 이 내 세 에 서 의 삶 을 결 정 한 다.",
+    "stem": "동양 사상가 갑 , 을 의 입 장 으로 가장 적절한 것은?",
+    "passage": "갑 : 삶 과 죽 음 은 차 별 이 없는데, 어찌 그것을 근 심 하겠는가? 만 물 은\n하 나 이 나 사 람 들 은 아름다운 것을 신 기 하다 하고 추악한\n것을 썩어 냄 새 난다고 한다. 썩어 냄 새 나는 것이 신기한 것이\n되고 신기한 것이 다시 썩어 냄 새 나는 것이 되는 법 이다,\n을: 사 람 도 잘 섭 기지 못하면서 어떻게 귀신 섭 기는 일 을 할 수\n있 겠 으며, 삶 도 아직 알지 못 하 거늘 어떻게 죽 음 을 알 수\n있겠는가? 백 성 이 의 롭게 되는 일 에 전 력 을 다하고, 귀 신 을\n공 경 하되 멀 러 하는 것이 지 혜 로 움 이라고 할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 삶 과 죽 음 은 계속 반 복 되므로 분 별 되어야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 삶 과 죽 음 은 좋 아 하 거나 싫어할 대 상 이 아니다."
+      },
+      {
+        "number": 3,
+        "text": "을: 현실적 삶 을 긍 정 하고 제사 의 례 를 근 절 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "을: 죽 음 의 공 포 를 극 복 하기 위해서 의 로 옴에 힘써야 한다."
+      },
+      {
+        "number": 5,
+        "text": "감 , 을: 현 세 에 서 의 도덕적 실 천 이 내 세 에 서 의 삶 을 결 정 한 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.915,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:58+00:00",
+    "qa_flags": []
+  }
+}

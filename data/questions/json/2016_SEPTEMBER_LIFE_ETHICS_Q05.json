@@ -1,0 +1,73 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 29,
+    "question_number": 5,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      3382,
+      2999,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q05.png",
+    "raw_text": "6. (가), (나) 사 상 의 입 장 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]\n하 늘 은 아 버 지 요 , 땅 은 어 머 니 이다. 나는 미미한 존 재 로\n(가) | 그 가운데 살고 있다. 나는 천 지 의 기 운 [% 을 나의\n몸 으로, 천 지 의 이 치 [ 빼 ] 를 나의 본 성 으로 여긴다.\n이것이 있으면 저 것 이 있고, 이것이 없으면 저 것 이\n(나) | 없다. 이것이 생 겨 나 는 [5] 까 닭 에 저 것 이 생 겨 나 고,\n이것이 사 멸 하 는 [00] 까 닭 에 저 것 이 사 멸 한다.\n0) ( 가 ) 는 만 물 이 지닌 생 명 력 을 천 도 (238) 의 도덕적 표 현 으 로 본다.\n(2) ( 나 ) 는 만 물 의 변 화 는 물질적 요 소 의 이 합 집 산 일 뿐이라고 본다.\n(3) ( 가 ) 는 ( 나 ) 와 달리 천 지 를 가 치 중 립 적인 물리적 대 상 으로 본다.\n0) ( 나 ) 는 ( 가 ) 와 달리 천 지 를 질 서 가 없는 무 위 (※588) 체 계 로 본다.\n(65) (가), ( 나 ) 는 만 물 을 연기 브 ) 에 의한 상호 의존적 존 재 로 본다.",
+    "stem": "(가), (나) 사 상 의 입 장 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "하 늘 은 아 버 지 요 , 땅 은 어 머 니 이다. 나는 미미한 존 재 로\n(가) | 그 가운데 살고 있다. 나는 천 지 의 기 운 [% 을 나의\n몸 으로, 천 지 의 이 치 [ 빼 ] 를 나의 본 성 으로 여긴다.\n이것이 있으면 저 것 이 있고, 이것이 없으면 저 것 이\n(나) | 없다. 이것이 생 겨 나 는 [5] 까 닭 에 저 것 이 생 겨 나 고,\n이것이 사 멸 하 는 [00] 까 닭 에 저 것 이 사 멸 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "( 가 ) 는 만 물 이 지닌 생 명 력 을 천 도 (238) 의 도덕적 표 현 으 로 본다."
+      },
+      {
+        "number": 2,
+        "text": "( 나 ) 는 만 물 의 변 화 는 물질적 요 소 의 이 합 집 산 일 뿐이라고 본다."
+      },
+      {
+        "number": 3,
+        "text": "( 가 ) 는 ( 나 ) 와 달리 천 지 를 가 치 중 립 적인 물리적 대 상 으로 본다."
+      },
+      {
+        "number": 4,
+        "text": "( 나 ) 는 ( 가 ) 와 달리 천 지 를 질 서 가 없는 무 위 (※588) 체 계 로 본다."
+      },
+      {
+        "number": 5,
+        "text": "(가), ( 나 ) 는 만 물 을 연기 브 ) 에 의한 상호 의존적 존 재 로 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.901,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:40+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 122,
+    "question_number": 10,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3199,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 그 림 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은? [3 점 ]\n문화 산 업 은 소 비 자 의 욕 구 가 실 현 될 수 있는 것처럼\n선 전 하 지만 그 욕 구 는 문화 산 업 에 의해 사전 기 획 된\n것 입니다. 문화 산 업 의 공식 목 표 는 하자 없는 완전한\n규 격 품 을 만 들 듯 이 인 간 을 재 생 산 하 는 것 입 니다.\n세상에 나타나고 있는 모든 것 에 는 문화 산 업 의 인 장 이\n찍 힙니다. 문화 산 업 의 기 획 자 들은 소 비 자 들을 기 만 하며\n들을 소 비 를 위한 단순한 객 체 로 만듭니다. 문화 상 품 의\n수용 과 정 에서도 예술 작 품 의 사용 가 치 는 교환 가 치 에\n의해 대 체 됩니다. 하지만 정 신 은 예 술 의 잘못된 보편성\n으로부터 벗어나 진정한 보 편 성 에 충 실 하고자 합니다.\n정 신 의 진정한 속 성 은 사 물 화 에 대한 부 정 입니다. 정 신 이\n문화 상 품 으로 고 정 되고 소 비 를 위한 목 적 으로 팔아\n넘 겨 지면 정 신 은 소 멸 할 수밖에 없습니다.\n도 으니\n0) 문화 산 업 은 문화 상 품 의 표준화 가 등 성 을 약 화 한다.\n0) 문화 산 업 은 사 물 화 를 거 부 하 는 정 신 의 속 성 을 강 화 한 다.\n8) 문화 산 업 은 대 중 문 화 에 대한 소 비 자 의 주 체 성 을 훼 손 한 다.\n0) 문화 산 업 의 대중적 확 산 은 예 술 의 고 유 한 보 편 성 을 고 양 한다.\n069) 문화 산 업 은 예술 작 품 이 지닌 경제적 효용 가 치 를 약 화 한 다.",
+    "stem": "그 림 의 강 연 자가 지 지 할 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "문화 산 업 은 소 비 자 의 욕 구 가 실 현 될 수 있는 것처럼\n선 전 하 지만 그 욕 구 는 문화 산 업 에 의해 사전 기 획 된\n것 입니다. 문화 산 업 의 공식 목 표 는 하자 없는 완전한\n규 격 품 을 만 들 듯 이 인 간 을 재 생 산 하 는 것 입 니다.\n세상에 나타나고 있는 모든 것 에 는 문화 산 업 의 인 장 이\n찍 힙니다. 문화 산 업 의 기 획 자 들은 소 비 자 들을 기 만 하며\n들을 소 비 를 위한 단순한 객 체 로 만듭니다. 문화 상 품 의\n수용 과 정 에서도 예술 작 품 의 사용 가 치 는 교환 가 치 에\n의해 대 체 됩니다. 하지만 정 신 은 예 술 의 잘못된 보편성\n으로부터 벗어나 진정한 보 편 성 에 충 실 하고자 합니다.\n정 신 의 진정한 속 성 은 사 물 화 에 대한 부 정 입니다. 정 신 이\n문화 상 품 으로 고 정 되고 소 비 를 위한 목 적 으로 팔아\n넘 겨 지면 정 신 은 소 멸 할 수밖에 없습니다.\n도 으니",
+    "choices": [
+      {
+        "number": 1,
+        "text": "문화 산 업 은 문화 상 품 의 표준화 가 등 성 을 약 화 한다."
+      },
+      {
+        "number": 2,
+        "text": "문화 산 업 은 사 물 화 를 거 부 하 는 정 신 의 속 성 을 강 화 한 다."
+      },
+      {
+        "number": 3,
+        "text": "문화 산 업 은 대 중 문 화 에 대한 소 비 자 의 주 체 성 을 훼 손 한 다."
+      },
+      {
+        "number": 4,
+        "text": "문화 산 업 의 대중적 확 산 은 예 술 의 고 유 한 보 편 성 을 고 양 한다."
+      },
+      {
+        "number": 5,
+        "text": "069) 문화 산 업 은 예술 작 품 이 지닌 경제적 효용 가 치 를 약 화 한 다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.91,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:31+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 16,
+    "question_number": 17,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1898,
+      1592,
+      2861
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다음 전통 의 례 에 반 영 되 어 있는 관 점 으로 가장 적절한 것은?\n0 결 혼 은 혼 인 이라고 하는데, 혼 08 은 남 자 가 장 가 든다. 는\n의 미 이고, 인 0) 은 여 자 가 시 집 간다. 는 의 미 이다.\nㅇ 대 례 (220) 중 합 근 례 ( 슴 졸 랩 ) 에 서는 하 나 의 박 을 쪼개\n두 개로 만들어 술 을 나누어 마신 후 다시 하나로 만든다.\n0 부 부 의 관 계 는 이 해 타 산적 합 리 성 에 기 초 해야 한다.\n(3) 부 부 의 역 할 은 권 위 주 의 적 질 서 에 기 초 하여 정 해 져 야 한다.\n8) 부 부 는 생물학적 차 이 에 따라 위 계 적 관 계 를 정 립 해야 한다.\n부 부 는 각 자 의 독자적 삶 의 영 역 을 구 축 하는 데 힘써야 한다.\n부 부 는 결혼 생 활 에 동 등 하게 참 여 하고 서 로 를 보 완 해야 한다.",
+    "stem": "다음 전통 의 례 에 반 영 되 어 있는 관 점 으로 가장 적절한 것은?",
+    "passage": "0 결 혼 은 혼 인 이라고 하는데, 혼 08 은 남 자 가 장 가 든다. 는\n의 미 이고, 인 0) 은 여 자 가 시 집 간다. 는 의 미 이다.\nㅇ 대 례 (220) 중 합 근 례 ( 슴 졸 랩 ) 에 서는 하 나 의 박 을 쪼개\n두 개로 만들어 술 을 나누어 마신 후 다시 하나로 만든다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "부 부 의 관 계 는 이 해 타 산적 합 리 성 에 기 초 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "부 부 의 역 할 은 권 위 주 의 적 질 서 에 기 초 하여 정 해 져 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "부 부 는 생물학적 차 이 에 따라 위 계 적 관 계 를 정 립 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "부 부 는 각 자 의 독자적 삶 의 영 역 을 구 축 하는 데 힘써야 한다."
+      },
+      {
+        "number": 5,
+        "text": "부 부 는 결혼 생 활 에 동 등 하게 참 여 하고 서 로 를 보 완 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.879,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:03+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2026_JUNE_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 146,
+    "question_number": 7,
+    "exam_key": "2026_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1862,
+      1740,
+      3350
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_JUNE_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. (가), (나) 사 상 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로\n고른 것은?\n(가) 불 자 (0 구 ) 는 음 식 의 적당한 양 을 알고, 지혜롭게 숙 고 하며\n공 양 ( 쌈 졸 ) 을 받아야 한다. 그것은 즐기기 위 함 이 아니라,\n몸 을 존 속 하며 청 정 (656@) 한 수 행 으로 평 안 을 얻기 위 함 이다.\n(나) 군 자 ( 겁 구 ) 는 배불리 먹 기 를 구하지 말아야 하고, 밥 을 먹는\n순 간 에 도 인 (《<-) 을 어 기 지 말아야 한다. 거친 밥 을 먹고 물만\n마셔도 즐 거 움 은 또한 그 가운데 있다.\n< 보 기 >\nㄱ . (가): 음 식 에 대한 성 찰 적 태 도 로 마 음 의 안 정 을 얻을 수 있다.\nㄴ . (가): 음식 섭 취 의 목 적 은 자연적 욕구 충 족 에 국 한 되어야 한다.\nㄷ . (나): 도 리 에 맞게 음 식 을 섭 취 하는 것에 즐 거 움 이 있다.\n르 . ( 가 ) 와 (나): 음 식 을 절제 있게 먹는 것은 수 행 의 일 환 이다.\n0) ㄱ ㄴ 0200 ㄴ , ㄷ 03) ㄷ , 르\n04 ㄱ 7, ㄴ , 2 06) 7, ㄷ , 르",
+    "stem": "(가), (나) 사 상 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "(가) 불 자 (0 구 ) 는 음 식 의 적당한 양 을 알고, 지혜롭게 숙 고 하며\n공 양 ( 쌈 졸 ) 을 받아야 한다. 그것은 즐기기 위 함 이 아니라,\n몸 을 존 속 하며 청 정 (656@) 한 수 행 으로 평 안 을 얻기 위 함 이다.\n(나) 군 자 ( 겁 구 ) 는 배불리 먹 기 를 구하지 말아야 하고, 밥 을 먹는\n순 간 에 도 인 (《<-) 을 어 기 지 말아야 한다. 거친 밥 을 먹고 물만\n마셔도 즐 거 움 은 또한 그 가운데 있다.\n< 보 기 >\nㄱ . (가): 음 식 에 대한 성 찰 적 태 도 로 마 음 의 안 정 을 얻을 수 있다.\nㄴ . (가): 음식 섭 취 의 목 적 은 자연적 욕구 충 족 에 국 한 되어야 한다.\nㄷ . (나): 도 리 에 맞게 음 식 을 섭 취 하는 것에 즐 거 움 이 있다.\n르 . ( 가 ) 와 (나): 음 식 을 절제 있게 먹는 것은 수 행 의 일 환 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "0200 ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 르"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ 7, ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "7, ㄷ , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.868,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:18+00:00",
+    "qa_flags": []
+  }
+}

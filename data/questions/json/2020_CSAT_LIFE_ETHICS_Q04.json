@@ -1,0 +1,73 @@
+{
+  "id": "2020_CSAT_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 81,
+    "question_number": 4,
+    "exam_key": "2020_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      1057,
+      3149,
+      3178
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_CSAT_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. (가), (나) 사 상 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로\n고른 것은? [3 점 ]\n(가) 악 (88 은 ' 같 음 ' 을 , 예 08: 는 ' 다 름 ' 을 위한 것이다. 같으면\n서로 친하게 되고, 다르면 서로 공 경 하게 된다. 악 이 화 합 을\n극 진 하게 하고 예가 순 서 를 극 진 하게 하여, 안으로 화합\n하고 밖으로 질 서 를 이 룬 다 면 , 백 성 은 그 안 색 을 보고 서로\n다 투 지 않게 되며, 그 용 모 를 보고 업 신 여기지 않게 된다.\n(나) 악 (은 비록 눈 으로 보 기 에 아름답고 귀로 듣 기 에 즐거\n우나, 백 성 의 이 익 에는 부 합 하지 않는다. 악 기 를 연 주 하며\n춤추는 것을 일 삼 는 다면, 백 성 이 입고 먹을 재 물 은 어찌\n얻을 수 있겠는가? 일 젝 이 여러 악 기 를 만들고 연 주 했어도\n천 하 의 이 익 을 증 진 하는 데 도 움 이 되지 않았다.\n< 보 기 >\nㄱ . (가): 예 와 악 은 서로 보 완 적인 역 할 을 한다.\nㄴ . (가): 예 악 은 정 서 의 순 화 와 언 행 의 교화 모 두 에 기 여 한 다.\nㄷ . (나): 음 악 은 실용적 관 점 보다 심미적 관 점 에서 평 가 해야 한다.\n른 . (가), (나) : 음 악 의 가 치 는 사회적 효 과 를 고 려 하여 판 단 해야 한다.\n0) ㄱㄱ, ㄴ 00 ㄴ , ㄷ (03) ㄷ , 큰\n04) 7, ㄴ , 크 06) 7, ㄷ , 르",
+    "stem": "(가), (나) 사 상 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "(가) 악 (88 은 ' 같 음 ' 을 , 예 08: 는 ' 다 름 ' 을 위한 것이다. 같으면\n서로 친하게 되고, 다르면 서로 공 경 하게 된다. 악 이 화 합 을\n극 진 하게 하고 예가 순 서 를 극 진 하게 하여, 안으로 화합\n하고 밖으로 질 서 를 이 룬 다 면 , 백 성 은 그 안 색 을 보고 서로\n다 투 지 않게 되며, 그 용 모 를 보고 업 신 여기지 않게 된다.\n(나) 악 (은 비록 눈 으로 보 기 에 아름답고 귀로 듣 기 에 즐거\n우나, 백 성 의 이 익 에는 부 합 하지 않는다. 악 기 를 연 주 하며\n춤추는 것을 일 삼 는 다면, 백 성 이 입고 먹을 재 물 은 어찌\n얻을 수 있겠는가? 일 젝 이 여러 악 기 를 만들고 연 주 했어도\n천 하 의 이 익 을 증 진 하는 데 도 움 이 되지 않았다.\n< 보 기 >\nㄱ . (가): 예 와 악 은 서로 보 완 적인 역 할 을 한다.\nㄴ . (가): 예 악 은 정 서 의 순 화 와 언 행 의 교화 모 두 에 기 여 한 다.\nㄷ . (나): 음 악 은 실용적 관 점 보다 심미적 관 점 에서 평 가 해야 한다.\n른 . (가), (나) : 음 악 의 가 치 는 사회적 효 과 를 고 려 하여 판 단 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 크"
+      },
+      {
+        "number": 5,
+        "text": "7, ㄷ , 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.887,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:43+00:00",
+    "qa_flags": []
+  }
+}

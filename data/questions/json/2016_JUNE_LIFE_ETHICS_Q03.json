@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 5,
+    "original_compilation_page": 25,
+    "question_number": 3,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1767,
+      1126,
+      3292,
+      2411
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q03.png",
+    "raw_text": "8. 현대 서양 사상가 갑 , 을 의 입 장 에 대한 설 명 으로 가장 적절한 것은?\n갑 : 인 종 이나 성 (8) 을 근 거 로 하여 평 등 한 도덕적 지 위 를 부정\n하는 것이 그른 것처럼, 우리 종 00) 의 구 성 원 이 아니라는 것을\n근 거 로 하여 평 등 한 도덕적 지 위 를 부 정 하는 것은 옮 지 않다.\n고 통 과 쾌 락 의 감수 능 력 이 이익 관 심 을 갖는 전제 조 건 이다.\n: 모든 생 명 은 목 적 론 적 삶 의 중심 에 서 있기 때문에 자기\n고 유 의 - 선 ( 롬 ) 을 가지고 있다고 할 수 있다. 그래서 모든\n생 명 은 변 화 하는 환 경 에 성 공 적 으로 적 응 하여 자 신 의\n생 존 을 유 지 하고, 종 (@) 을 재 생 산 하려는 경 향 성 을 갖는\n0 갑 은 도덕 공 동 체 의 법 위 를 생 태 계 까 지 확 대 헤 야 한다고 본다.\n잡은 고 통 을 느낄 수 있는 동 물 을 도덕적 고 려 의 대 상 으로 본다.\n(3) 을 은 자 연 의 모든 존 재 는 그 자 체 로 존 중 의 대 상 이라고 본다.\n(4) 을 은 생 명 을 인 간 의 선한 목 적 을 위한 도 구 적 대 상 으로 본다.\n@) 갑 , 을 은 인 간 이 자연 전 체 에 대한 직접적 의 무 를 가진다고 본다.",
+    "stem": "현대 서양 사상가 갑 , 을 의 입 장 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "갑 : 인 종 이나 성 (8) 을 근 거 로 하여 평 등 한 도덕적 지 위 를 부정\n하는 것이 그른 것처럼, 우리 종 00) 의 구 성 원 이 아니라는 것을\n근 거 로 하여 평 등 한 도덕적 지 위 를 부 정 하는 것은 옮 지 않다.\n고 통 과 쾌 락 의 감수 능 력 이 이익 관 심 을 갖는 전제 조 건 이다.\n: 모든 생 명 은 목 적 론 적 삶 의 중심 에 서 있기 때문에 자기\n고 유 의 - 선 ( 롬 ) 을 가지고 있다고 할 수 있다. 그래서 모든\n생 명 은 변 화 하는 환 경 에 성 공 적 으로 적 응 하여 자 신 의\n생 존 을 유 지 하고, 종 (@) 을 재 생 산 하려는 경 향 성 을 갖는",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 도덕 공 동 체 의 법 위 를 생 태 계 까 지 확 대 헤 야 한다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "고 통 을 느낄 수 있는 동 물 을 도덕적 고 려 의 대 상 으로 본다."
+      },
+      {
+        "number": 3,
+        "text": "을 은 자 연 의 모든 존 재 는 그 자 체 로 존 중 의 대 상 이라고 본다."
+      },
+      {
+        "number": 4,
+        "text": "을 은 생 명 을 인 간 의 선한 목 적 을 위한 도 구 적 대 상 으로 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 인 간 이 자연 전 체 에 대한 직접적 의 무 를 가진다고 본다."
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.808,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T111523",
+    "extracted_at": "2026-09-24T11:20:19+00:00",
+    "qa_flags": []
+  }
+}

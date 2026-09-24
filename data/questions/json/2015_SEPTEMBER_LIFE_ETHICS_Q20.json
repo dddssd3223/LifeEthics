@@ -1,0 +1,80 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 20,
+    "question_number": 20,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2478,
+      2999,
+      4060
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. 그 림 은 수행 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 ㅁ ㅠ ~6 ㅁ\n중 옮 지 않은 것은?\n6 ㄴ _\n^ 수행 평가\n@ 문제: 과학과 윤 리 의 관 계 에 대한 갑 , 을 의 입 장 을 비 교 하시오.\n갑 : 과 학 은 사회적 적 용 을 전 제 로 한다. 과 학 은 연구 활동 및 그 결과\n의 활용 과 정 에 서 인 간 과 사 회 에 해 악 을 줄 가 능 성 이 있다. 따라서\n과 학 은 윤리적 평가 대 상 이 된다.\n을: 과 학 은 과학적 진 리 의 발 견 을 목 적 으로 한다. 그 연구 결 과 를 활용\n할 때 발 생 하는 해 악 은 기술 개 발 자 와 이 용 자 의 책 임 이다. 따 리 서\n과학 연구 활 동 은 윤리적 평가 대 상 이 아니다.\n@ 학생 답안\n과학과 윤 리 의 관 계 에 대한 잡 , 을 의 입 장 을 비 교 하면, @)) 잡은 과 학 이\n도덕적 가 치 와 연 관 된 다고 보며, 00 을 은 과학 연구 결 과 의 활 용 이 도덕적\n가 치 와 연 관 된 다고 본다, 그 런 므로 2 잡은 과 학 이 인 간 과 사 회 에 미치는\n영 향 에 주 의 할 것을 요 구 하지만, 8) 을 은 과학 연구 활 동 은 규 법적 평 가 에서\n제 외 되어야 한다고 본다, 한편, 09 잡 , 을 은 과학 연구 활 동 은 그 결 과 의 활 용 과\n분 리 되 어 평 가 될 수 없다고 본다, ^\n00 00 ㄴ 8 0) ㅁ 00 @) 69) 2:",
+    "stem": "그 림 은 수행 평가 문 제 와 학생 답 안 이다. 학생 답 안 의 ㅁ ㅠ ~6 ㅁ 중 옮 지 않은 것은?",
+    "passage": "6 ㄴ _\n^ 수행 평가\n@ 문제: 과학과 윤 리 의 관 계 에 대한 갑 , 을 의 입 장 을 비 교 하시오.\n갑 : 과 학 은 사회적 적 용 을 전 제 로 한다. 과 학 은 연구 활동 및 그 결과\n의 활용 과 정 에 서 인 간 과 사 회 에 해 악 을 줄 가 능 성 이 있다. 따라서\n과 학 은 윤리적 평가 대 상 이 된다.\n을: 과 학 은 과학적 진 리 의 발 견 을 목 적 으로 한다. 그 연구 결 과 를 활용\n할 때 발 생 하는 해 악 은 기술 개 발 자 와 이 용 자 의 책 임 이다. 따 리 서\n과학 연구 활 동 은 윤리적 평가 대 상 이 아니다.\n@ 학생 답안\n과학과 윤 리 의 관 계 에 대한 잡 , 을 의 입 장 을 비 교 하면, @)) 잡은 과 학 이\n도덕적 가 치 와 연 관 된 다고 보며, 00 을 은 과학 연구 결 과 의 활 용 이 도덕적\n가 치 와 연 관 된 다고 본다, 그 런 므로 2 잡은 과 학 이 인 간 과 사 회 에 미치는\n영 향 에 주 의 할 것을 요 구 하지만, 8) 을 은 과학 연구 활 동 은 규 법적 평 가 에서\n제 외 되어야 한다고 본다, 한편, 09 잡 , 을 은 과학 연구 활 동 은 그 결 과 의 활 용 과\n분 리 되 어 평 가 될 수 없다고 본다, ^",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(0"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ 8"
+      },
+      {
+        "number": 3,
+        "text": "ㅁ"
+      },
+      {
+        "number": 4,
+        "text": "@)"
+      },
+      {
+        "number": 5,
+        "text": "2:"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=3759",
+      "vector_lines=5980"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.883,
+    "review_required": true,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED",
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:50:51+00:00",
+    "qa_flags": []
+  }
+}

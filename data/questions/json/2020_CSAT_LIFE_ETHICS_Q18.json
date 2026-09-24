@@ -1,0 +1,73 @@
+{
+  "id": "2020_CSAT_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 84,
+    "question_number": 18,
+    "exam_key": "2020_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      1583
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_CSAT_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 다음 사 상 가 의 입 장 으로 가장 적절한 것은?\n거의 정 의 로운 사 회 에서 구 성 원 에게 요 구 되는 가장 중대한\n자연적 의 무 는 체 제 의 안 정 에 기 여 하는 것이다. 이를 위해\n구 성 윈 들은 체 제 의 불가피한 결 함 을 똑같이 분 담 해야 한다.\n물론 사 회 의 부 정 의가 구 성 원 에게 주는 부 담 이 과 도 해서는 안 된다,\n0) 공 유 된 정 의 감 에 호 소 하는 시민 불 복 종 이 공 공 적일 필 요 는 없다.\n(2) 법 이 부 정 의한 정 도 에 따라 시민 불 복 종 의 정당화 여 부 가 달라진다.\n3) 민주적 권 위 에 맞서는 모든 위법 행 위 는 체 제 의 안 정 을 해친다.\n4 정의 원 칙 에 기초한 헌 법 하에서는 부 정 의한 법 이 제 정 되지 않는다.\n(9) 꾸 정의한 법 을 준 수 할 의 무 는 거의 정 의 로운 사 회 에서 존재할 수 없다",
+    "stem": "다음 사 상 가 의 입 장 으로 가장 적절한 것은?",
+    "passage": "거의 정 의 로운 사 회 에서 구 성 원 에게 요 구 되는 가장 중대한\n자연적 의 무 는 체 제 의 안 정 에 기 여 하는 것이다. 이를 위해\n구 성 윈 들은 체 제 의 불가피한 결 함 을 똑같이 분 담 해야 한다.\n물론 사 회 의 부 정 의가 구 성 원 에게 주는 부 담 이 과 도 해서는 안 된다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "공 유 된 정 의 감 에 호 소 하는 시민 불 복 종 이 공 공 적일 필 요 는 없다."
+      },
+      {
+        "number": 2,
+        "text": "법 이 부 정 의한 정 도 에 따라 시민 불 복 종 의 정당화 여 부 가 달라진다."
+      },
+      {
+        "number": 3,
+        "text": "민주적 권 위 에 맞서는 모든 위법 행 위 는 체 제 의 안 정 을 해친다."
+      },
+      {
+        "number": 4,
+        "text": "정의 원 칙 에 기초한 헌 법 하에서는 부 정 의한 법 이 제 정 되지 않는다."
+      },
+      {
+        "number": 5,
+        "text": "꾸 정의한 법 을 준 수 할 의 무 는 거의 정 의 로운 사 회 에서 존재할 수 없다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.91,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:50+00:00",
+    "qa_flags": []
+  }
+}

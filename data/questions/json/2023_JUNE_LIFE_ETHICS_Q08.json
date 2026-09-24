@@ -1,0 +1,77 @@
+{
+  "id": "2023_JUNE_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 110,
+    "question_number": 8,
+    "exam_key": "2023_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3277,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_JUNE_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다 음 을 주장한 사 상 가 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서\n고른 것은?\n한 곡 의 음 악 은 시작할 때 여러 소 리 가 합 해 졌 다 가 각 각 의\n소 리 가 폴 려 나오며 조 화 를 이루고, 음 이 분 명 하면서도 끊임\n없이 이어져 완 성 된다. 이렇듯 음 악 은 여러 소 리 가 자기 소 리 를\n내 면 서 도 조 화 를 이루는 것이기에 배워 둘 만하다. 시가 순수한\n마 음 을 불 러 일으키고 예 의 는 사 람 들 을 인 륜 에 맞게 살 아 가 게\n하며 음 악 은 궁 극 적 으로 인 격 을 완 성 시킨다.\n< 보 기 >\nㄱ . 음 악 은 개 인 의 도덕적 성 품 을 함 양 하기 위해 필 요 하다.\nㄴ . 흠 악 은 예 의 와 무 관 하게 심미적 가 치 만을 담 아 야 한다.\nㄷ . 음 악 은 사 람 들 이 서로 조 화 를 이루는 데 기 여 해 야 한다.\n2. 음 악 은 사 람 들 의 경제적 이득 여 부 에 따라 활 용 되어야 한다.\n076 0976 604 9048 6 ㄷ 2",
+    "stem": "다 음 을 주장한 사 상 가 의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "한 곡 의 음 악 은 시작할 때 여러 소 리 가 합 해 졌 다 가 각 각 의\n소 리 가 폴 려 나오며 조 화 를 이루고, 음 이 분 명 하면서도 끊임\n없이 이어져 완 성 된다. 이렇듯 음 악 은 여러 소 리 가 자기 소 리 를\n내 면 서 도 조 화 를 이루는 것이기에 배워 둘 만하다. 시가 순수한\n마 음 을 불 러 일으키고 예 의 는 사 람 들 을 인 륜 에 맞게 살 아 가 게\n하며 음 악 은 궁 극 적 으로 인 격 을 완 성 시킨다.\n< 보 기 >\nㄱ . 음 악 은 개 인 의 도덕적 성 품 을 함 양 하기 위해 필 요 하다.\nㄴ . 흠 악 은 예 의 와 무 관 하게 심미적 가 치 만을 담 아 야 한다.\nㄷ . 음 악 은 사 람 들 이 서로 조 화 를 이루는 데 기 여 해 야 한다.\n2. 음 악 은 사 람 들 의 경제적 이득 여 부 에 따라 활 용 되어야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0, 느"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느니"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.902,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:39:58+00:00",
+    "qa_flags": []
+  }
+}

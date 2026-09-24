@@ -1,0 +1,73 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 22,
+    "question_number": 8,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1617,
+      506,
+      2999,
+      1506
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다음 전통 의 례 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]\n남 자 는 사 모 관 대 (※8018##) 를 하고 상 앞에 무 릎 을 꿀 고\n앉아 나무 기 러 기 [4406] 를 상 위에 놓고 공 손 히 절 을 한 다 [\\81.\n…( 중 략 )… 그 후 서로 절 을 한 다음 술 을 나누어 마 심 으 로써\n새로운 사 회 관 계 를 이루게 된다.\n(1) 후 손 들이 돌아가신 분 의 영 혼 을 떠 나 보내는 마지막 통과 의 례 이다.\n(3) 삼가 조 상 을 모시고 집 안 을 이 어 가 겠다고 서 약 하는 의 례 이다.\n(3) 가 르 침 을 베풀어 주신 스 승 의 노 고 에 감 사 를 표 현 하는 의 례 이다.\n(@) 성 인 (& ㅅ ) 의 지 위 를 인 정 받아 새로운 이 름 을 부 여 받는 의 례 이다.\n(5) 학 식 과 덕 망 이 높은 사 람 을 관 직 에 추 천 할 때 행하는 의 례 이다.",
+    "stem": "다음 전통 의 례 에 대한 설 명 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "남 자 는 사 모 관 대 (※8018##) 를 하고 상 앞에 무 릎 을 꿀 고\n앉아 나무 기 러 기 [4406] 를 상 위에 놓고 공 손 히 절 을 한 다 [\\81.\n…( 중 략 )… 그 후 서로 절 을 한 다음 술 을 나누어 마 심 으 로써\n새로운 사 회 관 계 를 이루게 된다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "후 손 들이 돌아가신 분 의 영 혼 을 떠 나 보내는 마지막 통과 의 례 이다."
+      },
+      {
+        "number": 2,
+        "text": "삼가 조 상 을 모시고 집 안 을 이 어 가 겠다고 서 약 하는 의 례 이다."
+      },
+      {
+        "number": 3,
+        "text": "가 르 침 을 베풀어 주신 스 승 의 노 고 에 감 사 를 표 현 하는 의 례 이다."
+      },
+      {
+        "number": 4,
+        "text": "성 인 (& ㅅ ) 의 지 위 를 인 정 받아 새로운 이 름 을 부 여 받는 의 례 이다."
+      },
+      {
+        "number": 5,
+        "text": "학 식 과 덕 망 이 높은 사 람 을 관 직 에 추 천 할 때 행하는 의 례 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:17+00:00",
+    "qa_flags": []
+  }
+}

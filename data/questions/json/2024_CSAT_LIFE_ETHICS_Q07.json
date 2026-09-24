@@ -1,0 +1,75 @@
+{
+  "id": "2024_CSAT_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 130,
+    "question_number": 7,
+    "exam_key": "2024_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2420,
+      1740,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_CSAT_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. ( 가 ) 의 사상가 갑 , 을 의 입 장 을 (나) 그 림 으로 탐 구 하 고자 할 때,\n&~( 에 들어갈 적절한 질 문 만 을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 만 인 은 서로 녹 대 처 럼 싸우는 자연 상 태 에서 벗어나기\n위해 상호 계 약 을 맺어 하 나 의 인 격 으로 결 합 해야\n한다. 이 인 격 을 지닌 통 치 자 는 포 는 사 람 의 힘 과 수 단 을\n임의로 사용할 수 있는 권 력 을 지닌다,\n| 을: 절대 권 력 에 책 입을 묻지 않는 식 의 합 의 는 여 우 나\n스 렁 크 를 피해 사 자 에게 집 아 떡 히 는 데 민 족 하는 것과\n같다. 통 치 자 가 시 민 의 생명, 자유 및 자 산 을 보 존 하지\n못할 때 시 민 은 통 치 자 에 저 항 할 수 있\n사상가 갑 , 을 의 < 릴 에\n번 2\n입 장 을 탐 구 한다. : 팝 단 내용\n< > : 판단 내용\n--> : 판단 방향\n- & 아니요 | 쁘 : 사 상 가 의 입장\n(나)\n갑의 인자 을 의 인자\n터 7 벼 = 로 터 =\n< 보 기 >\nㄱ . 쇼 : 국 가 의 통 치 자 가 사회 계 약 을 위 반 하는 것은 가능한가?\nㄴ . 8: 국 가 는 신 의 ( 섭 36) 계 약 으로 탄 생 한 자연적 인 격 인가?\nㄷ . 8: 국 가 가 부 재 하는 곳 에 서는 각 자 의 소 유 권 도 부 재 하는가?\n2. : 국 가 의 통 치 자 에게는 단지 신 탁 된 권 력 만 주 어 지 는 가 ?\n0) ㄱㄱ, ㄴ (00) ㄱ , ㄷ (3) ㄷ , 큰\n0 1, 느 , 르 05) 느 , =, 르",
+    "stem": "( 가 ) 의 사상가 갑 , 을 의 입 장 을 (나) 그 림 으로 탐 구 하 고자 할 때, &~( 에 들어갈 적절한 질 문 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 만 인 은 서로 녹 대 처 럼 싸우는 자연 상 태 에서 벗어나기\n위해 상호 계 약 을 맺어 하 나 의 인 격 으로 결 합 해야\n한다. 이 인 격 을 지닌 통 치 자 는 포 는 사 람 의 힘 과 수 단 을\n임의로 사용할 수 있는 권 력 을 지닌다,\n| 을: 절대 권 력 에 책 입을 묻지 않는 식 의 합 의 는 여 우 나\n스 렁 크 를 피해 사 자 에게 집 아 떡 히 는 데 민 족 하는 것과\n같다. 통 치 자 가 시 민 의 생명, 자유 및 자 산 을 보 존 하지\n못할 때 시 민 은 통 치 자 에 저 항 할 수 있\n사상가 갑 , 을 의 < 릴 에\n번 2\n입 장 을 탐 구 한다. : 팝 단 내용\n< > : 판단 내용\n--> : 판단 방향\n- & 아니요 | 쁘 : 사 상 가 의 입장\n(나)\n갑의 인자 을 의 인자\n터 7 벼 = 로 터 =\n< 보 기 >\nㄱ . 쇼 : 국 가 의 통 치 자 가 사회 계 약 을 위 반 하는 것은 가능한가?\nㄴ . 8: 국 가 는 신 의 ( 섭 36) 계 약 으로 탄 생 한 자연적 인 격 인가?\nㄷ . 8: 국 가 가 부 재 하는 곳 에 서는 각 자 의 소 유 권 도 부 재 하는가?\n2. : 국 가 의 통 치 자 에게는 단지 신 탁 된 권 력 만 주 어 지 는 가 ?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, 느 , 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.829,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:51+00:00",
+    "qa_flags": []
+  }
+}

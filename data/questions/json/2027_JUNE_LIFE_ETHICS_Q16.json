@@ -1,0 +1,75 @@
+{
+  "id": "2027_JUNE_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 156,
+    "question_number": 16,
+    "exam_key": "2027_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      2035
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_JUNE_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다음 신문 칼 럼 에서 강 조 하는 내 용 으로 가장 적절한 것은?\n(22 신문 (202(2(〉 년 (>(〉 월 (>(〉 일\n칼럼\n과 거 에는 광 장 이 공 론 장 의 역 할 을 했다면, 현대 정보 사 회 에서는 사회 관 계 망\n서 비 스 (888) 가 그 역 할 을 할 수 있다. 공 론 장 이란 시 민 들 이 어떠한 주 제 에\n대 해 서 든 다양한 의 견 을 표 현 하고 자 신 의 선 호 를 변 화 시키며, 공적 담 론 을 형 성 할\n수 있도록 하는 토의 공 간 이다. 이 공 간 이 긍 정 적 으로 기 능 하기 위해서는 의 사 소통\n합 리 성 이 전 제 되어야 한다. 공 론 장 에서 의 사 소 통 의 참 여 자 들은 발 언 의 적절한\n근 거 를 제 시 해 야 할 뿐만 아니라 그 발 언 에 대한 비 판 도 경 청 해야 한다. 자 신 의\n주 장 이 반 박 되는 과 정 에서 배우는 능력 없이는 진정한 의 미 의 의 사 소통 합 리 성 을\n한\n실현할 수 없다.\n기\n낳기]\n01 근 거 의 적 절 성 이 확 인 된 주 장 만이 비 판 의 대 상 에서 제 외 된다.\n2) 의 사 소통 합 리 성 은 참여자 자 신 의 오류 가 능 성 을 전 제 한다.\n@ 정치적 갈 등 을 조 장 하는 주 제 는 공적 담 론 에 포함될 수 없다.\n0 공적 담 론 의 참 여 자 는 주관적 신 념 을 배 제 하고 발 언 해야 한다.\n6 공적 담 론 의 참 여 자 는 토의 과 정 에서 주 장 을 번 복 해서는 안 된다,",
+    "stem": "다음 신문 칼 럼 에서 강 조 하는 내 용 으로 가장 적절한 것은?",
+    "passage": "(22 신문 (202(2(〉 년 (>(〉 월 (>(〉 일\n칼럼\n과 거 에는 광 장 이 공 론 장 의 역 할 을 했다면, 현대 정보 사 회 에서는 사회 관 계 망\n서 비 스 (888) 가 그 역 할 을 할 수 있다. 공 론 장 이란 시 민 들 이 어떠한 주 제 에\n대 해 서 든 다양한 의 견 을 표 현 하고 자 신 의 선 호 를 변 화 시키며, 공적 담 론 을 형 성 할\n수 있도록 하는 토의 공 간 이다. 이 공 간 이 긍 정 적 으로 기 능 하기 위해서는 의 사 소통\n합 리 성 이 전 제 되어야 한다. 공 론 장 에서 의 사 소 통 의 참 여 자 들은 발 언 의 적절한\n근 거 를 제 시 해 야 할 뿐만 아니라 그 발 언 에 대한 비 판 도 경 청 해야 한다. 자 신 의\n주 장 이 반 박 되는 과 정 에서 배우는 능력 없이는 진정한 의 미 의 의 사 소통 합 리 성 을\n한\n실현할 수 없다.\n기\n낳기]",
+    "choices": [
+      {
+        "number": 1,
+        "text": "근 거 의 적 절 성 이 확 인 된 주 장 만이 비 판 의 대 상 에서 제 외 된다."
+      },
+      {
+        "number": 2,
+        "text": "의 사 소통 합 리 성 은 참여자 자 신 의 오류 가 능 성 을 전 제 한다."
+      },
+      {
+        "number": 3,
+        "text": "정치적 갈 등 을 조 장 하는 주 제 는 공적 담 론 에 포함될 수 없다."
+      },
+      {
+        "number": 4,
+        "text": "공적 담 론 의 참 여 자 는 주관적 신 념 을 배 제 하고 발 언 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "공적 담 론 의 참 여 자 는 토의 과 정 에서 주 장 을 번 복 해서는 안 된다,"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.901,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:41+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2024_SEPTEMBER_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 128,
+    "question_number": 18,
+    "exam_key": "2024_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3490,
+      1740,
+      4451
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_SEPTEMBER_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]\n갑 : 원조 대 상 자 의 이 익 을 고 려 하는 데 인 종 은 아무런 상 관 이\n없다. 중요한 것은 이익 자 체 이다. 이익 평등 고 려 의 원 칙 에\n따라 빈 곤 으로 고 통 받는 사 람 들 에게 원 조 를 해야 한다.\n을 : 원 조 의 목 적 은 고 통 받는 시 회 가 자 신 들 의 문 제 를 합 당 하게\n관 리 할 수 있을 때 까 지 도와, 결 과 적 으로 그 사 회 가 질서\n정연한 만 민 의 사 회 의 구 성 원 이 되도록 하는 것이다.\n00 갑 : 원 조 는 보 편 적 인 의 무 이지만 조 건 부 적 으 로 시 행 될 수 있\n2) 갑 : 원조 결정 시 원조 주 체 의 이 익 을 고 려 하는 것은 허 용 될 수 없다\n을 : 윈 조의 차 단 접 설 정 은 원조 대 상 의 정치적 자 율 성 을 침 해 한다.\n4) 을 : 고 통 받는 사 회 의 기본 제도 개 선 을 위한 원 조 는 허 용 될 수 없다.\n5 갑과 을 : 고 통 받는 빈 곤 국 의 복지 향 상 이 원 조 의 최종 목 적 이다.",
+    "stem": "감 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 원조 대 상 자 의 이 익 을 고 려 하는 데 인 종 은 아무런 상 관 이\n없다. 중요한 것은 이익 자 체 이다. 이익 평등 고 려 의 원 칙 에\n따라 빈 곤 으로 고 통 받는 사 람 들 에게 원 조 를 해야 한다.\n을 : 원 조 의 목 적 은 고 통 받는 시 회 가 자 신 들 의 문 제 를 합 당 하게\n관 리 할 수 있을 때 까 지 도와, 결 과 적 으로 그 사 회 가 질서\n정연한 만 민 의 사 회 의 구 성 원 이 되도록 하는 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 원 조 는 보 편 적 인 의 무 이지만 조 건 부 적 으 로 시 행 될 수 있"
+      },
+      {
+        "number": 2,
+        "text": "갑 : 원조 결정 시 원조 주 체 의 이 익 을 고 려 하는 것은 허 용 될 수 없다"
+      },
+      {
+        "number": 3,
+        "text": ": 윈 조의 차 단 접 설 정 은 원조 대 상 의 정치적 자 율 성 을 침 해 한다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 고 통 받는 사 회 의 기본 제도 개 선 을 위한 원 조 는 허 용 될 수 없다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을 : 고 통 받는 빈 곤 국 의 복지 향 상 이 원 조 의 최종 목 적 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.902,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:42+00:00",
+    "qa_flags": []
+  }
+}

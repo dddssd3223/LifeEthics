@@ -1,0 +1,73 @@
+{
+  "id": "2018_JUNE_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 49,
+    "question_number": 4,
+    "exam_key": "2018_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1041,
+      3147,
+      2618
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_JUNE_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]\n갑 : 현대 기술 사 회 에서 기 술 은 대다수 시 민 들 에게 막대한\n영 향 력 을 행 사 하고 있습니다. 따라서 기술 정책 결 정 과\n관 련 하 여 시 민 들 에게 기술 시 민 권 을 보 장 해 야 합니다.\n을: 동 의 합니다. 다만 시 민 들 이 기술 정책 결정 과 정 에 직접\n참 여 하는 것은 많은 비 용 이 발 생 하므로 기술 시 민 권 은\n기술 정 보 에 대한 접 근 권 으로 한 정 되어야 합니다.\n갑 : 아닙니다. 그러한 접 근 권 만 으 로 는 기술 정 책 의 정 당 성 을 확보\n할 수 없습니다. 많은 비 용 이 발 생 하더라도 기술 정책 결정\n과 정 에 시 민 들 이 직접 참여할 권 리 를 보 장 해 야 합니다.\n을: 그렇지 않습니다. 기술 정책 결 정 은 고 도 의 전 문 성 을\n요 구 합니다. 따라서 전 문 가 의 참 여 만으로도 기술 정 책 의\n정 당 성 은 충분히 확 보 될 수 있습니다.\n0) 기술 사 회 에서는 기술 시 민 권 이 보 장 되어야 하는가?\n(3) 기술 사 회 에서 기 술 은 막대한 사회적 영 향 력 을 행 사 하는가?\n(3) 기술 정책 결 정 에 시 민 이 참 여 하면 많은 비 용 이 발 생 하는가?\n(4) 기술 정 책 은 적절한 의사 결정 과 정 을 통해 수 립 되어야 하는가?\n(5) 기술 정 책 의 정 당 성 은 전 문 가 의 참 여 만 으로 충분히 확 보 되는가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 현대 기술 사 회 에서 기 술 은 대다수 시 민 들 에게 막대한\n영 향 력 을 행 사 하고 있습니다. 따라서 기술 정책 결 정 과\n관 련 하 여 시 민 들 에게 기술 시 민 권 을 보 장 해 야 합니다.\n을: 동 의 합니다. 다만 시 민 들 이 기술 정책 결정 과 정 에 직접\n참 여 하는 것은 많은 비 용 이 발 생 하므로 기술 시 민 권 은\n기술 정 보 에 대한 접 근 권 으로 한 정 되어야 합니다.\n갑 : 아닙니다. 그러한 접 근 권 만 으 로 는 기술 정 책 의 정 당 성 을 확보\n할 수 없습니다. 많은 비 용 이 발 생 하더라도 기술 정책 결정\n과 정 에 시 민 들 이 직접 참여할 권 리 를 보 장 해 야 합니다.\n을: 그렇지 않습니다. 기술 정책 결 정 은 고 도 의 전 문 성 을\n요 구 합니다. 따라서 전 문 가 의 참 여 만으로도 기술 정 책 의\n정 당 성 은 충분히 확 보 될 수 있습니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "기술 사 회 에서는 기술 시 민 권 이 보 장 되어야 하는가?"
+      },
+      {
+        "number": 2,
+        "text": "기술 사 회 에서 기 술 은 막대한 사회적 영 향 력 을 행 사 하는가?"
+      },
+      {
+        "number": 3,
+        "text": "기술 정책 결 정 에 시 민 이 참 여 하면 많은 비 용 이 발 생 하는가?"
+      },
+      {
+        "number": 4,
+        "text": "기술 정 책 은 적절한 의사 결정 과 정 을 통해 수 립 되어야 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "기술 정 책 의 정 당 성 은 전 문 가 의 참 여 만 으로 충분히 확 보 되는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.927,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:26+00:00",
+    "qa_flags": []
+  }
+}

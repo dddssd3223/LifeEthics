@@ -1,0 +1,75 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 151,
+    "question_number": 11,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      3211
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때,\n쇼 ~ 에 해 당 하는 진 술 로 가장 적절한 것은?\n갑 : 생 명 체 는 목 적 론적 삶 의 중 심 이다. 각 유 기 체 의\n고 유 성 은 주어진 상 황 에서 일 상 을 살아가는 특정한\n방 식 에서 드러난다.\n을: 자연 중에 쟁 명이 없 음 에도 아름다운 것을 파괴\n( 가 )| 하려는 성 향 은 인 간 의 자기 자 신 에 대한 의 무 에\n반하는 것이다.\n병 : 이익 평등 고 려 의 원 척 이 인 간 의 평 등 을 위한 최 선 의\n토 대 이기는 하지만, 그 원 칙 의 영 역 은 인 간 에게 한정\n되지 않는다.\n< 범 례 >\n스 : 감 만 의 입장\n나신 벼\n이갑\n비 내 나\n나나 렀 /\n0: 을 만의 입장\n| 시 0\n6: 갑과 을 만의 공통 입장\n나이 442\n1: 갑과 병 만의 공통 입장\n,\n: 갑과 을과 병 의 공통 입장\n2\n00 쇼 : 생 명 이 없는 존 재 가 인 간 의 가치 평 가 에 의 존 하는 가 치 를\n지닐 수 있다.\n2) 8: 어떤 존 재 가 의 무 의 주 체 라면 그 존 재 에 대한 의 무 가 성립\n하지 않을 수 는 없다,\n8) (:: 자 연 을 보 호 할 의 무 는 간 접 적 인 방 식 으로 성 립 할 수 있다,\n40 7: 인 간 이 아닌 동물 중 인 간 에 대한 의 무 로 환 윈 되지 않는\n의 무 의 대 상 은 존재할 수 없다.\n6) 8: 모든 존 재 가 보 편 적 으로 준 수 해야 할 도덕 원 러 는 없다.",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때, 쇼 ~ 에 해 당 하는 진 술 로 가장 적절한 것은?",
+    "passage": "갑 : 생 명 체 는 목 적 론적 삶 의 중 심 이다. 각 유 기 체 의\n고 유 성 은 주어진 상 황 에서 일 상 을 살아가는 특정한\n방 식 에서 드러난다.\n을: 자연 중에 쟁 명이 없 음 에도 아름다운 것을 파괴\n( 가 )| 하려는 성 향 은 인 간 의 자기 자 신 에 대한 의 무 에\n반하는 것이다.\n병 : 이익 평등 고 려 의 원 척 이 인 간 의 평 등 을 위한 최 선 의\n토 대 이기는 하지만, 그 원 칙 의 영 역 은 인 간 에게 한정\n되지 않는다.\n< 범 례 >\n스 : 감 만 의 입장\n나신 벼\n이갑\n비 내 나\n나나 렀 /\n0: 을 만의 입장\n| 시 0\n6: 갑과 을 만의 공통 입장\n나이 442\n1: 갑과 병 만의 공통 입장\n,\n: 갑과 을과 병 의 공통 입장\n2",
+    "choices": [
+      {
+        "number": 1,
+        "text": "쇼 : 생 명 이 없는 존 재 가 인 간 의 가치 평 가 에 의 존 하는 가 치 를 지닐 수 있다."
+      },
+      {
+        "number": 2,
+        "text": "8: 어떤 존 재 가 의 무 의 주 체 라면 그 존 재 에 대한 의 무 가 성립 하지 않을 수 는 없다,"
+      },
+      {
+        "number": 3,
+        "text": "(:: 자 연 을 보 호 할 의 무 는 간 접 적 인 방 식 으로 성 립 할 수 있다,"
+      },
+      {
+        "number": 4,
+        "text": "7: 인 간 이 아닌 동물 중 인 간 에 대한 의 무 로 환 윈 되지 않는 의 무 의 대 상 은 존재할 수 없다."
+      },
+      {
+        "number": 5,
+        "text": "8: 모든 존 재 가 보 편 적 으로 준 수 해야 할 도덕 원 러 는 없다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.856,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:29+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2019_CSAT_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 70,
+    "question_number": 10,
+    "exam_key": "2019_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      3242,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_CSAT_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 다음 대 화 에서 갑 , 을 의 입 장 으로 가장 적절한 것은?\n| 정 보 에 대한 접 근 은 자 유 로 워야 || 정 보 에 대한 접 근 은 물론 생 산 과 유 통 도\n하지만 생 산 과 유 통 은 국 가 가 규 제 해야 || 개 인 의 자 율 에 맡겨야 합니다. 정 보 의\n합니다. 표 현 의 자 유 는 해악 금 지 의 || 생 산과 유 통 에 대한 국 가 의 규 제 는\n원 칙 에 위 배 되지 않는 한 에서 보장 || 그 자 체 로 표 현 의 자 유 를 침 해 하 는\n되어야 합니다. 국 가 는 혐 오 표 현 의 || 것 입니다. 혐 오 표 현 의 유 해 성 에 대한\n유 해 성 에 대한 법적 기 준 을 정해 정 보 의 ㅣ | 판 단 은 사 람 에 따라 다르기 때문에 국 가 가\n생 산 과 유 통 을 규 제 할 책 무 가 있습니다. || 일률적 기 준 을 마 련 할 수 는 없습니다.\n\\\n0) 갑 : 국 가 는 정 보 에 자유롭게 접 근 할 권 리 를 제 한 해야 한다.\n(62) 갑 : 국 가 는 협 오 퓨 현 의 유 해 성 을 판 단 할 기 준 을 설 정 해 야 한다.\n(3) 을 : 국 가 는 정 보 의 접 근 이 아 넌 생 산 ㆍ 유 통 의 자 유 만 보 장 해 야 한다.\n0) 을: 국 가 는 해악 금지 원 칙 에 따라 정보 생 산 을 규 제 해야 한다.\n66) 갑 , 을 : 협 오 표 현 에 대한 국가 규 제 는 표 현 의 자 유 와 양립 가 능 하 다.",
+    "stem": "다음 대 화 에서 갑 , 을 의 입 장 으로 가장 적절한 것은?",
+    "passage": "| 정 보 에 대한 접 근 은 자 유 로 워야 || 정 보 에 대한 접 근 은 물론 생 산 과 유 통 도\n하지만 생 산 과 유 통 은 국 가 가 규 제 해야 || 개 인 의 자 율 에 맡겨야 합니다. 정 보 의\n합니다. 표 현 의 자 유 는 해악 금 지 의 || 생 산과 유 통 에 대한 국 가 의 규 제 는\n원 칙 에 위 배 되지 않는 한 에서 보장 || 그 자 체 로 표 현 의 자 유 를 침 해 하 는\n되어야 합니다. 국 가 는 혐 오 표 현 의 || 것 입니다. 혐 오 표 현 의 유 해 성 에 대한\n유 해 성 에 대한 법적 기 준 을 정해 정 보 의 ㅣ | 판 단 은 사 람 에 따라 다르기 때문에 국 가 가\n생 산 과 유 통 을 규 제 할 책 무 가 있습니다. || 일률적 기 준 을 마 련 할 수 는 없습니다.\n\\",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 국 가 는 정 보 에 자유롭게 접 근 할 권 리 를 제 한 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 국 가 는 협 오 퓨 현 의 유 해 성 을 판 단 할 기 준 을 설 정 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 국 가 는 정 보 의 접 근 이 아 넌 생 산 ㆍ 유 통 의 자 유 만 보 장 해 야 한다."
+      },
+      {
+        "number": 4,
+        "text": "을: 국 가 는 해악 금지 원 칙 에 따라 정보 생 산 을 규 제 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 협 오 표 현 에 대한 국가 규 제 는 표 현 의 자 유 와 양립 가 능 하 다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.901,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:14+00:00",
+    "qa_flags": []
+  }
+}

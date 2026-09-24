@@ -1,0 +1,73 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 58,
+    "question_number": 8,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3198,
+      1592,
+      4299
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 갑 , 을 의 입 장 에 대한 설 명 으로 가장 적절한 것은? |3 점 ]\n갑 : 결혼 없는 성 ' 은 비 도 덕 적 이다. 부 부 만이 성적 관 계 에서\n서 로 의 인 격 을 존 중 해야 할 의 무 를 다할 수 있으며, 출 산 을\n통한 사회 안 정 과 책임 있는 성 문화 유 지 에 기여할 수 있다.\n부부 사 이 의 성적 관 계 만이 도 덕 적 으로 정 당 하다,\n을: 사랑 없는 성 은 비 도 덕 적 이다. 결 혼 이 아니라 사 랑 이\n도덕적 성의 조 건 이며, 사랑하는 사 람 들 만이 성적 관 계 에서\n서 로 의 인 격 을 존 중 해야 할 의 무 를 다할 수 있다. 사랑하는\n사람들 사 이 의 성적 관 계 만이 도 덕 적 으로 정 당 하다.\n(01) 갑 은 부 부 만이 정당한 성적 관 계 의 주 체 는 아니라고 본다.\n(3) 갑 은 성적 관 계 의 정 당 성 이 사회 존 속 과 는 무 관 하다고 본다.\n(3) 을 은 자발적인 동 의 에 근거한 성적 관 계 는 항상 정 당 하다고 본다.\n(4) 을 은 성적 관 계 가 부부 사 이 에서만 정 당 화 될 수 있다고 본다.\n(5) 갑 , 을 은 성적 관 계 에서 서 로 의 인격적 가 치 를 존 중 해야 한다고 본다.",
+    "stem": "갑 , 을 의 입 장 에 대한 설 명 으로 가장 적절한 것은? |3 점 ]",
+    "passage": "갑 : 결혼 없는 성 ' 은 비 도 덕 적 이다. 부 부 만이 성적 관 계 에서\n서 로 의 인 격 을 존 중 해야 할 의 무 를 다할 수 있으며, 출 산 을\n통한 사회 안 정 과 책임 있는 성 문화 유 지 에 기여할 수 있다.\n부부 사 이 의 성적 관 계 만이 도 덕 적 으로 정 당 하다,\n을: 사랑 없는 성 은 비 도 덕 적 이다. 결 혼 이 아니라 사 랑 이\n도덕적 성의 조 건 이며, 사랑하는 사 람 들 만이 성적 관 계 에서\n서 로 의 인 격 을 존 중 해야 할 의 무 를 다할 수 있다. 사랑하는\n사람들 사 이 의 성적 관 계 만이 도 덕 적 으로 정 당 하다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 부 부 만이 정당한 성적 관 계 의 주 체 는 아니라고 본다."
+      },
+      {
+        "number": 2,
+        "text": "갑 은 성적 관 계 의 정 당 성 이 사회 존 속 과 는 무 관 하다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "을 은 자발적인 동 의 에 근거한 성적 관 계 는 항상 정 당 하다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "을 은 성적 관 계 가 부부 사 이 에서만 정 당 화 될 수 있다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 성적 관 계 에서 서 로 의 인격적 가 치 를 존 중 해야 한다고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.924,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:47+00:00",
+    "qa_flags": []
+  }
+}

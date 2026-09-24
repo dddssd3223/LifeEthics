@@ -1,0 +1,76 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 75,
+    "question_number": 12,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2139,
+      1740,
+      3351
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 고른 것은?\n시민 불 복 좋은 법 이나 정 부 의 정 책 에 변 혁 을 가져올 목 적 으로\n행 해 지 는, 공 공 적이고 비 쪽 력 적 이 며 양 심 적 이기는 하지만 법 에\n반하는 정치적 행 위 이다. 시민 불 복 종 은 거의 정 의 로운 국가\n내 에 서 그 체 제 의 합 법 성 을 인 정 하고 받 아 들 이 는 시 민 들 에게만\n생 겨 나 는 문 제 이다. 시민 불복종 행 위 가 그 권 리 를 인 정 받으\n려면 대 상 과 수 단 이 적 절 해야 한다.\n< 보 기 >\nㄱ . 의 회 가 합 법 적 으 로 제 정 한 법 은 시민 불 복 종 의 대 상 이 아니다.\nㄴ . 시민 불 복 종 은 그 행 위 에 대한 법적 처 분 의 수 용 을 전 제 한다.\nㄷ . 개 인 의 양 십 에 근 거 하더라도 정당한 시민 불 복 종 이 아닐 수 있다\n르 . 시민 불 복 종 은 정치 체 제 를 변 혁 하기 위한 공 개 적 인 행 위 이다.\n0700 0976 604 9048 6 ㄷ 2",
+    "stem": "다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 고른 것은?",
+    "passage": "시민 불 복 좋은 법 이나 정 부 의 정 책 에 변 혁 을 가져올 목 적 으로\n행 해 지 는, 공 공 적이고 비 쪽 력 적 이 며 양 심 적 이기는 하지만 법 에\n반하는 정치적 행 위 이다. 시민 불 복 종 은 거의 정 의 로운 국가\n내 에 서 그 체 제 의 합 법 성 을 인 정 하고 받 아 들 이 는 시 민 들 에게만\n생 겨 나 는 문 제 이다. 시민 불복종 행 위 가 그 권 리 를 인 정 받으\n려면 대 상 과 수 단 이 적 절 해야 한다.\n< 보 기 >\nㄱ . 의 회 가 합 법 적 으 로 제 정 한 법 은 시민 불 복 종 의 대 상 이 아니다.\nㄴ . 시민 불 복 종 은 그 행 위 에 대한 법적 처 분 의 수 용 을 전 제 한다.\nㄷ . 개 인 의 양 십 에 근 거 하더라도 정당한 시민 불 복 종 이 아닐 수 있다\n르 . 시민 불 복 종 은 정치 체 제 를 변 혁 하기 위한 공 개 적 인 행 위 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9048"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:53:08+00:00",
+    "qa_flags": []
+  }
+}

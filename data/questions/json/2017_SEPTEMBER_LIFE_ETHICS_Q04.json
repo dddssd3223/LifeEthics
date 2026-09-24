@@ -1,0 +1,73 @@
+{
+  "id": "2017_SEPTEMBER_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 41,
+    "question_number": 4,
+    "exam_key": "2017_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      885,
+      2999,
+      3087
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_SEPTEMBER_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 갑 , 을 의 입 장 에 대한 옮 은 설 명 만을 < 보 기 > 에 서 있는 대로\n고른 것은?\n갑 : 몇 해 전 우리나라 법 원 은 환 자 가 원한다면 자기 생 명 을\n종 식 시킬 수 있다는 걸 최초로 인정한 판 결 을 내 렸 어 .\n이것은 환 자 와 가 족 의 고 통 을 덜어 주고, 생 명 에 대한 자기\n결 정 퀸 을 공 식 적 으로 허 용 한 올바른 판 결 로 봐야 해.\n을: 인 간 의 생 명 을 인간 스스로 결정할 수 있다는 관 결 은\n잘못된 결 정 이야. 아무리 환자 본 인 의 요 청 이 있었다고\n해도, 생 명 은 하 늘 이 부여한 것이므로 자기 생 명 은 자 신 도\n함부로 할 수 없는 존 엄 한 것 이 야 .\n< 보 기 〉\nㄱ . 갑 : 개 인 은 자기 생 명 에 대해 배타적 퀸 리가 있 음 을 주 장 한 다.\nㄴ . 갑 : 안락사 허 웅 은 결과적 이 익 을 고려한 결 정 임을 주 장 한 다.\nㄷ . 을: 생 명 의 종식 여 부 는 자율적 선 택 의 문 제 가 이 님 을 주 장 한 다.\n2. 을: 인 락 사 는 인 간 의 존 엄 성 을 보 호 하는 도덕적 행 위 임을 주 장 힌다.\n(0) ㄱ , ㄷ (2) ㄱ , (3) ㄴ , 큰\n(0) ㄱ , ㄴ , ㄷ (66) ㄴ , ㄷ , 2",
+    "stem": "갑 , 을 의 입 장 에 대한 옮 은 설 명 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 몇 해 전 우리나라 법 원 은 환 자 가 원한다면 자기 생 명 을\n종 식 시킬 수 있다는 걸 최초로 인정한 판 결 을 내 렸 어 .\n이것은 환 자 와 가 족 의 고 통 을 덜어 주고, 생 명 에 대한 자기\n결 정 퀸 을 공 식 적 으로 허 용 한 올바른 판 결 로 봐야 해.\n을: 인 간 의 생 명 을 인간 스스로 결정할 수 있다는 관 결 은\n잘못된 결 정 이야. 아무리 환자 본 인 의 요 청 이 있었다고\n해도, 생 명 은 하 늘 이 부여한 것이므로 자기 생 명 은 자 신 도\n함부로 할 수 없는 존 엄 한 것 이 야 .\n< 보 기 〉\nㄱ . 갑 : 개 인 은 자기 생 명 에 대해 배타적 퀸 리가 있 음 을 주 장 한 다.\nㄴ . 갑 : 안락사 허 웅 은 결과적 이 익 을 고려한 결 정 임을 주 장 한 다.\nㄷ . 을: 생 명 의 종식 여 부 는 자율적 선 택 의 문 제 가 이 님 을 주 장 한 다.\n2. 을: 인 락 사 는 인 간 의 존 엄 성 을 보 호 하는 도덕적 행 위 임을 주 장 힌다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ,"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄴ , ㄷ"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.878,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:07+00:00",
+    "qa_flags": []
+  }
+}

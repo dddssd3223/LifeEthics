@@ -1,0 +1,75 @@
+{
+  "id": "2020_CSAT_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 82,
+    "question_number": 8,
+    "exam_key": "2020_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      1916
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_CSAT_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 다음 대 화 에서 갑 , 을 의 입 장 으로 가장 적절한 것은? [3 점 ]\n국 가 는 사회적 갈 등 을 줄이고 공 동 체 의 국 가 는 사회 구성원 간의 조 화 를\n결 속 력 을 강 화 하기 위해 이 민 자 가 줄 신 국 의 이루기 위해 이 민 자 의 문화적 고 유 성 을\n언어, 문화, 사회적 특 성 을 포 기 하고 주류 인 정 하고 기존 사 회 와 대 등 하게 공존\n사 회 의 일 원 이 될 수 있는 정 책 을 추 진 해 야 수 있는 법과 제 도 를 적 극 적 으로 마련\n합니다. 해야 합니다.\n/\n| 으\n0) 갑 : 주류 문화 우 위 를 전 제 로 이민자 꾼 화 의 특 수 성 을 보 장 해 야 한다.\n2) 갑 : 주류 문 화 를 수 용 하는 이 민 자 의 문화적 정 체 성 을 보 장 해 야 한다.\n(3) 을 : 사회 조 화 를 위해 수 류 와 비주류 간 문화 위 계 를 인 정 해 야 한다\n(0) 을 : 이 민 자 의 문화적 다 양 성 을 인 정 하면서 사회 통 합 을 모 색 해야 한다.\n9) 갑 , 을 : 사회적 연 대 를 위해 주 류 와 비주류 문화 간 공 존 과 결 속 을\n강 화 해야 한다.",
+    "stem": "다음 대 화 에서 갑 , 을 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "국 가 는 사회적 갈 등 을 줄이고 공 동 체 의 국 가 는 사회 구성원 간의 조 화 를\n결 속 력 을 강 화 하기 위해 이 민 자 가 줄 신 국 의 이루기 위해 이 민 자 의 문화적 고 유 성 을\n언어, 문화, 사회적 특 성 을 포 기 하고 주류 인 정 하고 기존 사 회 와 대 등 하게 공존\n사 회 의 일 원 이 될 수 있는 정 책 을 추 진 해 야 수 있는 법과 제 도 를 적 극 적 으로 마련\n합니다. 해야 합니다.\n/\n| 으",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 주류 문화 우 위 를 전 제 로 이민자 꾼 화 의 특 수 성 을 보 장 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 주류 문 화 를 수 용 하는 이 민 자 의 문화적 정 체 성 을 보 장 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을 : 사회 조 화 를 위해 수 류 와 비주류 간 문화 위 계 를 인 정 해 야 한다"
+      },
+      {
+        "number": 4,
+        "text": "을 : 이 민 자 의 문화적 다 양 성 을 인 정 하면서 사회 통 합 을 모 색 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 사회적 연 대 를 위해 주 류 와 비주류 문화 간 공 존 과 결 속 을 강 화 해야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:45+00:00",
+    "qa_flags": []
+  }
+}

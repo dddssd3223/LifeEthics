@@ -1,0 +1,77 @@
+{
+  "id": "2018_SEPTEMBER_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 54,
+    "question_number": 10,
+    "exam_key": "2018_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2684,
+      2999,
+      4297
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_SEPTEMBER_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. 다음 글 의 입 장 에서 < 문 제 상 황 > 속 학 생 에게 제 시 할 조 언 으로\n가장 적절한 것은?\n' 대 지 에 서 자 연 적 으로 산 출 되는 모는 열 매 와 거 기 에서 자라는\n짐 승 들은 인 듀 에게 공 동 으로 속한다. 그러나 한 개 인 이 모 두 에게\n공 농 으로 주어진 것에 자 신 의 노 동 을 투 입 하면 그것은 그의 소 유 가\n되며 타 인 의 권 리 는 배 제 된다. 라는 재산권 이 론 은 노 동 의 형 태 가 어떤\n것 이 든 간에 인 간 의 노 동 을 통해 산 출 된 모든 산 물 에 적용될 수 있다.\n< 문 제 상 황 >\n개 인 이 연 구 를 통해 개 발 한 프로 1\n지적 재산권 보장 문 제 에 대해 수업 발 표 를\n맡 았 는데 어떤 입 장 을 취 할 까 ?\nＬ ㄴ |\n」\n/ - 그 |\n{{-\n(1) 창 작 자 의 노 력 이 들어간 지적 재 산 의 배타적 권리 보 장 을 강 조 하세요.\n(3) 사회 전 체 의 공리 극 대 화 를 위한 지적 재 산 권 의 보 장 을 강 조 하세요.\n(3) 지적 재 산 은 자연 발생적 산 물 이므로 공 유 의 대 상 임을 강 조 하세요.\n(4) 지적 재 산 의 가 치 는 인 간 의 노 동 에서 비 롯 되지 않 음 을 강 조 하세요.\n(5) 무 형 의 정 신 노 동 이 들어간 지적 재 산 은 공 공 재 임을 강 조 하세요.",
+    "stem": "다음 글 의 입 장 에서 < 문 제 상 황 > 속 학 생 에게 제 시 할 조 언 으로 가장 적절한 것은?",
+    "passage": "' 대 지 에 서 자 연 적 으로 산 출 되는 모는 열 매 와 거 기 에서 자라는\n짐 승 들은 인 듀 에게 공 동 으로 속한다. 그러나 한 개 인 이 모 두 에게\n공 농 으로 주어진 것에 자 신 의 노 동 을 투 입 하면 그것은 그의 소 유 가\n되며 타 인 의 권 리 는 배 제 된다. 라는 재산권 이 론 은 노 동 의 형 태 가 어떤\n것 이 든 간에 인 간 의 노 동 을 통해 산 출 된 모든 산 물 에 적용될 수 있다.\n< 문 제 상 황 >\n개 인 이 연 구 를 통해 개 발 한 프로 1\n지적 재산권 보장 문 제 에 대해 수업 발 표 를\n맡 았 는데 어떤 입 장 을 취 할 까 ?\nＬ ㄴ |\n」\n/ - 그 |\n{{-",
+    "choices": [
+      {
+        "number": 1,
+        "text": "창 작 자 의 노 력 이 들어간 지적 재 산 의 배타적 권리 보 장 을 강 조 하세요."
+      },
+      {
+        "number": 2,
+        "text": "사회 전 체 의 공리 극 대 화 를 위한 지적 재 산 권 의 보 장 을 강 조 하세요."
+      },
+      {
+        "number": 3,
+        "text": "지적 재 산 은 자연 발생적 산 물 이므로 공 유 의 대 상 임을 강 조 하세요."
+      },
+      {
+        "number": 4,
+        "text": "지적 재 산 의 가 치 는 인 간 의 노 동 에서 비 롯 되지 않 음 을 강 조 하세요."
+      },
+      {
+        "number": 5,
+        "text": "무 형 의 정 신 노 동 이 들어간 지적 재 산 은 공 공 재 임을 강 조 하세요."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=50",
+      "vector_lines=39"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.893,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:39+00:00",
+    "qa_flags": []
+  }
+}

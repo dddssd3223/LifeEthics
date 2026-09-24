@@ -1,0 +1,75 @@
+{
+  "id": "2021_CSAT_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2021,
+    "exam_year": 2020,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 96,
+    "question_number": 19,
+    "exam_key": "2021_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2650
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2021_CSAT_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 간 을 (나) 그 림 으로 표현할 때, &-『 에 해 당 하는 내 용 으로 적 절 하지\n않은 것은? [3 점 ]\n16 ㅜㅜ\n감 : 형 벌 은 범 죄 자 가 처 빌 받을 행 위 를 의 욕 했기 때문에\n가 해 져야 하며, 결코 어떤 다른 선 을 촉 진 하기 위한\n수 단 으로서 가해질 수 없다.\n을 : 형 벌 은 법 죄 를 억 제 하 기 에 충분한 정 도 의 강 도 만을\n( 가 )| . 지녀야 한다. 따라서 사 형 보다 고 통 이 길게 유 지 되어\n오랫동안 본 보 기 로 기 능 하는 형 벌 이 필 요 하다.\n병 : 사 형 은 죄 인 을 시 민 이 아닌 적 으 로서 처 벌 하는 것이다.\n그 판 결 은 그가 사회 계 약 을 파 기 하여 이미 국 가 의\n구 성 원 이 아니라는 증 명 이자 선 언 이다.\n범례\n--* : 비 판 의 방향\n스 ~ : 비 판 의 내용\n(나) 1 다시. 에 시\n: @-…\n< 쇼 는 감 이 을 에게 제 기 할\n- ㅎ > 수 있는 비 판 임 .\n(1): 형 벌 의 질 과 양은 동 해 (00 보 복 밥 에 의해서 결 정 되어야 힘 을 긴 퀴 한다.\n21 8, 0: 형 벌 은 국가 존 립 을 위한 수 단 으로 집 행 될 수 있 음 을 간 과 한다.\n2) (:: 사회 계 약 은 실 인 범 을 사 형 에 처할 수 있는 근 거 가 됩 을 간 과 한다.\n4) ㅁ : 사 형 은 일반 시 민 들 의 인 전 을 지키기 위해 실 행 되어야 합 을 긴 과 힌다,\n6) 1: 사형 선 고 를 받은 시 람 도 목 적 적 존 재 로 대 우 받아야 함 을 긴 과 한 다.",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 간 을 (나) 그 림 으로 표현할 때, &-『 에 해 당 하는 내 용 으로 적 절 하지 않은 것은? [3 점 ]",
+    "passage": "16 ㅜㅜ\n감 : 형 벌 은 범 죄 자 가 처 빌 받을 행 위 를 의 욕 했기 때문에\n가 해 져야 하며, 결코 어떤 다른 선 을 촉 진 하기 위한\n수 단 으로서 가해질 수 없다.\n을 : 형 벌 은 법 죄 를 억 제 하 기 에 충분한 정 도 의 강 도 만을\n( 가 )| . 지녀야 한다. 따라서 사 형 보다 고 통 이 길게 유 지 되어\n오랫동안 본 보 기 로 기 능 하는 형 벌 이 필 요 하다.\n병 : 사 형 은 죄 인 을 시 민 이 아닌 적 으 로서 처 벌 하는 것이다.\n그 판 결 은 그가 사회 계 약 을 파 기 하여 이미 국 가 의\n구 성 원 이 아니라는 증 명 이자 선 언 이다.\n범례\n--* : 비 판 의 방향\n스 ~ : 비 판 의 내용\n(나) 1 다시. 에 시\n: @-…\n< 쇼 는 감 이 을 에게 제 기 할\n- ㅎ > 수 있는 비 판 임 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": ": 형 벌 의 질 과 양은 동 해 (00 보 복 밥 에 의해서 결 정 되어야 힘 을 긴 퀴 한다."
+      },
+      {
+        "number": 2,
+        "text": "8, 0: 형 벌 은 국가 존 립 을 위한 수 단 으로 집 행 될 수 있 음 을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "(:: 사회 계 약 은 실 인 범 을 사 형 에 처할 수 있는 근 거 가 됩 을 간 과 한다."
+      },
+      {
+        "number": 4,
+        "text": "ㅁ : 사 형 은 일반 시 민 들 의 인 전 을 지키기 위해 실 행 되어야 합 을 긴 과 힌다,"
+      },
+      {
+        "number": 5,
+        "text": "1: 사형 선 고 를 받은 시 람 도 목 적 적 존 재 로 대 우 받아야 함 을 긴 과 한 다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.841,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:18+00:00",
+    "qa_flags": []
+  }
+}

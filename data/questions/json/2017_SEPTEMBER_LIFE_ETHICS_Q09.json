@@ -1,0 +1,73 @@
+{
+  "id": "2017_SEPTEMBER_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 42,
+    "question_number": 9,
+    "exam_key": "2017_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      501,
+      2999,
+      2515
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_SEPTEMBER_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. ( 가 ) 의 입 장 에서 ( 나 ) 의 입 장 에 대해 제 기 할 적절한 반 론 을\n< 보 기 > 에 서 고른 것은? [3 점 ]\n내부 고 발 은 조 직 의 도덕적 혹은 법 률 적 과 오 를 막 으 려 는\n구 성 원 의 행 동 으로, 과 오 에 대한 조 직 의 자체적 개 선 이\n(가) | 좌 절 될 경우 발 생 한 다. 이 경우 내부 고 밭은 조 직 에 끼치는\n당 장 의 피 해 를 감 수 하더라도 장 기 적 으로 조 직 의 이 익 을\n위해 불 가 피 하게 선 택 해 야 하는 것이다.\n부 고 밭은 조 직 에 대한 의무 위 반 으로, 조 직 의 운 영 과\n결 속 에 악 영 향 을 미친다. 내부 고 발 자 는 내부 고 발 로 인해\n(나) | 발 생 하는 해 악 을 깨닫지 못하고 있다. 조 직 의 이 익 을 위한\n다면 조 직 의 문 제 는 반드시 내 부 에서 자 체 적 으로 해결\n해야 한다.\n< 보 기 >\nㄱ . 구 성 원 은 주 직 의 이 익 을 보 호 할 책 무 가 있 음 을 간 과 하고 있다.\nㄴ . 내부 고 발 은 궁 극 적 으로 조 직 의 이 익 에 부 합 합 을 간 과 하고 있다.\nㄷ . 내부 구 빨 만이 조 직 의 비 리 를 해 결 하는 수 단 임을 간 과 하고 있다.\n2 . 구 뿔 자가 내부 구 발의 단기적 피 해 를 감 인 하 고 있 음 을 긴 과 하 고 있다\n0) ㄱ , ㄴㄴ (2) ㄱ , ㄷ (3) ㄴ , ㄷ (4) ㄴ , 2 (6) ㄷ , 근",
+    "stem": "( 가 ) 의 입 장 에서 ( 나 ) 의 입 장 에 대해 제 기 할 적절한 반 론 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "내부 고 발 은 조 직 의 도덕적 혹은 법 률 적 과 오 를 막 으 려 는\n구 성 원 의 행 동 으로, 과 오 에 대한 조 직 의 자체적 개 선 이\n(가) | 좌 절 될 경우 발 생 한 다. 이 경우 내부 고 밭은 조 직 에 끼치는\n당 장 의 피 해 를 감 수 하더라도 장 기 적 으로 조 직 의 이 익 을\n위해 불 가 피 하게 선 택 해 야 하는 것이다.\n부 고 밭은 조 직 에 대한 의무 위 반 으로, 조 직 의 운 영 과\n결 속 에 악 영 향 을 미친다. 내부 고 발 자 는 내부 고 발 로 인해\n(나) | 발 생 하는 해 악 을 깨닫지 못하고 있다. 조 직 의 이 익 을 위한\n다면 조 직 의 문 제 는 반드시 내 부 에서 자 체 적 으로 해결\n해야 한다.\n< 보 기 >\nㄱ . 구 성 원 은 주 직 의 이 익 을 보 호 할 책 무 가 있 음 을 간 과 하고 있다.\nㄴ . 내부 고 발 은 궁 극 적 으로 조 직 의 이 익 에 부 합 합 을 간 과 하고 있다.\nㄷ . 내부 구 빨 만이 조 직 의 비 리 를 해 결 하는 수 단 임을 간 과 하고 있다.\n2 . 구 뿔 자가 내부 구 발의 단기적 피 해 를 감 인 하 고 있 음 을 긴 과 하 고 있다",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 근"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.873,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:10+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q02",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 61,
+    "question_number": 2,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3154,
+      1751,
+      4456
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q02.png",
+    "raw_text": "2. 그 림 의 강 연 자가 지 지 할 입 장 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n종 교 란 궁극적 관 심 에 붙잡힌 상 태 입니다. 종 교 는\nㅎㅎ 쁘\n궁극적 관 심 으로 죽느냐 또는 사느냐 를 물 으 며\n그 대 답 을 찾습니다. 진정한 종 교 는 유 한 하지 않은\n궁 극 성에 대해 관 심 을 가지며 순 수 하고 진지한\n관 심 으로 존재 그 자 체 로 서 의 존 재 를 대 면 합 니다.\n이때 궁극적 관 심 은 절 대 성 을 띠 지 만, 그 관 심 의\n개별적 표 현 은 다양한 종 교 에 서 서로 다른 방식\n으로 드 러 납 니다. 종 교 는 유 한 한 실 재 를 하 나 의\n신 으 로 만들면 안 됩니다. 그렇게 만든 신은 우 상 이\n되기 때 문 입니다.\n~\n\\.\n< 보 기 >\n-. 종 교 는 삶 과 죽 음 의 의 미 를 묻고 답하는 것이다.\nㄴ . 진정한 종 교 는 유 한 한 실 재 를 무한한 존 재 로 만든다.\nㄷ . 종 교 는 모든 존 재 의 근 원 으로서의 존 재 와의 만 남 이다.\n2. 종교적 관 십 은 절 대 성 을 갖지만 종교적 표 현 은 다 양 하다.\n0) ㄱ , ㄴ (000 ㄱ , ㄷ (03) ㄴ , 그\n04) ㄱ , ㄷ , 르 06) ㄴ , ㄷ , 른",
+    "stem": "그 림 의 강 연 자가 지 지 할 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "종 교 란 궁극적 관 심 에 붙잡힌 상 태 입니다. 종 교 는\nㅎㅎ 쁘\n궁극적 관 심 으로 죽느냐 또는 사느냐 를 물 으 며\n그 대 답 을 찾습니다. 진정한 종 교 는 유 한 하지 않은\n궁 극 성에 대해 관 심 을 가지며 순 수 하고 진지한\n관 심 으로 존재 그 자 체 로 서 의 존 재 를 대 면 합 니다.\n이때 궁극적 관 심 은 절 대 성 을 띠 지 만, 그 관 심 의\n개별적 표 현 은 다양한 종 교 에 서 서로 다른 방식\n으로 드 러 납 니다. 종 교 는 유 한 한 실 재 를 하 나 의\n신 으 로 만들면 안 됩니다. 그렇게 만든 신은 우 상 이\n되기 때 문 입니다.\n~\n\\.\n< 보 기 >\n-. 종 교 는 삶 과 죽 음 의 의 미 를 묻고 답하는 것이다.\nㄴ . 진정한 종 교 는 유 한 한 실 재 를 무한한 존 재 로 만든다.\nㄷ . 종 교 는 모든 존 재 의 근 원 으로서의 존 재 와의 만 남 이다.\n2. 종교적 관 십 은 절 대 성 을 갖지만 종교적 표 현 은 다 양 하다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 그"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄷ , 르"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 른"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.89,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:37:53+00:00",
+    "qa_flags": []
+  }
+}

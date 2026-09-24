@@ -1,0 +1,76 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q15",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 19,
+    "question_number": 15,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2434,
+      2999,
+      4303
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q15.png",
+    "raw_text": "15. ( 가 ) 의 갑 , 을, 병 의 입 장 을 (나) 그 림 으 로 탐 구 하고자 할 때,\n쇼 ~ 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 국 가 들은 무정부 상 태 가 본 질 인 국제 관계 구 조 에\n서 생 존 을 위해 언제나 퀸 력 과 국 익 을 추 구 한다.\n| 을: 국제 제 도 와 민주적 여 론 을 통한 국가 간 신 뢰 와 협\n력 확 대 가 국제 평 화 의 필수 조 건 이다.\n병 : 국가 정 체 성 과 국제 관계 구 조 는 고 정 된 실 체 가 아니\n며 , 행 위 자 들의 사회적 상호 작 용 을 통해 구 성 된 다.\n- < 범 례 >\n국제 관 계 에 대한 : 출발 조건\n갑 , 을, 병 의 입 장 을 탐 구 한다. < > : 판단 내용\n후 : 판단 방향\n: 국제 관 계 에\n< 6 니로 대한 입장\n(나) < 8 =- ㅡ 뿌르\n예 예\n갑의 입장 을 의 입장 병 의 입장\n=\n< 보 기 >〉\nㄱ . &: 국 가 를 본 질 적 으로 이기적인 존 재 라고 규 정 하는가?\nㄴ . 8: 국가 간 세력 균 형 이 안 보 를 위한 최 적 의 수 단 인가?\nㄷ . 0: 국제 관 계 에서 보편적 도 덕 규 범 의 수 립 이 가능한가?\n2. 10: 행 위 자 의 관 점 에 따라 국 익 의 내 용 이 변할 수 있는가?\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄴ , 큰\n(0) ㄱ , ㄷ , 2 (6) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을, 병 의 입 장 을 (나) 그 림 으 로 탐 구 하고자 할 때, 쇼 ~ 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 국 가 들은 무정부 상 태 가 본 질 인 국제 관계 구 조 에\n서 생 존 을 위해 언제나 퀸 력 과 국 익 을 추 구 한다.\n| 을: 국제 제 도 와 민주적 여 론 을 통한 국가 간 신 뢰 와 협\n력 확 대 가 국제 평 화 의 필수 조 건 이다.\n병 : 국가 정 체 성 과 국제 관계 구 조 는 고 정 된 실 체 가 아니\n며 , 행 위 자 들의 사회적 상호 작 용 을 통해 구 성 된 다.\n- < 범 례 >\n국제 관 계 에 대한 : 출발 조건\n갑 , 을, 병 의 입 장 을 탐 구 한다. < > : 판단 내용\n후 : 판단 방향\n: 국제 관 계 에\n< 6 니로 대한 입장\n(나) < 8 =- ㅡ 뿌르\n예 예\n갑의 입장 을 의 입장 병 의 입장\n=\n< 보 기 >〉\nㄱ . &: 국 가 를 본 질 적 으로 이기적인 존 재 라고 규 정 하는가?\nㄴ . 8: 국가 간 세력 균 형 이 안 보 를 위한 최 적 의 수 단 인가?\nㄷ . 0: 국제 관 계 에서 보편적 도 덕 규 범 의 수 립 이 가능한가?\n2. 10: 행 위 자 의 관 점 에 따라 국 익 의 내 용 이 변할 수 있는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=950",
+      "vector_lines=1304"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.873,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:35:56+00:00",
+    "qa_flags": []
+  }
+}

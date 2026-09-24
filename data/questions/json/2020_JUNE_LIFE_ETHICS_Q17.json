@@ -1,0 +1,73 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 76,
+    "question_number": 17,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2012,
+      1740,
+      3374
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 갑 , 을 사 상 가 들의 입 장 으로 옮 은 것은?\n갑 : 전쟁 중에는 장 래 의 평화 시 기 에 상호 신 뢰 를 불 가 능 하게\n하는 적대 행 위 를 해서는 안 된다. 영원한 평 화 를 위해서는\n자유로운 국 가 들이 연 합 하여 세계 시민 사 회 로 나 아 가 야 한다.\n을 : 전쟁 개 시 가 정 당 화 되려면 전 쟁 의 동 기 와 목표가 정 의 로 워 야\n한다. 전 쟁 의 목 적 은 다른 국 가 를 섬 멸 하 는 데 있는 것이\n아니라 잃어버린 평 화 를 찾는 것이다.\n0 갑 : 국가 간 적대 행위 중 단 이 영구적 평 화 를 보 징 하는 것은 아니다\n2) 갑 : 국 가 들의 통치 형 태 와는 상 관 없이 완전한 영구 평 화 는 가 능 하 다\n8) 을 : 타 국 의 인권 침 해 를 막기 위한 전 쟁 은 모두 부당한 내정 간 섭 이다\n4 을 : 전쟁 수 행 의 정 당 성 은 전쟁 개시 명 분 의 정 당 성 에 떠 라 결 정 된 다\n6 갑 , 을 : 국가 간의 분 쟁 을 해 결 하기 위해서는 전 쟁 이 불 가 피 하다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 옮 은 것은?",
+    "passage": "갑 : 전쟁 중에는 장 래 의 평화 시 기 에 상호 신 뢰 를 불 가 능 하게\n하는 적대 행 위 를 해서는 안 된다. 영원한 평 화 를 위해서는\n자유로운 국 가 들이 연 합 하여 세계 시민 사 회 로 나 아 가 야 한다.\n을 : 전쟁 개 시 가 정 당 화 되려면 전 쟁 의 동 기 와 목표가 정 의 로 워 야\n한다. 전 쟁 의 목 적 은 다른 국 가 를 섬 멸 하 는 데 있는 것이\n아니라 잃어버린 평 화 를 찾는 것이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 국가 간 적대 행위 중 단 이 영구적 평 화 를 보 징 하는 것은 아니다"
+      },
+      {
+        "number": 2,
+        "text": "갑 : 국 가 들의 통치 형 태 와는 상 관 없이 완전한 영구 평 화 는 가 능 하 다"
+      },
+      {
+        "number": 3,
+        "text": "을 : 타 국 의 인권 침 해 를 막기 위한 전 쟁 은 모두 부당한 내정 간 섭 이다"
+      },
+      {
+        "number": 4,
+        "text": "을 : 전쟁 수 행 의 정 당 성 은 전쟁 개시 명 분 의 정 당 성 에 떠 라 결 정 된 다"
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 : 국가 간의 분 쟁 을 해 결 하기 위해서는 전 쟁 이 불 가 피 하다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:30+00:00",
+    "qa_flags": []
+  }
+}

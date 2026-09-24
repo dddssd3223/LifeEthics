@@ -1,0 +1,73 @@
+{
+  "id": "2023_CSAT_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 119,
+    "question_number": 12,
+    "exam_key": "2023_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1825,
+      1740,
+      3207
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_CSAT_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는\n대로 고른 것은? [3 점 ]\n갑 : 자연 상 태 에서 개 인 은 재 산 권 뿐만 아니라, 타 인 이 자 연 법 을\n위 반 한 것을 판 단 하 고 처 벌 하 는 권 력 을 가진다. 이 처 벌 권 을\n공 동 체 에 양 도 하는 곳 에 서만 정치 사 회 가 존 재 한다.\n을 : 자연 상 태 에서, 즉 전쟁 상 태 에서 벗 어 나 고 자 개 인 은 만 물 에\n대한 권 리 를 포 기 한 다. 정 의 는 유효한 계 약 을 지키는 것이며,\n계 약 의 유 효 성 은 국가 수 립 과 함께 시 작 된 다.\n< 보 기 >\nㄱ . 감 : 자연 상 태 에서 분쟁 발생 시 모는 당 사 자 는 재 판 관 이 된다.\nㄴ . 갑 : 정 부 에 신 탁 된 권 력 은 시 민 에 의해서 철 회 될 수 있\nㄷ . 을: 개 인 은 자연 상 태 에 서 의 불 의 를 피 하 려고 계 약 을 맺는\n르 . 갑과 을: 시 민 은 주 권 자 로서 동등한 자 유 와 권 리 를 지닌다.\n0) ㄱㄱ, ㄴ (00) ㄱ , ㄷ (3) ㄷ , 큰\n0 1, 느 , 르 05) 느 , =, 르",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 적절한 것 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 자연 상 태 에서 개 인 은 재 산 권 뿐만 아니라, 타 인 이 자 연 법 을\n위 반 한 것을 판 단 하 고 처 벌 하 는 권 력 을 가진다. 이 처 벌 권 을\n공 동 체 에 양 도 하는 곳 에 서만 정치 사 회 가 존 재 한다.\n을 : 자연 상 태 에서, 즉 전쟁 상 태 에서 벗 어 나 고 자 개 인 은 만 물 에\n대한 권 리 를 포 기 한 다. 정 의 는 유효한 계 약 을 지키는 것이며,\n계 약 의 유 효 성 은 국가 수 립 과 함께 시 작 된 다.\n< 보 기 >\nㄱ . 감 : 자연 상 태 에서 분쟁 발생 시 모는 당 사 자 는 재 판 관 이 된다.\nㄴ . 갑 : 정 부 에 신 탁 된 권 력 은 시 민 에 의해서 철 회 될 수 있\nㄷ . 을: 개 인 은 자연 상 태 에 서 의 불 의 를 피 하 려고 계 약 을 맺는\n르 . 갑과 을: 시 민 은 주 권 자 로서 동등한 자 유 와 권 리 를 지닌다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, 느 , 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.891,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:13+00:00",
+    "qa_flags": []
+  }
+}

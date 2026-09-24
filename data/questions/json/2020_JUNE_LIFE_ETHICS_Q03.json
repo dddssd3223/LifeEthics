@@ -1,0 +1,73 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q03",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 73,
+    "question_number": 3,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3490,
+      1742,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q03.png",
+    "raw_text": "ㆍ 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은\n갑 : 아 침 에 도 (7) 를 들으면 저 녁 에 죽어도 괜찮다. 뜻 이 있는\n선 비 와 인 (《-) 을 갖춘 사 람 은 삶 에 집 착 하 다가 인 을 해치는\n경 우 는 없지만, 자 신 을 희 생 하여 인 을 이루는 경 우 는 있다.\n을: 성 인 ( 볶 의 삶은 자 연 의 운 행 과 같고, 죽 음 은 만 물 의 변 화 와\n같다. 그는 행 복 을 추 구 하지 않으며, 불 행 을 자 초 하지 않는다.\n그의 삶은 몰 위에 떠 있는 것과 같고, 음 죽 은 휴 식 과 같다.\n0 갑 : 죽 음 은 반 복 되는 유 회 에서 벗어날 수 있는 방 법 이다.\n2) 갑 : 죽 음 은 내 세 (※69 에 서 의 도덕적 완 성 을 위한 과 정 이다.\n8) 을: 죽 음 은 모든 만 물 의 근 원 인 도 (8) 와 연관된 현 상 이다.\n0 을 : 죽 음 은 상 례 (808) 를 통해 애 도 해야만 하는 슬픈 일 이다.\n6 갑 , 을: 죽 음 이 이 쉽지 않도록 도 덕 적 으로 충 실 하게 살 아 야 만 한다.",
+    "stem": "ㆍ 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은",
+    "passage": "갑 : 아 침 에 도 (7) 를 들으면 저 녁 에 죽어도 괜찮다. 뜻 이 있는\n선 비 와 인 (《-) 을 갖춘 사 람 은 삶 에 집 착 하 다가 인 을 해치는\n경 우 는 없지만, 자 신 을 희 생 하여 인 을 이루는 경 우 는 있다.\n을: 성 인 ( 볶 의 삶은 자 연 의 운 행 과 같고, 죽 음 은 만 물 의 변 화 와\n같다. 그는 행 복 을 추 구 하지 않으며, 불 행 을 자 초 하지 않는다.\n그의 삶은 몰 위에 떠 있는 것과 같고, 음 죽 은 휴 식 과 같다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 죽 음 은 반 복 되는 유 회 에서 벗어날 수 있는 방 법 이다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 죽 음 은 내 세 (※69 에 서 의 도덕적 완 성 을 위한 과 정 이다."
+      },
+      {
+        "number": 3,
+        "text": "을: 죽 음 은 모든 만 물 의 근 원 인 도 (8) 와 연관된 현 상 이다."
+      },
+      {
+        "number": 4,
+        "text": "을 : 죽 음 은 상 례 (808) 를 통해 애 도 해야만 하는 슬픈 일 이다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을: 죽 음 이 이 쉽지 않도록 도 덕 적 으로 충 실 하게 살 아 야 만 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.869,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:23+00:00",
+    "qa_flags": []
+  }
+}

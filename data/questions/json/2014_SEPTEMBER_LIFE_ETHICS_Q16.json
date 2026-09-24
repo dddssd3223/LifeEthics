@@ -1,0 +1,76 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 8,
+    "question_number": 16,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      501,
+      1592,
+      1941
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다음 글 은 신문 칼 럼 이다. (7 에 들어갈 제 목 으로 가장 적절한 것은?\n(263672(7 년 (월 (일\n배\n언 론 에 의해 명 예 가 훼 손 되 었다고 언 론 사 를 상대로 법 원 에 소 송 을\n제 기 하 는 사 람 들 이 증 가 하고 있다. 특이한 점 은 보도 내 용 이 허위\n사 실 은 아니지만 정 신 적 ㆍ 물질적 피 해 를 당했다고 주 장 하 는 사 례 가\n증 가 하고 있다는 점 이 다 . 이런 현 상 들은 언 론 의 역 할 에 대해 다시\n생각해 보게 한다. 시 민 의 알 권 리 는 존 중 되어야 하지만 그렇다고\n언 론 이 이를 명 분 으로 모든 것을 정 당 화 할 수 는 없다. …( 중 략 )…\n이제 우 리 는 언 론 을 ' 자 유 ' 라 는 측 면 과 더불어 ' 책 임 ' 이 라는 측 면 에\n서도 바 라 볼 것을 제 안 한 다.\n(0) 언 론 은 개 인 의 인 격 권 을 존 중 해야 한다\n(3) 언 론 은 시 민 의 알 권 리 를 최 우 선 시 해 야 한다\n(3) 언 론 은 다양한 의 견 을 균형 있게 보 도 해야 한다\n(0) 언 론 은 검 중 된 객관적인 사 실 만을 보 도 해야 한다\n(5) 언 론 은 취 재 와 보도, 편 집 의 자 율 성 을 확 보 해야 한다",
+    "stem": "다음 글 은 신문 칼 럼 이다. (7 에 들어갈 제 목 으로 가장 적절한 것은?",
+    "passage": "(263672(7 년 (월 (일\n배\n언 론 에 의해 명 예 가 훼 손 되 었다고 언 론 사 를 상대로 법 원 에 소 송 을\n제 기 하 는 사 람 들 이 증 가 하고 있다. 특이한 점 은 보도 내 용 이 허위\n사 실 은 아니지만 정 신 적 ㆍ 물질적 피 해 를 당했다고 주 장 하 는 사 례 가\n증 가 하고 있다는 점 이 다 . 이런 현 상 들은 언 론 의 역 할 에 대해 다시\n생각해 보게 한다. 시 민 의 알 권 리 는 존 중 되어야 하지만 그렇다고\n언 론 이 이를 명 분 으로 모든 것을 정 당 화 할 수 는 없다. …( 중 략 )…\n이제 우 리 는 언 론 을 ' 자 유 ' 라 는 측 면 과 더불어 ' 책 임 ' 이 라는 측 면 에\n서도 바 라 볼 것을 제 안 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "언 론 은 개 인 의 인 격 권 을 존 중 해야 한다"
+      },
+      {
+        "number": 2,
+        "text": "언 론 은 시 민 의 알 권 리 를 최 우 선 시 해 야 한다"
+      },
+      {
+        "number": 3,
+        "text": "언 론 은 다양한 의 견 을 균형 있게 보 도 해야 한다"
+      },
+      {
+        "number": 4,
+        "text": "언 론 은 검 중 된 객관적인 사 실 만을 보 도 해야 한다"
+      },
+      {
+        "number": 5,
+        "text": "언 론 은 취 재 와 보도, 편 집 의 자 율 성 을 확 보 해야 한다"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=3294",
+      "vector_lines=3250"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.909,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:44+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2026_JUNE_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2026,
+    "exam_year": 2025,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 148,
+    "question_number": 19,
+    "exam_key": "2026_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2814
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2026_JUNE_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하 고자 할 때,\nㅅ ~(`。 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n갑 : 정 형 화 된 분 배 의 윈 리 는 재분배 행 위 를 필 요 로 한다.\n소유 권 리 론 의 관 점 에서 재 분 배 는 사실상 사 람 들 의\n권리 침해 행 위 를 포 함 하기 때문에 심각한 문 제 이다.\n0) | 오 : 무 지 의 베 일 은 당 사 자 들이 속할 사 회 에서 그들의 위 치 를\n확인할 근 거 를 차 단 한다. 이로 인해 특정한 정 의 관 에\n대한 만 장 일 치 의 선 택 이 가 능 해 진다.\n사상가 갑 , 을 의 별 헤이\n번 런\n인 자 으 탐 구 한 디 ㆍ 르 소\n터 영 글 던 ㄱ 안 「. : 판단 내용\n고 : 판단 방향\n시 그이 2 시리 에 혀\n(나) 예\n+\n갑의 인장 을 의 인장\n번기 번 으 르기 턴 으\n< 보 기 >\nㄱ . ㅅ : 과세 정 책 은 개 인 의 소 유 권 을 필 연 적 으로 침 해 하는가?\nㄴ . 2: 자기 노 동 을 통한 취 득 물의 소 유 가 부 당 할 수도 있는가?\nㄷ . (:: 원초적 계 약 의 당 사 자 는 자 신 이 최소 수 혜 자 가 될 확 률 을\n합 리 적 으로 계산할 수 있는가?\n2. (:: 최소 수 혜 자 에게 가장 큰 이 익 이 되는 분 배 는 사회 구성원\n모 두 에게 이 익 이 될 수 있는가?\n0) ㄱ 7, ㄷ 00 ㄴ , ㄷ (3) ㄴ , 큰\n04) 7, ㄴ , 크 06) 7, ㄷ , 르",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하 고자 할 때, ㅅ ~(`。 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 정 형 화 된 분 배 의 윈 리 는 재분배 행 위 를 필 요 로 한다.\n소유 권 리 론 의 관 점 에서 재 분 배 는 사실상 사 람 들 의\n권리 침해 행 위 를 포 함 하기 때문에 심각한 문 제 이다.\n0) | 오 : 무 지 의 베 일 은 당 사 자 들이 속할 사 회 에서 그들의 위 치 를\n확인할 근 거 를 차 단 한다. 이로 인해 특정한 정 의 관 에\n대한 만 장 일 치 의 선 택 이 가 능 해 진다.\n사상가 갑 , 을 의 별 헤이\n번 런\n인 자 으 탐 구 한 디 ㆍ 르 소\n터 영 글 던 ㄱ 안 「. : 판단 내용\n고 : 판단 방향\n시 그이 2 시리 에 혀\n(나) 예\n+\n갑의 인장 을 의 인장\n번기 번 으 르기 턴 으\n< 보 기 >\nㄱ . ㅅ : 과세 정 책 은 개 인 의 소 유 권 을 필 연 적 으로 침 해 하는가?\nㄴ . 2: 자기 노 동 을 통한 취 득 물의 소 유 가 부 당 할 수도 있는가?\nㄷ . (:: 원초적 계 약 의 당 사 자 는 자 신 이 최소 수 혜 자 가 될 확 률 을\n합 리 적 으로 계산할 수 있는가?\n2. (:: 최소 수 혜 자 에게 가장 큰 이 익 이 되는 분 배 는 사회 구성원\n모 두 에게 이 익 이 될 수 있는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ 7, ㄷ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 크"
+      },
+      {
+        "number": 5,
+        "text": "7, ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.836,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:24+00:00",
+    "qa_flags": []
+  }
+}

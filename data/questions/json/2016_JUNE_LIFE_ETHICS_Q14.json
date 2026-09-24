@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 7,
+    "original_compilation_page": 27,
+    "question_number": 14,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1713,
+      1954,
+      3281,
+      3275
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다음 가상 편 지 의 @ 에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?\n(2 에 게\n네가 다칠 뻔 했다는 소 식 을 듣고 걱 정 했 단다. 옛 선 현 들 에 의하면,\n군 자 는 친 족 을 사 랑 하 며 백 성 에게 어진 정 치 를 베풀고, 만 물 에 까 지 도\n사 랑 이 미치게 해야 한다고 했단다. 이는 마치 뿌 리 로부터 가 지 와\n잎 이 자라고 피 어 나 는 것과 같다고 하겠지. 이 뿌 리 가 되는 것 이 ` 바 로\n| @ ]( 이 ) 란 다. | @ ] 을 / 를 행하는 첫 걸 음 은 자 신 의 몸 을 훼 상\n하지 않는 것이다. 그래서 증 자 는 죽 음 에 이 르 렀 을 때 자 신 의 몸 이\n상하지 않고 온 전 하게 보 전 된 것을 보고 “비로소 걱 정 을 면 했 다 \"라고\n안 도 했다고 하 더 구나. …( 후 략 )…\n< 보 기 >\n. 음 양 ( 총 @) 의 조 화 를 통해서 형성된 횡적 관 계 의 미 덕 이다.\n. 사회적 역 할 에 맞는 도덕적 행 동 으로 이 름 을 떨칠 때 완 성 된다.\n. 조 상 에 대한 공 경 을 담은 전통적 제 례 (@9 뿔 에 의해서도 표 현 된다.\n. 혈 연 관 계 의 친 밀 함 을 배제한 공 평 함 을 추 구 하려는 노 력 이다.\n0) ㄱ , ㄴ (2) ㄱ ㄷ ㆍ (89 ㄴ ㅠ ㄷ 0 1 ㄴ 2 60 ㄷ 2",
+    "stem": "다음 가상 편 지 의 @ 에 대한 옮 은 설 명 을 < 보 기 > 에 서 고른 것은?",
+    "passage": "(2 에 게\n네가 다칠 뻔 했다는 소 식 을 듣고 걱 정 했 단다. 옛 선 현 들 에 의하면,\n군 자 는 친 족 을 사 랑 하 며 백 성 에게 어진 정 치 를 베풀고, 만 물 에 까 지 도\n사 랑 이 미치게 해야 한다고 했단다. 이는 마치 뿌 리 로부터 가 지 와\n잎 이 자라고 피 어 나 는 것과 같다고 하겠지. 이 뿌 리 가 되는 것 이 ` 바 로\n| @ ]( 이 ) 란 다. | @ ] 을 / 를 행하는 첫 걸 음 은 자 신 의 몸 을 훼 상\n하지 않는 것이다. 그래서 증 자 는 죽 음 에 이 르 렀 을 때 자 신 의 몸 이\n상하지 않고 온 전 하게 보 전 된 것을 보고 “비로소 걱 정 을 면 했 다 \"라고\n안 도 했다고 하 더 구나. …( 후 략 )…\n< 보 기 >\n. 음 양 ( 총 @) 의 조 화 를 통해서 형성된 횡적 관 계 의 미 덕 이다.\n. 사회적 역 할 에 맞는 도덕적 행 동 으로 이 름 을 떨칠 때 완 성 된다.\n. 조 상 에 대한 공 경 을 담은 전통적 제 례 (@9 뿔 에 의해서도 표 현 된다.\n. 혈 연 관 계 의 친 밀 함 을 배제한 공 평 함 을 추 구 하려는 노 력 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "(2) ㄱ ㄷ ㆍ"
+      },
+      {
+        "number": 3,
+        "text": "9 ㄴ ㅠ ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "1 ㄴ 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 2"
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.801,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:34+00:00",
+    "qa_flags": []
+  }
+}

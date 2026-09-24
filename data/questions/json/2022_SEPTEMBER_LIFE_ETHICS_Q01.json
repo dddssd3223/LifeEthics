@@ -1,0 +1,73 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 101,
+    "question_number": 1,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      1057,
+      1740,
+      2200
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. (가), (나), ( 다 ) 에 대한 설 명 으로 옮 지 않은 것은? [3 점 ]\n(가) 윤 리 학 은 도덕 원 리 를 바 탕 으로 실 생 활 의 윤리 문 제 에 대한\n해결 방 안 을 제 시 하는 데 주 력 해 야 한다.\n(나) 윤 리 학 은 도덕적 언 어 의 의 미 를 분 석 하고 도덕적 추 론 의\n정 당 성 을 겁 증 하는 데 주 력 해 야 한다.\n(다) 윤 리 학 은 도덕 판 단 의 기 준 을 탐 구 하고 도덕적 행 위 의\n이론적 근 거 를 제 시 하는 데 주 력 해 야 한다.\n0) ( 가 ) 의 목 적 은 도덕 현 상 의 인과 관 계 를 기 술 하는 것이다.\n0) ( 가 ) 는 현 실 의 윤리 문제 해 결 을 위해 ( 다 ) 를 필 요 로 한다.\n8) ( 나 ) 는 윤 리 학 이 학 문 적 으로 성립 가능한지 검 중 하 고자 한다.\n@) ( 다 ) 는 도덕적 규 범 들의 체 계 를 구 축 하고 정 당 화 하 고자 한다.\n69) ( 다 ) 는 윤리 이 론 을 정 립 할 때 ( 나 ) 의 연구 결 과 를 활용할 수 있다.",
+    "stem": "(가), (나), ( 다 ) 에 대한 설 명 으로 옮 지 않은 것은? [3 점 ]",
+    "passage": "(가) 윤 리 학 은 도덕 원 리 를 바 탕 으로 실 생 활 의 윤리 문 제 에 대한\n해결 방 안 을 제 시 하는 데 주 력 해 야 한다.\n(나) 윤 리 학 은 도덕적 언 어 의 의 미 를 분 석 하고 도덕적 추 론 의\n정 당 성 을 겁 증 하는 데 주 력 해 야 한다.\n(다) 윤 리 학 은 도덕 판 단 의 기 준 을 탐 구 하고 도덕적 행 위 의\n이론적 근 거 를 제 시 하는 데 주 력 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "( 가 ) 의 목 적 은 도덕 현 상 의 인과 관 계 를 기 술 하는 것이다."
+      },
+      {
+        "number": 2,
+        "text": "( 가 ) 는 현 실 의 윤리 문제 해 결 을 위해 ( 다 ) 를 필 요 로 한다."
+      },
+      {
+        "number": 3,
+        "text": "( 나 ) 는 윤 리 학 이 학 문 적 으로 성립 가능한지 검 중 하 고자 한다."
+      },
+      {
+        "number": 4,
+        "text": "( 다 ) 는 도덕적 규 범 들의 체 계 를 구 축 하고 정 당 화 하 고자 한다."
+      },
+      {
+        "number": 5,
+        "text": "( 다 ) 는 윤리 이 론 을 정 립 할 때 ( 나 ) 의 연구 결 과 를 활용할 수 있다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.91,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:29+00:00",
+    "qa_flags": []
+  }
+}

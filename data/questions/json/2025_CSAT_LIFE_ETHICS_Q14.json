@@ -1,0 +1,77 @@
+{
+  "id": "2025_CSAT_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 143,
+    "question_number": 14,
+    "exam_key": "2025_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      3284
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_CSAT_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하 고자 할 때,\n&~0(` 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 고른 것은? [3 점 ]\n갑 : 자기 가 족 의 기본적 필 요 를 충 족 하 고 도 소 득 이 남는\n사 람 은 이익 평등 고 려 의 원 칙 에 따라 세계 극 빈 자\n|. 구 혼 에 기 부 해야 할 의 무 가 있\n을: 원 조 의 목 적 은 고 통 받는 사 회 가 자 신 들 의 문 제 를\n합 당 하고 합 러 적 으 로 관 리 할 수 있도록 도와 질서\n정연한 만 민 들의 사 회 로 가 입 시 키 는 것이다.\n사상가 갑 , 을 의 : 출발 조건\n< 범 례 >\n입 장 을 탐 구 한다. 그 전단 개들\n--- 추 : 판단 방향\n(나) 예\n예\n예\n= 번 =\n들 번 =\n< 보 기 >\nㄱ . ㅅㅅ: 절대 빈곤 감 소 는 원 조 의 정당화 조 건 이 될 수 있는가?\nㄴ . 83: 원조 대 상 의 기본적 필요 충 족 은 원조 중 단 의 근 거 가\n될 수 있는가?\nㄷ . 0: 원조 대 상 의 고 통 을 방 지 하기 위해 원조 주 체 의 처지\n개 선 이 유 보 될 수 있는가?\n크 . (;: 원조 대상국 내 부 의 불평등 감 소 를 원 조 의 목 적 으로\n삼는 것은 불 가 능 한 가?\n0) ㄱㄱ, ㄴ (0 ㄱ ㅋㄷ 0) ㄴ , ㄷ 04) ㄴ , 큰 06) ㄷ , 르",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하 고자 할 때, &~0(` 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 자기 가 족 의 기본적 필 요 를 충 족 하 고 도 소 득 이 남는\n사 람 은 이익 평등 고 려 의 원 칙 에 따라 세계 극 빈 자\n|. 구 혼 에 기 부 해야 할 의 무 가 있\n을: 원 조 의 목 적 은 고 통 받는 사 회 가 자 신 들 의 문 제 를\n합 당 하고 합 러 적 으 로 관 리 할 수 있도록 도와 질서\n정연한 만 민 들의 사 회 로 가 입 시 키 는 것이다.\n사상가 갑 , 을 의 : 출발 조건\n< 범 례 >\n입 장 을 탐 구 한다. 그 전단 개들\n--- 추 : 판단 방향\n(나) 예\n예\n예\n= 번 =\n들 번 =\n< 보 기 >\nㄱ . ㅅㅅ: 절대 빈곤 감 소 는 원 조 의 정당화 조 건 이 될 수 있는가?\nㄴ . 83: 원조 대 상 의 기본적 필요 충 족 은 원조 중 단 의 근 거 가\n될 수 있는가?\nㄷ . 0: 원조 대 상 의 고 통 을 방 지 하기 위해 원조 주 체 의 처지\n개 선 이 유 보 될 수 있는가?\n크 . (;: 원조 대상국 내 부 의 불평등 감 소 를 원 조 의 목 적 으로\n삼는 것은 불 가 능 한 가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ㅋㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image",
+      "vector_curves=10772",
+      "vector_lines=1687"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.773,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:12+00:00",
+    "qa_flags": []
+  }
+}

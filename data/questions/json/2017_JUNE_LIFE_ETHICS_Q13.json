@@ -1,0 +1,79 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 39,
+    "question_number": 13,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      2031
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q13.png",
+    "raw_text": "183. ( 가 ) 의 입 장 에 비해 ( 나 ) 의 입 장 이 갖는 상대적 특 징 을 그 림 의\n(0~ ㅁ 중에서 고른 것은?\n(가) 사회적 약 자 에 대한 적극적 우대 정 책 은 또 다른 차 별 을\n가 져 오기 때문에 거 부 되어야 한다. 사회적 약 자 라는\n이 유 만으로 기 회 의 평 등 에서 예 외 를 인 정 하거나, 과 거 의\n불 평 등 을 잘 못 이 없는 후 대 에게 책 임 지 우는 것은 부 당 하다.\n(나) 사회적 약 자 에 대한 적극적 우대 정 책 을 실 시 해 야 한다.\n오랫동안 부당한 차 별 로 고 통 받았던 사 람 들 에게 응 분 으\n보 상 을 하고, 사회 전 체 의 평 화 와 행 복 을 증 진 하는 등 여러\n사회적 가 치 를 실 현 해야 한다.\nㆍ: 평 등 의 실질적인 측 면 보다 형 식 적 인 측 면 을 중 시 하는 정도\n2 ㆍ: 과 거 의 차 별 에 대한 사회 ㆍ 경제적 보 상 을 중 시 하는 정도\n@ 프 더 ㆍ 27 : 차 별 을 줄이기 위해 인종, 종교, 성별 등 의 다 양 성 을 중 시 하는 정도\n나으 =\n낮음 논 을\n= 개 =\n00 00 8 06) = 00 8) 69) 2",
+    "stem": "183. ( 가 ) 의 입 장 에 비해 ( 나 ) 의 입 장 이 갖는 상대적 특 징 을 그 림 의 (0~ ㅁ 중에서 고른 것은?",
+    "passage": "(가) 사회적 약 자 에 대한 적극적 우대 정 책 은 또 다른 차 별 을\n가 져 오기 때문에 거 부 되어야 한다. 사회적 약 자 라는\n이 유 만으로 기 회 의 평 등 에서 예 외 를 인 정 하거나, 과 거 의\n불 평 등 을 잘 못 이 없는 후 대 에게 책 임 지 우는 것은 부 당 하다.\n(나) 사회적 약 자 에 대한 적극적 우대 정 책 을 실 시 해 야 한다.\n오랫동안 부당한 차 별 로 고 통 받았던 사 람 들 에게 응 분 으\n보 상 을 하고, 사회 전 체 의 평 화 와 행 복 을 증 진 하는 등 여러\n사회적 가 치 를 실 현 해야 한다.\nㆍ: 평 등 의 실질적인 측 면 보다 형 식 적 인 측 면 을 중 시 하는 정도\n2 ㆍ: 과 거 의 차 별 에 대한 사회 ㆍ 경제적 보 상 을 중 시 하는 정도\n@ 프 더 ㆍ 27 : 차 별 을 줄이기 위해 인종, 종교, 성별 등 의 다 양 성 을 중 시 하는 정도\n나으 =\n낮음 논 을\n= 개 =",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(0"
+      },
+      {
+        "number": 2,
+        "text": "8"
+      },
+      {
+        "number": 3,
+        "text": "="
+      },
+      {
+        "number": 4,
+        "text": "8)"
+      },
+      {
+        "number": 5,
+        "text": "2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=26",
+      "vector_lines=24"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.861,
+    "review_required": true,
+    "warnings": [
+      "CHOICE1_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 3, 4, 5] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_1rows_clustered",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:51:42+00:00",
+    "qa_flags": []
+  }
+}

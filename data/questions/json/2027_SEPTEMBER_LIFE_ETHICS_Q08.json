@@ -1,0 +1,73 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 10,
+    "original_compilation_page": 150,
+    "question_number": 8,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2035
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. (가), (나) 사 상 의 입 장 으로 가장 적절한 것은?\n(가) 삶 과 의 로 우 |\\| 을 함께 얻을 수 없다면, 삶 을 버리고\n의 로 움 을 취 하 겠다. 원하는 것 중에 삶 보다 더한 것이 있고,\n싫어하는 것 중에 죽 음 보다 더한 것이 있\n(나) 지 인 ( 쪼 ㅅ ) 은 구 름 을 타 기 도 하고, 해나 달 에 올라 앉아\n세상 밖으로 나가서 노 닐 기도 한다. 삶 이 나 죽음 같은 것은\n그 에 게 아무런 변 화 를 주지 못 한다.\n0) (가) : 죽 음 은 삶 과 연 결 되어 있으므로 애 도 의 대 상 이 될 수 없다\n@@) (가): 인 (의 완 성 을 위한 죽 음 이라도 의 로 움 에는 어긋난 것이다.\n8) (나): 도 ( 갤 ) 의 관 점 을 따르면 삶 과 죽 음 의 차 별 에서 벗어날 수 있다.\n0) (나): 죽 음 이란 운 명 [@| 이 며 흘 어져 있던 기 (%0 가 모인 것이다.\n09) ( 가 ) 와 (나): 죽 음 의 의 미 를 통 찰 해도 죽 음 의 두 려 움 을 극 복 할 수 없다",
+    "stem": "(가), (나) 사 상 의 입 장 으로 가장 적절한 것은?",
+    "passage": "(가) 삶 과 의 로 우 |\\| 을 함께 얻을 수 없다면, 삶 을 버리고\n의 로 움 을 취 하 겠다. 원하는 것 중에 삶 보다 더한 것이 있고,\n싫어하는 것 중에 죽 음 보다 더한 것이 있\n(나) 지 인 ( 쪼 ㅅ ) 은 구 름 을 타 기 도 하고, 해나 달 에 올라 앉아\n세상 밖으로 나가서 노 닐 기도 한다. 삶 이 나 죽음 같은 것은\n그 에 게 아무런 변 화 를 주지 못 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가) : 죽 음 은 삶 과 연 결 되어 있으므로 애 도 의 대 상 이 될 수 없다"
+      },
+      {
+        "number": 2,
+        "text": "(가): 인 (의 완 성 을 위한 죽 음 이라도 의 로 움 에는 어긋난 것이다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 도 ( 갤 ) 의 관 점 을 따르면 삶 과 죽 음 의 차 별 에서 벗어날 수 있다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 죽 음 이란 운 명 [@| 이 며 흘 어져 있던 기 (%0 가 모인 것이다."
+      },
+      {
+        "number": 5,
+        "text": "( 가 ) 와 (나): 죽 음 의 의 미 를 통 찰 해도 죽 음 의 두 려 움 을 극 복 할 수 없다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.888,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:38:28+00:00",
+    "qa_flags": []
+  }
+}

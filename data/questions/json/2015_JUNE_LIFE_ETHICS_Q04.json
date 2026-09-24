@@ -1,0 +1,73 @@
+{
+  "id": "2015_JUNE_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 13,
+    "question_number": 4,
+    "exam_key": "2015_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      2028,
+      2999,
+      3110
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_JUNE_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 다음 글 의 사상적 입 장 에서 지 지 할 주 장 으로 가장 적절한 것은?\n인 간 은 궁극적 존 재 에 대해 물 을 수 있을 뿐만 아니라, 묻지\n않으면 안 된다. 즉 , 묻는 행 위 로부터 벗어날 수 없는 것\n이다. 왜냐하면 인 간 은 자 신 과 분 리 된 궁극적 존 재 의 힘 에\n속하여 있기 때문이며, 또한 자 신 이 그 궁극적 존 재 에 속하여\n있 음 과 동시에 분 리 되어 있다는 사실 이 모 두 를 알고 있기\n때 문 이 다 .\n(0) 인 간 은 궁극적 존 재 에 대한 믿 음 을 거 부 해 야 한다.\n(3) 인 간 은 성스러운 삶 보다 세 속 적 인 삶 을 추 구 해 야 한다.\n(3) 인 간 은 감각적 경 험 을 진 리 의 토대로 받 아 들 여야 한다.\n(0) 인 간 은 삶 의 참된 의 미 를 추 구 하며 초 월 성 을 지 향 해야 한다.\n(5) 인 간 은 어떤 존 재 에도 귀 의 (4&) 하 지 않는 삶 을 살아야 한다.",
+    "stem": "다음 글 의 사상적 입 장 에서 지 지 할 주 장 으로 가장 적절한 것은?",
+    "passage": "인 간 은 궁극적 존 재 에 대해 물 을 수 있을 뿐만 아니라, 묻지\n않으면 안 된다. 즉 , 묻는 행 위 로부터 벗어날 수 없는 것\n이다. 왜냐하면 인 간 은 자 신 과 분 리 된 궁극적 존 재 의 힘 에\n속하여 있기 때문이며, 또한 자 신 이 그 궁극적 존 재 에 속하여\n있 음 과 동시에 분 리 되어 있다는 사실 이 모 두 를 알고 있기\n때 문 이 다 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인 간 은 궁극적 존 재 에 대한 믿 음 을 거 부 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "인 간 은 성스러운 삶 보다 세 속 적 인 삶 을 추 구 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "인 간 은 감각적 경 험 을 진 리 의 토대로 받 아 들 여야 한다."
+      },
+      {
+        "number": 4,
+        "text": "인 간 은 삶 의 참된 의 미 를 추 구 하며 초 월 성 을 지 향 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "인 간 은 어떤 존 재 에도 귀 의 (4&) 하 지 않는 삶 을 살아야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.925,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:57+00:00",
+    "qa_flags": []
+  }
+}

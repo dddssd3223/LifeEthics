@@ -1,0 +1,73 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q13",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 63,
+    "question_number": 13,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      3420,
+      1742,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q13.png",
+    "raw_text": "13. 다음 사 상 가 의 입 장 으로 적 절 하지 않은 것은?\n개 인 으로서 각 사 람 들 은 그들이 서로 사 랑 하 고 봉 사 해야 할\n것과 서로 간의 정 의 를 확 립 해야 한다는 사 실 을 믿고 있\n그런데 집 단 으 로서의 개 인 들은 스스로 집 단 의 힘 이 명 하 는\n것이면 무 엇 이 든 따른다. 가장 높은 수 준 의 종교적 선 의 지를\n지닌 개 인 들 로 이루어진 국 가 도 사 랑 을 실 천 하지 끗 한다. 그들의\n선 의 지는 조 국 에 대한 충 성 이라는 여 과 를 거쳐 국가 이 기 주 의 를\n확 대 하는 경 향 까 지 생겨나게 한다.\n00 사회 정의 실 현 에 정치적 강제 수 단 의 활 용 은 필수 요 수 이다.\n2) 개 인 의 이 타 십 과 애 국 십 은 국가 간 정 의 로운 행 동 을 보 장 한다.\n6) 국가 간 이해 관 계 는 설 득 만 으 로 는 합 리 적 으로 조 정 되지 않는다.\n4 국 가 의 이 기 심 은 도덕적 개 인 이 모인 사 회 를 비 도 덕 적 으로 만든다\n5 집단 간 대립 상 황 에서도 개 인 은 비 이 기적 태 도 를 취할 수 있",
+    "stem": "다음 사 상 가 의 입 장 으로 적 절 하지 않은 것은?",
+    "passage": "개 인 으로서 각 사 람 들 은 그들이 서로 사 랑 하 고 봉 사 해야 할\n것과 서로 간의 정 의 를 확 립 해야 한다는 사 실 을 믿고 있\n그런데 집 단 으 로서의 개 인 들은 스스로 집 단 의 힘 이 명 하 는\n것이면 무 엇 이 든 따른다. 가장 높은 수 준 의 종교적 선 의 지를\n지닌 개 인 들 로 이루어진 국 가 도 사 랑 을 실 천 하지 끗 한다. 그들의\n선 의 지는 조 국 에 대한 충 성 이라는 여 과 를 거쳐 국가 이 기 주 의 를\n확 대 하는 경 향 까 지 생겨나게 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "사회 정의 실 현 에 정치적 강제 수 단 의 활 용 은 필수 요 수 이다."
+      },
+      {
+        "number": 2,
+        "text": "개 인 의 이 타 십 과 애 국 십 은 국가 간 정 의 로운 행 동 을 보 장 한다."
+      },
+      {
+        "number": 3,
+        "text": "국가 간 이해 관 계 는 설 득 만 으 로 는 합 리 적 으로 조 정 되지 않는다."
+      },
+      {
+        "number": 4,
+        "text": "국 가 의 이 기 심 은 도덕적 개 인 이 모인 사 회 를 비 도 덕 적 으로 만든다"
+      },
+      {
+        "number": 5,
+        "text": "집단 간 대립 상 황 에서도 개 인 은 비 이 기적 태 도 를 취할 수 있"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.909,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:37:54+00:00",
+    "qa_flags": []
+  }
+}

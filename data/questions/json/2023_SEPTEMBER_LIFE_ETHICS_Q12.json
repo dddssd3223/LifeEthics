@@ -1,0 +1,73 @@
+{
+  "id": "2023_SEPTEMBER_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 115,
+    "question_number": 12,
+    "exam_key": "2023_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1831,
+      1740,
+      3221
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_SEPTEMBER_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 갑 , 을, 병 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]\n갑 : 형 벌 은 동 등 성 의 원 리 에 따라서 내 려 져 야 한다. 사 형 은\n살 인 에 대한 최상의 균 형 자 이 다. 이는 정 의 가 선 험 적 으 로\n정 초 된 보 편 적 인 법 칙 들 에 따라 의 욕 하는 바이다.\n을: 형 벌 은 시 민 의 이 익 을 위해 집 행 되어야 한다. 사 형 은\n정말로 유 용 하고 정 당 한 가? 사 형 은 국 가 가 유 용 하다고\n판단한 경우 한 사 람 의 시 민 에 대해 벌이는 전 쟁 이다.\n명: 형 벌 은 사 희 에 해 악 을 끼치는 모든 위법 행 위 를 막는 것에\n목 적 을 둔다. 형 벌 의 가 치 는 어떠한 경 우 에도 위법 행 위 에서\n얻는 이 득 의 가 치 를 능 가 하 기 에 충 분 해야 한다.\n0) 갑 : 살 인 범 은 살 인 을 의 욕 한 자 로 서 어떠한 인 격 성도 지닐 수 없다.\n2) 을 : 일반 시 민 이 법 을 두 려 위 하 지 않도록 형 벌 을 집 행 해야 한다.\n3) 병 : 공 동 체 의 해 악 을 방 지 한다면 형벌 그 자 체 는 악 이 아니다.\n9 갑과 을: 공적 정 의 는 만 인 의 행 복 에 영 향 을 미치는 방 식 일 뿐이다.\n6 을과 병 : 법 죄 자 에게 가능한 한 적은 고 통 을 주는 동시에 범죄\n억 지 력 을 갖는 형 벌 은 허 용 될 수 있다,",
+    "stem": "갑 , 을, 병 사 상 가 들의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 형 벌 은 동 등 성 의 원 리 에 따라서 내 려 져 야 한다. 사 형 은\n살 인 에 대한 최상의 균 형 자 이 다. 이는 정 의 가 선 험 적 으 로\n정 초 된 보 편 적 인 법 칙 들 에 따라 의 욕 하는 바이다.\n을: 형 벌 은 시 민 의 이 익 을 위해 집 행 되어야 한다. 사 형 은\n정말로 유 용 하고 정 당 한 가? 사 형 은 국 가 가 유 용 하다고\n판단한 경우 한 사 람 의 시 민 에 대해 벌이는 전 쟁 이다.\n명: 형 벌 은 사 희 에 해 악 을 끼치는 모든 위법 행 위 를 막는 것에\n목 적 을 둔다. 형 벌 의 가 치 는 어떠한 경 우 에도 위법 행 위 에서\n얻는 이 득 의 가 치 를 능 가 하 기 에 충 분 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 살 인 범 은 살 인 을 의 욕 한 자 로 서 어떠한 인 격 성도 지닐 수 없다."
+      },
+      {
+        "number": 2,
+        "text": "을 : 일반 시 민 이 법 을 두 려 위 하 지 않도록 형 벌 을 집 행 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "병 : 공 동 체 의 해 악 을 방 지 한다면 형벌 그 자 체 는 악 이 아니다."
+      },
+      {
+        "number": 4,
+        "text": "갑과 을: 공적 정 의 는 만 인 의 행 복 에 영 향 을 미치는 방 식 일 뿐이다."
+      },
+      {
+        "number": 5,
+        "text": "을과 병 : 법 죄 자 에게 가능한 한 적은 고 통 을 주는 동시에 범죄 억 지 력 을 갖는 형 벌 은 허 용 될 수 있다,"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.898,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:03+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 76,
+    "question_number": 19,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2594
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 갑 을 병 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때 ^ ㅅ ~(: 에\n해 당 하는 적절한 진 술 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]\n갑 : 범 법 자 에 대한 처 벌 은 정 언 명 령 으로 주어진다. 사 법 적\n처 벌 은 범죄자 자 신 을 위 해 서 든 시 민 사 회 를 위 해 서 든\n다른 어떤 선 을 촉 진 하기 위한 수 단 으로 시 행 될 수 없다\n을: 모든 형 별 자 체 는 해 악 이지만 공 리 의 원 칙 에 따르면\n( 가 )| 형 벌 이 주는 해 약 보다 더 큰 해 악 을 제 거 하여 사 회 의\n행 복 을 증 진 시킬 수 있는 경 우 에는 형 벌 이 허 용 될 수 있다\n병 : 사 형 은 법 죄 자를 교 정 하 기 보다는 죽 여 서 고 통 을 느낄\n수 없게 한다. 범 죄 자 의 지속적인 불 행 을 본 보 기 로 보여\n주는 것이 사 람 들 에게 사 형 보다 강력한 인 상 을 준다.\n< 범 례 >\n쇼 : 갑과 을 만 의 공통 입장\n(나)\n8: 갑과 병 만의 공통 입장\n6: 을과 병 만의 공통 입장\n< 보 기 >\n-. ㅅ : 사 형 은 살 인 범 의 인 격 을 존 중 하기 위해 설 시 해 야 한다.\nㄴ . 1 : 살 인 죄 에 대하여 사 형 을 대 체 할 다른 처 벌 이 존 재 한다.\nㄴ . (: : 형 별 이 방 지 할 해 악 이 형 벌 의 해 익 보다 ㅁ 면 형 벌 은 정 딩 하다\n2. (: : 범죄자 처 벌 을 통해 병 죄 를 예 빙 하 는 것은 형 벌 의 목 적 이다\n0) ㄱㄱ, ㄴ 00 ㄴ , ㄷ (3) ㄷ , 큰\n04) 7, ㄴ , 르 06) 7, ㄷ , 르",
+    "stem": "( 가 ) 의 갑 을 병 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때 ^ ㅅ ~(: 에 해 당 하는 적절한 진 술 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 범 법 자 에 대한 처 벌 은 정 언 명 령 으로 주어진다. 사 법 적\n처 벌 은 범죄자 자 신 을 위 해 서 든 시 민 사 회 를 위 해 서 든\n다른 어떤 선 을 촉 진 하기 위한 수 단 으로 시 행 될 수 없다\n을: 모든 형 별 자 체 는 해 악 이지만 공 리 의 원 칙 에 따르면\n( 가 )| 형 벌 이 주는 해 약 보다 더 큰 해 악 을 제 거 하여 사 회 의\n행 복 을 증 진 시킬 수 있는 경 우 에는 형 벌 이 허 용 될 수 있다\n병 : 사 형 은 법 죄 자를 교 정 하 기 보다는 죽 여 서 고 통 을 느낄\n수 없게 한다. 범 죄 자 의 지속적인 불 행 을 본 보 기 로 보여\n주는 것이 사 람 들 에게 사 형 보다 강력한 인 상 을 준다.\n< 범 례 >\n쇼 : 갑과 을 만 의 공통 입장\n(나)\n8: 갑과 병 만의 공통 입장\n6: 을과 병 만의 공통 입장\n< 보 기 >\n-. ㅅ : 사 형 은 살 인 범 의 인 격 을 존 중 하기 위해 설 시 해 야 한다.\nㄴ . 1 : 살 인 죄 에 대하여 사 형 을 대 체 할 다른 처 벌 이 존 재 한다.\nㄴ . (: : 형 별 이 방 지 할 해 악 이 형 벌 의 해 익 보다 ㅁ 면 형 벌 은 정 딩 하다\n2. (: : 범죄자 처 벌 을 통해 병 죄 를 예 빙 하 는 것은 형 벌 의 목 적 이다",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 르"
+      },
+      {
+        "number": 5,
+        "text": "7, ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.873,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:31+00:00",
+    "qa_flags": []
+  }
+}

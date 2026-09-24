@@ -1,0 +1,76 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q07",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 6,
+    "original_compilation_page": 6,
+    "question_number": 7,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      2619,
+      1592,
+      4299
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q07.png",
+    "raw_text": "7. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으 로 표현할 때,\n&~( 에 해 당 하 는 옮 은 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n[3 점 ]\n갑 : 만약 한 존 제가 고 통 을 느 끼 다 면 그러한 고 통 을\n고 려 하지 않 으 려 는 도덕적 논 증 은 타 당 하지 않\n그래서 어떤 존 재 의 고 통 과 다른 존 재 의 동일한\n고 통 을 동 등 하게 취 급 하는 평 등 의 원 리 가 요 청 된다.\n(가 | 오 : 잇 간 은 자 신 에게 부 여 혔던 생 명 에의 경 외 를 살려고\n하는 모든 존 재 에게 부 여 하지 않으면 한 된다고\n느 킨 다. 그래서 그는 생 명 을 고 양 하는 것을 선 으로.\n생 명 을 파 괴 하는 것을 악 으로 여긴다.\n범례\n스 : 갑 만의 입장\n8: 갑 , 을 의 공통 입장\n6: 을 만의 입장\n< 보 기 >\nㄱ . &: 동 물 은 인 간 과 마찬가지로 도 덕 적 으로 존 중 받아야 한다.\nㄴ . 4: 고 통 을 느낄 수 없는 존 재 는 도덕적 고려 대 상 이 아니다.\nㄷ . 8: 인 간 은 동 물 을 보 호 해야 하는 직접적인 의 무 를 지닌다.\n2. (: 자연 안의 모든 존 재 들은 동등한 도덕적 가 치 를 지닌다,\n(62) ㄱ , ㄴ (0) ㄴ , ㄷ (3) ㄱ , ㄴ , 크\n(0)0 ㄱ , ㄷ , 2 (6) ㄴ , ㄷ , 크",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으 로 표현할 때, &~( 에 해 당 하 는 옮 은 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 만약 한 존 제가 고 통 을 느 끼 다 면 그러한 고 통 을\n고 려 하지 않 으 려 는 도덕적 논 증 은 타 당 하지 않\n그래서 어떤 존 재 의 고 통 과 다른 존 재 의 동일한\n고 통 을 동 등 하게 취 급 하는 평 등 의 원 리 가 요 청 된다.\n(가 | 오 : 잇 간 은 자 신 에게 부 여 혔던 생 명 에의 경 외 를 살려고\n하는 모든 존 재 에게 부 여 하지 않으면 한 된다고\n느 킨 다. 그래서 그는 생 명 을 고 양 하는 것을 선 으로.\n생 명 을 파 괴 하는 것을 악 으로 여긴다.\n범례\n스 : 갑 만의 입장\n8: 갑 , 을 의 공통 입장\n6: 을 만의 입장\n< 보 기 >\nㄱ . &: 동 물 은 인 간 과 마찬가지로 도 덕 적 으로 존 중 받아야 한다.\nㄴ . 4: 고 통 을 느낄 수 없는 존 재 는 도덕적 고려 대 상 이 아니다.\nㄷ . 8: 인 간 은 동 물 을 보 호 해야 하는 직접적인 의 무 를 지닌다.\n2. (: 자연 안의 모든 존 재 들은 동등한 도덕적 가 치 를 지닌다,",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄱ , ㄴ , 크"
+      },
+      {
+        "number": 4,
+        "text": "0 ㄱ , ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 크"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=402",
+      "vector_lines=670"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.871,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:35:26+00:00",
+    "qa_flags": []
+  }
+}

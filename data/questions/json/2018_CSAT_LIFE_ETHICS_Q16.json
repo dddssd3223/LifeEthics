@@ -1,0 +1,73 @@
+{
+  "id": "2018_CSAT_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2018,
+    "exam_year": 2017,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 60,
+    "question_number": 16,
+    "exam_key": "2018_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      502,
+      1592,
+      1792
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2018_CSAT_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. (가), ( 나 ) 의 입 장 으로 옮 지 않은 것은?\n(가) 종 교 는 신 앙 을 통해 진 리 로 나아갈 수 있도록 하는 매 혹 적 이고\n신비한 감 정 의 체 협 이다. 세 계 는 신비로 가 득 하므로 인간 이 성 이\n과 학 적 으로 인 식 하는 들 속에 가 둘 수 없다. 빙 향 을 잡기 어려운\n현 실 에서 종 교 를 통해 삶 의 의 미 와 목 적 을 추 구 해 야 한다.\n(나) 과 학 은 사 실 에 토 대 하며 현 상 이 어떻게 일어나는지 그 윈 인 을\n찾고 반증 가 능 성 에 대해 열린 자 세 를 취해야 한다. 물 리 적 인\n것 외에는 실 재 성 이 이 성 적 으로 증 명 될 수 없으므로, 객 관 적 으로\n입증 가능한 사 실 에 근 거 하여 진 리 를 추 구 해 야 한다.\n0) (가): 인 간 은 종교적 체 험 을 통해 삶 의 목 적 과 의 미 를 찾아야 한다.\n(2) (가): 신앙 없이 이 성 만으로는 세 계 의 진 리 를 완전히 인 식 할 수 없다.\n(8) (나): 과학적 지 식 을 반증 가 능 성 이 있는 것으로 인 식 할 필 요 가 있다.\n(4) (나): 인 간 은 실 험 과 관 찰 을 통해 실 증 적 으로 대 상 을 탐 구 해야 한다.\n(65) (가), (나): 과학적 인 식 의 한계 내 에 서 만 진 리 를 추 구 해 야 한다.",
+    "stem": "(가), ( 나 ) 의 입 장 으로 옮 지 않은 것은?",
+    "passage": "(가) 종 교 는 신 앙 을 통해 진 리 로 나아갈 수 있도록 하는 매 혹 적 이고\n신비한 감 정 의 체 협 이다. 세 계 는 신비로 가 득 하므로 인간 이 성 이\n과 학 적 으로 인 식 하는 들 속에 가 둘 수 없다. 빙 향 을 잡기 어려운\n현 실 에서 종 교 를 통해 삶 의 의 미 와 목 적 을 추 구 해 야 한다.\n(나) 과 학 은 사 실 에 토 대 하며 현 상 이 어떻게 일어나는지 그 윈 인 을\n찾고 반증 가 능 성 에 대해 열린 자 세 를 취해야 한다. 물 리 적 인\n것 외에는 실 재 성 이 이 성 적 으로 증 명 될 수 없으므로, 객 관 적 으로\n입증 가능한 사 실 에 근 거 하여 진 리 를 추 구 해 야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 인 간 은 종교적 체 험 을 통해 삶 의 목 적 과 의 미 를 찾아야 한다."
+      },
+      {
+        "number": 2,
+        "text": "(가): 신앙 없이 이 성 만으로는 세 계 의 진 리 를 완전히 인 식 할 수 없다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 과학적 지 식 을 반증 가 능 성 이 있는 것으로 인 식 할 필 요 가 있다."
+      },
+      {
+        "number": 4,
+        "text": "(나): 인 간 은 실 험 과 관 찰 을 통해 실 증 적 으로 대 상 을 탐 구 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "(가), (나): 과학적 인 식 의 한계 내 에 서 만 진 리 를 추 구 해 야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.915,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:51+00:00",
+    "qa_flags": []
+  }
+}

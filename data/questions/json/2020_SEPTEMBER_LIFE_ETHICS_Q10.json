@@ -1,0 +1,75 @@
+{
+  "id": "2020_SEPTEMBER_LIFE_ETHICS_Q10",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 78,
+    "question_number": 10,
+    "exam_key": "2020_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2464,
+      3148,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_SEPTEMBER_LIFE_ETHICS_Q10.png",
+    "raw_text": "10. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 퓨 현 할 때,\nㅅ ~1 에 해 당 하 는 적절한 진 술 만 을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 대지 윤 리 는 생태 윤 리 를 반 영 한 다. 생태 윤 리 는 각\n개 인 이 대 지 의 건 강 을 위한 자 신 의 의 무 를 깨닫고\n실천할 것을 요 구 한다.\n을: 삶 의 주 처 라는 기 준 을 충 족 하는 동 물 들은 내재적\n( 가 )| 가 치 를 가진다. 내재적 가 치 는 무 조 건 적 인 개 념 으로,\n그것을 갖 거나 갖지 않는 것이지 중 간 은 없다.\n병 : 생 명 체 가 선 을 갖는 이 유 는 그것이 목 적 론적 삶 의\n중 심 이기 때 문 이 다. 생 명 체 는 자 신 의 성장, 발전, 생존,\n번 식 을 실 현 하려는 일 관 성 과 통 일 성 을 가진다.\n< 범 례 >\n쇼 : 갑 만의 입장\n2: 을 만의 입장\n(@: 을과 병 만 의 공통 입장\n1: 감 , 을, 병 의 공통 입장\n< 보 기 >\nㄱ . 쇼 : 인 간 은 생 태 계 에 간 섭 해서는 안 되는 의 무 를 지 넌 다.\nㄴ . 0: 한 살 이상의 정상적인 포 유 동 물 은 내재적 가 치 를 지닌다.\nㄷ . 0: 생 태 계 의 선 이 개 체 의 선보다 우 선 하는 것은 아니다.\n2. 1: 인간 상호 간의 의 무 는 도 덕 적 으로 정 당 화 될 수 있다.\n0) ㄱㄱ, ㄴ 00 ㄴ , ㄷ (3) ㄷ , 큰\n04) 7, ㄴ , 크 06) 7, ㄷ , 르",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 을 (나) 그 림 으로 퓨 현 할 때, ㅅ ~1 에 해 당 하 는 적절한 진 술 만 을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 대지 윤 리 는 생태 윤 리 를 반 영 한 다. 생태 윤 리 는 각\n개 인 이 대 지 의 건 강 을 위한 자 신 의 의 무 를 깨닫고\n실천할 것을 요 구 한다.\n을: 삶 의 주 처 라는 기 준 을 충 족 하는 동 물 들은 내재적\n( 가 )| 가 치 를 가진다. 내재적 가 치 는 무 조 건 적 인 개 념 으로,\n그것을 갖 거나 갖지 않는 것이지 중 간 은 없다.\n병 : 생 명 체 가 선 을 갖는 이 유 는 그것이 목 적 론적 삶 의\n중 심 이기 때 문 이 다. 생 명 체 는 자 신 의 성장, 발전, 생존,\n번 식 을 실 현 하려는 일 관 성 과 통 일 성 을 가진다.\n< 범 례 >\n쇼 : 갑 만의 입장\n2: 을 만의 입장\n(@: 을과 병 만 의 공통 입장\n1: 감 , 을, 병 의 공통 입장\n< 보 기 >\nㄱ . 쇼 : 인 간 은 생 태 계 에 간 섭 해서는 안 되는 의 무 를 지 넌 다.\nㄴ . 0: 한 살 이상의 정상적인 포 유 동 물 은 내재적 가 치 를 지닌다.\nㄷ . 0: 생 태 계 의 선 이 개 체 의 선보다 우 선 하는 것은 아니다.\n2. 1: 인간 상호 간의 의 무 는 도 덕 적 으로 정 당 화 될 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄴ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "7, ㄴ , 크"
+      },
+      {
+        "number": 5,
+        "text": "7, ㄷ , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.887,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:38:34+00:00",
+    "qa_flags": []
+  }
+}

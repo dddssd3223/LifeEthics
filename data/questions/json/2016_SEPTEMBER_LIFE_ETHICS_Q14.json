@@ -1,0 +1,73 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 11,
+    "original_compilation_page": 31,
+    "question_number": 14,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      497,
+      2999,
+      2255
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 에 들어갈 내 용 으로 가장 적절한 것은?\n나는 기 업 의 사회적 책 임 은 오로지 법 을 준 수 하면서 자유\n운 경 쟁 에 전 념 하여 수 익 을 내는 것 뿐이라고 생 각 한 다. 사 희 를\n향한 기 업 인 의 선 의 가 사 회 에 반드시 좋은 결 과 를 가 져 오는\n것은 아니기 때 문 이 다. 그런데 어떤 학 자 는 \" 기 업 은 법 의\n테두리 내 에 서 의 경 영 을 통한 재 무 적 성 과 에 대한 책 임 만이\n아니라 인권, 환경 등 의 개 선 에 대해서도 사회적 책 임 을\n다해야 한다. 이것은 공 억 증 진 을 위한 것 뿐만 아니라, 기 업 이\n보다 유리한 경 쟁 력 을 갖게 되어 장 기 적 으로 볼 때 기 업 의\n목적인 이익 증 대 에 기여할 수 었기 때 문 이 다 .\" 라 고 주 장 한 다.\n나는 이 학 자 의 견 해 가 보 고 생 각 한 다.\n09 기 업 의 책 임 과 주 주 들의 이익 증 진 은 무 관 합 을 강 조 하고 있다\n@ 기 업 의 이유 추 구 와 공 익 이 양 립 될 수 없 음 을 강 조 하고 있다\n(@ 공 동 선의 추 구 는 기 업 의 사회적 책 임 이 아 님 을 간 과 하고 있다\n@ 기 업 의 공익 활 동 이 기업 경쟁력 상 실 의 원 인 임을 강 조 하고 있다\n6) 합 법 적 인 경 영 이 합리적인 이윤 추 구 의 수 단 임을 간 과 하고 있다",
+    "stem": "에 들어갈 내 용 으로 가장 적절한 것은?",
+    "passage": "나는 기 업 의 사회적 책 임 은 오로지 법 을 준 수 하면서 자유\n운 경 쟁 에 전 념 하여 수 익 을 내는 것 뿐이라고 생 각 한 다. 사 희 를\n향한 기 업 인 의 선 의 가 사 회 에 반드시 좋은 결 과 를 가 져 오는\n것은 아니기 때 문 이 다. 그런데 어떤 학 자 는 \" 기 업 은 법 의\n테두리 내 에 서 의 경 영 을 통한 재 무 적 성 과 에 대한 책 임 만이\n아니라 인권, 환경 등 의 개 선 에 대해서도 사회적 책 임 을\n다해야 한다. 이것은 공 억 증 진 을 위한 것 뿐만 아니라, 기 업 이\n보다 유리한 경 쟁 력 을 갖게 되어 장 기 적 으로 볼 때 기 업 의\n목적인 이익 증 대 에 기여할 수 었기 때 문 이 다 .\" 라 고 주 장 한 다.\n나는 이 학 자 의 견 해 가 보 고 생 각 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "기 업 의 책 임 과 주 주 들의 이익 증 진 은 무 관 합 을 강 조 하고 있다"
+      },
+      {
+        "number": 2,
+        "text": "기 업 의 이유 추 구 와 공 익 이 양 립 될 수 없 음 을 강 조 하고 있다"
+      },
+      {
+        "number": 3,
+        "text": "공 동 선의 추 구 는 기 업 의 사회적 책 임 이 아 님 을 간 과 하고 있다"
+      },
+      {
+        "number": 4,
+        "text": "기 업 의 공익 활 동 이 기업 경쟁력 상 실 의 원 인 임을 강 조 하고 있다"
+      },
+      {
+        "number": 5,
+        "text": "합 법 적 인 경 영 이 합리적인 이윤 추 구 의 수 단 임을 간 과 하고 있다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.907,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:44+00:00",
+    "qa_flags": []
+  }
+}

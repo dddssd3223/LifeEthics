@@ -1,0 +1,75 @@
+{
+  "id": "2024_JUNE_LIFE_ETHICS_Q05",
+  "source": {
+    "academic_year": 2024,
+    "exam_year": 2023,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 1,
+    "original_compilation_page": 121,
+    "question_number": 5,
+    "exam_key": "2024_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2398,
+      3149,
+      4450
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2024_JUNE_LIFE_ETHICS_Q05.png",
+    "raw_text": "5. ( 가 ) 희 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때,\n&~( 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n[3 접 ]\n갑 : 시민 불 복 좋은 그 결 과 의 좋 음 에 의해 정 당 화 된다.\n마 라 서 우 리 는 시민 불 복 종 으로 인해 발 생 하는 법과\n민 주 주 의 에 대한 존 중 심의 감소 정 도 마저 고려해야 한다.\n| 호: 지민 불 복 좋은 지 민 들의 정 의 관 에 의해 정 당 화 된다.\n따라서 시민 불 복 종 은 헌 법 과 사회 제도 일 반 을 규제\n하는 정 의 의 원 칙 들 에 의해 지 도 되어야 한다.\n범 례\n사상가 갑 , 을 의\n녹 발 조건\n입 장 을 탐 구 한다.\n< : 판단 내용\n~ > : 판단 방향\n- 아니요 1: 사 상 가 의 입장\n(나) 에\n예\n< 보 기 >\nㄱ . 쇼 : 지민 불 복 종 은 법 의 부 당 함 을 다 수 에게 강 요 하는 행 위 인가?\nㄴ . 183: 시민 불 복 종 은 민 주 주 의 적 결 정 을 복 원 하려는 시 도 인가?\nㄷ . (:: 시민 불 복 종 은 정 의 로운 법 을 제 정 할 절 차 가 불 완 전 하여\n발생할 수 있는가?\n르 . (;: 이익 집 단 의 시민 불 복 종 은 공 공 의 정 의 관 에 근 거 해야\n허 용 될 수 있는가?\n0) ㄱㄱ, ㄴ 00 ㄱ , ㄷ (3) ㄴ , 큰\n04) 1, =, 르 05) 느 , =, 르",
+    "stem": "( 가 ) 희 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, &~( 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "[3 접 ]\n갑 : 시민 불 복 좋은 그 결 과 의 좋 음 에 의해 정 당 화 된다.\n마 라 서 우 리 는 시민 불 복 종 으로 인해 발 생 하는 법과\n민 주 주 의 에 대한 존 중 심의 감소 정 도 마저 고려해야 한다.\n| 호: 지민 불 복 좋은 지 민 들의 정 의 관 에 의해 정 당 화 된다.\n따라서 시민 불 복 종 은 헌 법 과 사회 제도 일 반 을 규제\n하는 정 의 의 원 칙 들 에 의해 지 도 되어야 한다.\n범 례\n사상가 갑 , 을 의\n녹 발 조건\n입 장 을 탐 구 한다.\n< : 판단 내용\n~ > : 판단 방향\n- 아니요 1: 사 상 가 의 입장\n(나) 에\n예\n< 보 기 >\nㄱ . 쇼 : 지민 불 복 종 은 법 의 부 당 함 을 다 수 에게 강 요 하는 행 위 인가?\nㄴ . 183: 시민 불 복 종 은 민 주 주 의 적 결 정 을 복 원 하려는 시 도 인가?\nㄷ . (:: 시민 불 복 종 은 정 의 로운 법 을 제 정 할 절 차 가 불 완 전 하여\n발생할 수 있는가?\n르 . (;: 이익 집 단 의 시민 불 복 종 은 공 공 의 정 의 관 에 근 거 해야\n허 용 될 수 있는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, =, 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.861,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:40:31+00:00",
+    "qa_flags": []
+  }
+}

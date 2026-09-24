@@ -1,0 +1,73 @@
+{
+  "id": "2020_SEPTEMBER_LIFE_ETHICS_Q06",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 78,
+    "question_number": 6,
+    "exam_key": "2020_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      1896
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_SEPTEMBER_LIFE_ETHICS_Q06.png",
+    "raw_text": "6. 다음 사 상 가 의 입 장 으로 옮 은 것은? [3 점 ]\n개 인 은 자 신 의 이 억 이 아닌 다른 사 람 의 이 익 을 고 려 하기도\n한다. 그러나 집 단 은 개 인 이나 다른 집 단 과 의 관 계 에서 상 대 의\n이 억 에 주 목 하 기 보다 자기 집 단 의 이 익 을 관 철 하려는 경 향 을\n강하게 나타낸다. 왜냐하면 개 인 들의 이기적 충 동 은 개 별 적 으로\n나타날 때 보 다 하 나 의 공통된 충 동 으로 결 합 되어 나타날 때\n더 강하게 표 출 되기 때 문 이 다. 그 결과, 인 간 은 개 인 적 으 로 는\n도 덕 적 이지만 집 단 적 으 로 는 비 도 덕 적 인 특 성 을 나타낸다.\n0 집단 간 험 의 차 이 를 정치적 방 법 으로 조 정 해서는 안 된다.\n개 인 과 사 회 의 최고의 도덕적 이상 간의 모 순 은 절 대 적 이다.\n@ 집단 규 모 가 커 질 수록 충 동 을 제 어 하는 이 성 의 힘 은 커진다.\n9: 올바른 정치적 도 덕 성 은 합 리 성 에 부 합 하는 강 제 력 을 권 고 한다.\n5 집단 간 관 계 는 각 집 단 의 요 구 를 합 리 적 으로 수 용 하여 수 립 된다",
+    "stem": "다음 사 상 가 의 입 장 으로 옮 은 것은? [3 점 ]",
+    "passage": "개 인 은 자 신 의 이 억 이 아닌 다른 사 람 의 이 익 을 고 려 하기도\n한다. 그러나 집 단 은 개 인 이나 다른 집 단 과 의 관 계 에서 상 대 의\n이 억 에 주 목 하 기 보다 자기 집 단 의 이 익 을 관 철 하려는 경 향 을\n강하게 나타낸다. 왜냐하면 개 인 들의 이기적 충 동 은 개 별 적 으로\n나타날 때 보 다 하 나 의 공통된 충 동 으로 결 합 되어 나타날 때\n더 강하게 표 출 되기 때 문 이 다. 그 결과, 인 간 은 개 인 적 으 로 는\n도 덕 적 이지만 집 단 적 으 로 는 비 도 덕 적 인 특 성 을 나타낸다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "집단 간 험 의 차 이 를 정치적 방 법 으로 조 정 해서는 안 된다."
+      },
+      {
+        "number": 2,
+        "text": "개 인 과 사 회 의 최고의 도덕적 이상 간의 모 순 은 절 대 적 이다."
+      },
+      {
+        "number": 3,
+        "text": "집단 규 모 가 커 질 수록 충 동 을 제 어 하는 이 성 의 힘 은 커진다."
+      },
+      {
+        "number": 4,
+        "text": "올바른 정치적 도 덕 성 은 합 리 성 에 부 합 하는 강 제 력 을 권 고 한다."
+      },
+      {
+        "number": 5,
+        "text": "집단 간 관 계 는 각 집 단 의 요 구 를 합 리 적 으로 수 용 하여 수 립 된다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.918,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:34+00:00",
+    "qa_flags": []
+  }
+}

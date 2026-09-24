@@ -1,0 +1,77 @@
+{
+  "id": "2016_JUNE_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 28,
+    "question_number": 17,
+    "exam_key": "2016_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      130,
+      2702,
+      1783,
+      4617
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_JUNE_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다음 사 상 가 의 입 장 에서 < 문 제 상 황 > 속 에게 헤 줄 수 있는\n조 언 으로 가장 적절한 것은?\n우 리 가 세 계 화 의 시 대 를 얼마나 잘 겪어 닐 수 있는가 하는\n문 제 는 ) 하 나의 세 계 ' 에 살고 있다는 생 각 에 어떻게 윤리적\n으로 대 응 하 는 가 에 달려 있다. 세계 모든 사 람 의 이 억 은 그\n사 람 이 처한 국 적 과 무 관 하게 평 등 하게 고 려 되어야 한다.\n따라서 부의 분 배 에 대한 전 지 구 적 단일 기 준 을 마 련 하고\n이를 통해 전 지 구 적 차 원 의 분 배 가 이루어져야 한다.\n< 문 제 상 황 >\n| 용 돈 을 많이 모 았 는데 새 스 마 트 폰 을 ㅣ\n: 살까, 아니면 가난한 나 라 의 배고픈 ：\n사 람 들 을 도 울 까 ? !\n6\n기. 40 조 |\n(1) 원 조 는 개 인 이 아닌 국가적 차 원 에서 이루어져야 함 을 명 심 하 렴 .\n(9) 원 조 는 자 국 의 국제적 위 상 과 이 익 을 위해 행 해 져 야 함 을 명 심 하 렴 .\n(8) 가난한 사 람 들 을 돕는 것은 세계 시 민 으로서의 의 무 임을 명 심 하 렴 .\n(4 원 조 는 하고 싶은 마 음 이 생길 때에 베푸는 자선 행 위 임을 명 심 하 렴 .\n(8) 빈 곤 은 해당 국 가 의 자체 노 력 을 통해서만 헤 결 되어야 함 을 명 심 하 렴 .",
+    "stem": "다음 사 상 가 의 입 장 에서 < 문 제 상 황 > 속 에게 헤 줄 수 있는 조 언 으로 가장 적절한 것은?",
+    "passage": "우 리 가 세 계 화 의 시 대 를 얼마나 잘 겪어 닐 수 있는가 하는\n문 제 는 ) 하 나의 세 계 ' 에 살고 있다는 생 각 에 어떻게 윤리적\n으로 대 응 하 는 가 에 달려 있다. 세계 모든 사 람 의 이 억 은 그\n사 람 이 처한 국 적 과 무 관 하게 평 등 하게 고 려 되어야 한다.\n따라서 부의 분 배 에 대한 전 지 구 적 단일 기 준 을 마 련 하고\n이를 통해 전 지 구 적 차 원 의 분 배 가 이루어져야 한다.\n< 문 제 상 황 >\n| 용 돈 을 많이 모 았 는데 새 스 마 트 폰 을 ㅣ\n: 살까, 아니면 가난한 나 라 의 배고픈 ：\n사 람 들 을 도 울 까 ? !\n6\n기. 40 조 |",
+    "choices": [
+      {
+        "number": 1,
+        "text": "원 조 는 개 인 이 아닌 국가적 차 원 에서 이루어져야 함 을 명 심 하 렴 ."
+      },
+      {
+        "number": 2,
+        "text": "원 조 는 자 국 의 국제적 위 상 과 이 익 을 위해 행 해 져 야 함 을 명 심 하 렴 ."
+      },
+      {
+        "number": 3,
+        "text": "가난한 사 람 들 을 돕는 것은 세계 시 민 으로서의 의 무 임을 명 심 하 렴 ."
+      },
+      {
+        "number": 4,
+        "text": "원 조 는 하고 싶은 마 음 이 생길 때에 베푸는 자선 행 위 임을 명 심 하 렴 ."
+      },
+      {
+        "number": 5,
+        "text": "빈 곤 은 해당 국 가 의 자체 노 력 을 통해서만 헤 결 되어야 함 을 명 심 하 렴 ."
+      }
+    ],
+    "has_visual_material": null,
+    "visual_material_evidence": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.796,
+    "review_required": false,
+    "warnings": [
+      "VISUAL_DETECTION_UNAVAILABLE_SCANNED_PAGE"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "ocr",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T111523",
+    "extracted_at": "2026-09-24T11:20:22+00:00",
+    "qa_flags": []
+  }
+}

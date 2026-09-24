@@ -1,0 +1,75 @@
+{
+  "id": "2025_JUNE_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 136,
+    "question_number": 17,
+    "exam_key": "2025_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      2051,
+      1740,
+      3348
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_JUNE_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다음 신문 칼 럼 에서 강 조 하는 내 용 으로 가장 적절한 것은?\n(2 신 문 <200(0( 년 (2(〉 월 (일\n칼럼\n생 성 형 인공 지 능 의 학 습 에 이 용 되는 데이터 중 많은 것들이 원 저 작 자 의 동의 없이\n무 단 으로 수집, 이 용 되고 있다. 이는 원 저 작 자 의 저 작 권 을 침 해 할 소 지 가\n있으므로 원 저 작 자 의 저작권 보호 대 책 이 마 련 되 어 야 한다. 어떤 사 람 들 은 원 저 작 자 의\n저 작 권 을 인정할 경우 인공 지능 관련 산 업 이 위 축 될 것을 우 려 한 다. 그래서\n그들은 인공 지능 학습용 데 이 터 를 공 공 재 로 보아야 한다고 주 장 한 다. 하지만\n이러한 주 장 은 데이터 원 저 작 자 의 노 력 과 정당한 권 리 를 간 과 하 는 것이다. 또한\n저 작 권 을 보 호 하는 것이 오히려 인공 지능 관련 산 업 의 장기적 발 전 에 도 움 을 줄\n수 있다. 저 작 권 을 보 호 함 으로써 원 저 작 자 는 데 이 터 를 제 공 하려는 더 많은\n유 인 을 가질 것이며, 이를 통해 관련 산 업 은 양 질 의 데 이 터 를 지 속 적 으로\n확 보 할 수 있다.\n07 인공 지능 학습용 데 이 터 는 공 공 재 로서 보 호 되어야 한다.\n2 저 작 권 에 대한 보 호 는 인공 지능 관련 산 업 을 위 축 시킨다.\n8 저작권 보 호 와 양 질 의 학습용 데이터 확 보 는 양 립 할 수 없다.\n4 인공 지능 학습용 데이터 윈 저 작 자 의 정당한 권 리 를 보 호 해야 한다.\n5) 인공 지능 학습용 데이터 수 집 은 원저작자 동의 없이 가 능 해 야 한다.",
+    "stem": "다음 신문 칼 럼 에서 강 조 하는 내 용 으로 가장 적절한 것은?",
+    "passage": "(2 신 문 <200(0( 년 (2(〉 월 (일\n칼럼\n생 성 형 인공 지 능 의 학 습 에 이 용 되는 데이터 중 많은 것들이 원 저 작 자 의 동의 없이\n무 단 으로 수집, 이 용 되고 있다. 이는 원 저 작 자 의 저 작 권 을 침 해 할 소 지 가\n있으므로 원 저 작 자 의 저작권 보호 대 책 이 마 련 되 어 야 한다. 어떤 사 람 들 은 원 저 작 자 의\n저 작 권 을 인정할 경우 인공 지능 관련 산 업 이 위 축 될 것을 우 려 한 다. 그래서\n그들은 인공 지능 학습용 데 이 터 를 공 공 재 로 보아야 한다고 주 장 한 다. 하지만\n이러한 주 장 은 데이터 원 저 작 자 의 노 력 과 정당한 권 리 를 간 과 하 는 것이다. 또한\n저 작 권 을 보 호 하는 것이 오히려 인공 지능 관련 산 업 의 장기적 발 전 에 도 움 을 줄\n수 있다. 저 작 권 을 보 호 함 으로써 원 저 작 자 는 데 이 터 를 제 공 하려는 더 많은\n유 인 을 가질 것이며, 이를 통해 관련 산 업 은 양 질 의 데 이 터 를 지 속 적 으로\n확 보 할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "인공 지능 학습용 데 이 터 는 공 공 재 로서 보 호 되어야 한다."
+      },
+      {
+        "number": 2,
+        "text": "저 작 권 에 대한 보 호 는 인공 지능 관련 산 업 을 위 축 시킨다."
+      },
+      {
+        "number": 3,
+        "text": "저작권 보 호 와 양 질 의 학습용 데이터 확 보 는 양 립 할 수 없다."
+      },
+      {
+        "number": 4,
+        "text": "인공 지능 학습용 데이터 윈 저 작 자 의 정당한 권 리 를 보 호 해야 한다."
+      },
+      {
+        "number": 5,
+        "text": "인공 지능 학습용 데이터 수 집 은 원저작자 동의 없이 가 능 해 야 한다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:52+00:00",
+    "qa_flags": []
+  }
+}

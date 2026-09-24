@@ -1,0 +1,73 @@
+{
+  "id": "2022_JUNE_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 17,
+    "original_compilation_page": 97,
+    "question_number": 1,
+    "exam_key": "2022_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      358,
+      1057,
+      1740,
+      2069
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_JUNE_LIFE_ETHICS_Q01.png",
+    "raw_text": "1. 에 들어갈 진 술 로 가장 적절한 것은?\n나는 윤 리 학 이 행 위 에 대한 규 범 적 판 단 을 체 계 화 하고 그\n근 거 를 제 시 하는 학 문 이어야 한다고 생 각 한 다. 그런데 어떤\n사 람 은 윤 리 학 이 도덕적 현 상 들을 있는 그대로 기 술 하는 학문\n이어야 한다고 주 장 한 다. 내가 보 기 에 이러한 주 장 은 윤 리 학 이\n몰 는 점 을 간 과 하고 있\n01 도덕적 관 습 을 실 증 적 으로 연 구 해야 한다\n2 가치 판 단 을 위해 도덕 이 론 을 정 립 해야 한다\n@ 하 나 의 학 문 으로서 성립 가능한지 검 토 해 야 한다\n9 도덕 언 어 의 의미 분 석 을 핵심 과 제 로 삼아야 한다\n6 도덕 추 론 의 논리적 구 조 를 밝히는 데 주 력 해 야 한다",
+    "stem": "에 들어갈 진 술 로 가장 적절한 것은?",
+    "passage": "나는 윤 리 학 이 행 위 에 대한 규 범 적 판 단 을 체 계 화 하고 그\n근 거 를 제 시 하는 학 문 이어야 한다고 생 각 한 다. 그런데 어떤\n사 람 은 윤 리 학 이 도덕적 현 상 들을 있는 그대로 기 술 하는 학문\n이어야 한다고 주 장 한 다. 내가 보 기 에 이러한 주 장 은 윤 리 학 이\n몰 는 점 을 간 과 하고 있",
+    "choices": [
+      {
+        "number": 1,
+        "text": "도덕적 관 습 을 실 증 적 으로 연 구 해야 한다"
+      },
+      {
+        "number": 2,
+        "text": "가치 판 단 을 위해 도덕 이 론 을 정 립 해야 한다"
+      },
+      {
+        "number": 3,
+        "text": "하 나 의 학 문 으로서 성립 가능한지 검 토 해 야 한다"
+      },
+      {
+        "number": 4,
+        "text": "도덕 언 어 의 의미 분 석 을 핵심 과 제 로 삼아야 한다"
+      },
+      {
+        "number": 5,
+        "text": "도덕 추 론 의 논리적 구 조 를 밝히는 데 주 력 해 야 한다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.908,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:20+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2014_SEPTEMBER_LIFE_ETHICS_Q17",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 8,
+    "original_compilation_page": 8,
+    "question_number": 17,
+    "exam_key": "2014_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1941,
+      1592,
+      3283
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_SEPTEMBER_LIFE_ETHICS_Q17.png",
+    "raw_text": "17. 다음 사 례 를 설 명 하 기 에 적합한 국제 관계 이 론 의 입 장 으로\n가장 적절한 것은? [3 점 ]\n영 국 은 하 나 의 강 대 한 국 가 가 출 현 해 대 륙 을 지 배 하고, 더\n나아가 본 국 에까지 영 향 력 을 확 대 하는 것을 두 려 워 하였다.\n이 때문에 영 국 은 어떠한 국 가 도 대 륙 을 지 배 하지 못하도록\n하는 것을 외교 정 책 의 목 표 로 삼아 국제 질 서 의 안 정 을 피하\n였다. 예 를 들면 영 국 은 러 시 아 의 힙 이 커지는 것을 견 제 하기\n위해 프 랑 스 와 협 력 하기도 하였고, 독 일 을 중 심 으로 한 3 국\n동 맹 에 대 항 하기 위해 프랑스, 러 시 아 와 손 을 잡 기 도 하였다.\n(0 세력 균 형 을 통한 국제적 분 쟁 의 억 제 를 강 조 한 다.\n(3) 세계 정 부 의 수 립 을 통한 국제 평 화 의 실 현 을 추 구 한다.\n(3) 비동맹 외교 정 책 을 통한 국제적 갈 등 의 해 결 을 중 시 한다.\n(4) 법 률 적 제재 수 단 을 통한 국제적 분 쟁 의 해 결 을 중 시 한 다.\n(5) 강 대 국 들 의 상비군 폐 지 를 통한 국제 평 화 의 실 현 을 추 구 한 다.",
+    "stem": "다음 사 례 를 설 명 하 기 에 적합한 국제 관계 이 론 의 입 장 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "영 국 은 하 나 의 강 대 한 국 가 가 출 현 해 대 륙 을 지 배 하고, 더\n나아가 본 국 에까지 영 향 력 을 확 대 하는 것을 두 려 워 하였다.\n이 때문에 영 국 은 어떠한 국 가 도 대 륙 을 지 배 하지 못하도록\n하는 것을 외교 정 책 의 목 표 로 삼아 국제 질 서 의 안 정 을 피하\n였다. 예 를 들면 영 국 은 러 시 아 의 힙 이 커지는 것을 견 제 하기\n위해 프 랑 스 와 협 력 하기도 하였고, 독 일 을 중 심 으로 한 3 국\n동 맹 에 대 항 하기 위해 프랑스, 러 시 아 와 손 을 잡 기 도 하였다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "세력 균 형 을 통한 국제적 분 쟁 의 억 제 를 강 조 한 다."
+      },
+      {
+        "number": 2,
+        "text": "세계 정 부 의 수 립 을 통한 국제 평 화 의 실 현 을 추 구 한다."
+      },
+      {
+        "number": 3,
+        "text": "비동맹 외교 정 책 을 통한 국제적 갈 등 의 해 결 을 중 시 한다."
+      },
+      {
+        "number": 4,
+        "text": "법 률 적 제재 수 단 을 통한 국제적 분 쟁 의 해 결 을 중 시 한 다."
+      },
+      {
+        "number": 5,
+        "text": "강 대 국 들 의 상비군 폐 지 를 통한 국제 평 화 의 실 현 을 추 구 한 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.927,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:45+00:00",
+    "qa_flags": []
+  }
+}

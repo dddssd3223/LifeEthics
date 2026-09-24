@@ -1,0 +1,73 @@
+{
+  "id": "2027_SEPTEMBER_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2027,
+    "exam_year": 2026,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_08_p141-160.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 149,
+    "question_number": 4,
+    "exam_key": "2027_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2429,
+      3149,
+      3558
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "261ed6ac372d1122d8350bb47e0f646e125c5abdc0f9e4bb515ccb5a408328d2"
+  },
+  "original": {
+    "question_image": "data/questions/images/2027_SEPTEMBER_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은:\n갑 : 군 자 ( 좀 구 ) 가 친 족 들 과 돈독히 지 내 면 백 성 은 인 (<-) 한\n기 풍 을 일으킨다. 또한 군 자 가 오랜 친 구 를 버리지 않으면\n백 성 이 다른 사 람 들 을 대할 때 야 박 하 지 않게 된다.\n을: 성 인 ( ㅅ ) 은 나 라 를 다 스 릴 때, 백 성 의 마 음 은 비워 주고\n배 는 채워 주며, 의 지 는 약하게 하고 뼈 대 는 강하게 한다.\n또한 성 인 은 백 성 을 무 지 (@ 써 ), 무 욕 (#6#0 하 게 한다.\n0) 갑 : 효 제 를 시 작 으로 차별 없는 사 랑 [%※| 을 실 천 해 야 한다.\n2) 갑 : 소박한 삶 을 위해 옮 고 그 름 | 보 36| 의 분 별 을 배 격 해 야 한다.\n3) 을: 자 연 에 순 웅 하려면 욕 망 을 극 복 하여 예 0[@ 를 회 복 해야 한다.\n0) 을: 무 위 (#609 의 다 스 림 으로 백 성 의 티 고난 본 성 을 변 화 시켜야 한다.\n(9) 갑과 을: 큰 도 [#38| 가 행 해 지 는 이상적인 사 회 를 지 향 해야 한다.",
+    "stem": "갑 , 을 사 상 가 들의 입 장 으로 가장 적절한 것은:",
+    "passage": "갑 : 군 자 ( 좀 구 ) 가 친 족 들 과 돈독히 지 내 면 백 성 은 인 (<-) 한\n기 풍 을 일으킨다. 또한 군 자 가 오랜 친 구 를 버리지 않으면\n백 성 이 다른 사 람 들 을 대할 때 야 박 하 지 않게 된다.\n을: 성 인 ( ㅅ ) 은 나 라 를 다 스 릴 때, 백 성 의 마 음 은 비워 주고\n배 는 채워 주며, 의 지 는 약하게 하고 뼈 대 는 강하게 한다.\n또한 성 인 은 백 성 을 무 지 (@ 써 ), 무 욕 (#6#0 하 게 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 효 제 를 시 작 으로 차별 없는 사 랑 [%※| 을 실 천 해 야 한다."
+      },
+      {
+        "number": 2,
+        "text": "갑 : 소박한 삶 을 위해 옮 고 그 름 | 보 36| 의 분 별 을 배 격 해 야 한다."
+      },
+      {
+        "number": 3,
+        "text": "을: 자 연 에 순 웅 하려면 욕 망 을 극 복 하여 예 0[@ 를 회 복 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "을: 무 위 (#609 의 다 스 림 으로 백 성 의 티 고난 본 성 을 변 화 시켜야 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑과 을: 큰 도 [#38| 가 행 해 지 는 이상적인 사 회 를 지 향 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.865,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:47:38+00:00",
+    "qa_flags": []
+  }
+}

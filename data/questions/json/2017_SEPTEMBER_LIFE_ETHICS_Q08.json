@@ -1,0 +1,73 @@
+{
+  "id": "2017_SEPTEMBER_LIFE_ETHICS_Q08",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_03_p041-060.pdf",
+    "split_pdf_page": 2,
+    "original_compilation_page": 42,
+    "question_number": 8,
+    "exam_key": "2017_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3128,
+      1592,
+      4298
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "5d998916acbd4388e557fcc1c325461db70db12647f639b5ebb1389086ddec5e"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_SEPTEMBER_LIFE_ETHICS_Q08.png",
+    "raw_text": "8. 잠 , 을, 병 사 상 가 들의 입 장 으로 가장 적절한 것은? |[3 점 ]\n갑 : 개 인 의 타고난 자 산 이 도덕적 관 점 에서 몰 때 임 의 적 이건\n아 니 건 간에, 개 인 은 그 자 산 에 대한 소유 권 리 를 지닌다.\n또한 이 로 부터 나오는 것에 대해서도 그 러 하 다.\n을: 개 인 의 타고난 능 력 이 물 평 등 하 다는 점, 따라서 생산 능 력 도\n타고난 특 퀸 임을 승 인 하는 것은 부 당 하다. 생 산 은 각 자 의\n능 력 에 따라, 분 배 는 각 자 의 필 요 에 따라 이루어져야 한다.\n병 : 개 인 의 타고난 재 능 은 응 분 의 것이 아닌 사회 공 동 의 자산\n으로 간 주 해 야 한다. 더 불 운 한 자 들 의 선 에 도 움 이 되는\n한 에서만 그 행 운 으로부터 이 익 을 취할 수 있다.\n0) 갑 : 부의 소 유 와 거래 및 교 정 에 대한 국 가 의 개 입 은 배 제 된 다.\n3) 을: 노 동 분 업 은 소외된 노 동 을 해 방 시켜 필 요 에 따른 분 배 를 실 헌 한다.\n(3) 병 : 공 정 으로서의 정 의 관 에서 사 회 는 상호 이 익 을 위한 협동 체 제 이다.\n(4) 갑 , 병 : 선천적 유 불 리 의 영 향 을 줄여야 정 의 로 운 분 배 가 가 능 하 다.\n(5) 을, 병 : 사적 소 유 권 은 인 간 의 기본적인 권 리 로 승 인 될 수 없다.",
+    "stem": "잠 , 을, 병 사 상 가 들의 입 장 으로 가장 적절한 것은? |[3 점 ]",
+    "passage": "갑 : 개 인 의 타고난 자 산 이 도덕적 관 점 에서 몰 때 임 의 적 이건\n아 니 건 간에, 개 인 은 그 자 산 에 대한 소유 권 리 를 지닌다.\n또한 이 로 부터 나오는 것에 대해서도 그 러 하 다.\n을: 개 인 의 타고난 능 력 이 물 평 등 하 다는 점, 따라서 생산 능 력 도\n타고난 특 퀸 임을 승 인 하는 것은 부 당 하다. 생 산 은 각 자 의\n능 력 에 따라, 분 배 는 각 자 의 필 요 에 따라 이루어져야 한다.\n병 : 개 인 의 타고난 재 능 은 응 분 의 것이 아닌 사회 공 동 의 자산\n으로 간 주 해 야 한다. 더 불 운 한 자 들 의 선 에 도 움 이 되는\n한 에서만 그 행 운 으로부터 이 익 을 취할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 : 부의 소 유 와 거래 및 교 정 에 대한 국 가 의 개 입 은 배 제 된 다."
+      },
+      {
+        "number": 2,
+        "text": "을: 노 동 분 업 은 소외된 노 동 을 해 방 시켜 필 요 에 따른 분 배 를 실 헌 한다."
+      },
+      {
+        "number": 3,
+        "text": "병 : 공 정 으로서의 정 의 관 에서 사 회 는 상호 이 익 을 위한 협동 체 제 이다."
+      },
+      {
+        "number": 4,
+        "text": "갑 , 병 : 선천적 유 불 리 의 영 향 을 줄여야 정 의 로 운 분 배 가 가 능 하 다."
+      },
+      {
+        "number": 5,
+        "text": "을, 병 : 사적 소 유 권 은 인 간 의 기본적인 권 리 로 승 인 될 수 없다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.915,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T113514",
+    "extracted_at": "2026-09-24T11:37:02+00:00",
+    "qa_flags": []
+  }
+}

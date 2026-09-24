@@ -1,0 +1,73 @@
+{
+  "id": "2020_SEPTEMBER_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 79,
+    "question_number": 14,
+    "exam_key": "2020_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      1999,
+      3148,
+      3348
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_SEPTEMBER_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은:\n지 ( 름 ) 란 사 람 의 마 음 이 세상 사 물 이나 풍 속 과 감 응 하여\n언 어 로 표 현 된 것이다. 사 람 이 느끼는 대 상 에는 올바른 것과\n사악한 것이 있으니, 시 에 도 옮 은 것과 그른 것이 있다. 우 리 는\n시 를 통해 자 신 을 반 성 하여, 올바른 시 는 모 범 으로 삼고 사악한\n시 는 자 신 을 고치는 계 기 로 삼아야 한다.\n< 보 기 >\nㄱ . 지는 선악 판 단 의 대 상 에서 배 제 되어야 한다.\nㄴ . 시 를 감 상 할 때에는 윤리적 성 찰 을 겸 해 야 한다.\nㄷ . 시 는 그 사 회 의 도 덕 성 을 엿볼 수 있는 거 울 이다.\n르 . 올바르지 끗 한 시도 교육적 기 능 을 수 행 할 수 있다.\n0) ㄱㄱ, ㄴ (000 ㄱ , ㄷ (3) ㄴ , 큰\n04) 1, =, 르 05) 느 , =, 르",
+    "stem": "다음 사 상 가 의 입 장 만을 < 보 기 > 에 서 있는 대로 고른 것은:",
+    "passage": "지 ( 름 ) 란 사 람 의 마 음 이 세상 사 물 이나 풍 속 과 감 응 하여\n언 어 로 표 현 된 것이다. 사 람 이 느끼는 대 상 에는 올바른 것과\n사악한 것이 있으니, 시 에 도 옮 은 것과 그른 것이 있다. 우 리 는\n시 를 통해 자 신 을 반 성 하여, 올바른 시 는 모 범 으로 삼고 사악한\n시 는 자 신 을 고치는 계 기 로 삼아야 한다.\n< 보 기 >\nㄱ . 지는 선악 판 단 의 대 상 에서 배 제 되어야 한다.\nㄴ . 시 를 감 상 할 때에는 윤리적 성 찰 을 겸 해 야 한다.\nㄷ . 시 는 그 사 회 의 도 덕 성 을 엿볼 수 있는 거 울 이다.\n르 . 올바르지 끗 한 시도 교육적 기 능 을 수 행 할 수 있다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "00 ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "1, =, 르"
+      },
+      {
+        "number": 5,
+        "text": "느 , =, 르"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.873,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:44:43+00:00",
+    "qa_flags": []
+  }
+}

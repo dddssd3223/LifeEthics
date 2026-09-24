@@ -1,0 +1,79 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 18,
+    "original_compilation_page": 18,
+    "question_number": 9,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      506,
+      2999,
+      2901
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때,\n~ 에 해 당 하 는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 범 죄 자 도 형 벌 을 받아 생이 끝 나 기 를 원 하 지 는 않는\n다. 그래서 형 벌 은 다른 목 적 을 위 해 서 가 아니라 형\n벌 을 받아야 할 행 위 를 법 했 기 때문에 가 해 져야 한\n/ 가 | 다. 형 빌 의 경 중 은 범죄 행 위 의 경 중 에 따라야 한다.\n을: 범죄 예 방 에 무 엇 보다 큰 효 과 를 끼치는 것은 형벌\n의 강 도 (\\@08) 가 아니라 그 지 속 성 이다. 범 죄 자 의\n사형 장 면 을 보는 것은 종 신 형 과 는 달리 범죄 억제\n에 일시적인 효 과 만을 갖는다.\n< 범 례 >\n4: 갑 만의 입장\n8: 갑 , 을 의 공통 입장\n: 을 만의 입장\n르고 버 =\n< 보 기 >\n. &: 사 형 은 인 간 의 존 엄 성 을 침 해 하는 비 인 도적 형 벌 이다.\nㄴ . 쇼 : 범죄 예 방 과 억 제 가 사형 제 도 의 목 적 이 되 어 서 는 안 된다.\nㄷ . 8: 범 죄 자 의 교 화 와 개 선 이 형 벌 의 궁 극 적 인 목 표 이다.\n: 사형 제도 존치 여 부 의 판단 기 준 은 사회적 유 용 성 이다.\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄴ , 큰",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때, ~ 에 해 당 하 는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 범 죄 자 도 형 벌 을 받아 생이 끝 나 기 를 원 하 지 는 않는\n다. 그래서 형 벌 은 다른 목 적 을 위 해 서 가 아니라 형\n벌 을 받아야 할 행 위 를 법 했 기 때문에 가 해 져야 한\n/ 가 | 다. 형 빌 의 경 중 은 범죄 행 위 의 경 중 에 따라야 한다.\n을: 범죄 예 방 에 무 엇 보다 큰 효 과 를 끼치는 것은 형벌\n의 강 도 (\\@08) 가 아니라 그 지 속 성 이다. 범 죄 자 의\n사형 장 면 을 보는 것은 종 신 형 과 는 달리 범죄 억제\n에 일시적인 효 과 만을 갖는다.\n< 범 례 >\n4: 갑 만의 입장\n8: 갑 , 을 의 공통 입장\n: 을 만의 입장\n르고 버 =\n< 보 기 >\n. &: 사 형 은 인 간 의 존 엄 성 을 침 해 하는 비 인 도적 형 벌 이다.\nㄴ . 쇼 : 범죄 예 방 과 억 제 가 사형 제 도 의 목 적 이 되 어 서 는 안 된다.\nㄷ . 8: 범 죄 자 의 교 화 와 개 선 이 형 벌 의 궁 극 적 인 목 표 이다.\n: 사형 제도 존치 여 부 의 판단 기 준 은 사회적 유 용 성 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 큰"
+      },
+      {
+        "number": 4,
+        "text": "ㄱㄱ, ㄷ , 근"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 큰"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=424",
+      "vector_lines=813"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.875,
+    "review_required": false,
+    "warnings": [
+      "CHOICE4_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T104128",
+    "extracted_at": "2026-09-24T10:42:10+00:00",
+    "qa_flags": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2014_CSAT_LIFE_ETHICS_Q18",
+  "source": {
+    "academic_year": 2014,
+    "exam_year": 2013,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 12,
+    "question_number": 18,
+    "exam_key": "2014_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      3200,
+      1592,
+      4302
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2014_CSAT_LIFE_ETHICS_Q18.png",
+    "raw_text": "18. 갑 , 을 의 입 장 에 대한 설 명 으로 가장 적절한 것은?\n갑 : 세계화 시 대 에 국가 간 장 벽 이 약 화 된다고 하더라도 인간\n생 활 의 기본 단 위 는 민 족 이야. 우 리 는 언어, 역사, 혈통\n등에 기초한 동 질 성 을 바 탕 으로 민 족 의 정 체 성 을 확 립 하고\n우리 민 족 의 이 익 을 최 우 선 적 으 로 추 구 해 야 해.\n을: 세계화 시 대 에 우 리 는 인류 공 동 의 위 험 인 테 러 와 빈곤 문제\n등에 직 면 해 있어. 이를 극 복 하기 위해 인 간 의 존 엄 성 과 인권\n존 중 이라는 인류 공 체 동 의 보편적 가 치 를 토대로 인 종 과\n국 가 의 구 별 을 넘어서 관 용 과 협 력 의 정 신 을 추 구 해 야 해.\n(1) 갑 은 민 족 의 객관적 요 소 를 바 탕 으로 민족적 일 체 감 을 중 시 한다.\n(3) 을 은 민족 구 성 원 과 국 가 가 하 나 의 운명 공 동 체 임을 강 조 한 다.\n(3) 갑 은 타 민 족 에 대한 개방적 태 도 를, 을 은 포 용 적 태 도 를 강 조 한 다.\n(4) 갑 은 인류 문 화 의 보 편 성 을, 을 은 민족 문 화 의 특 수 성 을 추 구 한다.\n(5) 갑 , 을 은 민 족 의 식 에 기초한 열린 공동체 의 식 을 강 조 한 다.",
+    "stem": "갑 , 을 의 입 장 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "갑 : 세계화 시 대 에 국가 간 장 벽 이 약 화 된다고 하더라도 인간\n생 활 의 기본 단 위 는 민 족 이야. 우 리 는 언어, 역사, 혈통\n등에 기초한 동 질 성 을 바 탕 으로 민 족 의 정 체 성 을 확 립 하고\n우리 민 족 의 이 익 을 최 우 선 적 으 로 추 구 해 야 해.\n을: 세계화 시 대 에 우 리 는 인류 공 동 의 위 험 인 테 러 와 빈곤 문제\n등에 직 면 해 있어. 이를 극 복 하기 위해 인 간 의 존 엄 성 과 인권\n존 중 이라는 인류 공 체 동 의 보편적 가 치 를 토대로 인 종 과\n국 가 의 구 별 을 넘어서 관 용 과 협 력 의 정 신 을 추 구 해 야 해.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "갑 은 민 족 의 객관적 요 소 를 바 탕 으로 민족적 일 체 감 을 중 시 한다."
+      },
+      {
+        "number": 2,
+        "text": "을 은 민족 구 성 원 과 국 가 가 하 나 의 운명 공 동 체 임을 강 조 한 다."
+      },
+      {
+        "number": 3,
+        "text": "갑 은 타 민 족 에 대한 개방적 태 도 를, 을 은 포 용 적 태 도 를 강 조 한 다."
+      },
+      {
+        "number": 4,
+        "text": "갑 은 인류 문 화 의 보 편 성 을, 을 은 민족 문 화 의 특 수 성 을 추 구 한다."
+      },
+      {
+        "number": 5,
+        "text": "갑 , 을 은 민 족 의 식 에 기초한 열린 공동체 의 식 을 강 조 한 다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.925,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:32:54+00:00",
+    "qa_flags": []
+  }
+}

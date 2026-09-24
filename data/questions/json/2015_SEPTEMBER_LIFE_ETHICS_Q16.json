@@ -1,0 +1,73 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 20,
+    "question_number": 16,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      506,
+      1592,
+      1602
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. 다음 사 상 가 의 예 술 관 에 대한 설 명 으로 가장 적절한 것은? |3 점 ]\n아 름 다 움 [36] 은 대 상 의 완 전 함 , 즉 정확한 비 레 와 균 형 에\n서 나온다. 진 리 181 가 완 전 하 듯 이 미 역시 완 전 해야 하고,\n이는 동시에 도 덕 적 인 좋 음 [\\] 을 뜻 한 다. 한편, 예 술 은 진\n리 를 모 방 하는 것이다. …( 중 략 )… 예 술 가 들 로 하여금 선 을\n자 신 의 작품 속에 담 게 하고 시 민 이 이런 작 품 에 억 숙 해 지 도\n록 함으로써 올바른 품 성 을 기 르 도록 해야 한다.\n0) 예 술 이 도 덕 을 위한 수 단 이 되어야 한다고 본다.\n(3) 아 름 다 움 이 무질서한 대 상 에도 존 재 한다고 본다.\n(3) 예 술 은 사회적 요 구 로 부터 자 유 로 워야 한다고 본다.\n(4) 예 술 에 대한 평 가 는 도덕적 가 치 와 분 리 되어야 한다고 본다.\n(5) 예 술 가 의 창작 행 위 를 떠난 아 름 다 움 은 존재할 수 없다고 본다.",
+    "stem": "다음 사 상 가 의 예 술 관 에 대한 설 명 으로 가장 적절한 것은? |3 점 ]",
+    "passage": "아 름 다 움 [36] 은 대 상 의 완 전 함 , 즉 정확한 비 레 와 균 형 에\n서 나온다. 진 리 181 가 완 전 하 듯 이 미 역시 완 전 해야 하고,\n이는 동시에 도 덕 적 인 좋 음 [\\] 을 뜻 한 다. 한편, 예 술 은 진\n리 를 모 방 하는 것이다. …( 중 략 )… 예 술 가 들 로 하여금 선 을\n자 신 의 작품 속에 담 게 하고 시 민 이 이런 작 품 에 억 숙 해 지 도\n록 함으로써 올바른 품 성 을 기 르 도록 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "예 술 이 도 덕 을 위한 수 단 이 되어야 한다고 본다."
+      },
+      {
+        "number": 2,
+        "text": "아 름 다 움 이 무질서한 대 상 에도 존 재 한다고 본다."
+      },
+      {
+        "number": 3,
+        "text": "예 술 은 사회적 요 구 로 부터 자 유 로 워야 한다고 본다."
+      },
+      {
+        "number": 4,
+        "text": "예 술 에 대한 평 가 는 도덕적 가 치 와 분 리 되어야 한다고 본다."
+      },
+      {
+        "number": 5,
+        "text": "예 술 가 의 창작 행 위 를 떠난 아 름 다 움 은 존재할 수 없다고 본다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.917,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:12+00:00",
+    "qa_flags": []
+  }
+}

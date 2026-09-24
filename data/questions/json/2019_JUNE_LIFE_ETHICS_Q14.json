@@ -1,0 +1,75 @@
+{
+  "id": "2019_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2019,
+    "exam_year": 2018,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 63,
+    "question_number": 14,
+    "exam_key": "2019_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1766,
+      650,
+      3148,
+      2985
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2019_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. ( 가 ) 의 사상가 갑 , 을, 병 의 입 장 을 (나) 그 림 으로 탐 구 할 때,\n^~1) 에 해 당 하는 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?\n갑 : 정 의 는 자 신 이 선 텍 하는 바에 마라 소 유 권 이 행 사 되는\n것이다. 취 득 과 이 전 에 서 의 정 의 의 원 칙 을 따라 소 유 물 을\n취득한 자는 그것에 대한 소 유 권 이 있\n을 : 정 의 의 원 칙 은 원초적 상 황 에서 합 의 로 도 출 된다.\n( 가 )| 정 의 로운 사 회 에서는 지 민 들 에게 공통된 정 의 감 이\n존 재 하며 시 민 적 유 대 와 체 제 의 안 정 성 이 보 장 된다.\n병 : 정 의 는 동등한 사 람 에게 동등한 묶을 분 배 하는 것이다.\n분 배 에 서 의 옮 음 은 일종의 비 례 인데 그것은 비 율 과\n비 율 의 균 등 성 을 의 미 한다.\n사상가 감 , 을, 병 의 별 레\n범 례\n입 장 을 탐 구 한다. 출발 조건\n< >: 판단 내용\n6 어른\n(나)\n예 : '\nㅣ | 1 ㅣ\n0 0\n< 보 기 >\nㄱ . 4: 재 화 는 개 인 의 자유로운 선 택 에 의해서만 이 전 되는가?\nㄴ . 1: 정 의 로운 사 회 의 시 민 은 타 인 의 처 지 와 이 익 에 무 관 심 한 가?\nㄷ . 0: 공정한 기 회 균등 원 척 은 경제적 불 평 등 을 허 용 하는가?\n2. 10: 분 배 와 교 환 의 정 의 는 모두 비 레 의 동 등 함 을 따라야 하는가?\n0) ㄱㄱ, ㄴ (00 ㄴ , 큰 (3) ㄷ , 근\n0) 7, 는, 느 06) 1, 도, 르",
+    "stem": "( 가 ) 의 사상가 갑 , 을, 병 의 입 장 을 (나) 그 림 으로 탐 구 할 때, ^~1) 에 해 당 하는 적절한 질 문 만을 < 보 기 > 에 서 있는 대로 고른 것은?",
+    "passage": "갑 : 정 의 는 자 신 이 선 텍 하는 바에 마라 소 유 권 이 행 사 되는\n것이다. 취 득 과 이 전 에 서 의 정 의 의 원 칙 을 따라 소 유 물 을\n취득한 자는 그것에 대한 소 유 권 이 있\n을 : 정 의 의 원 칙 은 원초적 상 황 에서 합 의 로 도 출 된다.\n( 가 )| 정 의 로운 사 회 에서는 지 민 들 에게 공통된 정 의 감 이\n존 재 하며 시 민 적 유 대 와 체 제 의 안 정 성 이 보 장 된다.\n병 : 정 의 는 동등한 사 람 에게 동등한 묶을 분 배 하는 것이다.\n분 배 에 서 의 옮 음 은 일종의 비 례 인데 그것은 비 율 과\n비 율 의 균 등 성 을 의 미 한다.\n사상가 감 , 을, 병 의 별 레\n범 례\n입 장 을 탐 구 한다. 출발 조건\n< >: 판단 내용\n6 어른\n(나)\n예 : '\nㅣ | 1 ㅣ\n0 0\n< 보 기 >\nㄱ . 4: 재 화 는 개 인 의 자유로운 선 택 에 의해서만 이 전 되는가?\nㄴ . 1: 정 의 로운 사 회 의 시 민 은 타 인 의 처 지 와 이 익 에 무 관 심 한 가?\nㄷ . 0: 공정한 기 회 균등 원 척 은 경제적 불 평 등 을 허 용 하는가?\n2. 10: 분 배 와 교 환 의 정 의 는 모두 비 레 의 동 등 함 을 따라야 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱㄱ, ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "0 ㄴ , 큰"
+      },
+      {
+        "number": 3,
+        "text": "ㄷ , 근"
+      },
+      {
+        "number": 4,
+        "text": "7, 는, 느"
+      },
+      {
+        "number": 5,
+        "text": "1, 도, 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.855,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:59+00:00",
+    "qa_flags": []
+  }
+}

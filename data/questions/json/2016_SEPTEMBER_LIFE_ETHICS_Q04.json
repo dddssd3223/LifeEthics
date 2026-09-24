@@ -1,0 +1,75 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q04",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 9,
+    "original_compilation_page": 29,
+    "question_number": 4,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1618,
+      2248,
+      2999,
+      3382
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q04.png",
+    "raw_text": "4. 그 림 의 강 연 자가 지 지 할 주 장 으로 적 절 하 지 않은 것은? [3 점 ]\n^ 즉\n우 리 는 부 패 를 조 장 하는 관 행 을 법적 제 재 로 척결\n하려 노력해 왔지만 성 공 적 이지 않았습니다. 그러한\n관 행 을 없애기 위해서는 정 직 성과 투 명 성 을 정 착 ㄴ - ㅜ\n시키는 사회적 자 본 이 필 수 적 입니다. 사회적 자 본 은\n주로 신뢰, 규범, 관용 등 도덕적 자 원 들 로 구 성 됩니다.\n사회적 자 본 의 축 적 은 공공 문 제 에 대한 자발적 참 여 와\n협 력 을 증 진 시키고, 시민 결 사 체 들을 통해 의견 대 립 을\n긍 정 적 으로 승 화 시 킴 니다. 그 결과 반 칙 과 부 패 는 감소\n| 하고, 호 혜 성과 생 산 성 은 증 가 합니다.\n7\n0) 사회적 자 본 은 시 민 의 청 렴 성 과 연 대 의 식 을 함께 강 화 시 킨다.\n(2) 사회 구성원 간 갈등 차 단 이 사회적 자본 형 성 의 선결 조 건 이다.\n(3) 시 민 의 참 여 의 식 이 높 아 질 수록 사회 제도 개 혁 은 용 이 해진다.\n(4) 사회적 자 본 의 축 적 은 정 치 적 ㆍ 경제적 효율성 증 진 에 기 여 한 다.\n6) 처 벌 보다 자율적 규 법 의 내 면 화 가 부패 방 지 에 더 효 과 적 이다.",
+    "stem": "그 림 의 강 연 자가 지 지 할 주 장 으로 적 절 하 지 않은 것은? [3 점 ]",
+    "passage": "^ 즉\n우 리 는 부 패 를 조 장 하는 관 행 을 법적 제 재 로 척결\n하려 노력해 왔지만 성 공 적 이지 않았습니다. 그러한\n관 행 을 없애기 위해서는 정 직 성과 투 명 성 을 정 착 ㄴ - ㅜ\n시키는 사회적 자 본 이 필 수 적 입니다. 사회적 자 본 은\n주로 신뢰, 규범, 관용 등 도덕적 자 원 들 로 구 성 됩니다.\n사회적 자 본 의 축 적 은 공공 문 제 에 대한 자발적 참 여 와\n협 력 을 증 진 시키고, 시민 결 사 체 들을 통해 의견 대 립 을\n긍 정 적 으로 승 화 시 킴 니다. 그 결과 반 칙 과 부 패 는 감소\n| 하고, 호 혜 성과 생 산 성 은 증 가 합니다.\n7",
+    "choices": [
+      {
+        "number": 1,
+        "text": "사회적 자 본 은 시 민 의 청 렴 성 과 연 대 의 식 을 함께 강 화 시 킨다."
+      },
+      {
+        "number": 2,
+        "text": "사회 구성원 간 갈등 차 단 이 사회적 자본 형 성 의 선결 조 건 이다."
+      },
+      {
+        "number": 3,
+        "text": "시 민 의 참 여 의 식 이 높 아 질 수록 사회 제도 개 혁 은 용 이 해진다."
+      },
+      {
+        "number": 4,
+        "text": "사회적 자 본 의 축 적 은 정 치 적 ㆍ 경제적 효율성 증 진 에 기 여 한 다."
+      },
+      {
+        "number": 5,
+        "text": "처 벌 보다 자율적 규 법 의 내 면 화 가 부패 방 지 에 더 효 과 적 이다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.901,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:40+00:00",
+    "qa_flags": []
+  }
+}

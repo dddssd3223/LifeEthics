@@ -1,0 +1,73 @@
+{
+  "id": "2015_SEPTEMBER_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_01_p001-020.pdf",
+    "split_pdf_page": 20,
+    "original_compilation_page": 20,
+    "question_number": 19,
+    "exam_key": "2015_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1616,
+      506,
+      2999,
+      2478
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "75d471be24adc2bd49d8ee533964435a95edcfabc00202abc4a52c08b59d5186"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_SEPTEMBER_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. 갑 , 을 이 < 사 례 > 속 쇼 국 가 의 정 책 에 대해 취할 적절한 입 장 을\n< 보 기 > 에 서 고른 것은? [3 점 ]\n갑 : 개 인 이 정당한 노 동 으로 취득한 소 득 에는 침 해 할 수 없는\n소 유 권 이 인 정 된다. 국 가 는 범 죄 로부터 시 민 을 보 호 하고\n계약 이 행 을 감 시 하는 최 소 국 가 의 역 할 을 담 당 해 야 한다.\n을: 개 인 들은 원초적 상 황 에서 합리적 선 택 을 통해 공 정 으로\n서 의 정 의 관 에 기초한 원 칙 들을 합 의 하 게 된다. 이 원칙\n들은 사회 기본 구 조 의 원 리 가 된다.\n< 사 례 >\n& 국 가는 일정 소득 수준 이하인 사회적 약 자 의 교육 기 회 를\n확 대 하기 위해 상 속 세 율 과 비 례 적 소 비 세 윤 을 인 상 하여 교육\n예 산 을 증 대 하였다.\n< 보 기 〉\nㄱ . 국 가 가 개 인 의 권 리 를 침 해 하는 정 책 이므로 반 대 한다.\nㄴ . 사회적 우 연 성에 따른 불 평 등 을 완 화 하므로 지 지 한다.\nㄷ . 기 회 의 공 정 성 보다 결 과 의 평 등 을 지 향 하므로 지 지 한다.\n2. 구성원 간의 기본적 자 유 의 평 등 을 부 정 하므로 반 대 한다.\n잘 을 잘 을 갈 을\n060) ㄱ ㄴ (2) ㄱ ㅋㄷ (0) ㄴ ㄷ\n(0) ㄴ 그 (66) ㄷ 그",
+    "stem": "갑 , 을 이 < 사 례 > 속 쇼 국 가 의 정 책 에 대해 취할 적절한 입 장 을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 개 인 이 정당한 노 동 으로 취득한 소 득 에는 침 해 할 수 없는\n소 유 권 이 인 정 된다. 국 가 는 범 죄 로부터 시 민 을 보 호 하고\n계약 이 행 을 감 시 하는 최 소 국 가 의 역 할 을 담 당 해 야 한다.\n을: 개 인 들은 원초적 상 황 에서 합리적 선 택 을 통해 공 정 으로\n서 의 정 의 관 에 기초한 원 칙 들을 합 의 하 게 된다. 이 원칙\n들은 사회 기본 구 조 의 원 리 가 된다.\n< 사 례 >\n& 국 가는 일정 소득 수준 이하인 사회적 약 자 의 교육 기 회 를\n확 대 하기 위해 상 속 세 율 과 비 례 적 소 비 세 윤 을 인 상 하여 교육\n예 산 을 증 대 하였다.\n< 보 기 〉\nㄱ . 국 가 가 개 인 의 권 리 를 침 해 하는 정 책 이므로 반 대 한다.\nㄴ . 사회적 우 연 성에 따른 불 평 등 을 완 화 하므로 지 지 한다.\nㄷ . 기 회 의 공 정 성 보다 결 과 의 평 등 을 지 향 하므로 지 지 한다.\n2. 구성원 간의 기본적 자 유 의 평 등 을 부 정 하므로 반 대 한다.\n잘 을 잘 을 갈 을",
+    "choices": [
+      {
+        "number": 1,
+        "text": "060) ㄱ ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ ㅋㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ ㄷ"
+      },
+      {
+        "number": 4,
+        "text": "ㄴ 그"
+      },
+      {
+        "number": 5,
+        "text": "ㄷ 그"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.896,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:13+00:00",
+    "qa_flags": []
+  }
+}

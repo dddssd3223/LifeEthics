@@ -1,0 +1,79 @@
+{
+  "id": "2025_JUNE_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2025,
+    "exam_year": 2024,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_07_p121-140.pdf",
+    "split_pdf_page": 15,
+    "original_compilation_page": 135,
+    "question_number": 14,
+    "exam_key": "2025_JUNE_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      3076
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "ea31da1bd899351cf7afc1e4dc962fb3d57fb9de076c285511f11a8572ca5817"
+  },
+  "original": {
+    "question_image": "data/questions/images/2025_JUNE_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. ( 개 ) 의 사상가 갑 , 을, 병 의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때,\n&~10 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 고른 것은? [3 점 ]\n갑 : 시민 불 복 종 의 대 상 은 평 등 한 자 유 의 원 칙 에 대한\n심대한 위 반 이나 공정한 기회 균 등 의 원 칙 에 대한\n현저한 위 반 에 국 한 되어야 한다.\n을: 공 리 의 관 점 에서 시민 볼 복 종 이 중 단 시키려는 악의\n(가) 크 기 와 그것이 가 져 을 법과 민 주 주 의 에 대한 존 중 심의\n감소 가 능 성 을 저 울 질 해 보아야 한다.\n병 : 우 리 는 법 에 대한 존 경 심 보다는 먼저 정 의 에 대한\n존 경 심 을 가져야 한다. 법 이 독 단 에 치우쳐 있다면\n양 심 에 따라 저 항 해야 한다.\n사상가 갑 , 을, 병 의 범 레\n입 장 을 탐 구 한다. : 출발 조건\n< > : 판단 내용\n< 6 02 -0 너 르 - ㅡ 그 : 판단 방향\n! [ -: 사 상 가 의 입장\n(나) < 8 ~\n아니요\n예 예\n| 예 예\n< 보 기 >\nㄱ . &: 다수 의 사 를 반영한 법 은 시민 불복종 대 상 에서 제외\n되어야 하는가?\nㄴ . 8: 양 심 에서 비롯된 시 민 불 복 종 도 실패 가 능 성 이 크면 정 딩 성 을\n상 실 할 수 있는가?\nㄷ . 0: 법 에 대한 존 중 이 강한 민주 사 회 일수록 시민 불 복 종 이\n옹 호 될 가 등 성 이 은 가?\n2. 1): 시민 복 불 종 은 개인적 양 심 과 사회적 승 인 에 근 거 해야 하 는 기?\n0700 0976 6 9042 662",
+    "stem": "( 개 ) 의 사상가 갑 , 을, 병 의 입 장 을 (나) 그 림 으로 탐 구 하고자 할 때, &~10 에 들어갈 적절한 질 문 만을 < 보 기 > 에 서 고른 것은? [3 점 ]",
+    "passage": "갑 : 시민 불 복 종 의 대 상 은 평 등 한 자 유 의 원 칙 에 대한\n심대한 위 반 이나 공정한 기회 균 등 의 원 칙 에 대한\n현저한 위 반 에 국 한 되어야 한다.\n을: 공 리 의 관 점 에서 시민 볼 복 종 이 중 단 시키려는 악의\n(가) 크 기 와 그것이 가 져 을 법과 민 주 주 의 에 대한 존 중 심의\n감소 가 능 성 을 저 울 질 해 보아야 한다.\n병 : 우 리 는 법 에 대한 존 경 심 보다는 먼저 정 의 에 대한\n존 경 심 을 가져야 한다. 법 이 독 단 에 치우쳐 있다면\n양 심 에 따라 저 항 해야 한다.\n사상가 갑 , 을, 병 의 범 레\n입 장 을 탐 구 한다. : 출발 조건\n< > : 판단 내용\n< 6 02 -0 너 르 - ㅡ 그 : 판단 방향\n! [ -: 사 상 가 의 입장\n(나) < 8 ~\n아니요\n예 예\n| 예 예\n< 보 기 >\nㄱ . &: 다수 의 사 를 반영한 법 은 시민 불복종 대 상 에서 제외\n되어야 하는가?\nㄴ . 8: 양 심 에서 비롯된 시 민 불 복 종 도 실패 가 능 성 이 크면 정 딩 성 을\n상 실 할 수 있는가?\nㄷ . 0: 법 에 대한 존 중 이 강한 민주 사 회 일수록 시민 불 복 종 이\n옹 호 될 가 등 성 이 은 가?\n2. 1): 시민 복 불 종 은 개인적 양 심 과 사회적 승 인 에 근 거 해야 하 는 기?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "0700"
+      },
+      {
+        "number": 2,
+        "text": "0976"
+      },
+      {
+        "number": 3,
+        "text": "느 , 느"
+      },
+      {
+        "number": 4,
+        "text": "9042"
+      },
+      {
+        "number": 5,
+        "text": "드 , 르"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.857,
+    "review_required": true,
+    "warnings": [
+      "CHOICE3_TEXT_FROM_CELL_OCR",
+      "CHOICE5_TEXT_FROM_CELL_OCR",
+      "CHOICE_TEXT_UNRELIABLE choices=[1, 2, 4] (원문자 기호 등 OCR 불가, 이미지 확인)"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:horizontal_1rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T105004",
+    "extracted_at": "2026-09-24T10:55:36+00:00",
+    "qa_flags": []
+  }
+}

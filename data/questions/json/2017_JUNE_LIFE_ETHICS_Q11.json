@@ -1,0 +1,75 @@
+{
+  "id": "2017_JUNE_LIFE_ETHICS_Q11",
+  "source": {
+    "academic_year": 2017,
+    "exam_year": 2016,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 19,
+    "original_compilation_page": 39,
+    "question_number": 11,
+    "exam_key": "2017_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1592,
+      3140
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2017_JUNE_LIFE_ETHICS_Q11.png",
+    "raw_text": "11. ( 가 ) 를 주장한 사 상 가 가 ( 나 ) 의 상황 51~ ㅇ 894 에 대해 제 시 할\n주 장 으로 옮 지 않은 것은? [3 점 ]\n차 등 의 원 칙 은 、 그 의 ~ 에 따라서 각 자 에게 \"라는 구 절 을\n완 성 하려는 정 형 ( 잼 삐 ) 적 인 정 의 의 원 칙 이다. 그런데\n(가) | 고 정 된 정 형 적 원 칙 은 개 인 의 선 택 의 자 유 를 침 해 할 수\n밖에 없다. 따라서 비 정 형 적인 정 의 의 원 칙 에 입 각 한\n소유 권 리 론 만이 개 인 의 자 유 를 침 해 하지 않는다.\n81: 갑 은 정당한 노 동 으로 재화 @ 를 취 득 했다.\n68: 을 은 갑 에 게서 @ 를 자유롭게 양 도 받 았다.\n(나)\n63: 병 은 을 에게서 @ 를 강 제 적 으 로 빼 앗 았 다.\n>\n54: 정은 병 에게서 @ 를 자유롭게 양 도 받았다.\n* 화 살 표 ({)) 는 상 황 (6) 의 경 과 를 나타낸다.\n(2) 81 에 서 갑 은 @ 에 대한 소유 권 리 를 지닌다.\n(2) 519| 정 의 로 운 분배 상 황 이라면 62 도 그렇다.\n(3) 53 에 서 을 은 @ 에 대한 소유 권 리 를 지닌다.\n(4) 94 는 53 과 달리 정 의 로 운 분배 상 황 이다.\n(5) 94 에 서 정은 @ 에 대한 소유 권 리 가 없다.",
+    "stem": "( 가 ) 를 주장한 사 상 가 가 ( 나 ) 의 상황 51~ ㅇ 894 에 대해 제 시 할 주 장 으로 옮 지 않은 것은? [3 점 ]",
+    "passage": "차 등 의 원 칙 은 、 그 의 ~ 에 따라서 각 자 에게 \"라는 구 절 을\n완 성 하려는 정 형 ( 잼 삐 ) 적 인 정 의 의 원 칙 이다. 그런데\n(가) | 고 정 된 정 형 적 원 칙 은 개 인 의 선 택 의 자 유 를 침 해 할 수\n밖에 없다. 따라서 비 정 형 적인 정 의 의 원 칙 에 입 각 한\n소유 권 리 론 만이 개 인 의 자 유 를 침 해 하지 않는다.\n81: 갑 은 정당한 노 동 으로 재화 @ 를 취 득 했다.\n68: 을 은 갑 에 게서 @ 를 자유롭게 양 도 받 았다.\n(나)\n63: 병 은 을 에게서 @ 를 강 제 적 으 로 빼 앗 았 다.\n>\n54: 정은 병 에게서 @ 를 자유롭게 양 도 받았다.\n* 화 살 표 ({)) 는 상 황 (6) 의 경 과 를 나타낸다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "81 에 서 갑 은 @ 에 대한 소유 권 리 를 지닌다."
+      },
+      {
+        "number": 2,
+        "text": "519| 정 의 로 운 분배 상 황 이라면 62 도 그렇다."
+      },
+      {
+        "number": 3,
+        "text": "53 에 서 을 은 @ 에 대한 소유 권 리 를 지닌다."
+      },
+      {
+        "number": 4,
+        "text": "94 는 53 과 달리 정 의 로 운 분배 상 황 이다."
+      },
+      {
+        "number": 5,
+        "text": "94 에 서 정은 @ 에 대한 소유 권 리 가 없다."
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_lines=30"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.874,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:34:01+00:00",
+    "qa_flags": []
+  }
+}

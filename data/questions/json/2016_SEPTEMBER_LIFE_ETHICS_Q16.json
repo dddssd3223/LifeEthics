@@ -1,0 +1,73 @@
+{
+  "id": "2016_SEPTEMBER_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 12,
+    "original_compilation_page": 32,
+    "question_number": 16,
+    "exam_key": "2016_SEPTEMBER_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      497,
+      1592,
+      1703
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_SEPTEMBER_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. (가) 사 상 의 입 장 에서 ( 나 ) 의 에 대한 설 명 으로 가장 적절한\n것은?\n자 신 의 몸 을 답 고자 하면 먼저 자 신 의 마 음 을 바르게\n(가) | 한 다 [42]. 자 신 의 마 음 을 바르게 하고자 하면 먼저\n자 신 의 뜻 을 정 성 스럽게 한 다 [806#1.\n사 람 을 제대로 섬길 줄 모르면서 어떻게 귀 신 을 섬길 수\n(나) | 있으며, 삶 에 대해서도 아직 제대로 모르면서 어떻게\n51 | 에 대해 알 려 하는가?\n(0) 마땅히 애 도 해야 하는 일인 동시에 자 연 에 순 웅 하는 과 정 이다.\n(3) 자 신 의 업 () 에 의해 또 다른 삶 을 결 정 짓 는 윤 회 의 과 정 이다.\n(3) 사 계 절 의 운 행 과 같이 기 (%) 가 정 기 적 으로 순 환 하는 과 정 이다.\n(4) 고통 없는 삶 을 향 유 할 수 있는 다른 세 계 로 들어가는 과 정 이다.\n(5) 불 멸 의 영 혼 이 육 체 의 구 속 에서 벗어나 자 유 를 누리는 과 정 이다.",
+    "stem": "(가) 사 상 의 입 장 에서 ( 나 ) 의 에 대한 설 명 으로 가장 적절한 것은?",
+    "passage": "자 신 의 몸 을 답 고자 하면 먼저 자 신 의 마 음 을 바르게\n(가) | 한 다 [42]. 자 신 의 마 음 을 바르게 하고자 하면 먼저\n자 신 의 뜻 을 정 성 스럽게 한 다 [806#1.\n사 람 을 제대로 섬길 줄 모르면서 어떻게 귀 신 을 섬길 수\n(나) | 있으며, 삶 에 대해서도 아직 제대로 모르면서 어떻게\n51 | 에 대해 알 려 하는가?",
+    "choices": [
+      {
+        "number": 1,
+        "text": "마땅히 애 도 해야 하는 일인 동시에 자 연 에 순 웅 하는 과 정 이다."
+      },
+      {
+        "number": 2,
+        "text": "자 신 의 업 () 에 의해 또 다른 삶 을 결 정 짓 는 윤 회 의 과 정 이다."
+      },
+      {
+        "number": 3,
+        "text": "사 계 절 의 운 행 과 같이 기 (%) 가 정 기 적 으로 순 환 하는 과 정 이다."
+      },
+      {
+        "number": 4,
+        "text": "고통 없는 삶 을 향 유 할 수 있는 다른 세 계 로 들어가는 과 정 이다."
+      },
+      {
+        "number": 5,
+        "text": "불 멸 의 영 혼 이 육 체 의 구 속 에서 벗어나 자 유 를 누리는 과 정 이다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.9,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:45+00:00",
+    "qa_flags": []
+  }
+}

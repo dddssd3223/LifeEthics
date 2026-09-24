@@ -1,0 +1,73 @@
+{
+  "id": "2023_SEPTEMBER_LIFE_ETHICS_Q09",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 14,
+    "original_compilation_page": 114,
+    "question_number": 9,
+    "exam_key": "2023_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2514
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_SEPTEMBER_LIFE_ETHICS_Q09.png",
+    "raw_text": "9. 다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은?\n갑 ： 복제 배 아 는 주로 줄 기 세포 추 출 을 위해 인 공 적 으로 복 제 한\n배 아 입니다. 복제 배 아 에 서 추출한 줄 기 세 포 는 난치병\n치 료 에 도 움 을 줄 수 있습니다.\n을 : 줄 기 세 포가 난치병 치 료 에 도 움 을 줄 수 있지만, 줄 기 세포\n추 출 을 위해 배 아 를 복 제 해 서는 안 됩니다. 복제 배 아 는\n인 간 과 유 전 적 특 성 이 같아서 여 성 의 자 궁 에 착 상 하 면\n인 간 으로 성장할 수 있기 때 문 입니다.\n갑 ： 인 간 과 유 전 적 특 성 이 같은 복제 배 아 가 인 간 으 로 발 달 하 는\n연 속 선 상 에 있다는 점 은 인 정 합니다. 그러나 도 토 리 를 보고\n참 나 무 라고 말할 수 없는 것처럼 복제 배 아 를 보고 인간\n이라고 말할 수 는 없습니다.\n을 : 그렇지 않습니다. 복제 배 아 가 인 간 으로 발 달 하는 과 정 은\n연 속 적 이기 때문에 복제 배 아 와 인 간 을 구분할 수 있는\n명확한 시 점 이 존 재 하지 않습니다. 따라서 복제 배 아 는\n인 간 으로서의 지 위 를 지 닌 다 고 보아야 합니다.\n0) 복제 배 아 와 인 간 은 유 전 적 특 성 이 동 일 한 가?\n(0) 복제 배 아 는 특정 목 적 을 위해 만 들 어 지 는가?\n3) 줄 기 세 포 는 난치병 치 료 에 도 움 을 졸 수 있는가?\n0) 복제 배 아 와 인간 사 이 에는 발 달 의 연 속 성 이 존 재 하는가?\n(9) 복제 배 아 는 인 간 으 로서의 지 위 를 지 넌 다고 간 주 해 야 하는가?",
+    "stem": "다음 토 론 의 핵심 쟁 점 으로 가장 적절한 것은?",
+    "passage": "갑 ： 복제 배 아 는 주로 줄 기 세포 추 출 을 위해 인 공 적 으로 복 제 한\n배 아 입니다. 복제 배 아 에 서 추출한 줄 기 세 포 는 난치병\n치 료 에 도 움 을 줄 수 있습니다.\n을 : 줄 기 세 포가 난치병 치 료 에 도 움 을 줄 수 있지만, 줄 기 세포\n추 출 을 위해 배 아 를 복 제 해 서는 안 됩니다. 복제 배 아 는\n인 간 과 유 전 적 특 성 이 같아서 여 성 의 자 궁 에 착 상 하 면\n인 간 으로 성장할 수 있기 때 문 입니다.\n갑 ： 인 간 과 유 전 적 특 성 이 같은 복제 배 아 가 인 간 으 로 발 달 하 는\n연 속 선 상 에 있다는 점 은 인 정 합니다. 그러나 도 토 리 를 보고\n참 나 무 라고 말할 수 없는 것처럼 복제 배 아 를 보고 인간\n이라고 말할 수 는 없습니다.\n을 : 그렇지 않습니다. 복제 배 아 가 인 간 으로 발 달 하는 과 정 은\n연 속 적 이기 때문에 복제 배 아 와 인 간 을 구분할 수 있는\n명확한 시 점 이 존 재 하지 않습니다. 따라서 복제 배 아 는\n인 간 으로서의 지 위 를 지 닌 다 고 보아야 합니다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "복제 배 아 와 인 간 은 유 전 적 특 성 이 동 일 한 가?"
+      },
+      {
+        "number": 2,
+        "text": "복제 배 아 는 특정 목 적 을 위해 만 들 어 지 는가?"
+      },
+      {
+        "number": 3,
+        "text": "줄 기 세 포 는 난치병 치 료 에 도 움 을 졸 수 있는가?"
+      },
+      {
+        "number": 4,
+        "text": "복제 배 아 와 인간 사 이 에는 발 달 의 연 속 성 이 존 재 하는가?"
+      },
+      {
+        "number": 5,
+        "text": "복제 배 아 는 인 간 으 로서의 지 위 를 지 넌 다고 간 주 해 야 하는가?"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.92,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:02+00:00",
+    "qa_flags": []
+  }
+}

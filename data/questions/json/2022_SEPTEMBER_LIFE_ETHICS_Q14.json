@@ -1,0 +1,73 @@
+{
+  "id": "2022_SEPTEMBER_LIFE_ETHICS_Q14",
+  "source": {
+    "academic_year": 2022,
+    "exam_year": 2021,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 103,
+    "question_number": 14,
+    "exam_key": "2022_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      650,
+      3148,
+      2452
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2022_SEPTEMBER_LIFE_ETHICS_Q14.png",
+    "raw_text": "14. 에 들어갈 진 술 로 가장 적절한 것은? [3 점 ]\n독 일 의 통일 사 례 는 통 일 을 준 비 하는 우 리 에게 중요한 교 훈 을\n준다. 독 일 은 통일 전 많은 교 류 와 협 력 을 추진해 왔 음 에도\n불 구 하고, 통일 이후 구 동독 지역 주 민 들 과 구 서독 지역\n주 민 들 이 서 로 를 비 하 하고 무 시 하는 등 심각한 갈 등 을 겪었다.\n또한 사 회 ㆍ 문 화 적 인 이 질 성 을 줄이지 못한 상 황 에서 동 일 이\n되면서 통일 이 후 에 사 회 를 통 합 하는 데 막대한 비 용 을 지 불 해야\n했다. 이처럼 오랜 기간 서로 다른 이 념 과 체 제 에서 살아온\n사 람 들 이 서 로 에 대한 이 질 감 을 극 복 하고 내 적 인 통 합 을 이루는\n것은 단 기 간 에 달 성 할 수 있는 쉬운 문 제 가 아니다. 따라서\n우 리 는 모\n0 교 류 와 협 력 보다는 체 제 의 우 위 를 공고히 해야 한다.\n3 사회적 같 등 을 예 방 하기 위해 흡수 통 일 을 지 향 해야 한다.\n8 사회 ㆍ 문화적 통 합 을 이루기 위한 장기적 대 책 을 강 구 해야 한다.\n4 민 족 의 동 질 성 을 회 복 하기 위해 급 진 적 으로 통 일 을 이루어야 한다.\n5) 이념적 통 합 이 선 행 되지 않으면 통 일 을 위한 노 력 을 중 단 해야 한다.",
+    "stem": "에 들어갈 진 술 로 가장 적절한 것은? [3 점 ]",
+    "passage": "독 일 의 통일 사 례 는 통 일 을 준 비 하는 우 리 에게 중요한 교 훈 을\n준다. 독 일 은 통일 전 많은 교 류 와 협 력 을 추진해 왔 음 에도\n불 구 하고, 통일 이후 구 동독 지역 주 민 들 과 구 서독 지역\n주 민 들 이 서 로 를 비 하 하고 무 시 하는 등 심각한 갈 등 을 겪었다.\n또한 사 회 ㆍ 문 화 적 인 이 질 성 을 줄이지 못한 상 황 에서 동 일 이\n되면서 통일 이 후 에 사 회 를 통 합 하는 데 막대한 비 용 을 지 불 해야\n했다. 이처럼 오랜 기간 서로 다른 이 념 과 체 제 에서 살아온\n사 람 들 이 서 로 에 대한 이 질 감 을 극 복 하고 내 적 인 통 합 을 이루는\n것은 단 기 간 에 달 성 할 수 있는 쉬운 문 제 가 아니다. 따라서\n우 리 는 모",
+    "choices": [
+      {
+        "number": 1,
+        "text": "교 류 와 협 력 보다는 체 제 의 우 위 를 공고히 해야 한다."
+      },
+      {
+        "number": 2,
+        "text": "사회적 같 등 을 예 방 하기 위해 흡수 통 일 을 지 향 해야 한다."
+      },
+      {
+        "number": 3,
+        "text": "사회 ㆍ 문화적 통 합 을 이루기 위한 장기적 대 책 을 강 구 해야 한다."
+      },
+      {
+        "number": 4,
+        "text": "민 족 의 동 질 성 을 회 복 하기 위해 급 진 적 으로 통 일 을 이루어야 한다."
+      },
+      {
+        "number": 5,
+        "text": "이념적 통 합 이 선 행 되지 않으면 통 일 을 위한 노 력 을 중 단 해야 한다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.906,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:36:35+00:00",
+    "qa_flags": []
+  }
+}

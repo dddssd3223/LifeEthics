@@ -1,0 +1,75 @@
+{
+  "id": "2020_CSAT_LIFE_ETHICS_Q16",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_05_p081-100.pdf",
+    "split_pdf_page": 4,
+    "original_compilation_page": 84,
+    "question_number": 16,
+    "exam_key": "2020_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      650,
+      1740,
+      3170
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "e541734ded79974934f614e2ad1f4f68a478935bce395355963fe5a9e44fa9c6"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_CSAT_LIFE_ETHICS_Q16.png",
+    "raw_text": "16. ( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는\n비 판 을 (나) 그 림 으로 표현할 때, &~『 에 해 당 하는 내 용 으로 가장\n적절한 것은? [3 점 ]\n갑 : 도덕적 행위 능 력 과 무 관 하게 인 간 과 일부 동 물 은\n도덕적 권 리 를 갖는다. 그들 각 자 는 고 유 한 삶 을\n살아가는 삶 의 주 체 이다.\n을 : 도덕적 행위 능 력 이 없어도 생 명 체 라면 존 중 해야 한다.\n( 가 )| 모든 생 명 체 는 목 적 론적 삶 의 중 심 이며 내재적 가 치 를\n지닌다,\n병 : 도덕적 행위 능 력 이 있는 인 간 은 자 연 을 파 괴 하는\n행 위 를 삼가야 한다. 그러한 파괴적 성 향 은 인 간 의\n도 덕 성 에 기 여 하는 감 정 을 약 화 시킨다.\n< 범 례 >\n- - ㅡ : 비 판 의 방향\n스 ~ : 비 판 의 내용\n(나) % 다 < 예 시 >\n년\n. @-@\n~ 스는 갑 이 을 에게 제 기 할\nㅜ ” 수 있는 비 판 임 .\n20 쇼 : 개체 각 각 이 지닌 고 유 한 선 은 보 호 되고 증 진 되어야 함 을 긴 과 힌다\n21 8: 개 체 에 대한 도덕적 존 중 은 내재적 가 치 에 근 거 함 을 간 과 한다.\n) 10: 꼬 덕 적 행위 능 력 이 없는 존 재 도 모두 내재적 가 치 를 지 님 을 긴 과 힌다\n40 1 : 어떤 존 재 를 목적 그 자 체 로 보는 근 거 가 이 성 이 야 님 을 간 과 한다\n51 6. 6: 도덕적 행위 주 체 들의 도덕적 지 위 가 서로 평 등 함 을 긴 과 한 다",
+    "stem": "( 가 ) 의 갑 , 을, 병 사 상 가 들의 입 장 에서 서 로 에게 제 기 할 수 있는 비 판 을 (나) 그 림 으로 표현할 때, &~『 에 해 당 하는 내 용 으로 가장 적절한 것은? [3 점 ]",
+    "passage": "갑 : 도덕적 행위 능 력 과 무 관 하게 인 간 과 일부 동 물 은\n도덕적 권 리 를 갖는다. 그들 각 자 는 고 유 한 삶 을\n살아가는 삶 의 주 체 이다.\n을 : 도덕적 행위 능 력 이 없어도 생 명 체 라면 존 중 해야 한다.\n( 가 )| 모든 생 명 체 는 목 적 론적 삶 의 중 심 이며 내재적 가 치 를\n지닌다,\n병 : 도덕적 행위 능 력 이 있는 인 간 은 자 연 을 파 괴 하는\n행 위 를 삼가야 한다. 그러한 파괴적 성 향 은 인 간 의\n도 덕 성 에 기 여 하는 감 정 을 약 화 시킨다.\n< 범 례 >\n- - ㅡ : 비 판 의 방향\n스 ~ : 비 판 의 내용\n(나) % 다 < 예 시 >\n년\n. @-@\n~ 스는 갑 이 을 에게 제 기 할\nㅜ ” 수 있는 비 판 임 .",
+    "choices": [
+      {
+        "number": 1,
+        "text": "쇼 : 개체 각 각 이 지닌 고 유 한 선 은 보 호 되고 증 진 되어야 함 을 긴 과 힌다"
+      },
+      {
+        "number": 2,
+        "text": "8: 개 체 에 대한 도덕적 존 중 은 내재적 가 치 에 근 거 함 을 간 과 한다."
+      },
+      {
+        "number": 3,
+        "text": "10: 꼬 덕 적 행위 능 력 이 없는 존 재 도 모두 내재적 가 치 를 지 님 을 긴 과 힌다"
+      },
+      {
+        "number": 4,
+        "text": "1 : 어떤 존 재 를 목적 그 자 체 로 보는 근 거 가 이 성 이 야 님 을 간 과 한다"
+      },
+      {
+        "number": 5,
+        "text": "6. 6: 도덕적 행위 주 체 들의 도덕적 지 위 가 서로 평 등 함 을 긴 과 한 다"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "raster_image"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.849,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:48+00:00",
+    "qa_flags": []
+  }
+}

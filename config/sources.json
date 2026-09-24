@@ -1,0 +1,25 @@
+{
+  "_comment": "원천 합본(compilation) 정의. 과목 추가 시 subjects 와 compilations 에 항목만 추가한다.",
+  "subjects": {
+    "LIFE_ETHICS":        {"name_ko": "생활과 윤리",  "header_keywords": ["생활과 윤리", "생활과윤리"], "expected_questions_per_exam": 20},
+    "ETHICS_THOUGHT":     {"name_ko": "윤리와 사상",  "header_keywords": ["윤리와 사상", "윤리와사상"], "expected_questions_per_exam": 20},
+    "SOCIOCULTURE":       {"name_ko": "사회·문화",    "header_keywords": ["사회·문화", "사회문화", "사회 문화"], "expected_questions_per_exam": 20},
+    "POLITICS_LAW":       {"name_ko": "정치와 법",    "header_keywords": ["정치와 법", "정치와법"], "expected_questions_per_exam": 20},
+    "ECONOMICS":          {"name_ko": "경제",         "header_keywords": ["경제"], "expected_questions_per_exam": 20},
+    "KOREAN_GEOGRAPHY":   {"name_ko": "한국지리",     "header_keywords": ["한국지리", "한국 지리"], "expected_questions_per_exam": 20},
+    "WORLD_GEOGRAPHY":    {"name_ko": "세계지리",     "header_keywords": ["세계지리", "세계 지리"], "expected_questions_per_exam": 20},
+    "WORLD_HISTORY":      {"name_ko": "세계사",       "header_keywords": ["세계사"], "expected_questions_per_exam": 20},
+    "EAST_ASIAN_HISTORY": {"name_ko": "동아시아사",   "header_keywords": ["동아시아사"], "expected_questions_per_exam": 20}
+  },
+  "compilations": [
+    {
+      "key": "LIFE_ETHICS_ALL",
+      "subject": "LIFE_ETHICS",
+      "name": "생윤기출모음(첫해~26-6까지)",
+      "raw_dir": "data/raw/LIFE_ETHICS",
+      "split_glob": "*.pdf",
+      "split_name_regex": "_(?P<index>\\d+)_p(?P<start>\\d+)-(?P<end>\\d+)\\.pdf$",
+      "expected_total_pages": 160
+    }
+  ]
+}

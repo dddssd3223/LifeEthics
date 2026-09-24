@@ -1,0 +1,73 @@
+{
+  "id": "2020_JUNE_LIFE_ETHICS_Q01",
+  "source": {
+    "academic_year": 2020,
+    "exam_year": 2019,
+    "exam_type": "JUNE",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_04_p061-080.pdf",
+    "split_pdf_page": 13,
+    "original_compilation_page": 73,
+    "question_number": 1,
+    "exam_key": "2020_JUNE_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      360,
+      1057,
+      1742,
+      2238
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "aa7ab10d2fac0718b61e4980c748d355329b115cfc60f694882cb5afcbee696a"
+  },
+  "original": {
+    "question_image": "data/questions/images/2020_JUNE_LIFE_ETHICS_Q01.png",
+    "raw_text": "ㆍ (가), ( 나 ) 의 입 장 으로 가장 적절한 것은?\n(가) 윤 리 학 은 의 무 론 , 공리주의, 덕 윤 리 와 같이 인 간 이 준수\n해야 할 근본적인 도덕 원 리 에 대한 이론적 탐 구 를 주요한\n과 제 로 삼아야 한다.\n(나) 윤 리 학 은 생명 윤리, 환경 윤리, 정보 윤 리 와 같이 시 대 의\n변 화 에 따라 다양한 영 역 에서 나타나는 윤리 문제 해 결 에\n우 선 적 으로 관 심 을 두고 연 구 해야 한다.\n0 (가): 유 리 학 은 도 더 관 습 에 대한 객관적 기 술 을 주된 목 적 으로 힌다.\n2 (가): 윤 리 학 의 학문적 성립 가 능 성 의 탐 구 가 유 리 학의 핵심 목 규 이다.\n@ (나): 유 리 적 문 제 를 해 결 하기 위해서는 학 제 적 연 구 가 필 요 하다.\n4) (나: 유 리 적 문 제 의 해 결 은 가 치 를 분 별 하는 과 정 과 무 관 하다.\n8 (가), (나) : 유 리 학 은 도덕 언 어 의 의미 분 석 을 중점 과 제 로 삼는다.",
+    "stem": "ㆍ (가), ( 나 ) 의 입 장 으로 가장 적절한 것은?",
+    "passage": "(가) 윤 리 학 은 의 무 론 , 공리주의, 덕 윤 리 와 같이 인 간 이 준수\n해야 할 근본적인 도덕 원 리 에 대한 이론적 탐 구 를 주요한\n과 제 로 삼아야 한다.\n(나) 윤 리 학 은 생명 윤리, 환경 윤리, 정보 윤 리 와 같이 시 대 의\n변 화 에 따라 다양한 영 역 에서 나타나는 윤리 문제 해 결 에\n우 선 적 으로 관 심 을 두고 연 구 해야 한다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "(가): 유 리 학 은 도 더 관 습 에 대한 객관적 기 술 을 주된 목 적 으로 힌다."
+      },
+      {
+        "number": 2,
+        "text": "(가): 윤 리 학 의 학문적 성립 가 능 성 의 탐 구 가 유 리 학의 핵심 목 규 이다."
+      },
+      {
+        "number": 3,
+        "text": "(나): 유 리 적 문 제 를 해 결 하기 위해서는 학 제 적 연 구 가 필 요 하다."
+      },
+      {
+        "number": 4,
+        "text": "(나: 유 리 적 문 제 의 해 결 은 가 치 를 분 별 하는 과 정 과 무 관 하다."
+      },
+      {
+        "number": 5,
+        "text": "(가), (나) : 유 리 학 은 도덕 언 어 의 의미 분 석 을 중점 과 제 로 삼는다."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.904,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:35:23+00:00",
+    "qa_flags": []
+  }
+}

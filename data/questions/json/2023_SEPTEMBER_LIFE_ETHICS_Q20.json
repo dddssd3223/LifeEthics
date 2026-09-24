@@ -1,0 +1,75 @@
+{
+  "id": "2023_SEPTEMBER_LIFE_ETHICS_Q20",
+  "source": {
+    "academic_year": 2023,
+    "exam_year": 2022,
+    "exam_type": "SEPTEMBER",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_06_p101-120.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 116,
+    "question_number": 20,
+    "exam_key": "2023_SEPTEMBER_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1764,
+      2667,
+      3148,
+      4181
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "1c48a9fb2b0827bf93c061194170731bc718a9eaefd409cc92fc9792fbf65024"
+  },
+  "original": {
+    "question_image": "data/questions/images/2023_SEPTEMBER_LIFE_ETHICS_Q20.png",
+    "raw_text": "20. ( 가 ) 를 주장한 고대 서양 사 상 가 의 입 장 에서 볼 때, ( 나 ) 의 (에\n들어갈 진 술 로 가장 적절한 것은? [3 점 ]\n예 술 가 는 사 물 을 꼬 방 할 수 있을 뿐 이데아 자 체 를 만들\n수 는 없네. 그래도 예 술 가 의 훌륭한 작 품 은 영 혼 의 교 육 에\n도 움 을 주네. 이때 음악적 수 련 이 가장 가 치 가 있네.\n( 가 )| 왜냐하면 러 듬 과 화 음 은 영혼 안에 들어가 우 아 함 을 심어\n주기 때 문 이 네 . 그 러 하 니 작품 속에 무 절 제 와 야 비 함 을\n표 현 하지 못하게 해야 하고, 이를 따르지 않는 예 술 가 를\n추 방 해야 하네.\n제자 : 예 술 이 인 간 의 삶 속 에 서 의 미 가 있기 위해 예 술 가 는\n(나) 어떤 노 력 을 해야 합니까?\n스승: 예 술 가 는 배\n0) 예 술 을 위한 예술 활 동 에 전 념 해 야 하네.\n(2) 국 가 가 예 술 에 개 입 하 는 것을 막아야 하네.\n(3) 사 람 의 선한 성 품 을 작품 속에 표 현 해 야 하네.\n@) 아 름 답 거나 추한 모 습 을 사 실 적 으로 드 러 내 야 하네.\n6 사 물 이 나누어 가지는 아 름 다 움 의 이 데 아 를 창 조 해 야 하네.",
+    "stem": "( 가 ) 를 주장한 고대 서양 사 상 가 의 입 장 에서 볼 때, ( 나 ) 의 (에 들어갈 진 술 로 가장 적절한 것은? [3 점 ]",
+    "passage": "예 술 가 는 사 물 을 꼬 방 할 수 있을 뿐 이데아 자 체 를 만들\n수 는 없네. 그래도 예 술 가 의 훌륭한 작 품 은 영 혼 의 교 육 에\n도 움 을 주네. 이때 음악적 수 련 이 가장 가 치 가 있네.\n( 가 )| 왜냐하면 러 듬 과 화 음 은 영혼 안에 들어가 우 아 함 을 심어\n주기 때 문 이 네 . 그 러 하 니 작품 속에 무 절 제 와 야 비 함 을\n표 현 하지 못하게 해야 하고, 이를 따르지 않는 예 술 가 를\n추 방 해야 하네.\n제자 : 예 술 이 인 간 의 삶 속 에 서 의 미 가 있기 위해 예 술 가 는\n(나) 어떤 노 력 을 해야 합니까?\n스승: 예 술 가 는 배",
+    "choices": [
+      {
+        "number": 1,
+        "text": "예 술 을 위한 예술 활 동 에 전 념 해 야 하네."
+      },
+      {
+        "number": 2,
+        "text": "국 가 가 예 술 에 개 입 하 는 것을 막아야 하네."
+      },
+      {
+        "number": 3,
+        "text": "사 람 의 선한 성 품 을 작품 속에 표 현 해 야 하네."
+      },
+      {
+        "number": 4,
+        "text": "아 름 답 거나 추한 모 습 을 사 실 적 으로 드 러 내 야 하네."
+      },
+      {
+        "number": 5,
+        "text": "사 물 이 나누어 가지는 아 름 다 움 의 이 데 아 를 창 조 해 야 하네."
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.911,
+    "review_required": false,
+    "warnings": [
+      "TRAILING_NOTICE_BOX_EXCLUDED"
+    ],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:shift_0x1F",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:37:07+00:00",
+    "qa_flags": []
+  }
+}

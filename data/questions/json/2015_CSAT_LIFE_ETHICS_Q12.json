@@ -1,0 +1,73 @@
+{
+  "id": "2015_CSAT_LIFE_ETHICS_Q12",
+  "source": {
+    "academic_year": 2015,
+    "exam_year": 2014,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 3,
+    "original_compilation_page": 23,
+    "question_number": 12,
+    "exam_key": "2015_CSAT_LIFE_ETHICS",
+    "column": "L",
+    "bbox_px": [
+      213,
+      1708,
+      1593,
+      3049
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2015_CSAT_LIFE_ETHICS_Q12.png",
+    "raw_text": "12. 에 들어갈 내 용 으로 가장 적절한 것은?\n예 술 의 사 명 은 생 명 에 대한 경건한 마음, 이 웃 에 대한 사 랑 의\n마음 등 을 모든 사 람 의 자연스러운 감 정 이 되도록 함으로써,\n인 간 의 최고 목 적 으로 간 주 되는 사 랑 의 세 계 를 건 설 하는\n데 기 여 하는 것이다. 그런데 어떤 작 가 는 “ 예 술 은 예술 안에서\n완 벽 함 을 추 구 할 뿐 , 예술 밖에서 완 벽 함 을 찾 지 는 않는다.\n왜냐하면 예 술 의 눈 은 아름답고 불 멸 하는 것에 고 정 되어야\n하기 때 문 이 다 .\" 라 고 주 장 한 다. 나는 이 작 가 의 견 해 가\n| 에 고 생 각 한 다.\n(0) 예 술 은 도덕적 평 가 의 대 상 이 되어야 함 을 강 조 하고 있다\n(3) 예 술 은 예술 그 자 체 를 목 적 으로 삼아야 함 을 간 과 하 고 있다\n(8) 예 술 은 감 정 을 순 화 하여 인격 함 양 을 도와야 함 을 간 과 하고 있다\n(4) 예 술 과 도 덕 이 상호 의존적 관 계 를 맺 어 야 함 을 강 조 하고 있다\n(5) 예 술 이 미적 가 치 를 생 산 하 는 활 동 이어야 함 을 간 과 하 고 있다",
+    "stem": "에 들어갈 내 용 으로 가장 적절한 것은?",
+    "passage": "예 술 의 사 명 은 생 명 에 대한 경건한 마음, 이 웃 에 대한 사 랑 의\n마음 등 을 모든 사 람 의 자연스러운 감 정 이 되도록 함으로써,\n인 간 의 최고 목 적 으로 간 주 되는 사 랑 의 세 계 를 건 설 하는\n데 기 여 하는 것이다. 그런데 어떤 작 가 는 “ 예 술 은 예술 안에서\n완 벽 함 을 추 구 할 뿐 , 예술 밖에서 완 벽 함 을 찾 지 는 않는다.\n왜냐하면 예 술 의 눈 은 아름답고 불 멸 하는 것에 고 정 되어야\n하기 때 문 이 다 .\" 라 고 주 장 한 다. 나는 이 작 가 의 견 해 가\n| 에 고 생 각 한 다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "예 술 은 도덕적 평 가 의 대 상 이 되어야 함 을 강 조 하고 있다"
+      },
+      {
+        "number": 2,
+        "text": "예 술 은 예술 그 자 체 를 목 적 으로 삼아야 함 을 간 과 하 고 있다"
+      },
+      {
+        "number": 3,
+        "text": "예 술 은 감 정 을 순 화 하여 인격 함 양 을 도와야 함 을 간 과 하고 있다"
+      },
+      {
+        "number": 4,
+        "text": "예 술 과 도 덕 이 상호 의존적 관 계 를 맺 어 야 함 을 강 조 하고 있다"
+      },
+      {
+        "number": 5,
+        "text": "예 술 이 미적 가 치 를 생 산 하 는 활 동 이어야 함 을 간 과 하 고 있다"
+      }
+    ],
+    "has_visual_material": false,
+    "visual_material_evidence": [],
+    "points": null
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.924,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:vertical",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:19+00:00",
+    "qa_flags": []
+  }
+}

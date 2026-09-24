@@ -1,0 +1,76 @@
+{
+  "id": "2016_CSAT_LIFE_ETHICS_Q19",
+  "source": {
+    "academic_year": 2016,
+    "exam_year": 2015,
+    "exam_type": "CSAT",
+    "subject": "LIFE_ETHICS",
+    "original_compilation": "생윤기출모음(첫해~26-6까지)",
+    "split_pdf": "생윤기출_02_p021-040.pdf",
+    "split_pdf_page": 16,
+    "original_compilation_page": 36,
+    "question_number": 19,
+    "exam_key": "2016_CSAT_LIFE_ETHICS",
+    "column": "R",
+    "bbox_px": [
+      1763,
+      658,
+      3145,
+      2596
+    ],
+    "render_dpi": 300,
+    "split_pdf_sha256": "b4ee5de69a13f5dbf17c911ce63247ca16a696936f9038365ba175bddd9aa946"
+  },
+  "original": {
+    "question_image": "data/questions/images/2016_CSAT_LIFE_ETHICS_Q19.png",
+    "raw_text": "19. ( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때,\n&~0 에 해 당 하 는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른\n것은? [3 점 ]\n갑 : 살 인 자 는 누구든 사 형 에 처 해 지지 않으면 안 된다,\n이것은 정 언 명 령 이자 사 법 퀸 의 이 념 으로서 정 의 가\n| . 선 혐 적 으로 근 거 된 법 칙 들 에 따라 의 욕 하는 바이다.\n을: 형 벌 은 최대 행 목 의 원 칙 에 따라 부 과 해야 한다,\n형 벌 은 범 법 자 에게는 교 정 과 무 력 화 로, 다른 사 람 에게는\n본 보 기 로 작 용 하여 위법 행 위 를 방 지 한다.\n범 례\n스 : 갑 만의 입장\n(나) 8: 갑 , 을 의 공통 입장\n(0: 을 만의 입장\n(보기 >\nㄱ . 4: 사 형 은 살 인 범 을 인격적 존 재 로 존 중 하는 것이다.\nㄴ . 8: 형 벌 은 보복 외의 다른 목 적 을 위해 사 용 되 면 안 된다.\nㄷ . (: 형 벌 의 부 과 는 공 리 성에 근 거 하여 결 정 되어야 한다.\n2. (: 사 형 은 범죄 예방 효 과 가 있기 때문에 그 자 체 로 선 이다.\n0) ㄱ , ㄴ (2) ㄱ , ㄷ (3) ㄴ , 른\n(0) ㄱ , ㄷ , 2 (66) ㄴ , ㄷ , 2",
+    "stem": "( 가 ) 의 갑 , 을 사 상 가 들의 입 장 을 (나) 그 림 으로 표현할 때, &~0 에 해 당 하 는 적절한 진 술 만을 < 보 기 > 에 서 있는 대로 고른 것은? [3 점 ]",
+    "passage": "갑 : 살 인 자 는 누구든 사 형 에 처 해 지지 않으면 안 된다,\n이것은 정 언 명 령 이자 사 법 퀸 의 이 념 으로서 정 의 가\n| . 선 혐 적 으로 근 거 된 법 칙 들 에 따라 의 욕 하는 바이다.\n을: 형 벌 은 최대 행 목 의 원 칙 에 따라 부 과 해야 한다,\n형 벌 은 범 법 자 에게는 교 정 과 무 력 화 로, 다른 사 람 에게는\n본 보 기 로 작 용 하여 위법 행 위 를 방 지 한다.\n범 례\n스 : 갑 만의 입장\n(나) 8: 갑 , 을 의 공통 입장\n(0: 을 만의 입장\n(보기 >\nㄱ . 4: 사 형 은 살 인 범 을 인격적 존 재 로 존 중 하는 것이다.\nㄴ . 8: 형 벌 은 보복 외의 다른 목 적 을 위해 사 용 되 면 안 된다.\nㄷ . (: 형 벌 의 부 과 는 공 리 성에 근 거 하여 결 정 되어야 한다.\n2. (: 사 형 은 범죄 예방 효 과 가 있기 때문에 그 자 체 로 선 이다.",
+    "choices": [
+      {
+        "number": 1,
+        "text": "ㄱ , ㄴ"
+      },
+      {
+        "number": 2,
+        "text": "ㄱ , ㄷ"
+      },
+      {
+        "number": 3,
+        "text": "ㄴ , 른"
+      },
+      {
+        "number": 4,
+        "text": "ㄱ , ㄷ , 2"
+      },
+      {
+        "number": 5,
+        "text": "ㄴ , ㄷ , 2"
+      }
+    ],
+    "has_visual_material": true,
+    "visual_material_evidence": [
+      "vector_curves=20",
+      "vector_lines=339"
+    ],
+    "points": 3
+  },
+  "answer": {
+    "value": null,
+    "source": null,
+    "verified": false
+  },
+  "extraction": {
+    "confidence": 0.869,
+    "review_required": false,
+    "warnings": [],
+    "text_source": "tesseract_ocr_kor (PDF embedded text 는 폰트 인코딩 손상으로 한글 복원 불가)",
+    "question_number_source": "embedded:identity",
+    "choice_method": "ring_markers:horizontal_2rows",
+    "choice_numbering": "선택지 번호는 표지(①~⑤) 위치의 읽기 순서 기준",
+    "pipeline_version": "1.0.0",
+    "run_id": "20260924T103227",
+    "extracted_at": "2026-09-24T10:33:56+00:00",
+    "qa_flags": []
+  }
+}
